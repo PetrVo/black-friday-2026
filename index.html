@@ -81,7 +81,8 @@ a.shop { color: var(--link); text-decoration: none; font-weight: 600; word-break
 a.shop:hover, a.alt:hover { text-decoration: underline; }
 .alts { margin-top: 6px; display: flex; flex-direction: column; gap: 2px; }
 a.alt { color: var(--link); text-decoration: none; font-size: 12px; word-break: break-word; }
-.src { display: inline-block; font-size: 11px; font-weight: 600; border-radius: 5px; padding: 1px 6px; margin-top: 4px; }
+.src { display: inline-block; font-size: 11px; font-weight: 600; border-radius: 5px; padding: 1px 6px; margin-top: 4px; text-decoration: none; }
+a.src:hover { text-decoration: underline; }
 .src-redakce { color: var(--accent); background: var(--accent-soft); }
 .src-diskuze { color: var(--muted); background: var(--surface-2); }
 .ended { display: inline-block; font-size: 11px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); background: var(--surface-2); border-radius: 5px; padding: 1px 6px; margin-left: 6px; vertical-align: 2px; }
@@ -90,7 +91,9 @@ tr.expired .prod { text-decoration: line-through; text-decoration-thickness: 1px
 .toggle { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); cursor: pointer; white-space: nowrap; }
 .toggle input { accent-color: var(--text); width: 16px; height: 16px; margin: 0; }
 .empty { text-align: center; color: var(--muted); padding: 48px 16px; background: var(--surface); border: 1px dashed var(--line); border-radius: 12px; }
-footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
+footer { color: var(--muted); font-size: 13px; padding: 20px 16px 40px; border-top: 1px solid var(--line); }
+footer p { margin: 0 0 8px; max-width: 760px; }
+footer strong { color: var(--text); }
 footer a { color: inherit; }
 
 @media (max-width: 900px) {
@@ -142,8 +145,16 @@ footer a { color: inherit; }
 </main>
 
 <footer class="wrap">
-  Data se automaticky přebírají z <a id="srcA" href="#">článku redakce</a> a z komentářů čtenářů v <a id="srcF" href="#">diskuzi na Živě.cz</a>
-  a aktualizují se každou hodinu. Kategorie a slevy určuje jednoduchá heuristika – před nákupem cenu ověřte v e-shopu.
+  <p><strong>Neoficiální přehled.</strong> Tato stránka není provozována vydavatelem ani redakcí Živě.cz a není s nimi nijak spojena.</p>
+  <p><strong>Zdroj:</strong> tipy redakce z článku <a id="srcA" href="#" target="_blank" rel="noopener"><em>Aktualizovaný přehled slev na Black Friday 2026</em></a>
+    (Živě.cz, autor: Hlídač slev) a příspěvky čtenářů z <a id="srcF" href="#" target="_blank" rel="noopener">diskuze pod tímto článkem</a>.
+    U každé položky je uveden odkaz na původní zdroj. Veškerá práva k textům a výběru tipů náleží jejich autorům a vydavateli Živě.cz.</p>
+  <p>Údaje se přebírají automaticky jednou za hodinu a mohou být neaktuální nebo nepřesné; kategorie a slevy určuje jednoduchá heuristika.
+    Cenu, dostupnost a podmínky vždy ověřte u prodejce. Stránka nezprostředkovává prodej a nezodpovídá za nabídky e-shopů.</p>
+  <p>Jste-li držitelem práv k zobrazenému obsahu a nesouhlasíte s jeho užitím, napište prosím na
+    <a href="mailto:petr@vostry.eu">petr@vostry.eu</a> nebo založte
+    <a href="https://github.com/PetrVo/black-friday-2026/issues" target="_blank" rel="noopener">issue na GitHubu</a>.
+    Obsah neprodleně odstraníme.</p>
 </footer>
 
 <script>
@@ -221,7 +232,9 @@ const DATA = {"updated":"2026-11-11T12:35:55.780Z","comments":178,"tips":119,"so
     const dayAgo = Date.now() - 24 * 3600 * 1000;
     $('list').innerHTML = '<table><thead><tr><th>Kategorie</th><th>Výrobek</th><th>Popis</th><th>Sleva</th><th>Odkaz na e-shop</th></tr></thead><tbody>' +
       list.map(d => '<tr' + (d.expired ? ' class="expired"' : '') + '>' +
-        '<td class="cat">' + esc(d.category) + '<br><span class="src src-' + srcOf(d) + '">' + (srcOf(d) === 'redakce' ? 'Redakce' : 'Diskuze') + '</span></td>' +
+        '<td class="cat">' + esc(d.category) + '<br><a class="src src-' + srcOf(d) + '" target="_blank" rel="noopener" title="Původní zdroj na Živě.cz" href="' +
+          esc(srcOf(d) === 'redakce' ? sources.redakce : sources.diskuze + '#ITEM_' + d.id) + '">' +
+          (srcOf(d) === 'redakce' ? 'Redakce Živě ↗' : 'Diskuze Živě ↗') + '</a></td>' +
         '<td class="prod">' + esc(d.product) +
           (d.expired ? '<span class="ended">skončilo</span>' : (d._t && d._t > dayAgo ? '<span class="new">nové</span>' : '')) + '</td>' +
         '<td class="desc"><div class="clamp">' + esc(d.text).replace(/\n\n/g, '<br><br>') + '</div>' +

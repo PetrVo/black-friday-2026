@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T16:22:13.563Z",
- "comments": 182,
- "tips": 119,
+ "updated": "2026-11-11T17:27:28.899Z",
+ "comments": 184,
+ "tips": 117,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -19,7 +19,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 103
+   "id": 101
   },
   {
    "source": "redakce",
@@ -33,7 +33,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": false,
-   "id": 81
+   "id": 80
   },
   {
    "source": "redakce",
@@ -75,7 +75,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 107
+   "id": 105
   },
   {
    "source": "redakce",
@@ -89,7 +89,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 104
+   "id": 102
   },
   {
    "source": "redakce",
@@ -103,7 +103,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 99
+   "id": 97
   },
   {
    "source": "redakce",
@@ -117,7 +117,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 88
+   "id": 86
   },
   {
    "source": "redakce",
@@ -294,20 +294,6 @@
    "id": 13
   },
   {
-   "source": "redakce",
-   "category": "Monitory",
-   "product": "Rychlý QHD monitor za hubičku",
-   "text": "Mall nabízí 27\" prohnutý QHD monitor Samsung Odyssey G5 v akci za 2318 Kč , jinde stojí přes 3100 Kč. Používá kontrastní panel typu VA, který bude slušet filmům a hrám. Frekvence jen 165 Hz, monitor má 1ms odezvu a dva obrazové vstupy. Běžně za tuto cenu bývají v akcích jen základní 60Hz monitory.",
-   "author": "Hlídač slev",
-   "date": "6. 11. 2026 17:45",
-   "discount": "2318 Kč",
-   "url": "https://monitory.heureka.cz/samsung-odyssey-g5-s27cg554eu/",
-   "host": "monitory.heureka.cz",
-   "extra": [],
-   "expired": true,
-   "id": 84
-  },
-  {
    "source": "diskuze",
    "category": "Nabíječky, kabely a příslušenství",
    "product": "Quad Lock Europe®",
@@ -333,7 +319,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 116
+   "id": 114
   },
   {
    "source": "redakce",
@@ -347,7 +333,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 108
+   "id": 106
   },
   {
    "source": "redakce",
@@ -367,7 +353,7 @@
     }
    ],
    "expired": false,
-   "id": 102
+   "id": 100
   },
   {
    "source": "redakce",
@@ -381,7 +367,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 92
+   "id": 90
   },
   {
    "source": "redakce",
@@ -395,7 +381,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 89
+   "id": 87
   },
   {
    "source": "redakce",
@@ -409,7 +395,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 85
+   "id": 83
   },
   {
    "source": "redakce",
@@ -507,7 +493,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 115
+   "id": 113
   },
   {
    "source": "redakce",
@@ -521,7 +507,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 110
+   "id": 108
   },
   {
    "source": "redakce",
@@ -744,7 +730,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 111
+   "id": 109
   },
   {
    "source": "redakce",
@@ -758,7 +744,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 96
+   "id": 94
   },
   {
    "source": "redakce",
@@ -772,7 +758,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 94
+   "id": 92
   },
   {
    "source": "redakce",
@@ -786,7 +772,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 82
+   "id": 81
   },
   {
    "source": "redakce",
@@ -848,7 +834,7 @@
    "source": "redakce",
    "category": "Příslušenství k PC",
    "product": "Rychlé 1TB externí SSD",
-   "text": "Samsung T9 Portable SSD s kapacitou 1 TB zlevnilo v T.S.Bohemii a Planeu na 3999 Kč , jinde stojí i pět tisíc. Když loni přišlo na trh, bylo za tři tisíce, ale v kontextu aktuálního zdražování jde o dost výhodnou nabídku. Řada T9 má odolnější tělo a vyšší rychlost čtení zápisu a čtení (až 2 GB/s v obou směrech). Potřebujete k tomu však USB 3.2 Gen 2×2 (20 Gb/s). Na starších rozhraních poběží pomaleji.",
+   "text": "Samsung T9 Portable SSD s kapacitou 1 TB zlevnilo v Planeu na 3999 Kč , jinde stojí i pět tisíc. Když loni přišlo na trh, bylo za tři tisíce, ale v kontextu aktuálního zdražování jde o dost výhodnou nabídku. Řada T9 má odolnější tělo a vyšší rychlost čtení zápisu a čtení (až 2 GB/s v obou směrech). Potřebujete k tomu však USB 3.2 Gen 2×2 (20 Gb/s). Na starších rozhraních poběží pomaleji.",
    "author": "Hlídač slev",
    "date": "4. 11. 2026 9:45",
    "discount": "3999 Kč",
@@ -1055,7 +1041,7 @@
    "host": "dafilms.cz",
    "extra": [],
    "expired": false,
-   "id": 113
+   "id": 111
   },
   {
    "source": "redakce",
@@ -1075,7 +1061,7 @@
     }
    ],
    "expired": false,
-   "id": 97
+   "id": 95
   },
   {
    "source": "redakce",
@@ -1185,10 +1171,10 @@
    "source": "redakce",
    "category": "TV a audio",
    "product": "Sluchátka Xiaomi s obří výdrží",
-   "text": "Čerstvá novinka Xiaomi Redmi Neo plošně zlevnila o 20 % na 990 Kč . Mají dobrou skládací konstrukci, slušný zvuk a opravdu dlouhou výdrž, budou hrát několik dní. Připojují se přes Bluetooth 5.4 s podporou kodeků AAC a SBC, nechybí současné spojení se dvěma zařízeními ani Google Fast Pair. Můžete je ale připojit i přes USB-C s přenosem Hi-Res Audio. V recenzi od nás sluchátka dostala nadprůměrnou známku 8/10.",
+   "text": "Čerstvá novinka Xiaomi Redmi Neo plošně zlevnila o 20 % na 896 Kč (a dají se koupit i levněji). Mají dobrou skládací konstrukci, slušný zvuk a opravdu dlouhou výdrž, budou hrát několik dní. Připojují se přes Bluetooth 5.4 s podporou kodeků AAC a SBC, nechybí současné spojení se dvěma zařízeními ani Google Fast Pair. Můžete je ale připojit i přes USB-C s přenosem Hi-Res Audio. V recenzi od nás sluchátka dostala nadprůměrnou známku 8/10.",
    "author": "Hlídač slev",
    "date": "3. 11. 2026 8:45",
-   "discount": "-20 %; 990 Kč",
+   "discount": "-20 %",
    "url": "https://sluchatka.heureka.cz/xiaomi-redmi-headphones-neo-obsidian-73670-cerna/",
    "host": "sluchatka.heureka.cz",
    "extra": [],
@@ -1213,10 +1199,10 @@
    "source": "redakce",
    "category": "TV a audio",
    "product": "Sluchátka, která vydrží 80 hodin",
-   "text": "Sluchátka Marshall Major IV plošně zlevnila – např. v Alze – na 1269 Kč . Jde o pár let roky starý model, který už má na trhu nástupce. I čtyřka je však pořád dobrá. Pohodlně se nosí, hraje výborně a vydrží hrát několik dní v kuse.",
+   "text": "Sluchátka Marshall Major IV plošně zlevnila – např. v Mobil Pohotovost – na 1289 Kč . Jde o pár let roky starý model, který už má na trhu nástupce. I čtyřka je však pořád dobrá. Pohodlně se nosí, hraje výborně a vydrží hrát několik dní v kuse.",
    "author": "Hlídač slev",
    "date": "2. 11. 2026 12:45",
-   "discount": "1269 Kč",
+   "discount": "1289 Kč",
    "url": "https://sluchatka.heureka.cz/marshall-major-iv-bluetooth/",
    "host": "sluchatka.heureka.cz",
    "extra": [],
@@ -1292,20 +1278,6 @@
   },
   {
    "source": "redakce",
-   "category": "TV a audio",
-   "product": "Sluchátka Samsung za polovic",
-   "text": "Špuntová sluchátka s nožičkou Samsung Galaxy Buds3 FE se loni prodávala za 3700 Kč, teď se dají koupit i pod dva tisíce. Nejníže šel Datart, který si účtuje jen 1499 Kč . To je na dobře znějící sluchátka s účinným ANC a dobrou výdrží super nabídka. Buds3 hrají až 8,5 hodiny (6 hodin s ANC), s pouzdrem se dostanete až na 30 hodin (24 hodin). Sluchátka podporují kodeky SBC, AAC a firemní SSC, který chcete použít s mobilem od Samsungu. Pohodlně se nosí a mají i dotykové ovládání.",
-   "author": "Hlídač slev",
-   "date": "6. 11. 2026 12:45",
-   "discount": "1499 Kč",
-   "url": "https://www.datart.cz/sluchatka-samsung-galaxy-buds3-fe-sm-r420nzkaeue-cerna",
-   "host": "datart.cz",
-   "extra": [],
-   "expired": true,
-   "id": 79
-  },
-  {
-   "source": "redakce",
    "category": "Foto a video",
    "product": "Displej a dashcam do auta",
    "text": "Sencor SCT M1090DBWT zlevnil v několika obchodech o třetinu na 2309 Kč . Jde o 10\" displej do auta, který obsahuje přední kameru a také couvací kameru, ale zároveň slouží jako infotainment systém kompatibilní s Android Auto a Apple CarPlay. Připevní se přísavkou na palubovku nebo čelní sklo.",
@@ -1316,7 +1288,7 @@
    "host": "autoradia.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 101
+   "id": 99
   },
   {
    "source": "redakce",
@@ -1336,7 +1308,7 @@
     }
    ],
    "expired": false,
-   "id": 90
+   "id": 88
   },
   {
    "source": "redakce",
@@ -1361,7 +1333,7 @@
     }
    ],
    "expired": false,
-   "id": 86
+   "id": 84
   },
   {
    "source": "redakce",
@@ -1374,7 +1346,7 @@
    "url": "https://www.alza.cz/dji-mini-5-pro-dji-rc-n3-d13074197.htm",
    "host": "alza.cz",
    "extra": [],
-   "expired": false,
+   "expired": true,
    "id": 23
   },
   {
@@ -1389,7 +1361,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 80
+   "id": 79
   },
   {
    "source": "redakce",
@@ -1512,34 +1484,6 @@
    "extra": [],
    "expired": false,
    "id": 4
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
-   "product": "Super telefon pod osm tisíc",
-   "text": "Smartphone střední třídy Poco X8 Pro (8/256 GB) všude zlevnil z deseti tisíc na 8490 Kč. Mall.cz ale nabízí 12 kusů za 7499 Kč . Za to dostanete telefon s výborným OLEDem, dostatečným výkonem, voděodolností, dlouhou výdrží a kvalitními foťáky. Jen zapomeňte na zoom nebo bezdrátové nabíjení. Poco jako jeden z mála výrobců integroval i užitečnou zadní notifikační diodu a infraport pro ovládání spotřebičů.",
-   "author": "Hlídač slev",
-   "date": "10. 11. 2026 11:45",
-   "discount": "7499 Kč",
-   "url": "https://mobilni-telefony.heureka.cz/poco-x8-pro-8gb-256gb-white/",
-   "host": "mobilni-telefony.heureka.cz",
-   "extra": [],
-   "expired": false,
-   "id": 112
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
-   "product": "iPad 11",
-   "text": "CZC ze všech nejlevněji prodává základní 11\" iPad z roku 2025 se 128GB úložištěm. Řekne si o 9300 Kč , zatímco jinde ceny nejdou po 11 tisíc. Obsahuje čip A16, 6 GB RAM a jemný displej s pěknými barvami. Pro surfování, čtení nebo lehké hraní dostačuje.",
-   "author": "Hlídač slev",
-   "date": "9. 11. 2026 16:45",
-   "discount": "9300 Kč",
-   "url": "https://tablety.heureka.cz/apple-ipad-11-2025-128gb-wi-fi-silver-md3y4hc-a/",
-   "host": "tablety.heureka.cz",
-   "extra": [],
-   "expired": false,
-   "id": 105
   },
   {
    "source": "redakce",
@@ -1681,23 +1625,31 @@
   },
   {
    "source": "redakce",
-   "category": "Nářadí a dílna",
-   "product": "Vrtačka Parkside Performance a výhodný akumulátor",
-   "text": "Ještě dva tipy z Lidlu – aku vrtačka Parkside Performance bez akumulátoru a nabíječky je pouze dnes v 50% slevě za 999 Kč , musíte si na stránce aktivovat kupón. Má bezkartáčový motor s dlouhou životností, maximální točivý moment je 64 Nm, má 20+ stupňů vrtání a příklep. Nechybí kufřík, užitečné příslušenství a lákadlem je i pětiletá záruka. Recenze jsou velmi nadšené.\n\nV akci je dnes také 4Ah akumulátor, s kupónem vyjde jen na 500 Kč . To je fantastická nabídka, nikdy nebyl levnější. Jde o sérii Parkside X 20 V Team, takže jej lze použít v desítkách různých nářadí.",
+   "category": "Telefony a tablety",
+   "product": "Super telefon pod osm tisíc",
+   "text": "Smartphone střední třídy Poco X8 Pro (8/256 GB) všude zlevnil z deseti tisíc na 8490 Kč. Mall.cz ale nabízí 12 kusů za 7499 Kč . Za to dostanete telefon s výborným OLEDem, dostatečným výkonem, voděodolností, dlouhou výdrží a kvalitními foťáky. Jen zapomeňte na zoom nebo bezdrátové nabíjení. Poco jako jeden z mála výrobců integroval i užitečnou zadní notifikační diodu a infraport pro ovládání spotřebičů.",
    "author": "Hlídač slev",
-   "date": "10. 11. 2026 17:45",
-   "discount": "-50 %; 999 Kč; 500 Kč",
-   "url": "https://www.lidl.cz/p/parkside-performance-aku-priklepova-vrtacka-psbsap-20-li-d4-bez-akumulatoru-a-nabijecky/p100380977",
-   "host": "lidl.cz",
-   "extra": [
-    {
-     "url": "https://www.lidl.cz/p/parkside-performance-smart-akumulator-4-ah-papp-204-a1/p100398333",
-     "host": "lidl.cz",
-     "label": "500 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 118
+   "date": "10. 11. 2026 11:45",
+   "discount": "7499 Kč",
+   "url": "https://mobilni-telefony.heureka.cz/poco-x8-pro-8gb-256gb-white/",
+   "host": "mobilni-telefony.heureka.cz",
+   "extra": [],
+   "expired": true,
+   "id": 110
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "iPad 11",
+   "text": "CZC ze všech nejlevněji prodává základní 11\" iPad z roku 2025 se 128GB úložištěm. Řekne si o 9300 Kč , zatímco jinde ceny nejdou po 11 tisíc. Obsahuje čip A16, 6 GB RAM a jemný displej s pěknými barvami. Pro surfování, čtení nebo lehké hraní dostačuje.",
+   "author": "Hlídač slev",
+   "date": "9. 11. 2026 16:45",
+   "discount": "9300 Kč",
+   "url": "https://tablety.heureka.cz/apple-ipad-11-2025-128gb-wi-fi-silver-md3y4hc-a/",
+   "host": "tablety.heureka.cz",
+   "extra": [],
+   "expired": true,
+   "id": 103
   },
   {
    "source": "redakce",
@@ -1715,23 +1667,23 @@
   },
   {
    "source": "redakce",
-   "category": "Domácnost a kuchyně",
-   "product": "Sonický kartáček z Lidlu",
-   "text": "Lidl má pouze dnes v akci sonický zubní kartáček své značky Cien Beauty za 350 Kč , pokud si na stránce aktivujete slevový kód ve výši 250 Kč. Není nijak chytrý, má pouze tři režimy čištění, standardní intervaly 4 × 30 sekund. V ceně je však i pouzdro a tři hlavice kompatibilní s populárními Philips Sonicare. Využívají i stejné kvalitní štětiny DuPont Tynex, které jsou zaoblené a neštěpí se.\n\nV akci, a to nejen dnes, je také sada šesti náhradních hlavic . Zaplatíte za ně jen 100 Kč , tedy 17 Kč za jednu. Ty se hodí právě i pro ty, kteří mají Sonicare a nechtějí utrácet násobně více za originální příslušenství od Philipsu.",
+   "category": "Nářadí a dílna",
+   "product": "Vrtačka Parkside Performance a výhodný akumulátor",
+   "text": "Ještě dva tipy z Lidlu – aku vrtačka Parkside Performance bez akumulátoru a nabíječky je pouze dnes v 50% slevě za 999 Kč , musíte si na stránce aktivovat kupón. Má bezkartáčový motor s dlouhou životností, maximální točivý moment je 64 Nm, má 20+ stupňů vrtání a příklep. Nechybí kufřík, užitečné příslušenství a lákadlem je i pětiletá záruka. Recenze jsou velmi nadšené.\n\nV akci je dnes také 4Ah akumulátor, s kupónem vyjde jen na 500 Kč . To je fantastická nabídka, nikdy nebyl levnější. Jde o sérii Parkside X 20 V Team, takže jej lze použít v desítkách různých nářadí.",
    "author": "Hlídač slev",
-   "date": "10. 11. 2026 8:45",
-   "discount": "350 Kč; 100 Kč",
-   "url": "https://www.lidl.cz/p/cien-beauty-aku-sonicky-zubni-kartacek-nszb-3-7-d5/p100398480",
+   "date": "10. 11. 2026 17:45",
+   "discount": "-50 %; 999 Kč; 500 Kč",
+   "url": "https://www.lidl.cz/p/parkside-performance-aku-priklepova-vrtacka-psbsap-20-li-d4-bez-akumulatoru-a-nabijecky/p100380977",
    "host": "lidl.cz",
    "extra": [
     {
-     "url": "https://www.lidl.cz/p/cien-beauty-nahradni-hlavice-pro-zubni-kartacky-cbzks-6-a1-6-kusu/p100395500",
+     "url": "https://www.lidl.cz/p/parkside-performance-smart-akumulator-4-ah-papp-204-a1/p100398333",
      "host": "lidl.cz",
-     "label": "100 Kč"
+     "label": "500 Kč"
     }
    ],
-   "expired": false,
-   "id": 109
+   "expired": true,
+   "id": 116
   },
   {
    "source": "redakce",
@@ -1745,7 +1697,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 98
+   "id": 96
   },
   {
    "source": "redakce",
@@ -1759,7 +1711,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 87
+   "id": 85
   },
   {
    "source": "redakce",
@@ -1773,7 +1725,7 @@
    "host": "eu.govee.com",
    "extra": [],
    "expired": false,
-   "id": 83
+   "id": 82
   },
   {
    "source": "redakce",
@@ -1826,6 +1778,26 @@
   {
    "source": "redakce",
    "category": "Domácnost a kuchyně",
+   "product": "Sonický kartáček z Lidlu",
+   "text": "Lidl má pouze dnes v akci sonický zubní kartáček své značky Cien Beauty za 350 Kč , pokud si na stránce aktivujete slevový kód ve výši 250 Kč. Není nijak chytrý, má pouze tři režimy čištění, standardní intervaly 4 × 30 sekund. V ceně je však i pouzdro a tři hlavice kompatibilní s populárními Philips Sonicare. Využívají i stejné kvalitní štětiny DuPont Tynex, které jsou zaoblené a neštěpí se.\n\nV akci, a to nejen dnes, je také sada šesti náhradních hlavic . Zaplatíte za ně jen 100 Kč , tedy 17 Kč za jednu. Ty se hodí právě i pro ty, kteří mají Sonicare a nechtějí utrácet násobně více za originální příslušenství od Philipsu.",
+   "author": "Hlídač slev",
+   "date": "10. 11. 2026 8:45",
+   "discount": "350 Kč; 100 Kč",
+   "url": "https://www.lidl.cz/p/cien-beauty-aku-sonicky-zubni-kartacek-nszb-3-7-d5/p100398480",
+   "host": "lidl.cz",
+   "extra": [
+    {
+     "url": "https://www.lidl.cz/p/cien-beauty-nahradni-hlavice-pro-zubni-kartacky-cbzks-6-a1-6-kusu/p100395500",
+     "host": "lidl.cz",
+     "label": "100 Kč"
+    }
+   ],
+   "expired": true,
+   "id": 107
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
    "product": "Herní židle s podsvícením",
    "text": "Smarty prodává herní židli své privátní značky Tigo Starfall za 3490 Kč (27% sleva). Akce platí jen dnes, nebo do vyprodání zásob (v době psaní tipu bylo posledních 14 kusů). Křeslo je plně nastavitelné, má bederní i krční opěrku a houpací mechanismus. Specialitou je to, že na krajích jsou vetkaná RGB LED světla. Napájí se z USB, například powerbanky.",
    "author": "Hlídač slev",
@@ -1835,7 +1807,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": true,
-   "id": 91
+   "id": 89
   },
   {
    "source": "redakce",
@@ -1849,7 +1821,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 106
+   "id": 104
   },
   {
    "source": "redakce",
@@ -1863,7 +1835,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 93
+   "id": 91
   },
   {
    "source": "diskuze",
@@ -1994,7 +1966,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 114
+   "id": 112
   },
   {
    "source": "redakce",
@@ -2008,7 +1980,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 95
+   "id": 93
   },
   {
    "source": "redakce",
@@ -2022,7 +1994,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 117
+   "id": 115
   },
   {
    "source": "diskuze",
@@ -2050,7 +2022,7 @@
    "host": "bundlehunt.com",
    "extra": [],
    "expired": false,
-   "id": 119
+   "id": 117
   },
   {
    "source": "redakce",
@@ -2070,7 +2042,7 @@
     }
    ],
    "expired": false,
-   "id": 100
+   "id": 98
   },
   {
    "source": "redakce",

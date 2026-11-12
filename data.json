@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T16:36:23.344Z",
- "comments": 198,
+ "updated": "2026-11-12T17:36:27.307Z",
+ "comments": 202,
  "tips": 139,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
@@ -19,7 +19,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 135
+   "id": 134
   },
   {
    "source": "redakce",
@@ -33,7 +33,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 101
+   "id": 100
   },
   {
    "source": "redakce",
@@ -75,7 +75,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 138
+   "id": 137
   },
   {
    "source": "redakce",
@@ -89,7 +89,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 131
+   "id": 130
   },
   {
    "source": "diskuze",
@@ -117,7 +117,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 105
+   "id": 104
   },
   {
    "source": "redakce",
@@ -131,7 +131,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 102
+   "id": 101
   },
   {
    "source": "redakce",
@@ -145,7 +145,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 97
+   "id": 96
   },
   {
    "source": "redakce",
@@ -353,7 +353,7 @@
     }
    ],
    "expired": false,
-   "id": 132
+   "id": 131
   },
   {
    "source": "redakce",
@@ -367,7 +367,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 127
+   "id": 126
   },
   {
    "source": "diskuze",
@@ -395,7 +395,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 114
+   "id": 113
   },
   {
    "source": "redakce",
@@ -409,7 +409,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 106
+   "id": 105
   },
   {
    "source": "redakce",
@@ -429,21 +429,7 @@
     }
    ],
    "expired": false,
-   "id": 100
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "15% sleva na vše v Lidlu",
-   "text": "Lidl má jen dnes 15% slevu na všechny produkty. Jestli vám včera utekla akce na parádní aku šroubovák Parkside Performance , tak v neděli jej místo 500 Kč koupíte za 425 Kč. Šroubovák má točivý moment 0,05–0,2 Nm, v manuálním režimu 3 Nm. Obsahuje displej, pouzdro s 48 bity, (de)magnetizér) a USB-C kabel. Nabíjení probíhá přímo v pouzdře.",
-   "author": "Hlídač slev",
-   "date": "8. 11. 2026 12:45",
-   "discount": "-15 %; 500 Kč",
-   "url": "https://www.lidl.cz/p/parkside-performance-aku-presny-sroubovak-ppeps-3-a1/p100412907",
-   "host": "lidl.cz",
-   "extra": [],
-   "expired": false,
-   "id": 90
+   "id": 99
   },
   {
    "source": "redakce",
@@ -559,17 +545,17 @@
   },
   {
    "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Repro k PC",
-   "text": "Reproduktory Edifier MR3 obvykle stojí okolo 2500 Kč, v Datartu jsou teď za 1890 Kč . Edifier láká na výkon 2 × 18 W, čistý a hutný zvuk i pěkný vzhled. Frekvenční rozsah je od 52 Hz do 40 kHz, ale recenze zmiňují, že pro nejhlubší basy je lepší mít zvláštní subwoofer. Kromě dvou analogových vstupů Edifier nabízí také Bluetooth.",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "15% sleva na vše v Lidlu",
+   "text": "Lidl má jen dnes 15% slevu na všechny produkty. Jestli vám včera utekla akce na parádní aku šroubovák Parkside Performance , tak v neděli jej místo 500 Kč koupíte za 425 Kč. Šroubovák má točivý moment 0,05–0,2 Nm, v manuálním režimu 3 Nm. Obsahuje displej, pouzdro s 48 bity, (de)magnetizér) a USB-C kabel. Nabíjení probíhá přímo v pouzdře.",
    "author": "Hlídač slev",
-   "date": "11. 11. 2026 18:45",
-   "discount": "1890 Kč",
-   "url": "https://reprosoustavy-reproduktory.heureka.cz/edifier-mr3-2/",
-   "host": "reprosoustavy-reproduktory.heureka.cz",
+   "date": "8. 11. 2026 12:45",
+   "discount": "-15 %; 500 Kč",
+   "url": "https://www.lidl.cz/p/parkside-performance-aku-presny-sroubovak-ppeps-3-a1/p100412907",
+   "host": "lidl.cz",
    "extra": [],
-   "expired": false,
-   "id": 129
+   "expired": true,
+   "id": 89
   },
   {
    "source": "redakce",
@@ -583,7 +569,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 125
+   "id": 124
   },
   {
    "source": "redakce",
@@ -597,7 +583,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 124
+   "id": 123
   },
   {
    "source": "redakce",
@@ -611,7 +597,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 122
+   "id": 121
   },
   {
    "source": "redakce",
@@ -625,7 +611,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 113
+   "id": 112
   },
   {
    "source": "redakce",
@@ -639,7 +625,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 108
+   "id": 107
   },
   {
    "source": "redakce",
@@ -743,10 +729,10 @@
    "source": "redakce",
    "category": "Počítače a notebooky",
    "product": "MacBook Air M5",
-   "text": "Cena základního notebooku MacBook Air s čipem M5, 16 GB RAM a 512GB SSD se dostala téměř na úroveň před letní plošné zdražení kvůli paměťové krizi. Alza má širokou nabídku , ceny startují na 31 490 Kč . V katalogu jsou i mezinárodní verze bez české klávesnice, tak na to pozor. Výhodná je mimochodem také varianta s 24 GB RAM, ta stojí 36 889 Kč .",
+   "text": "Cena základního notebooku MacBook Air s čipem M5, 16 GB RAM a 512GB SSD se dostala téměř na úroveň před letní plošné zdražení kvůli paměťové krizi. Alza má širokou nabídku , ceny startují na 30 777 Kč . V katalogu jsou i mezinárodní verze bez české klávesnice, tak na to pozor. Výhodná je mimochodem také varianta s 24 GB RAM, ta stojí 36 889 Kč .",
    "author": "Hlídač slev",
    "date": "2. 11. 2026 7:45",
-   "discount": "31 490 Kč; 36 889 Kč",
+   "discount": "30 777 Kč; 36 889 Kč",
    "url": "https://www.alza.cz/macbook-air-13-m5-cz-2026-temne-inkoustovy-d13268816.htm",
    "host": "alza.cz",
    "extra": [
@@ -824,10 +810,10 @@
    "source": "redakce",
    "category": "Počítače a notebooky",
    "product": "MacBook Neo",
-   "text": "Nejlevnější počítač ve své nabídce Apple prodává za 20 tisíc, ale některé české e-shopy jej nabízejí mnohem výhodněji. Alza nabízí žlutou variantu za 16 990 Kč . Jde o základní variantu s 8GB pamětí a 256GB SSD, která postrádá čtečku otisků. Studentům bude stačit, v nenáročné kanceláři se rovněž neztratí.\n\nSlevové akce někdy netrvají dlouho nebo obchody mohou mít jen malé množství zlevněných produktů. Než se k článku dostanete, může být pozdě.\n\nHlídač slev má ale své kanály v komunikátorech WhatsApp a Telegram . Klikněte na odkaz, otevře se v aplikaci. Jakmile vydáme článek o slevě, hned o tom dostanete zprávu. O akci se tak dozvíte v době, kdy je ještě stoprocentně platná.\n\nJsme také na sociálních sítích Facebook , Threads , X , Bluesky , Mastodon , Discord a můžete odebírat naše RSS se slevami.\n\nWhatsApp má u kanálů vypnuté upozornění na nové zprávy . Musíte to změnit sami přes ikonu zvonku v pravém horním rohu aplikace. Viz žlutá šipka:\n\nNašli jste sami zajímavou slevu? Napište nám .\n\nZa nákup, který uskutečníte prostřednictvím odkazů v článku, může Živě dostat provizi.",
+   "text": "Nejlevnější počítač ve své nabídce Apple prodává za 20 tisíc, ale některé české e-shopy jej nabízejí mnohem výhodněji. Alza nabízí žlutou variantu za 16 140 Kč . Jde o základní variantu s 8GB pamětí a 256GB SSD, která postrádá čtečku otisků. Studentům bude stačit, v nenáročné kanceláři se rovněž neztratí.\n\nSlevové akce někdy netrvají dlouho nebo obchody mohou mít jen malé množství zlevněných produktů. Než se k článku dostanete, může být pozdě.\n\nHlídač slev má ale své kanály v komunikátorech WhatsApp a Telegram . Klikněte na odkaz, otevře se v aplikaci. Jakmile vydáme článek o slevě, hned o tom dostanete zprávu. O akci se tak dozvíte v době, kdy je ještě stoprocentně platná.\n\nJsme také na sociálních sítích Facebook , Threads , X , Bluesky , Mastodon , Discord a můžete odebírat naše RSS se slevami.\n\nWhatsApp má u kanálů vypnuté upozornění na nové zprávy . Musíte to změnit sami přes ikonu zvonku v pravém horním rohu aplikace. Viz žlutá šipka:\n\nNašli jste sami zajímavou slevu? Napište nám .\n\nZa nákup, který uskutečníte prostřednictvím odkazů v článku, může Živě dostat provizi.",
    "author": "Hlídač slev",
    "date": "30. 10. 2026 7:45",
-   "discount": "16 990 Kč",
+   "discount": "16 140 Kč",
    "url": "https://www.alza.cz/macbook-neo-13-cz-2026-citrusove-zluty-d13271294.htm",
    "host": "alza.cz",
    "extra": [
@@ -851,6 +837,34 @@
    "id": 1
   },
   {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Repro k PC",
+   "text": "Reproduktory Edifier MR3 obvykle stojí okolo 2500 Kč, v Datartu jsou teď za 1890 Kč . Edifier láká na výkon 2 × 18 W, čistý a hutný zvuk i pěkný vzhled. Frekvenční rozsah je od 52 Hz do 40 kHz, ale recenze zmiňují, že pro nejhlubší basy je lepší mít zvláštní subwoofer. Kromě dvou analogových vstupů Edifier nabízí také Bluetooth.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 18:45",
+   "discount": "1890 Kč",
+   "url": "https://reprosoustavy-reproduktory.heureka.cz/edifier-mr3-2/",
+   "host": "reprosoustavy-reproduktory.heureka.cz",
+   "extra": [],
+   "expired": true,
+   "id": 128
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Rychlá herní myš",
+   "text": "Myš Rapoo VT1Air Max v Alze zlevnila jen na 599 Kč , ještě loni stála 1800 Kč. Nabízí výborný optický senzor PixArt PAW3950 (30 000 dpi, zrychlení 50G), který funguje i na skle. Má sedm programovatelných tlačítek a klikatelné kolečko. Dvě hlavní tlačítka s mikrospínači Omron vydrží až 60 milionů stisků. Je bezdrátová, ale spoléhá se jen na USB dongle s polling rate 4000 Hz. Lze ji připojit i kabelem. K tomu je mimořádně lehká (jen 50 g). Logitech nebo Razer by si za takové parametry nechaly zaplatit několikanásobně vyšší cenu.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 17:45",
+   "discount": "599 Kč",
+   "url": "https://www.alza.cz/rapoo-vt1air-max-d12803854.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 139
+  },
+  {
    "source": "diskuze",
    "category": "Příslušenství k PC",
    "product": "Acer veriton n1502g 13nou nuc barebone",
@@ -868,15 +882,15 @@
    "source": "redakce",
    "category": "Příslušenství k PC",
    "product": "Apple Magic Keyboard s Touch ID",
-   "text": "Tera.cz nabízí klávesnici Magic Keyboard se čtečkou otisků za 1984 Kč , ostatní české obchody nejdou pod tři tisíce. Jde o stříbrnou variantu s českými popisky, ale bez numerického bloku. V současnosti je to také nejlevnější varianta, jak do stolního Macu přidat biometrické ověřování.",
+   "text": "Tera.cz nabízí klávesnici Magic Keyboard se čtečkou otisků za 2180 Kč , ostatní české obchody nejdou pod tři tisíce. Jde o stříbrnou variantu s českými popisky, ale bez numerického bloku. V současnosti je to také nejlevnější varianta, jak do stolního Macu přidat biometrické ověřování.",
    "author": "Hlídač slev",
    "date": "12. 11. 2026 11:45",
-   "discount": "1984 Kč",
+   "discount": "2180 Kč",
    "url": "https://klavesnice.heureka.cz/apple-magic-keyboard-touch-id-mk293cz-a/",
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 134
+   "id": 133
   },
   {
    "source": "redakce",
@@ -890,7 +904,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 126
+   "id": 125
   },
   {
    "source": "redakce",
@@ -904,7 +918,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 109
+   "id": 108
   },
   {
    "source": "redakce",
@@ -918,7 +932,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 94
+   "id": 93
   },
   {
    "source": "redakce",
@@ -932,7 +946,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 92
+   "id": 91
   },
   {
    "source": "redakce",
@@ -1215,7 +1229,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 129
   },
   {
    "source": "redakce",
@@ -1229,7 +1243,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 128
+   "id": 127
   },
   {
    "source": "redakce",
@@ -1243,7 +1257,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 120
+   "id": 119
   },
   {
    "source": "redakce",
@@ -1257,7 +1271,7 @@
    "host": "dafilms.cz",
    "extra": [],
    "expired": false,
-   "id": 111
+   "id": 110
   },
   {
    "source": "redakce",
@@ -1277,7 +1291,7 @@
     }
    ],
    "expired": false,
-   "id": 95
+   "id": 94
   },
   {
    "source": "redakce",
@@ -1504,7 +1518,7 @@
    "host": "autoradia.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 99
+   "id": 98
   },
   {
    "source": "redakce",
@@ -1577,7 +1591,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 123
+   "id": 122
   },
   {
    "source": "redakce",
@@ -1741,7 +1755,7 @@
    "host": "myheritage.cz",
    "extra": [],
    "expired": false,
-   "id": 137
+   "id": 136
   },
   {
    "source": "redakce",
@@ -1755,7 +1769,7 @@
    "host": "cyklotrenazery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 136
+   "id": 135
   },
   {
    "source": "diskuze",
@@ -1783,7 +1797,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 121
+   "id": 120
   },
   {
    "source": "redakce",
@@ -1797,7 +1811,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 118
+   "id": 117
   },
   {
    "source": "redakce",
@@ -1935,7 +1949,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 110
+   "id": 109
   },
   {
    "source": "redakce",
@@ -1949,7 +1963,7 @@
    "host": "tablety.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 103
+   "id": 102
   },
   {
    "source": "redakce",
@@ -1963,7 +1977,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 133
+   "id": 132
   },
   {
    "source": "redakce",
@@ -1997,7 +2011,7 @@
     }
    ],
    "expired": true,
-   "id": 116
+   "id": 115
   },
   {
    "source": "redakce",
@@ -2011,7 +2025,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 96
+   "id": 95
   },
   {
    "source": "redakce",
@@ -2107,21 +2121,7 @@
     }
    ],
    "expired": true,
-   "id": 107
-  },
-  {
-   "source": "redakce",
-   "category": "Domácnost a kuchyně",
-   "product": "Herní židle s podsvícením",
-   "text": "Smarty prodává herní židli své privátní značky Tigo Starfall za 3490 Kč (27% sleva). Akce platí jen dnes, nebo do vyprodání zásob (v době psaní tipu bylo posledních 14 kusů). Křeslo je plně nastavitelné, má bederní i krční opěrku a houpací mechanismus. Specialitou je to, že na krajích jsou vetkaná RGB LED světla. Napájí se z USB, například powerbanky.",
-   "author": "Hlídač slev",
-   "date": "8. 11. 2026 10:45",
-   "discount": "-27 %; 3490 Kč",
-   "url": "https://www.smarty.cz/TIGO-Starfall-herni-zidle-cerna-4p235293",
-   "host": "smarty.cz",
-   "extra": [],
-   "expired": true,
-   "id": 89
+   "id": 106
   },
   {
    "source": "redakce",
@@ -2135,7 +2135,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 104
+   "id": 103
   },
   {
    "source": "redakce",
@@ -2149,7 +2149,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 91
+   "id": 90
   },
   {
    "source": "diskuze",
@@ -2280,7 +2280,7 @@
    "host": "action.com",
    "extra": [],
    "expired": false,
-   "id": 139
+   "id": 138
   },
   {
    "source": "redakce",
@@ -2294,7 +2294,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 112
+   "id": 111
   },
   {
    "source": "redakce",
@@ -2308,7 +2308,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 93
+   "id": 92
   },
   {
    "source": "redakce",
@@ -2322,7 +2322,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 115
+   "id": 114
   },
   {
    "source": "diskuze",
@@ -2350,7 +2350,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 119
+   "id": 118
   },
   {
    "source": "redakce",
@@ -2364,7 +2364,7 @@
    "host": "bundlehunt.com",
    "extra": [],
    "expired": false,
-   "id": 117
+   "id": 116
   },
   {
    "source": "redakce",
@@ -2384,7 +2384,7 @@
     }
    ],
    "expired": false,
-   "id": 98
+   "id": 97
   },
   {
    "source": "redakce",

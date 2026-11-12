@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T10:35:53.326Z",
- "comments": 192,
- "tips": 133,
+ "updated": "2026-11-12T11:36:03.977Z",
+ "comments": 194,
+ "tips": 134,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -821,6 +821,20 @@
    ],
    "expired": false,
    "id": 1
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Apple Magic Keyboard s Touch ID",
+   "text": "Tera.cz nabízí klávesnici Magic Keyboard se čtečkou otisků za 1984 Kč , ostatní české obchody nejdou pod tři tisíce. Jde o stříbrnou variantu s českými popisky, ale bez numerického bloku. V současnosti je to také nejlevnější varianta, jak do stolního Macu přidat biometrické ověřování.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 11:45",
+   "discount": "1984 Kč",
+   "url": "https://klavesnice.heureka.cz/apple-magic-keyboard-touch-id-mk293cz-a/",
+   "host": "klavesnice.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 134
   },
   {
    "source": "redakce",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T14:36:14.821Z",
- "comments": 195,
- "tips": 137,
+ "updated": "2026-11-12T15:36:18.554Z",
+ "comments": 196,
+ "tips": 138,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -62,6 +62,20 @@
    "extra": [],
    "expired": false,
    "id": 44
+  },
+  {
+   "source": "redakce",
+   "category": "Monitory",
+   "product": "OLED monitor ve velké akci",
+   "text": "Herní monitor Lenovo Legion Pro 27UD-10 ještě na jaře stál dvacet tisíc, teď je s cashbackem můžete v Alze koupit za 13 490 Kč . Nabízí 27\" QD OLED panel s rozlišením 3840 × 2160 px a frekvencí 240 Hz. Láká na špičkové barvy, dokonalý kontrast, okamžitou odezvu a jas v HDR dosahující až 1000 nitů. Nechybí plně polohovatelný stojan ani USB hub. Má čtyři vstupy: dva HDMI 2.1, jeden DisplayPort 1.4 a jeden USB-C s podporou 15W nabíjení. Nasytit tak zvládne jen úsporný ultrabook.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 15:45",
+   "discount": "13 490 Kč",
+   "url": "https://www.alza.cz/26-5-lenovo-legion-pro-27ud-10-d13145282.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 138
   },
   {
    "source": "redakce",
@@ -1702,6 +1716,20 @@
    "id": 4
   },
   {
+   "source": "diskuze",
+   "category": "Telefony a tablety",
+   "product": "REDMAGIC 12 Pro Gaming Phone - Snapdragon 8 Elite Extreme Gen 6, Dual-loop liquid cooling, 8,400mAh battery",
+   "text": "Redmagic 12 Pro - předprodej, krásné ceny, dárky, nejnovější procesor Snapdragon 8 Elite Extreme Gen 6. Když to srovnám s oznámenými cenami Xiaomi 18 Pro se stejnými procesory, tak je to za méně než za polovinu. Xiaomi už nejsou levné, výhodné telefony to vypadá.",
+   "author": "sender21",
+   "date": "12. 11. 2026 16:29",
+   "discount": "",
+   "url": "https://global.redmagic.gg/pages/redmagic-12-pro-launch",
+   "host": "global.redmagic.gg",
+   "extra": [],
+   "expired": false,
+   "id": 2174556
+  },
+  {
    "source": "redakce",
    "category": "Telefony a tablety",
    "product": "Test DNA",
@@ -1852,20 +1880,6 @@
    ],
    "expired": false,
    "id": 15
-  },
-  {
-   "source": "diskuze",
-   "category": "Telefony a tablety",
-   "product": "REDMAGIC 12 Pro Gaming Phone - Snapdragon 8 Elite Extreme Gen 6, Dual-loop liquid cooling, 8,400mAh battery",
-   "text": "Redmagic 12 Pro - první reálně dostupný telefon se Snapdragon 8 Elite Extreme Gen 6 v úterý - za kolik, to uvidíte. Asi předobjednávky s dárky.",
-   "author": "sender21",
-   "date": "30. 10. 2026 16:54",
-   "discount": "",
-   "url": "https://global.redmagic.gg/pages/redmagic-12-pro-launch",
-   "host": "global.redmagic.gg",
-   "extra": [],
-   "expired": false,
-   "id": 2172260
   },
   {
    "source": "redakce",

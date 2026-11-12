@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T08:35:46.788Z",
+ "updated": "2026-11-12T09:35:50.376Z",
  "comments": 191,
- "tips": 131,
+ "tips": 132,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -306,6 +306,26 @@
    "extra": [],
    "expired": false,
    "id": 13
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Nabíjecí kabel s Qi2",
+   "text": "Šikovný Zens Charging Cable Pro 3 zlevnil na MP.cz na 1490 Kč , jinde stojí o tisíc korun víc. Jde o opletený nabíjecí kabel, který umí do notebooku nebo tabletu pustit až 140 W. Jeho součástí jsou ale i dvě bezdrátové nabíjecí podložky. Jedna s certifikací Qi2 (15 W) pro mobil, druhá nese kolébku pro nabíjení Apple Watch nebo AirPods (5 W). MP.cz má v akci za 749 Kč také model, který obsahuje jen onu 15W podložku s Qi2.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 9:45",
+   "discount": "1490 Kč; 749 Kč",
+   "url": "https://kabely-chytre-hodinky.heureka.cz/zens-charging-cable-pro-3-qi2-apple-watch-usb-c-zecc07b-00/",
+   "host": "kabely-chytre-hodinky.heureka.cz",
+   "extra": [
+    {
+     "url": "https://kabely-chytre-hodinky.heureka.cz/zens-charging-cable-pro-2-qi2-usb-c-zecc05b-00/",
+     "host": "kabely-chytre-hodinky.heureka.cz",
+     "label": "749 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 132
   },
   {
    "source": "redakce",
@@ -1130,7 +1150,7 @@
   {
    "source": "redakce",
    "category": "TV a audio",
-   "product": "AirPods 3 Pro",
+   "product": "AirPods Pro 3",
    "text": "Nejlepší špuntová sluchátka od Applu, AirPods Pro 3 , jsou teď na CZC k dostání jen za 4890 Kč . Jinde jsou minimálně o tři stovky dražší a sám výrobce si účtuje 6490 Kč. Tyto AirPody mají velmi dobrý a čistý zvuk, velmi účinné ANC a oproti předchůdcům umí měřit tep. Kvůli snímači se ale upravil design a sluchátka jsou méně pohodlná. V recenzi u nás získala známku 8/10.",
    "author": "Hlídač slev",
    "date": "12. 11. 2026 7:45",

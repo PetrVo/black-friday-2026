@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T13:36:11.169Z",
+ "updated": "2026-11-12T14:36:14.821Z",
  "comments": 195,
- "tips": 136,
+ "tips": 137,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1700,6 +1700,20 @@
    "extra": [],
    "expired": false,
    "id": 4
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "Test DNA",
+   "text": "Genealogická služba MyHeritage zlevnila test DNA . Momentálně stojí 19 eur (470 Kč), doprava je zdarma. K testu dostanete i 30denní zkušební verzi kompletního tarifu MyHeritage a následně 50% slevu na první rok předplatného. Jak takový test vypadá a co dělat s výsledky najdete v našem starším článku Jsem Evropan, trochu Nigerijec a Eskymák .",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 14:45",
+   "discount": "-50 %; 19 eur",
+   "url": "https://www.myheritage.cz/dna",
+   "host": "myheritage.cz",
+   "extra": [],
+   "expired": false,
+   "id": 137
   },
   {
    "source": "redakce",

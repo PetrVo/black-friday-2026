@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T09:35:50.376Z",
- "comments": 191,
- "tips": 132,
+ "updated": "2026-11-12T10:35:53.326Z",
+ "comments": 192,
+ "tips": 133,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -449,7 +449,7 @@
    "source": "redakce",
    "category": "Nabíječky, kabely a příslušenství",
    "product": "Šílený kabel se svítilnou a zapalovačem",
-   "text": "ChoeTech Smart je asi nejvšestrannější kapel, který můžete koupit. Má 120 cm, podporuje 60W nabíjecí dle normy USB PD. Je opletený balistickým nylonem a nabízí koncovky USB-C, ale na jejich konci najdeme ještě další příslušenství. Na jednom je zapalovač, na druhém svítilna. Stačí kabel připojit do powerbanky nebo mobilu se zpětným nabíjením, a můžete s ním dělat zázraky. Alza jej teď zlevnila o třetinu na 179 Kč .",
+   "text": "ChoeTech Smart je asi nejvšestrannější kabel, který můžete koupit. Má 120 cm, podporuje 60W nabíjecí dle normy USB PD. Je opletený balistickým nylonem a nabízí koncovky USB-C, ale na jejich konci najdeme ještě další příslušenství. Na jednom je zapalovač, na druhém svítilna. Stačí kabel připojit do powerbanky nebo mobilu se zpětným nabíjením, a můžete s ním dělat zázraky. Alza jej teď zlevnila o třetinu na 179 Kč .",
    "author": "Hlídač slev",
    "date": "6. 11. 2026 8:45",
    "discount": "cca -33 %; 179 Kč",
@@ -546,7 +546,7 @@
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
-   "product": "Nejlepší notebook za 15tisíc",
+   "product": "Nejlepší notebook za 15 tisíc",
    "text": "Mall prodává Asus Vivobook 16 X1605VA za 14 690 Kč . Jde o verzi s kvalitním 16\" OLEDem s rozlišením 1200p, 14jádrovým procesorem Intel Core 9 270H, 16 GB RAM a 512GB SSD. Nabízí čtečku otisků, podsvícenou klávesnici, v ceně je i Windows 11 Home a 68W nabíječka. Skvěle vybavený stroj, který na dnešní poměry ani moc nestojí.",
    "author": "Hlídač slev",
    "date": "11. 11. 2026 14:45",
@@ -1660,6 +1660,20 @@
    "id": 4
   },
   {
+   "source": "diskuze",
+   "category": "Telefony a tablety",
+   "product": "Qingping bluetooth alarm clock temperature",
+   "text": "Nejlepší budík!!? ještě za krásnou cenu 399,- Kč. Má vše, beztlačítkový (zamačkává se stlačením zezhora). Nastavuje se přes aplikaci přes mobil, čas si bere z internetu, zobrazení datumu, hodin, teploty, vlhkosti, dne v týdnu. Krásné nastavitelné podsvícení \"Cleargrass\" a krásný displej, po zmačknutí, při spaní neruší, nemusíte mít lampičku, nalejete si třeba i vodu. Na 2 tužkové baterie vydrží rok i déle. Od Alza.cz - neřešíte cla, máte hned. ______________________________________________ Ještě doplním, že v popisu píší \"Potřeba Mi Home Bluetooth brány\", to ale není pravda, funguje s mobilem samostatně přes Bluetooth, žádná brána není potřeba.",
+   "author": "sender21",
+   "date": "12. 11. 2026 11:17",
+   "discount": "399 Kč",
+   "url": "https://www.alza.cz/qingping-bluetooth-alarm-clock-temperature-d12320486.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 2174500
+  },
+  {
    "source": "redakce",
    "category": "Telefony a tablety",
    "product": "Čtečka eObčanek",
@@ -1856,6 +1870,20 @@
   {
    "source": "redakce",
    "category": "Nářadí a dílna",
+   "product": "Aku vrtačka Parkside",
+   "text": "Lidl má dnes akci na aku vrtací šroubovák Parkside PABS 20-Li I9 . Když si na stránce aktivujete kupón za tisícovku, celá sada šroubováku, dvou baterií, nabíječky a dalšího příslušenství vás vyjde jen na 899 Kč . V kufříku jsou ještě tyto věci: odlamovací nůž, tesařská tužka (+ 2 náhradní tuhy), měřicí pásmo (5 m), 8× nástrčný klíč, záhlubník, důlčík, 5× vrták do dřeva, 14× vrták do kovu, 40 bitů a jeden držák bitů. Na Parkside je tříletá záruka.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 10:45",
+   "discount": "899 Kč",
+   "url": "https://www.lidl.cz/p/parkside-sada-s-aku-vrtacim-sroubovakem-pabs-20-li-i9/p100397948",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 133
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
    "product": "Gravírovací pero Xiaomi",
    "text": "Gravírovací nástroj S zlevnil o 15 % na 671 Kč . Má bezuhlíkový motor, otáčky 15 až 22 tisíc otáček za minutu, výdrž až 60 min a nabíjí se pomocí USB-C. V sadě je také kufřík s 16 nástavci pro gravírování, broušení, leštění a vrtání. Tohle potřebuje každý kutil.",
    "author": "Hlídač slev",
@@ -2029,7 +2057,7 @@
    "source": "redakce",
    "category": "Chytrá domácnost",
    "product": "Pohybový senzor",
-   "text": "Pohybový senzor do chytré domácnosti Aqara FP300 zlevnil na historicky nejnižších 888 Kč . Sleduje pohyb v rozsahu 120° × 90°, má dosah až šest metrů a na dvě baterie CR2450 vydrží až tři roky. Pohyb nebo přítomnost osob snímání pomocí infračerveného nebo mmWave senzoru, měří také intenzitu světla, teplotu a vlhkost. Data předává přes Zigbee nebo Thread. Umí se tak připojit ke všem ekosystémům chytré domácnosti.",
+   "text": "Pohybový senzor do chytré domácnosti Aqara FP300 zlevnil na historicky nejnižších 888 Kč . Sleduje pohyb v rozsahu 120° × 90°, má dosah až šest metrů a na dvě baterie CR2450 vydrží až tři roky. Pohyb nebo přítomnost osob snímá pomocí infračerveného nebo mmWave senzoru, měří také intenzitu světla, teplotu a vlhkost. Data předává přes Zigbee nebo Thread. Umí se tak připojit ke všem ekosystémům chytré domácnosti.",
    "author": "Hlídač slev",
    "date": "8. 11. 2026 14:45",
    "discount": "888 Kč",
@@ -2263,7 +2291,7 @@
   {
    "source": "redakce",
    "category": "Software a předplatné",
-   "product": "EGProton VPN",
+   "product": "Proton VPN",
    "text": "Předplatné Proton VPN Plus je znovu v akci. Dvouletý tarif zlevnil o 75 % a stojí 60 eur (2,50 eura měsíčně) . Po dvou letech bude za 84 eur ročně. V 50% akci je také nejvyšší předplatné Proton Unlimited za 78 eur na rok (6,50 eura měsíčně), to po roce zdraží na 120 eur. Proton ale často mívá nějaké slevy, takže za plnou cenu jej nemá smysl obnovovat.\n\nVPN Plus nabízí plnou rychlost surfování, připojení až 10 zařízení současně a možnost vybrat si z více než 20 tisíc serverů ve 140+ zemích světa. Služba se také specializuje na obcházení geoblockingu u streamovacích služeb typu Netflix. Švýcarská společnost slibuje no-log politiku, takže o uživatelském provozu neuchovává záznamy. Každý rok si také nechá provádět nezávislé audity, které ověřují bezpečnost a důvěryhodnost služby. Unlimited má navíc i šifrovaný e-mail, kancelářskou aplikaci, správce hesel a 500GB cloudový disk.",
    "author": "Hlídač slev",
    "date": "6. 11. 2026 10:45",

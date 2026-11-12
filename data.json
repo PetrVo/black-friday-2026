@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T12:36:07.304Z",
+ "updated": "2026-11-12T13:36:11.169Z",
  "comments": 195,
- "tips": 135,
+ "tips": 136,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1700,6 +1700,20 @@
    "extra": [],
    "expired": false,
    "id": 4
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "Cyklotrenažér s podporou Zwiftu",
+   "text": "Decathlon zlevnil cyklistický trenažér své privátní značky Van Rysel D500 o patnáct stovek na 8499 Kč . V zimě jej doma nasadíte místo zadního kola a můžete dál jezdit. Komunikuje přes Ethernet, Bluetooth a ANT+, je kompatibilní s platformami Zwift, Rouvy a dalšími, které umí na displeji mobilu nebo tabletu vizualizovat skutečnou jízdu a reálné trasy. D500 umí simulovat sklon až 27 %. Nasadit na něj lze prakticky libovolné 26\"–29\" kolo s kazetami o 8 až 12 rychlostech.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 13:45",
+   "discount": "8499 Kč",
+   "url": "https://cyklotrenazery.heureka.cz/van-rysel-d500-s-zwift-cog-and-click/",
+   "host": "cyklotrenazery.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 136
   },
   {
    "source": "diskuze",

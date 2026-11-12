@@ -1,12 +1,26 @@
 {
- "updated": "2026-11-12T11:36:03.977Z",
- "comments": 194,
- "tips": 134,
+ "updated": "2026-11-12T12:36:07.304Z",
+ "comments": 195,
+ "tips": 135,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
  },
  "deals": [
+  {
+   "source": "redakce",
+   "category": "Herní konzole a hry",
+   "product": "Levný gamepad k PC a Switchi",
+   "text": "Alza zlevnila herní ovladač GameSir Nova Lite na 499 Kč , dostupný je v šesti barvách. Je kompatibilní s počítači, mobily, tablety a oběma generacemi Nintenda Switch. Pozor však na to, že neobsahuje gyroskop, který některé switchové hry vyžadují. Připojuje se přes Bluetooth, USB dongle nebo kabelem, který slouží k nabíjení. Tahákem jsou páčky s Hallovými senzory, které nezačnou časem driftovat. Hodnocení jsou velmi pozitivní. Výtky vedou k nastavení nebo spárování, ale stačí pozorně číst návod.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 12:45",
+   "discount": "499 Kč",
+   "url": "https://www.alza.cz/gaming/gamesir-nova-lite-multiplatform-controller-pp-pc-steam-android-ios-switch-d12390168.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 135
+  },
   {
    "source": "redakce",
    "category": "Herní konzole a hry",
@@ -821,6 +835,20 @@
    ],
    "expired": false,
    "id": 1
+  },
+  {
+   "source": "diskuze",
+   "category": "Příslušenství k PC",
+   "product": "Acer veriton n1502g 13nou nuc barebone",
+   "text": "Šikovné a levné je dost obecné. Bez RAM a SSD mi prijde za tu cenu zajimavy Acer Veriton s N150: Ale to je dost ovlivneno tim, ze já bych doma v supliku nasel DDR4 modul i SSD.",
+   "author": "zivan (novy)",
+   "date": "12. 11. 2026 13:28",
+   "discount": "",
+   "url": "https://www.alza.cz/acer-veriton-n1502g-13nou-nuc-barebone-d12985828.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 2174528
   },
   {
    "source": "redakce",

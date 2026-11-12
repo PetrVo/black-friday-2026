@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T15:36:18.554Z",
- "comments": 196,
- "tips": 138,
+ "updated": "2026-11-12T16:36:23.344Z",
+ "comments": 198,
+ "tips": 139,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2267,6 +2267,20 @@
    ],
    "expired": false,
    "id": 9
+  },
+  {
+   "source": "redakce",
+   "category": "Baterie a nabíjení",
+   "product": "Tužkovky za tři koruny",
+   "text": "Není to sice v e-shopu, ale Action má prodejny všude možně. Tento týden v nich nabízí sadu dvaceti tužkových (AA) baterií jen za 60 Kč , tj. 3 Kč za kus. To je výjimečná cena, protože ani ve zvýhodněných sadách obvykle nekoupíte baterie levněji než za pět korun.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 16:45",
+   "discount": "60 Kč",
+   "url": "https://www.action.com/cs-cz/p/3216797/baterie-a-force-aa/",
+   "host": "action.com",
+   "extra": [],
+   "expired": false,
+   "id": 139
   },
   {
    "source": "redakce",

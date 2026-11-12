@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T17:36:27.307Z",
+ "updated": "2026-11-12T18:36:31.058Z",
  "comments": 202,
- "tips": 139,
+ "tips": 140,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1578,6 +1578,20 @@
    "extra": [],
    "expired": true,
    "id": 23
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Hodinky Motorola Moto Watch Ultra",
+   "text": "O2 prodává nejlepší chytré hodinky od Motoroly za 7499 Kč , stačí se o slevu ve výši 5000 Kč přihlásit v aplikaci Moje O2. Moto Watch Ultra vyšly teprve před dvěma měsíci, jde o vrcholný model se systémem Wear OS. Mají 1,5\" kruhový displej, nerezové tělo, eSIM, výkonný čip a až dvoudenní výdrž. V balení jsou dva řemínky – silikonový a kožený.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 18:45",
+   "discount": "7499 Kč",
+   "url": "https://eshop.o2.cz/products/hodinky-motorola-moto-watch-ultra-46mm-cerna",
+   "host": "eshop.o2.cz",
+   "extra": [],
+   "expired": false,
+   "id": 140
   },
   {
    "source": "redakce",

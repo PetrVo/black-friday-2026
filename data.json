@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T07:13:30.158Z",
+ "updated": "2026-11-12T07:17:06.223Z",
  "comments": 191,
- "tips": 129,
+ "tips": 130,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1112,6 +1112,20 @@
    ],
    "expired": false,
    "id": 3
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "AirPods 3 Pro",
+   "text": "Nejlepší špuntová sluchátka od Applu, AirPods Pro 3 , jsou teď na CZC k dostání jen za 4890 Kč . Jinde jsou minimálně o tři stovky dražší a sám výrobce si účtuje 6490 Kč. Tyto AirPody mají velmi dobrý a čistý zvuk, velmi účinné ANC a oproti předchůdcům umí měřit tep. Kvůli snímači se ale upravil design a sluchátka jsou méně pohodlná. V recenzi u nás získala známku 8/10.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 7:45",
+   "discount": "4890 Kč",
+   "url": "https://sluchatka.heureka.cz/apple-airpods-pro-3-mfhp4zm-a/",
+   "host": "sluchatka.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 130
   },
   {
    "source": "redakce",

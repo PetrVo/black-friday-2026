@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T01:44:00.506Z",
- "comments": 189,
- "tips": 117,
+ "updated": "2026-11-12T07:13:30.158Z",
+ "comments": 191,
+ "tips": 129,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -294,6 +294,20 @@
    "id": 13
   },
   {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Výkonná powerbanka",
+   "text": "Powerbanka AlzaPower Parade Gen2 zlevnila o třetinu na 979 Kč . Nabízí kapacitu 27 000 mAh a čtyři výstupní konektory, po dvou USB-C a dvou USB-A. Do jednoho céčka umí pustit plných 100 W, což je také celkový maximální výkon při zapojení všech čtyř konektorů. Nechybí ani displej. Hodnocení je nadprůměrně dobré, lidé této powerbance dávají průměrnou známku 4,6/5.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 16:45",
+   "discount": "cca -33 %; 979 Kč",
+   "url": "https://www.alza.cz/alzapower-parade-gen2-27000mah-power-delivery-100w-cerna-d12907549.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 127
+  },
+  {
    "source": "diskuze",
    "category": "Nabíječky, kabely a příslušenství",
    "product": "Quad Lock Europe®",
@@ -480,6 +494,62 @@
    "extra": [],
    "expired": false,
    "id": 12
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Repro k PC",
+   "text": "Reproduktory Edifier MR3 obvykle stojí okolo 2500 Kč, v Datartu jsou teď za 1890 Kč . Edifier láká na výkon 2 × 18 W, čistý a hutný zvuk i pěkný vzhled. Frekvenční rozsah je od 52 Hz do 40 kHz, ale recenze zmiňují, že pro nejhlubší basy je lepší mít zvláštní subwoofer. Kromě dvou analogových vstupů Edifier nabízí také Bluetooth.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 18:45",
+   "discount": "1890 Kč",
+   "url": "https://reprosoustavy-reproduktory.heureka.cz/edifier-mr3-2/",
+   "host": "reprosoustavy-reproduktory.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 129
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Nejlepší notebook za 15tisíc",
+   "text": "Mall prodává Asus Vivobook 16 X1605VA za 14 690 Kč . Jde o verzi s kvalitním 16\" OLEDem s rozlišením 1200p, 14jádrovým procesorem Intel Core 9 270H, 16 GB RAM a 512GB SSD. Nabízí čtečku otisků, podsvícenou klávesnici, v ceně je i Windows 11 Home a 68W nabíječka. Skvěle vybavený stroj, který na dnešní poměry ani moc nestojí.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 14:45",
+   "discount": "14 690 Kč",
+   "url": "https://notebooky.heureka.cz/asus-vivobook-16-x1605va-oled2842w_2/",
+   "host": "notebooky.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 125
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "MacBook Pro 16",
+   "text": "V Alze teď koupíte letošní MacBook Pro 16 s čipem M5 Pro, 24 GB RAM a 1TB SSD za 70 290 Kč , navíc můžete získat i výkupní bonus. Levněji nestál ani při uvedení. Dnes si jej sám Apple cení na 85 990 Kč. V jiných českých obchodech je cena o několik tisíc výš než v Alze.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 13:45",
+   "discount": "70 290 Kč",
+   "url": "https://www.alza.cz/macbook-pro-16-m5-pro-cz-2026-vesmirne-cerny-d13268962.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 124
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Dotykový notebook HP",
+   "text": "HP Market zlevnil o tři tisíce na 17 990 Kč notebook HP OmniBook 5 Flip. Obsahuje 14\" dotykový displej s rozlišením 1920 × 1200 px na plně otočném kloubu, takže lze zařízení použít i jako tablet. Uvnitř tiká desetijádrový čip Core i5-1334U, po ruce má 16 GB RAM a 512GB SSD. Notebook obsahuje čtyři USB a HDMI, uvnitř je velká 68Wh baterie slibující až 15hodinovou výdrž. Klávesnice je podsvícená, touchpad příjemně velký. V ceně je i Windows 11 Home a jako bonus tříletá záruka.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 11:45",
+   "discount": "17 990 Kč",
+   "url": "https://notebooky.heureka.cz/hp-omnibook-5-flip-14-fp0300nc-bx9c4ea/",
+   "host": "notebooky.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 122
   },
   {
    "source": "redakce",
@@ -717,6 +787,20 @@
    ],
    "expired": false,
    "id": 1
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Dokovací stanice schovaná v klávesnici",
+   "text": "Alza nejlevněji ze všech obchodů nabízí klávesnicový dok Axagon HMC-KB , s 25% slevou stojí 1799 Kč . Jde o plnohodnotnou klávesnici podobnou těm z notebooků a má i české popisky a podsvícení. Specialitou je však nabídka konektorů. Obsahuje USB-C vstup pro 100W nabíječku a céčkový výstup pro připojení notebooku. K tomu má tři USB-A (5 Gb/s), HDMI 2.0, sluchátkový jack a čtečky microSD a SD karet. Samotná klávesnice a dock by vás vyšly levněji, ale takové řešení zabere více místa.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 15:45",
+   "discount": "-25 %; 1799 Kč",
+   "url": "https://www.alza.cz/axagon-hmc-kb-cs-keyboard-hub-usb-c-5gbps-3x-usb-a-hdmi-4k-60hz-sd-msd-audio-pd-100w-d12336679.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 126
   },
   {
    "source": "redakce",
@@ -1028,6 +1112,34 @@
    ],
    "expired": false,
    "id": 3
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Soundbar Sony",
+   "text": "Sony HT-S2000 je 3.1kanálový soundbar, který dokáže vykouzlit prostorový zvuk linoucí se i z boku nebo zezadu. Obvykle stojí osm tisíc, teď se dá v Alze koupit za 5990 Kč . Podporuje všechny klíčové formáty zvuku včetně Dolby Atmos a DTS:X. Televizor stačí připojit přes HDMI eARC a užívat si například Atmosu z Netflixu. Vzhledem ke zpětné kompatibilitě nechybí ani digitální optický vstup, pro streamování a poslech hudby využijete bezdrátové připojení Bluetooth 5.2.\n\nNa výběr máte z několika režimů, nebo můžete vše nechat na automatice. Udávaný celkový výkon je 250 W. Integrovaný subwoofer usnadňuje instalaci, když budete ale chtít vylepšení, můžete později dokoupit externí bezdrátový kus, nebo dokonce zadní bezdrátové efektové bedny. Celkově Sony HT-S2000 představuje dostupné, kvalitní a prostorově nenáročné řešení.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 17:45",
+   "discount": "5990 Kč",
+   "url": "https://www.alza.cz/sony-ht-s2000?dq=7760807%3Fidp%3D2119",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 128
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "4K projektor pod 9 tisíc",
+   "text": "Projektor Optoma Photon Life PK31 zlevnil o polovinu na 8590 Kč . Je to tak nejlevnější model s nativním rozlišením 3840 × 2160 px. Optoma používá technologii DLP a trojici LED světel o světelném toku 900 ANSI lumenů.\n\nSpecialitou je herní režim, který místo nativního 4K při 60 Hz nabídne rozlišení 1080p a 240 Hz. Optoma slibuje automatické ostření i korekci zkreslení, minimální odezvu a úhlopříčku až 150 palců. Jinak jde o hloupý projektor, který vyžaduje vlastní zdroj obrazu. Neobsahuje v sobě žádný integrovaný přehrávač. Má také jen menší 1,1× zoom.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 9:45",
+   "discount": "cca -50 %; 8590 Kč",
+   "url": "https://www.alza.cz/optoma-photon-life-pk31-d13098638.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 120
   },
   {
    "source": "redakce",
@@ -1352,6 +1464,20 @@
   {
    "source": "redakce",
    "category": "Chytré hodinky a fitness",
+   "product": "Nejlepší hodinky Amazfit",
+   "text": "Amazfit Balance Ultra od nedávného uvedení stály skoro 18 tisíc, teď v obchodech nejlepší hodinky výrobce zlevnily na 15 099 Kč . Mají tělo i tlačítka z titanu, velký 1,5\" displej s jasem 3000 nitů krytým safírem. Nechybí svítilna, mikrofon, reproduktory, hlasová navigace ani vodotěsnost pro rekreakční potápění (10 ATM). Tahákem je i 30denní výdrž nebo tréninkové funkce Hyrox. Oproti konkurenci ale neměří EKG a ani s nimi nezaplatíte v obchodě.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 12:45",
+   "discount": "15 099 Kč",
+   "url": "https://chytre-hodinky.heureka.cz/amazfit-balance-ultra_2/",
+   "host": "chytre-hodinky.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 123
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
    "product": "Alzácké „Apple Watch“",
    "text": "Chytré hodinky alzácké privátní značky Wowme Prisma zlevnily na historicky nejnižších 999 Kč . Vypadají trochu jako Apple Watch, mají jemný Amoled, korunku, voděodolnost a základní sadu senzorů pro měření denní a noční aktivity. Umí se také synchronizovat se zdravotními platformami Applu, Googlu či se Stravou. Na jedno nabití vydrží týden. Nedá se s nimi však platit, nemají žádný app store a zapomeňte na GPS pro přesný záznam polohy. Mezi uživateli jsou však populární.",
    "author": "Hlídač slev",
@@ -1484,6 +1610,34 @@
    "extra": [],
    "expired": false,
    "id": 4
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "Čtečka eObčanek",
+   "text": "Pokud chcete používat Občanku k přístupu ke službám státu, v Alze zlevnila o 23 % na 199 Kč čtečka Axagon . Funguje s PC i Androidem, na mobilu ale budete potřebovat OTG adaptér, protože tady je kabel s koncovkou USB-A.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 10:45",
+   "discount": "-23 %; 199 Kč",
+   "url": "https://www.alza.cz/axagon-cre-sm3t-smart-card-id-card-flatreader-usb-a-cable-1-3-m-d12370240.htm?o=3#reviews",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 121
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "Stylus pro iPad",
+   "text": "Alzácký stylus AlzaGuard Magnetic Pen zlevnil o 22 % na 690 Kč . Je kompatibilní se všemi iPady, pomocí magnetu se přichytí k hraně tabletu, ale dobíjí se pomocí USB-C. Funguje s minimální odezvou, nabízí palm rejection a rozpozná náklon, nikoliv však přítlak. V balení jsou i dva náhradní hroty.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 7:45",
+   "discount": "-22 %; 690 Kč",
+   "url": "https://www.alza.cz/alzaguard-magnetic-stylus-pen-bile-d13541405.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 118
   },
   {
    "source": "redakce",
@@ -2009,6 +2163,20 @@
    "extra": [],
    "expired": false,
    "id": 2172804
+  },
+  {
+   "source": "redakce",
+   "category": "Software a předplatné",
+   "product": "Lidl má plošnou 22% slevu",
+   "text": "Největší plošná sleva, jakou kdy Lidl ve svém e-shopu měl. Dnes si můžete v aplikaci nebo na webu aktivovat kupón a vše bude o 22 % levnější .",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 8:45",
+   "discount": "-22 %",
+   "url": "https://www.lidl.cz/c/singles-week/s10080447",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 119
   },
   {
    "source": "redakce",

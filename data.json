@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T17:37:04.772Z",
- "comments": 220,
- "tips": 147,
+ "updated": "2026-11-13T18:37:29.675Z",
+ "comments": 223,
+ "tips": 148,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2497,6 +2497,26 @@
    "extra": [],
    "expired": true,
    "id": 137
+  },
+  {
+   "source": "redakce",
+   "category": "Software a předplatné",
+   "product": "Proton VPN a ExpressVPN",
+   "text": "V akci stále zůstává Proton VPN . Dvouletý tarif zlevnil o 75 % a stojí 60 eur (2,50 eura měsíčně) . V 50% slevě je také nejvyšší předplatné Proton Unlimited za 78 eur na rok (6,50 eura měsíčně). Ten má navíc i šifrovaný e-mail, kancelářskou aplikaci, správce hesel a 500GB cloudový disk.\n\nAlternativa ExpressVPN nabízí až 80% slevy na dvouleté předplatné. Tarif Basic s čtyřměsíčním bonusem vyjde na 84 dolarů (1850 Kč), v přepočtu tedy 66 Kč na měsíc a k tomu DPH. Připlatit se dá za extra služby jako pevnou IP adresu, správce hesel, eSIM apod. ExpressVPN má servery ve více než 100 zemí světa a no-log politiku.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 18:45",
+   "discount": "-50 %; -80 %; -75 %; 60 eur (2,50 eura měsíčně)",
+   "url": "https://go.getproton.me/aff_c?offer_id=25",
+   "host": "go.getproton.me",
+   "extra": [
+    {
+     "url": "https://go.expressvpn.com/c/6124823/1330033/16063",
+     "host": "go.expressvpn.com",
+     "label": "84 dolarů"
+    }
+   ],
+   "expired": false,
+   "id": 148
   },
   {
    "source": "redakce",

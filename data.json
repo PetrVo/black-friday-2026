@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T14:30:49.467Z",
+ "updated": "2026-11-13T15:33:37.519Z",
  "comments": 219,
- "tips": 147,
+ "tips": 148,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -897,6 +897,20 @@
    "extra": [],
    "expired": true,
    "id": 127
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Wi-Fi 7 levně",
+   "text": "iSpace nabízí router Asus RT-BE3600E za 1390 Kč , všude jinde stojí okolo dvou tisíc. Jde o nejdostupnější zařízení s Wi-Fi 7. Pracuje v pásmech 2,4 GHz (propustnost až 688 Mb/s) a 5 GHz (2882 Mb/s), má jeden 2,5Gb/s WAN a tři gigabitové LANy, čtyři externí antény a poměrně hezký design. Dá se nastavit přes web i mobilní aplikaci.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 15:45",
+   "discount": "1390 Kč",
+   "url": "https://access-pointy.heureka.cz/asus-rt-be3600e/",
+   "host": "access-pointy.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 148
   },
   {
    "source": "redakce",

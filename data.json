@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T11:26:48.532Z",
- "comments": 213,
- "tips": 145,
+ "updated": "2026-11-13T12:28:47.559Z",
+ "comments": 214,
+ "tips": 146,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -348,20 +348,6 @@
    "extra": [],
    "expired": false,
    "id": 2174695
-  },
-  {
-   "source": "diskuze",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "Parkside kombinovana sada aku naradi se 3 akumulatory a nabijeckou 12dilna",
-   "text": "Sada Parkside X20 nářadí a baterií za 4990,- (započten dnešní kupón na -3000,-). Kdybych toho už polovinu neměl doma, tak o tom vážně uvažuju. Možná, že jednotlivě v akcích to nevyjde o moc dráž, ale v běžných cenách je to i s kufrem za dvojnásobek.",
-   "author": "Tom V.",
-   "date": "13. 11. 2026 10:04",
-   "discount": "4990 Kč; 3000 Kč",
-   "url": "https://www.lidl.cz/p/parkside-kombinovana-sada-aku-naradi-se-3-akumulatory-a-nabijeckou-12dilna/p100414306",
-   "host": "lidl.cz",
-   "extra": [],
-   "expired": false,
-   "id": 2174668
   },
   {
    "source": "redakce",
@@ -2048,6 +2034,20 @@
    "extra": [],
    "expired": true,
    "id": 102
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Sada nářadí Parkside",
+   "text": "Lidl má ještě jednu extrémně výhodnou akci, 12dílnou sadu aku nářadí Parkside se třemi akumulátory a rychlonabíječkou nabízí s kupónem jen za 4999 Kč . V balení jsou vrtací šroubovák, rázový utahovák, ruční okružní pila, přímočará pila s kyvadlovým zdvihem, pila ocaska, multifunkční nářadí, úhlová bruska a excentrická bruska. A ještě kufr navíc.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 12:45",
+   "discount": "4999 Kč",
+   "url": "https://www.lidl.cz/p/parkside-kombinovana-sada-aku-naradi-se-3-akumulatory-a-nabijeckou-12dilna/p100414306",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 146
   },
   {
    "source": "diskuze",

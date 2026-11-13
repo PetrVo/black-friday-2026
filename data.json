@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T09:09:28.438Z",
- "comments": 207,
- "tips": 142,
+ "updated": "2026-11-13T10:10:13.333Z",
+ "comments": 210,
+ "tips": 144,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1592,6 +1592,34 @@
    "extra": [],
    "expired": true,
    "id": 23
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Galaxy Watch8",
+   "text": "Německý Amazon má pěkné akce na chytré hodinky Samsung Galaxy Watch8 (44mm), stojí tam 4445 Kč . V Česku se nedají koupit za méně než pět tisíc, velcí prodejci s oficiální distribucí si účtují minimálně sedm tisíc. Běží na Wear OS, nabízí skvělý jasný displej a mají všechny myslitelné sportovní i zdravotní funkce. Nechybí dvoupásmová GPS, měří EKG i krevní tlak, můžete s nimi platit v obchodech. Jen výdrž je tradičně slabá.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 10:45",
+   "discount": "4445 Kč",
+   "url": "https://www.amazon.de/dp/B0FBM9W11M?th=1&linkCode=ll2&tag=zivecz-21&linkId=ae2588000c11de0f563a99e16dd8c4ce&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 144
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Levný cyklopočítač s GPS",
+   "text": "Cyklocomputer Lezyne Super Pro prodává Kolokrám za 1290 Kč , běžně stojí o tisícovku víc. Patří k těm nejlevnějším, které umí zaznamenat jízdu pomocí družicového signálu. Podporuje GPS a Glonass, nechybí barometr, umí připojit i senzory přes ANT+ a Bluetooth. Na jedno nabití vydrží až 28 hodin. Nabízí dobře čitelný černobílý displej. Nezobrazí však mapu a neumí navigovat. Slouží jen pro zobrazení dat a záznam trasy.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 9:45",
+   "discount": "1290 Kč",
+   "url": "https://tachometry-na-kolo.heureka.cz/lezyne-super-pro-gps/",
+   "host": "tachometry-na-kolo.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 143
   },
   {
    "source": "redakce",

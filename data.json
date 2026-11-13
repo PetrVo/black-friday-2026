@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T10:10:13.333Z",
- "comments": 210,
- "tips": 144,
+ "updated": "2026-11-13T11:26:48.532Z",
+ "comments": 213,
+ "tips": 145,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -334,6 +334,20 @@
    "extra": [],
    "expired": false,
    "id": 13
+  },
+  {
+   "source": "diskuze",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Parkside performance aku vrtaci sroubovak pabsp 20 li c4 bez akumulatoru a nabijecky",
+   "text": "Tyhle kuponový akce teď jsou vesměs lepší než běžné akce, tahle sada podle hlídače shopů nikdy v akci nebyla, vrtačka z článku je za 1800, předtím nikdy nebyla pod 2000. A tahle brushless za 1300 taky nikdy nebyla v akci a teď je za 600 Děsná pruda je nekompatibilita akumulátorů a už mám doma dva systémy, teď vlastně tři, vzal před týdnem za 560 tohle a další systém nechci, i když tady je někde sada s nabíječkou a aku za cenu co je jinde jen holý nástroj.",
+   "author": "Antonín Novák (xtonda)",
+   "date": "13. 11. 2026 12:12",
+   "discount": "",
+   "url": "https://www.lidl.cz/p/parkside-performance-aku-vrtaci-sroubovak-pabsp-20-li-c4-bez-akumulatoru-a-nabijecky/p100396678",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 2174695
   },
   {
    "source": "diskuze",
@@ -863,6 +877,20 @@
    "extra": [],
    "expired": true,
    "id": 128
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Levná tanková tiskárna",
+   "text": "Multifunkce Brother DCP-T230 s tankovým systémem stojí v Alze 1799 Kč , ještě v říjnu to bylo více než dvakrát tolik. Barevně tiskne rychlostí až 9 stran za minutu, černobíle jich zvládne 16. Má spodní integrovaný zásobník na 150 listů. Oboustranný tisk je bohužel jen manuální. Chybí také Wi-Fi nebo Bluetooth pro bezdrátový tisk, je nutné ji připojit pomocí USB. Po registraci na ni získáte pětiletou záruku.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 11:45",
+   "discount": "1799 Kč",
+   "url": "https://www.alza.cz/brother-dcp-t230-d12988343.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 145
   },
   {
    "source": "redakce",
@@ -2020,6 +2048,20 @@
    "extra": [],
    "expired": true,
    "id": 102
+  },
+  {
+   "source": "diskuze",
+   "category": "Nářadí a dílna",
+   "product": "Parkside aku vrtaci sroubovak pbsa 12 f5",
+   "text": "Tyhle kuponový akce teď jsou vesměs lepší než běžné akce, tahle sada podle hlídače shopů nikdy v akci nebyla, vrtačka z článku je za 1800, předtím nikdy nebyla pod 2000. A tahle brushless za 1300 taky nikdy nebyla v akci a teď je za 600 Děsná pruda je nekompatibilita akumulátorů a už mám doma dva systémy, teď vlastně tři, vzal před týdnem za 560 tohle a další systém nechci, i když tady je někde sada s nabíječkou a aku za cenu co je jinde jen holý nástroj.",
+   "author": "Antonín Novák (xtonda)",
+   "date": "13. 11. 2026 12:12",
+   "discount": "",
+   "url": "https://www.lidl.cz/p/parkside-aku-vrtaci-sroubovak-pbsa-12-f5/p100405608",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 2174695
   },
   {
    "source": "redakce",

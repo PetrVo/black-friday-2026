@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T13:28:51.096Z",
- "comments": 216,
- "tips": 146,
+ "updated": "2026-11-13T14:30:49.467Z",
+ "comments": 219,
+ "tips": 147,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -584,6 +584,26 @@
    "extra": [],
    "expired": true,
    "id": 89
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Fototiskárna Canon",
+   "text": "Amazon prodává dobrou fototiskárnu Canon Selphy CP1500 za 2458 Kč , u nás typicky stojí o tisíc korun víc. Používá termosublimační technologii, tiskne ve formátu 10 x 15 cm s rozlišením 300 dpi. Podporuje připojení přes USB a Wi-Fi. Fotky zní jsou jako z laboratoře a mají ochranu proti vyblednutí nebo otiskům prstů.\n\nVýhodou je, že se u ní neřeší náplně, barvy jsou součástí papírů. Balení 36 listů Canon KP-36IP stojí od 300 korun , tj. 8,30 Kč za fotku.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 14:45",
+   "discount": "2458 Kč",
+   "url": "https://www.amazon.de/dp/B0BBMYF8XD?th=1&linkCode=ll2&tag=zivecz-21&linkId=3a4e86c8940acd8a20c772589d27b722&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [
+    {
+     "url": "https://fotopapiry.heureka.cz/canon-kp-36ip-10x15-36-listu-7737a001/",
+     "host": "fotopapiry.heureka.cz",
+     "label": "od 300 korun"
+    }
+   ],
+   "expired": false,
+   "id": 147
   },
   {
    "source": "redakce",

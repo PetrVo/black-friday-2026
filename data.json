@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T16:34:59.892Z",
- "comments": 219,
- "tips": 146,
+ "updated": "2026-11-13T17:37:04.772Z",
+ "comments": 220,
+ "tips": 147,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -348,6 +348,20 @@
    "extra": [],
    "expired": true,
    "id": 133
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "300W nabíječka od O2",
+   "text": "Operátor O2 začal prodávat novou nabíječku vlastní značky O2 Power Hub s šesti konektory a celkovým výkonem 300 W za 1999 Kč, ale v aplikaci Moje O2 vyjde na 1599 Kč . Nabízí pět USB-C a jeden USB-A. Na jednom céčku nabídne výkon až 140 W. Při plném zapojení výkon rozdělí na 140+65+45+35+7,5+7,5 W.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 17:45",
+   "discount": "1599 Kč",
+   "url": "https://eshop.o2.cz/products/o2-power-hub-300w-bila?variant=46079999246524",
+   "host": "eshop.o2.cz",
+   "extra": [],
+   "expired": false,
+   "id": 147
   },
   {
    "source": "redakce",

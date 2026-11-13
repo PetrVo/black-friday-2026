@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T12:28:47.559Z",
- "comments": 214,
+ "updated": "2026-11-13T13:28:51.096Z",
+ "comments": 216,
  "tips": 146,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
@@ -19,7 +19,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 134
+   "id": 133
   },
   {
    "source": "redakce",
@@ -33,7 +33,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 100
+   "id": 99
   },
   {
    "source": "redakce",
@@ -75,7 +75,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 137
+   "id": 136
   },
   {
    "source": "redakce",
@@ -89,7 +89,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 129
   },
   {
    "source": "diskuze",
@@ -117,7 +117,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 104
+   "id": 103
   },
   {
    "source": "redakce",
@@ -131,7 +131,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 101
+   "id": 100
   },
   {
    "source": "redakce",
@@ -336,6 +336,20 @@
    "id": 13
   },
   {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Levná nabíječka pro dvě zařízení",
+   "text": "V Alze koupíte síťový adaptér Choetech s celkovým výkonem 30 W jen za 139 Kč , běžně stojí dvojnásobek. Má dva výstupy. Do USB-C umí pustit plných 30 W, do USB-A až 18 W. Hodí se hlavně pro nabíjení úspornějších zařízení, kapesní konzole, připojení bezdrátové nabíjecí podložky apod.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 13:45",
+   "discount": "139 Kč",
+   "url": "https://www.alza.cz/choetech-a-c-pd30w-wall-charger-d13090794.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 146
+  },
+  {
    "source": "diskuze",
    "category": "Nabíječky, kabely a příslušenství",
    "product": "Parkside performance aku vrtaci sroubovak pabsp 20 li c4 bez akumulatoru a nabijecky",
@@ -367,7 +381,7 @@
     }
    ],
    "expired": false,
-   "id": 131
+   "id": 130
   },
   {
    "source": "redakce",
@@ -381,7 +395,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 126
+   "id": 125
   },
   {
    "source": "diskuze",
@@ -409,7 +423,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 113
+   "id": 112
   },
   {
    "source": "redakce",
@@ -423,7 +437,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 105
+   "id": 104
   },
   {
    "source": "redakce",
@@ -443,7 +457,7 @@
     }
    ],
    "expired": false,
-   "id": 99
+   "id": 98
   },
   {
    "source": "redakce",
@@ -583,7 +597,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 124
+   "id": 123
   },
   {
    "source": "redakce",
@@ -597,7 +611,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 123
+   "id": 122
   },
   {
    "source": "redakce",
@@ -611,7 +625,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 121
+   "id": 120
   },
   {
    "source": "redakce",
@@ -625,7 +639,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 112
+   "id": 111
   },
   {
    "source": "redakce",
@@ -639,7 +653,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 107
+   "id": 106
   },
   {
    "source": "redakce",
@@ -862,7 +876,7 @@
    "host": "reprosoustavy-reproduktory.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 128
+   "id": 127
   },
   {
    "source": "redakce",
@@ -876,7 +890,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 145
+   "id": 144
   },
   {
    "source": "redakce",
@@ -890,7 +904,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 139
+   "id": 138
   },
   {
    "source": "diskuze",
@@ -918,7 +932,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 133
+   "id": 132
   },
   {
    "source": "redakce",
@@ -932,7 +946,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 125
+   "id": 124
   },
   {
    "source": "redakce",
@@ -946,7 +960,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 108
+   "id": 107
   },
   {
    "source": "redakce",
@@ -1257,7 +1271,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 129
+   "id": 128
   },
   {
    "source": "redakce",
@@ -1271,7 +1285,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 127
+   "id": 126
   },
   {
    "source": "redakce",
@@ -1285,7 +1299,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 119
+   "id": 118
   },
   {
    "source": "redakce",
@@ -1299,7 +1313,7 @@
    "host": "dafilms.cz",
    "extra": [],
    "expired": false,
-   "id": 110
+   "id": 109
   },
   {
    "source": "redakce",
@@ -1546,7 +1560,7 @@
    "host": "autoradia.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 98
+   "id": 97
   },
   {
    "source": "redakce",
@@ -1619,7 +1633,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 144
+   "id": 143
   },
   {
    "source": "redakce",
@@ -1633,7 +1647,7 @@
    "host": "tachometry-na-kolo.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 143
+   "id": 142
   },
   {
    "source": "redakce",
@@ -1647,7 +1661,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 140
+   "id": 139
   },
   {
    "source": "redakce",
@@ -1661,7 +1675,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 122
+   "id": 121
   },
   {
    "source": "redakce",
@@ -1825,7 +1839,7 @@
    "host": "myheritage.cz",
    "extra": [],
    "expired": false,
-   "id": 136
+   "id": 135
   },
   {
    "source": "redakce",
@@ -1839,7 +1853,7 @@
    "host": "cyklotrenazery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 135
+   "id": 134
   },
   {
    "source": "diskuze",
@@ -1867,7 +1881,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 120
+   "id": 119
   },
   {
    "source": "redakce",
@@ -1881,7 +1895,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 117
+   "id": 116
   },
   {
    "source": "redakce",
@@ -2019,7 +2033,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 109
+   "id": 108
   },
   {
    "source": "redakce",
@@ -2033,7 +2047,7 @@
    "host": "tablety.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 102
+   "id": 101
   },
   {
    "source": "redakce",
@@ -2047,7 +2061,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 146
+   "id": 145
   },
   {
    "source": "diskuze",
@@ -2075,7 +2089,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 142
+   "id": 141
   },
   {
    "source": "redakce",
@@ -2089,7 +2103,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 132
+   "id": 131
   },
   {
    "source": "redakce",
@@ -2123,7 +2137,7 @@
     }
    ],
    "expired": true,
-   "id": 115
+   "id": 114
   },
   {
    "source": "redakce",
@@ -2233,7 +2247,7 @@
     }
    ],
    "expired": true,
-   "id": 106
+   "id": 105
   },
   {
    "source": "redakce",
@@ -2247,7 +2261,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 103
+   "id": 102
   },
   {
    "source": "redakce",
@@ -2392,7 +2406,7 @@
    "host": "action.com",
    "extra": [],
    "expired": false,
-   "id": 138
+   "id": 137
   },
   {
    "source": "redakce",
@@ -2406,7 +2420,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 111
+   "id": 110
   },
   {
    "source": "redakce",
@@ -2434,7 +2448,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 141
+   "id": 140
   },
   {
    "source": "redakce",
@@ -2448,7 +2462,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 114
+   "id": 113
   },
   {
    "source": "diskuze",
@@ -2476,7 +2490,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 118
+   "id": 117
   },
   {
    "source": "redakce",
@@ -2490,27 +2504,7 @@
    "host": "bundlehunt.com",
    "extra": [],
    "expired": false,
-   "id": 116
-  },
-  {
-   "source": "redakce",
-   "category": "Software a předplatné",
-   "product": "ExpressVPN",
-   "text": "Služba ExpressVPN nabízí až 80% slevy na dvouleté předplatné. Tarif Basic s čtyřměsíčním bonusem vyjde na 84 dolarů (1850 Kč), v přepočtu tedy 66 Kč na měsíc a k tomu DPH. Připlatit se dá za extra služby jako pevnou IP adresu, správce hesel, eSIM apod. ExpressVPN má servery ve více než 100 zemí světa a no-log politiku.\n\nV akci je pořád ještě i Proton VPN . Dvouletý tarif zlevnil o 75 % a stojí 60 eur (2,50 eura měsíčně) . V 50% akci je také nejvyšší předplatné Proton Unlimited za 78 eur na rok (6,50 eura měsíčně).",
-   "author": "Hlídač slev",
-   "date": "9. 11. 2026 11:45",
-   "discount": "-80 %; -75 %; 60 eur (2,50 eura měsíčně); 78 eur",
-   "url": "https://go.expressvpn.com/c/6124823/1330033/16063",
-   "host": "go.expressvpn.com",
-   "extra": [
-    {
-     "url": "https://go.getproton.me/aff_c?offer_id=25",
-     "host": "go.getproton.me",
-     "label": "60 eur (2,50 eura měsíčně)"
-    }
-   ],
-   "expired": false,
-   "id": 97
+   "id": 115
   },
   {
    "source": "redakce",

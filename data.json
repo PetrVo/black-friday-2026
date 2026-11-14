@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T10:45:49.163Z",
- "comments": 236,
- "tips": 150,
+ "updated": "2026-11-14T11:46:48.168Z",
+ "comments": 237,
+ "tips": 151,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2088,6 +2088,26 @@
    "extra": [],
    "expired": true,
    "id": 105
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Šroubovák iFixit",
+   "text": "Experti na opravy elektroniky iFixit mají i vlastní sadu se šroubovákem. V Alze je s 20% slevou za 799 Kč balení s 64 bity. Za 1399 Kč koupíte větší set, který navíc obsahuje i špachtle, flexibilní nástavec, pinzety a další nářadí vhodné pro rozebírání mobilů a další elektroniky. Obojí s výborným hodnocením 4,9/5 a desetiletou zárukou.",
+   "author": "Hlídač slev",
+   "date": "14. 11. 2026 12:45",
+   "discount": "-20 %; 799 Kč; 1399 Kč",
+   "url": "https://www.alza.cz/hobby/ifixit-mako-64-bit-driver-kit-d5453806.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/hobby/ifixit-pro-tech-toolkit-d5453457.htm",
+     "host": "alza.cz",
+     "label": "1399 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 151
   },
   {
    "source": "diskuze",

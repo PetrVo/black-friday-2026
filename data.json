@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T16:47:11.057Z",
+ "updated": "2026-11-14T17:47:15.352Z",
  "comments": 242,
- "tips": 153,
+ "tips": 154,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -612,6 +612,20 @@
    "extra": [],
    "expired": false,
    "id": 12
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "AlzaPC za dobrou cenu",
+   "text": "Alza nabízí počítač AlzaPC GameBox Prime s 10% slevou za 42 990 Kč . Cena samotných komponent přitom přesahuje 50 tisíc. Uvnitř je 10jádrový procesor Intel Core Ultra 5 225F, 32 GB RAM, 1TB SSD, grafika GeForce RTX 5060 Ti (16 GB), 750W zdroj Fortron, chladič Fera 5 a v ceně je i OEM licence na Windows 11 Home.",
+   "author": "Hlídač slev",
+   "date": "14. 11. 2026 18:45",
+   "discount": "-10 %; 42 990 Kč",
+   "url": "https://www.alza.cz/alzapc/alzapc-gamebox-prime-u5-rtx5060ti-16gb-32gb-ram-1tb-ssd-d13501054.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 154
   },
   {
    "source": "redakce",

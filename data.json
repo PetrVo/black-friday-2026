@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T13:46:57.408Z",
+ "updated": "2026-11-14T15:47:03.808Z",
  "comments": 241,
- "tips": 152,
+ "tips": 153,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1326,6 +1326,20 @@
    ],
    "expired": false,
    "id": 3
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Ještě levnější Sonos Ace",
+   "text": "Sluchátka Sonos Ace znovu zlevnila na historické minimum. Na začátku Black Friday cena spadla plošně 5690 Kč, teď už jsou skoro všude za 4990 Kč . Dříve se prodávala i za dvojnásobek. Mají dobrý zvuk, účinné ANC, prémiové provedení a hromadu užitečných funkcí. Pro sledování filmů jde o jedny z nejlepších sluchátek vůbec, podporují i Dolby Atmos. Ace skvěle spolupracují se soundbary od Sonosu. Více se o nich dozvíte v naší recenzi .",
+   "author": "Hlídač slev",
+   "date": "14. 11. 2026 16:45",
+   "discount": "4990 Kč",
+   "url": "https://www.alza.cz/sonos-ace-black-d12360245.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 153
   },
   {
    "source": "redakce",

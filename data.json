@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:47:15.352Z",
+ "updated": "2026-11-14T19:47:21.199Z",
  "comments": 242,
  "tips": 154,
  "sources": {
@@ -25,10 +25,10 @@
    "source": "redakce",
    "category": "Herní konzole a hry",
    "product": "Bezdrátový headset pro PC a PS5",
-   "text": "Náhlavní sluchátka s mikrofonem Sony Inzone H9 II v Alze zlevnila na téměř polovinu běžné ceny, stojí 4990 Kč . Jde o headset pro PC, PS4 a PS5, který se připojuje kabelem, přes Bluetooth i USB/RF dongle. Hrají velmi dobře, mají vynikající ANC jako u hudebních sluchátek od Sony, kvalitní mikrofon potlačující šum a podporují virtuální prostorový zvuk 7.1. Slabší je jen 30hodinová výdrž, konkurence zvládá delší.",
+   "text": "Náhlavní sluchátka s mikrofonem Sony Inzone H9 II v Alze zlevnila na téměř polovinu běžné ceny, s kupónem stojí 4491 Kč . Jde o headset pro PC, PS4 a PS5, který se připojuje kabelem, přes Bluetooth i USB/RF dongle. Hrají velmi dobře, mají vynikající ANC jako u hudebních sluchátek od Sony, kvalitní mikrofon potlačující šum a podporují virtuální prostorový zvuk 7.1. Slabší je jen 30hodinová výdrž, konkurence zvládá delší.",
    "author": "Hlídač slev",
    "date": "9. 11. 2026 14:45",
-   "discount": "4990 Kč",
+   "discount": "4491 Kč",
    "url": "https://www.alza.cz/sony-inzone-h9-ii-cerna-d13059237.htm?o=3",
    "host": "alza.cz",
    "extra": [],
@@ -651,7 +651,7 @@
    "source": "redakce",
    "category": "Počítače a notebooky",
    "product": "Fototiskárna Canon",
-   "text": "Amazon prodává dobrou fototiskárnu Canon Selphy CP1500 za 2458 Kč , u nás typicky stojí o tisíc korun víc. Používá termosublimační technologii, tiskne ve formátu 10 x 15 cm s rozlišením 300 dpi. Podporuje připojení přes USB a Wi-Fi. Fotky zní jsou jako z laboratoře a mají ochranu proti vyblednutí nebo otiskům prstů.\n\nVýhodou je, že se u ní neřeší náplně, barvy jsou součástí papírů. Balení 36 listů Canon KP-36IP stojí od 300 korun , tj. 8,30 Kč za fotku.",
+   "text": "Amazon prodává dobrou fototiskárnu Canon Selphy CP1500 za 2458 Kč , u nás typicky stojí o tisíc korun víc. Používá termosublimační technologii, tiskne ve formátu 10 x 15 cm s rozlišením 300 dpi. Podporuje připojení přes USB a Wi-Fi. Fotky zní jsou jako z laboratoře a mají ochranu proti vyblednutí nebo otiskům prstů.\n\nVýhodou je, že se u ní neřeší náplně, barvy jsou součástí papírů. Balení 36 listů Canon KP-36IP stojí kolem 300 korun , tj. 8,30 Kč za fotku.",
    "author": "Hlídač slev",
    "date": "13. 11. 2026 14:45",
    "discount": "2458 Kč",
@@ -661,7 +661,7 @@
     {
      "url": "https://fotopapiry.heureka.cz/canon-kp-36ip-10x15-36-listu-7737a001/",
      "host": "fotopapiry.heureka.cz",
-     "label": "od 300 korun"
+     "label": "kolem 300 korun"
     }
    ],
    "expired": false,
@@ -764,20 +764,6 @@
    "extra": [],
    "expired": false,
    "id": 58
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Herní PC levnější než cena komponent",
-   "text": "Smarty prodává počítač vlastní privátní značky Tigo Machine za 27 066 Kč , běžně stojí 30 tisíc. Jen cena komponent uvnitř ale má hodnotu skoro 31 tisíc. Jde o dobře vyvážený stroj s malou skříní DeepCool, ve kterém najdeme osmijádro Ryzen 7 5700X, 16 GB RAM, 1TB SSD a grafiku Radeon RX 9060 XT (8 GB). Zdroj o výkonu 650 W je také od DeepCoolu, procesorový chladič s ARGB podsvícením je brandované Tigo. Zajímavostí je operační systém, Smarty nasadil linuxovou distribuci Bazzite optimalizovanou pro hry.",
-   "author": "Hlídač slev",
-   "date": "4. 11. 2026 15:45",
-   "discount": "27 066 Kč",
-   "url": "https://www.smarty.cz/TIGO-MACHINE-R7-5700X-RX-9060-XT-1TB-16GB-WIFI-4p280950",
-   "host": "smarty.cz",
-   "extra": [],
-   "expired": false,
-   "id": 57
   },
   {
    "source": "redakce",
@@ -945,6 +931,20 @@
    "extra": [],
    "expired": true,
    "id": 124
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Herní PC levnější než cena komponent",
+   "text": "Smarty prodává počítač vlastní privátní značky Tigo Machine za 27 066 Kč , běžně stojí 30 tisíc. Jen cena komponent uvnitř ale má hodnotu skoro 31 tisíc. Jde o dobře vyvážený stroj s malou skříní DeepCool, ve kterém najdeme osmijádro Ryzen 7 5700X, 16 GB RAM, 1TB SSD a grafiku Radeon RX 9060 XT (8 GB). Zdroj o výkonu 650 W je také od DeepCoolu, procesorový chladič s ARGB podsvícením je brandované Tigo. Zajímavostí je operační systém, Smarty nasadil linuxovou distribuci Bazzite optimalizovanou pro hry.",
+   "author": "Hlídač slev",
+   "date": "4. 11. 2026 15:45",
+   "discount": "27 066 Kč",
+   "url": "https://www.smarty.cz/TIGO-MACHINE-R7-5700X-RX-9060-XT-1TB-16GB-WIFI-4p280950",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": true,
+   "id": 57
   },
   {
    "source": "redakce",
@@ -1407,19 +1407,13 @@
    "source": "redakce",
    "category": "TV a audio",
    "product": "Výborný OLED na práci",
-   "text": "Monitor Dell S3225QC zlevnil na Digitoru na 12 097 Kč . V Alze je za 12 590 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
+   "text": "Monitor Dell S3225QC zlevnil v mnoha eshopech, třeba ve Světě počítačů, na 9300 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
    "author": "Hlídač slev",
    "date": "6. 11. 2026 9:45",
-   "discount": "12 097 Kč; 12 590 Kč",
+   "discount": "9300 Kč",
    "url": "https://monitory.heureka.cz/dell-s3225qc_2/",
    "host": "monitory.heureka.cz",
-   "extra": [
-    {
-     "url": "https://www.alza.cz/32-dell-32-plus-s3225qc-d13002163.htm",
-     "host": "alza.cz",
-     "label": "12 590 Kč"
-    }
-   ],
+   "extra": [],
    "expired": false,
    "id": 75
   },
@@ -1441,10 +1435,10 @@
    "source": "redakce",
    "category": "TV a audio",
    "product": "Nejlepší špunty",
-   "text": "Bezdrátové špunty Sony WF-1000XM6 plošně zlevnily o 10 % na 5690 Kč . Je to další model, který v naší recenzi získal maximální možnou známku 10/10. Sony skvěle hrají, mají nejlepší ANC na trhu, zlepšil se mikrofon, dlouho vydrží a povedená je i mobilní aplikace.",
+   "text": "Bezdrátové špunty Sony WF-1000XM6 plošně zlevnily, například na Alze stojí 5406 Kč . Je to další model, který v naší recenzi získal maximální možnou známku 10/10. Sony skvěle hrají, mají nejlepší ANC na trhu, zlepšil se mikrofon, dlouho vydrží a povedená je i mobilní aplikace.",
    "author": "Hlídač slev",
    "date": "5. 11. 2026 10:45",
-   "discount": "-10 %; 5690 Kč",
+   "discount": "5406 Kč",
    "url": "https://sluchatka.heureka.cz/sony-noise-cancelling-wf-1000xm6/",
    "host": "sluchatka.heureka.cz",
    "extra": [],
@@ -1595,7 +1589,7 @@
    "source": "redakce",
    "category": "TV a audio",
    "product": "Levné OLED TV",
-   "text": "Planeo a další obchody prodávají letošní základní OLED TV od LG o 20 % levněji. Nejmenší 48\" model stojí 17 990 Kč . Varianta s 55\" úhlopříčkou LG OLED55B65 se prodává za 19 990 Kč . Větší LG OLED65B65 je za 24 990 Kč . Televizory mají skvělý obraz, který bude slušet filmům i hrám, podporují 120Hz frekvenci a mají chytrý systém webOS. Oproti dražším modelům však nabídnou nižší jas nebo slabší procesor pro zpracování obrazu z nižšího rozlišení, typicky televizního vysílání.",
+   "text": "Planeo a další obchody prodávají letošní základní OLED TV od LG o 20 % levněji. Nejmenší 48\" model stojí 17 990 Kč . Varianta s 55\" úhlopříčkou LG OLED55B65 se prodává za 19 990 Kč . Větší LG OLED65B65 je například v LG Shopu za 24 990 Kč . Televizory mají skvělý obraz, který bude slušet filmům i hrám, podporují 120Hz frekvenci a mají chytrý systém webOS. Oproti dražším modelům však nabídnou nižší jas nebo slabší procesor pro zpracování obrazu z nižšího rozlišení, typicky televizního vysílání.",
    "author": "Hlídač slev",
    "date": "30. 10. 2026 11:45",
    "discount": "17 990 Kč; 19 990 Kč; 24 990 Kč",
@@ -1638,7 +1632,7 @@
    "author": "Hlídač slev",
    "date": "11. 11. 2026 17:45",
    "discount": "5990 Kč",
-   "url": "https://www.alza.cz/sony-ht-s2000?dq=7760807%3Fidp%3D2119",
+   "url": "https://www.alza.cz/sony-ht-s2000?dq=7760807%3F&dp=2119",
    "host": "alza.cz",
    "extra": [],
    "expired": true,
@@ -1996,6 +1990,20 @@
   {
    "source": "redakce",
    "category": "Telefony a tablety",
+   "product": "Super telefon pod osm tisíc",
+   "text": "Smartphone střední třídy Poco X8 Pro (8/256 GB) všude – třeba na Alze – zlevnil z deseti tisíc na 8490 Kč . Za to dostanete telefon s výborným OLEDem, dostatečným výkonem, voděodolností, dlouhou výdrží a kvalitními foťáky. Jen zapomeňte na zoom nebo bezdrátové nabíjení. Poco jako jeden z mála výrobců integroval i užitečnou zadní notifikační diodu a infraport pro ovládání spotřebičů.",
+   "author": "Hlídač slev",
+   "date": "10. 11. 2026 11:45",
+   "discount": "8490 Kč",
+   "url": "https://mobilni-telefony.heureka.cz/poco-x8-pro-8gb-256gb-white/",
+   "host": "mobilni-telefony.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 105
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
    "product": "Velký tablet s LTE",
    "text": "Na jarní cenu se vrátil tablet Blackview Mega 2 , který v Alze stojí 4489 Kč , jinde chtějí o dva tisíce navíc. Používá 12\" displej s rozlišením 2000 × 1200 px, uvnitř je základní osmijádrový čip s 12 GB RAM a 256GB úložištěm plus slotem pro microSD kartu. Potěší LTE modem, GPS a bohaté příslušenství. Tablet má dvě krycí skla na displej (jedno už je aplikované), klávesnici, myši i nabíječku. Sbírá nadšené recenze s průměrnou známkou 4,9/5.",
    "author": "Hlídač slev",
@@ -2006,26 +2014,6 @@
    "extra": [],
    "expired": false,
    "id": 73
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
-   "product": "Nejlevnější čtečka e-knih",
-   "text": "PocketBook 619 Verse Lite v Alze zlevnil o 10 % na 2151 Kč , levněji u nás žádnou jinou čtečku e-knih nekoupíte. Má 6\" displej, dostatečné rozlišení 212 dpi, podsvícení, české prostředí a nabíjení pomocí USB-C.\n\nVýhodný je také o stupeň vyšší model PocketBook 629 Verse za 2600 Kč . Většina parametrů je shodná, ale má podsvícení s volitelnou teplotou reagující na okolní světlo, čtečku microSD karet (pokud by nestačilo interní 8GB úložiště) a o polovinu větší baterii. Kvůli tomu ale také váží více.",
-   "author": "Hlídač slev",
-   "date": "4. 11. 2026 13:45",
-   "discount": "-10 %; 2151 Kč; 2600 Kč",
-   "url": "https://www.alza.cz/pocketbook-619-verse-lite-midnight-gray-sedy-d12902826.htm",
-   "host": "alza.cz",
-   "extra": [
-    {
-     "url": "https://www.alza.cz/pocketbook-629-verse-bright-blue-modry-d7927849.htm",
-     "host": "alza.cz",
-     "label": "2600 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 55
   },
   {
    "source": "redakce",
@@ -2076,20 +2064,6 @@
    "id": 15
   },
   {
-   "source": "redakce",
-   "category": "Telefony a tablety",
-   "product": "Barevná čtečka za pár korun",
-   "text": "Čtečku e-knih PocketBook Verse Pro Color koupíte v Alze za 3321 Kč , levněji nikde není a nikdy ani nebyla. Má 6\" displej s rozlišením 300 dpi. Zobrazí i 4096 barev, je podsvícený a dotykový. Oproti Kindlům jsou zde tradičně také české menu, listování i pomocí tlačítek nebo podpora ochrany Adobe DRM pro EPUB a PDF, jenž využívají některé obchody s e-knihami.",
-   "author": "Hlídač slev",
-   "date": "30. 10. 2026 13:45",
-   "discount": "3321 Kč",
-   "url": "https://www.alza.cz/pocketbook-634k3-verse-pro-color-stormy-sea-d12723942.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 7
-  },
-  {
    "source": "diskuze",
    "category": "Telefony a tablety",
    "product": "Vodafone 1000 GB SIM (data na rok): výhodná cena",
@@ -2120,16 +2094,36 @@
   {
    "source": "redakce",
    "category": "Telefony a tablety",
-   "product": "Super telefon pod osm tisíc",
-   "text": "Smartphone střední třídy Poco X8 Pro (8/256 GB) všude zlevnil z deseti tisíc na 8490 Kč. Mall.cz ale nabízí 12 kusů za 7499 Kč . Za to dostanete telefon s výborným OLEDem, dostatečným výkonem, voděodolností, dlouhou výdrží a kvalitními foťáky. Jen zapomeňte na zoom nebo bezdrátové nabíjení. Poco jako jeden z mála výrobců integroval i užitečnou zadní notifikační diodu a infraport pro ovládání spotřebičů.",
+   "product": "Nejlevnější čtečka e-knih",
+   "text": "PocketBook 619 Verse Lite v Alze zlevnil o 10 % na 2151 Kč , levněji u nás žádnou jinou čtečku e-knih nekoupíte. Má 6\" displej, dostatečné rozlišení 212 dpi, podsvícení, české prostředí a nabíjení pomocí USB-C.\n\nVýhodný je také o stupeň vyšší model PocketBook 629 Verse za 2600 Kč . Většina parametrů je shodná, ale má podsvícení s volitelnou teplotou reagující na okolní světlo, čtečku microSD karet (pokud by nestačilo interní 8GB úložiště) a o polovinu větší baterii. Kvůli tomu ale také váží více.",
    "author": "Hlídač slev",
-   "date": "10. 11. 2026 11:45",
-   "discount": "7499 Kč",
-   "url": "https://mobilni-telefony.heureka.cz/poco-x8-pro-8gb-256gb-white/",
-   "host": "mobilni-telefony.heureka.cz",
+   "date": "4. 11. 2026 13:45",
+   "discount": "-10 %; 2151 Kč; 2600 Kč",
+   "url": "https://www.alza.cz/pocketbook-619-verse-lite-midnight-gray-sedy-d12902826.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/pocketbook-629-verse-bright-blue-modry-d7927849.htm",
+     "host": "alza.cz",
+     "label": "2600 Kč"
+    }
+   ],
+   "expired": true,
+   "id": 55
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "Barevná čtečka za pár korun",
+   "text": "Čtečku e-knih PocketBook Verse Pro Color koupíte v Alze za 3321 Kč , levněji nikde není a nikdy ani nebyla. Má 6\" displej s rozlišením 300 dpi. Zobrazí i 4096 barev, je podsvícený a dotykový. Oproti Kindlům jsou zde tradičně také české menu, listování i pomocí tlačítek nebo podpora ochrany Adobe DRM pro EPUB a PDF, jenž využívají některé obchody s e-knihami.",
+   "author": "Hlídač slev",
+   "date": "30. 10. 2026 13:45",
+   "discount": "3321 Kč",
+   "url": "https://www.alza.cz/pocketbook-634k3-verse-pro-color-stormy-sea-d12723942.htm",
+   "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 105
+   "id": 7
   },
   {
    "source": "redakce",
@@ -2230,20 +2224,6 @@
   {
    "source": "redakce",
    "category": "Nářadí a dílna",
-   "product": "Aku vrtačka Parkside",
-   "text": "Lidl má dnes akci na aku vrtací šroubovák Parkside PABS 20-Li I9 . Když si na stránce aktivujete kupón za tisícovku, celá sada šroubováku, dvou baterií, nabíječky a dalšího příslušenství vás vyjde jen na 899 Kč . V kufříku jsou ještě tyto věci: odlamovací nůž, tesařská tužka (+ 2 náhradní tuhy), měřicí pásmo (5 m), 8× nástrčný klíč, záhlubník, důlčík, 5× vrták do dřeva, 14× vrták do kovu, 40 bitů a jeden držák bitů. Na Parkside je tříletá záruka.",
-   "author": "Hlídač slev",
-   "date": "12. 11. 2026 10:45",
-   "discount": "899 Kč",
-   "url": "https://www.lidl.cz/p/parkside-sada-s-aku-vrtacim-sroubovakem-pabs-20-li-i9/p100397948",
-   "host": "lidl.cz",
-   "extra": [],
-   "expired": false,
-   "id": 128
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
    "product": "Gravírovací pero Xiaomi",
    "text": "Gravírovací nástroj S zlevnil o 15 % na 671 Kč . Má bezuhlíkový motor, otáčky 15 až 22 tisíc otáček za minutu, výdrž až 60 min a nabíjí se pomocí USB-C. V sadě je také kufřík s 16 nástavci pro gravírování, broušení, leštění a vrtání. Tohle potřebuje každý kutil.",
    "author": "Hlídač slev",
@@ -2254,6 +2234,20 @@
    "extra": [],
    "expired": false,
    "id": 71
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Aku vrtačka Parkside",
+   "text": "Lidl má dnes akci na aku vrtací šroubovák Parkside PABS 20-Li I9 . Když si na stránce aktivujete kupón za tisícovku, celá sada šroubováku, dvou baterií, nabíječky a dalšího příslušenství vás vyjde jen na 899 Kč . V kufříku jsou ještě tyto věci: odlamovací nůž, tesařská tužka (+ 2 náhradní tuhy), měřicí pásmo (5 m), 8× nástrčný klíč, záhlubník, důlčík, 5× vrták do dřeva, 14× vrták do kovu, 40 bitů a jeden držák bitů. Na Parkside je tříletá záruka.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 10:45",
+   "discount": "899 Kč",
+   "url": "https://www.lidl.cz/p/parkside-sada-s-aku-vrtacim-sroubovakem-pabs-20-li-i9/p100397948",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": true,
+   "id": 128
   },
   {
    "source": "redakce",

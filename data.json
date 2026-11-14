@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T12:46:52.383Z",
- "comments": 240,
- "tips": 151,
+ "updated": "2026-11-14T13:46:57.408Z",
+ "comments": 241,
+ "tips": 152,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -62,6 +62,20 @@
    "extra": [],
    "expired": false,
    "id": 44
+  },
+  {
+   "source": "redakce",
+   "category": "Monitory",
+   "product": "Základní herní monitor",
+   "text": "V Planeu koupíte MSI Pro MP271A E2 za 1490 Kč . Používá 27\" IPS panel s rozlišením 1920 × 1080 px, frekvencí 120 Hz a ucházejícím barevným podáním. Jas činí obvyklých 300 nitů a stojan umožňuje jen náklon. Vzadu má jedno HDMI 1.4b, jeden DisplayPort 1.2a, analogový D-Sub a sluchátkový výstup. Součástí jsou také stereo reproduktory, které ale budou hrát příšerně. Monitor se hodí k levnému hernímu PC nebo uživatelům, kteří hůře vidí. Full HD na takové úhlopříčce nabídne velké písmo, ale logicky i hrubší rastr.",
+   "author": "Hlídač slev",
+   "date": "14. 11. 2026 14:45",
+   "discount": "1490 Kč",
+   "url": "https://monitory.heureka.cz/msi-pro-mp271a-e2/",
+   "host": "monitory.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 152
   },
   {
    "source": "redakce",

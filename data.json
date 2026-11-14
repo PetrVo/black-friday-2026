@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T07:43:05.028Z",
+ "updated": "2026-11-14T08:44:29.780Z",
  "comments": 232,
- "tips": 148,
+ "tips": 149,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2072,6 +2072,26 @@
   {
    "source": "redakce",
    "category": "Nářadí a dílna",
+   "product": "Akumulátory Parkside",
+   "text": "Lidl má dnes opět v akci akumulátory pro nářadí Parkside (Performance). Jsou kompatibilní se všemi produkty řady X 20 V Team. Nejmenší 2Ah akumulátor včetně nabíječky stojí s kupónem jen 300 Kč . Větší 4Ah stojí 500 Kč .",
+   "author": "Hlídač slev",
+   "date": "14. 11. 2026 8:45",
+   "discount": "300 Kč; 500 Kč",
+   "url": "https://www.lidl.cz/p/parkside-akumulator-2-ah-pap-202-a1-a-nabijecka-plg-20-c1-limited-edition/p100407867",
+   "host": "lidl.cz",
+   "extra": [
+    {
+     "url": "https://www.lidl.cz/p/parkside-performance-smart-akumulator-4-ah-papp-204-a1/p100398333",
+     "host": "lidl.cz",
+     "label": "500 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 149
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
    "product": "Sada nářadí Parkside",
    "text": "Lidl má ještě jednu extrémně výhodnou akci, 12dílnou sadu aku nářadí Parkside se třemi akumulátory a rychlonabíječkou nabízí s kupónem jen za 4999 Kč . V balení jsou vrtací šroubovák, rázový utahovák, ruční okružní pila, přímočará pila s kyvadlovým zdvihem, pila ocaska, multifunkční nářadí, úhlová bruska a excentrická bruska. A ještě kufr navíc.",
    "author": "Hlídač slev",
@@ -2490,7 +2510,7 @@
    "product": "AirTag 2 za pětistovku",
    "text": "Smarty dnes nabízí sadu čtyř AirTagů druhé generace za 1990 Kč . V prodeji je jen 12 kusů, tak neváhejte. Jinde jsou minimálně o 250 Kč dražší, doporučená cena Applem činí 2690 Kč. Vylepšené lokátory mají delší dosah Bluetooth i UWB a hlasitější repráček. Hodí se na klíče, do peněženek, kufrů, batohů, na kola nebo další věci, které se mohou ztratit. Nyní už mají tuto cenu pouze členové programu Smarty Student.",
    "author": "Hlídač slev",
-   "date": "14. 11. 2026 7:45",
+   "date": "13. 11. 2026 7:45",
    "discount": "1990 Kč",
    "url": "https://www.smarty.cz/Apple-AirTag-2-generace-sada-4-ks-4p256954",
    "host": "smarty.cz",
@@ -2563,7 +2583,7 @@
   {
    "source": "diskuze",
    "category": "Ostatní",
-   "product": "secretlab.eu",
+   "product": "Promotions",
    "text": "",
    "author": "0x",
    "date": "12. 11. 2026 19:59",

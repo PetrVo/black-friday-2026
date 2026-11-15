@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T06:47:44.646Z",
- "comments": 243,
- "tips": 154,
+ "updated": "2026-11-15T07:47:50.713Z",
+ "comments": 244,
+ "tips": 155,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -362,6 +362,26 @@
    "extra": [],
    "expired": true,
    "id": 133
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Dok s Thunderboltem",
+   "text": "Smarty dnes nabízí stanici Asus SimProDock 2 s 50% slevou za 2749 Kč . Za dobrou cenu je i v Softcomu, kde stojí 2999 Kč . Jde o nejlevnější dok s rychlým Thundeboltem 3, který jedním kabelem přenese data, obraz, zvuk i napájení. Je vybaven 180W adaptérem, obsahuje tři obrazové výstupy, čtyři USB, sluchátkový výstup, gigabitový Ethernet a navrch má i čtečku čipových karet, například pro eObčanku.",
+   "author": "Hlídač slev",
+   "date": "15. 11. 2026 8:45",
+   "discount": "-50 %; 2749 Kč; 2999 Kč",
+   "url": "https://www.smarty.cz/ASUS-SimProDock-2-4p116854",
+   "host": "smarty.cz",
+   "extra": [
+    {
+     "url": "https://dokovaci-stanice-a-replikatory-portu.heureka.cz/asus-simprodock-2-90nx0460-p00030/",
+     "host": "dokovaci-stanice-a-replikatory-portu.heureka.cz",
+     "label": "2999 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 155
   },
   {
    "source": "redakce",

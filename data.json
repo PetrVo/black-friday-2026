@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T08:47:55.142Z",
+ "updated": "2026-11-15T09:47:59.717Z",
  "comments": 245,
- "tips": 154,
+ "tips": 155,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2144,6 +2144,20 @@
    "extra": [],
    "expired": true,
    "id": 7
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Další nářadí Parkside",
+   "text": "Také v neděli má Lidl akci na zase trochu jinou sadu aku nářadí. Tentokrát vrtací šroubovák Parkside Performance PBSPA 12 E4 za 699 Kč , když použijete kupón na 500 Kč uvedený na stránce s produktem. Má 20+1 stupeň vrtání, točitý moment až 35 Nm, v balení dva akumulátory, rychlonabíječku, 25 bitů, 7 vrtáků do dřeva a 7 do kovu. K tomu i tašku. Jde o variantu používající akumulátory X 12 V Team, které se používají v menším nářadí, nikoliv v sekačkách, pilách apod. Na řadu Performance se vztahuje pětiletá záruka.",
+   "author": "Hlídač slev",
+   "date": "15. 11. 2026 10:45",
+   "discount": "699 Kč",
+   "url": "https://www.lidl.cz/p/parkside-performance-sada-s-aku-vrtacim-sroubovakem-pbspa-12-e4/p100395732",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 155
   },
   {
    "source": "redakce",

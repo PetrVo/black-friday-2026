@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T13:48:13.540Z",
+ "updated": "2026-11-15T15:48:19.124Z",
  "comments": 245,
- "tips": 157,
+ "tips": 158,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1758,6 +1758,20 @@
    "extra": [],
    "expired": false,
    "id": 23
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Garmiňácké „Apple Watch“",
+   "text": "V Datartu a iSpace koupíte Garmin Venu X1 v zelené verzi jen za 10 990 Kč . Levněji dosud nebyly a všude jinde jsou minimálně o tisícovku dražší. Ultratenké hodinky s velkým obdélníkovým displejem obsahují svítilnu, desítky sportovních i zdravotních funkcí a na jedno nabití vydrží až týden (s always-on displejem jen 2 dny). Je to pokus Garminu vytvořit něco jako Apple Watch.",
+   "author": "Hlídač slev",
+   "date": "15. 11. 2026 16:45",
+   "discount": "10 990 Kč",
+   "url": "https://chytre-hodinky.heureka.cz/garmin-venu-x1_2/",
+   "host": "chytre-hodinky.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 158
   },
   {
    "source": "redakce",

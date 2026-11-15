@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T09:47:59.717Z",
+ "updated": "2026-11-15T11:48:06.042Z",
  "comments": 245,
- "tips": 155,
+ "tips": 156,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -632,6 +632,20 @@
    "extra": [],
    "expired": false,
    "id": 12
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Balík osmi PC her",
+   "text": "Humble Bundle prodává o sm akčních sci-fi pro PC jen za 22 eur (540 Kč). V balíku najdete oba díly Ghostrunneru, RoboCop: Rogue City, všechny tři remasterované střílečky Crysis, Xenonauts 2 a Marathon. Standardní cena kolekce by byla skoro desetkrát vyšší. Klíče se aktivují na Steamu.",
+   "author": "Hlídač slev",
+   "date": "15. 11. 2026 12:45",
+   "discount": "22 eur",
+   "url": "https://www.humblebundle.com/games/15th-anniversary-scifi-exposure",
+   "host": "humblebundle.com",
+   "extra": [],
+   "expired": false,
+   "id": 156
   },
   {
    "source": "redakce",

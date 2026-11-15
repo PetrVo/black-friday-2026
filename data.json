@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T15:48:19.124Z",
- "comments": 245,
- "tips": 158,
+ "updated": "2026-11-15T17:48:26.580Z",
+ "comments": 246,
+ "tips": 159,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2344,6 +2344,20 @@
    ],
    "expired": true,
    "id": 110
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
+   "product": "Sonický kartáček s tlakovým senzorem",
+   "text": "V českých obchodech plošně zlevnil sonický zubní kartáček české značky TrueLife SonicBrush Clean70 UV , stojí 1189 Kč . Není chytrý v tom smyslu, že by se připojil k mobilu. Má však tlakový senzor, který upozorní na špatné čištění. Nabízí tichý motor s výkonem 90 000 pohybů za minutu. Součástí je také pouzdro s UV sterilizátorem. Na jedno nabití kartáček vydrží až dva měsíce. Náhradní hlavice se prodávají ve výhodných baleních po osmi kusech za pětistovku.",
+   "author": "Hlídač slev",
+   "date": "15. 11. 2026 18:45",
+   "discount": "1189 Kč",
+   "url": "https://zubni-kartacky.heureka.cz/truelife-sonicbrush-clean70-uv_2/",
+   "host": "zubni-kartacky.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 159
   },
   {
    "source": "redakce",

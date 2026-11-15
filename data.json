@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T11:48:06.042Z",
+ "updated": "2026-11-15T13:48:13.540Z",
  "comments": 245,
- "tips": 156,
+ "tips": 157,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1374,6 +1374,20 @@
    ],
    "expired": false,
    "id": 3
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Výborný OLED na práci pod 10 tisíc",
+   "text": "Monitor Dell S3225QC zlevnil v mnoha e-shopech už pod deset tisíc, třeba ve Světě počítačů stojí 9300 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
+   "author": "Hlídač slev",
+   "date": "15. 11. 2026 14:45",
+   "discount": "9300 Kč",
+   "url": "https://monitory.heureka.cz/dell-s3225qc_2/",
+   "host": "monitory.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 157
   },
   {
    "source": "redakce",

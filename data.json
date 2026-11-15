@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T17:48:26.580Z",
- "comments": 246,
- "tips": 159,
+ "updated": "2026-11-15T18:48:31.704Z",
+ "comments": 248,
+ "tips": 156,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -19,7 +19,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 129
+   "id": 126
   },
   {
    "source": "redakce",
@@ -75,7 +75,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 151
+   "id": 148
   },
   {
    "source": "redakce",
@@ -89,7 +89,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 145
+   "id": 142
   },
   {
    "source": "redakce",
@@ -103,7 +103,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 125
+   "id": 123
   },
   {
    "source": "diskuze",
@@ -361,7 +361,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 132
+   "id": 129
   },
   {
    "source": "redakce",
@@ -381,13 +381,13 @@
     }
    ],
    "expired": false,
-   "id": 154
+   "id": 151
   },
   {
    "source": "redakce",
    "category": "Nabíječky, kabely a příslušenství",
    "product": "300W nabíječka od O2",
-   "text": "Operátor O2 začal prodávat novou nabíječku vlastní značky O2 Power Hub s šesti konektory a celkovým výkonem 300 W za 1999 Kč, ale v aplikaci Moje O2 vyjde na 1599 Kč . Nabízí pět USB-C a jeden USB-A. Na jednom céčku nabídne výkon až 140 W. Při plném zapojení výkon rozdělí na 140+65+45+35+7,5+7,5 W.",
+   "text": "Operátor O2 začal prodávat novou nabíječku vlastní značky O2 Power Hub s šesti konektory a celkovým výkonem 300 W za 1599 Kč, ale v aplikaci Moje O2 vyjde na 1599 Kč . Nabízí pět USB-C a jeden USB-A. Na jednom céčku nabídne výkon až 140 W. Při plném zapojení výkon rozdělí na 140+65+45+35+7,5+7,5 W.",
    "author": "Hlídač slev",
    "date": "13. 11. 2026 17:45",
    "discount": "1599 Kč",
@@ -395,7 +395,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 146
+   "id": 143
   },
   {
    "source": "redakce",
@@ -409,7 +409,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 142
+   "id": 139
   },
   {
    "source": "diskuze",
@@ -443,7 +443,7 @@
     }
    ],
    "expired": false,
-   "id": 126
+   "id": 124
   },
   {
    "source": "redakce",
@@ -645,7 +645,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": false,
-   "id": 156
+   "id": 153
   },
   {
    "source": "redakce",
@@ -659,7 +659,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 153
+   "id": 150
   },
   {
    "source": "redakce",
@@ -679,7 +679,7 @@
     }
    ],
    "expired": false,
-   "id": 149
+   "id": 146
   },
   {
    "source": "redakce",
@@ -699,7 +699,7 @@
     }
    ],
    "expired": false,
-   "id": 143
+   "id": 140
   },
   {
    "source": "redakce",
@@ -955,20 +955,6 @@
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
-   "product": "Repro k PC",
-   "text": "Reproduktory Edifier MR3 obvykle stojí okolo 2500 Kč, v Datartu jsou teď za 1890 Kč . Edifier láká na výkon 2 × 18 W, čistý a hutný zvuk i pěkný vzhled. Frekvenční rozsah je od 52 Hz do 40 kHz, ale recenze zmiňují, že pro nejhlubší basy je lepší mít zvláštní subwoofer. Kromě dvou analogových vstupů Edifier nabízí také Bluetooth.",
-   "author": "Hlídač slev",
-   "date": "11. 11. 2026 18:45",
-   "discount": "1890 Kč",
-   "url": "https://reprosoustavy-reproduktory.heureka.cz/edifier-mr3-2/",
-   "host": "reprosoustavy-reproduktory.heureka.cz",
-   "extra": [],
-   "expired": true,
-   "id": 123
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
    "product": "Herní PC levnější než cena komponent",
    "text": "Smarty prodává počítač vlastní privátní značky Tigo Machine za 27 066 Kč , běžně stojí 30 tisíc. Jen cena komponent uvnitř ale má hodnotu skoro 31 tisíc. Jde o dobře vyvážený stroj s malou skříní DeepCool, ve kterém najdeme osmijádro Ryzen 7 5700X, 16 GB RAM, 1TB SSD a grafiku Radeon RX 9060 XT (8 GB). Zdroj o výkonu 650 W je také od DeepCoolu, procesorový chladič s ARGB podsvícením je brandované Tigo. Zajímavostí je operační systém, Smarty nasadil linuxovou distribuci Bazzite optimalizovanou pro hry.",
    "author": "Hlídač slev",
@@ -992,7 +978,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 144
+   "id": 141
   },
   {
    "source": "redakce",
@@ -1006,7 +992,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 140
+   "id": 137
   },
   {
    "source": "redakce",
@@ -1020,7 +1006,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 134
+   "id": 131
   },
   {
    "source": "diskuze",
@@ -1048,7 +1034,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 128
+   "id": 125
   },
   {
    "source": "redakce",
@@ -1379,15 +1365,15 @@
    "source": "redakce",
    "category": "TV a audio",
    "product": "Výborný OLED na práci pod 10 tisíc",
-   "text": "Monitor Dell S3225QC zlevnil v mnoha e-shopech už pod deset tisíc, třeba ve Světě počítačů stojí 9300 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
+   "text": "Monitor Dell S3225QC zlevnil v mnoha e-shopech už pod deset tisíc, třeba ve Světě počítačů stojí 9260 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
    "author": "Hlídač slev",
    "date": "15. 11. 2026 14:45",
-   "discount": "9300 Kč",
+   "discount": "9260 Kč",
    "url": "https://monitory.heureka.cz/dell-s3225qc_2/",
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 157
+   "id": 154
   },
   {
    "source": "redakce",
@@ -1401,7 +1387,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 152
+   "id": 149
   },
   {
    "source": "redakce",
@@ -1623,10 +1609,10 @@
    "source": "redakce",
    "category": "TV a audio",
    "product": "Apple AirPods 4",
-   "text": "Planeo nejlevněji z českých obchodů vyprodává sluchátka Apple AirPods 4 , stojí 2599 Kč . Jde o základní verzi bez ANC a pouzdra s bezdrátovým nabíjením. Obecně patří mezi ty lépe hrající pecky, pohodlně se nosí a perfektně se spárují s ostatními produkty od Applu. Na trhu už je od letošního podzimu vylepšená pátá generace, ale ta je o devět stovek dražší.",
+   "text": "T.S. Bohemia nejlevněji z českých obchodů vyprodává sluchátka Apple AirPods 4 , stojí 2590 Kč . Jde o základní verzi bez ANC a pouzdra s bezdrátovým nabíjením. Obecně patří mezi ty lépe hrající pecky, pohodlně se nosí a perfektně se spárují s ostatními produkty od Applu. Na trhu už je od letošního podzimu vylepšená pátá generace, ale ta je o devět stovek dražší.",
    "author": "Hlídač slev",
    "date": "30. 10. 2026 14:45",
-   "discount": "2599 Kč",
+   "discount": "2590 Kč",
    "url": "https://sluchatka.heureka.cz/apple-airpods-4-2024/",
    "host": "sluchatka.heureka.cz",
    "extra": [],
@@ -1657,20 +1643,6 @@
    ],
    "expired": false,
    "id": 5
-  },
-  {
-   "source": "redakce",
-   "category": "TV a audio",
-   "product": "AirPods Pro 3",
-   "text": "Nejlepší špuntová sluchátka od Applu, AirPods Pro 3 , jsou teď na CZC k dostání jen za 4890 Kč . Jinde jsou minimálně o tři stovky dražší a sám výrobce si účtuje 6490 Kč. Tyto AirPody mají velmi dobrý a čistý zvuk, velmi účinné ANC a oproti předchůdcům umí měřit tep. Kvůli snímači se ale upravil design a sluchátka jsou méně pohodlná. V recenzi u nás získala známku 8/10.",
-   "author": "Hlídač slev",
-   "date": "12. 11. 2026 7:45",
-   "discount": "4890 Kč",
-   "url": "https://sluchatka.heureka.cz/apple-airpods-pro-3-mfhp4zm-a/",
-   "host": "sluchatka.heureka.cz",
-   "extra": [],
-   "expired": true,
-   "id": 124
   },
   {
    "source": "redakce",
@@ -1771,7 +1743,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 158
+   "id": 155
   },
   {
    "source": "redakce",
@@ -1785,7 +1757,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 139
+   "id": 136
   },
   {
    "source": "redakce",
@@ -1799,7 +1771,7 @@
    "host": "tachometry-na-kolo.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 138
+   "id": 135
   },
   {
    "source": "redakce",
@@ -1813,7 +1785,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 135
+   "id": 132
   },
   {
    "source": "redakce",
@@ -1991,7 +1963,7 @@
    "host": "myheritage.cz",
    "extra": [],
    "expired": false,
-   "id": 131
+   "id": 128
   },
   {
    "source": "redakce",
@@ -2005,7 +1977,7 @@
    "host": "cyklotrenazery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 127
   },
   {
    "source": "diskuze",
@@ -2199,7 +2171,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 155
+   "id": 152
   },
   {
    "source": "redakce",
@@ -2219,7 +2191,7 @@
     }
    ],
    "expired": false,
-   "id": 150
+   "id": 147
   },
   {
    "source": "diskuze",
@@ -2253,21 +2225,7 @@
     }
    ],
    "expired": false,
-   "id": 148
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
-   "product": "Sada nářadí Parkside",
-   "text": "Lidl má ještě jednu extrémně výhodnou akci, 12dílnou sadu aku nářadí Parkside se třemi akumulátory a rychlonabíječkou nabízí s kupónem jen za 4999 Kč . V balení jsou vrtací šroubovák, rázový utahovák, ruční okružní pila, přímočará pila s kyvadlovým zdvihem, pila ocaska, multifunkční nářadí, úhlová bruska a excentrická bruska. A ještě kufr navíc.",
-   "author": "Hlídač slev",
-   "date": "13. 11. 2026 12:45",
-   "discount": "4999 Kč",
-   "url": "https://www.lidl.cz/p/parkside-kombinovana-sada-aku-naradi-se-3-akumulatory-a-nabijeckou-12dilna/p100414306",
-   "host": "lidl.cz",
-   "extra": [],
-   "expired": false,
-   "id": 141
+   "id": 145
   },
   {
    "source": "diskuze",
@@ -2286,20 +2244,6 @@
   {
    "source": "redakce",
    "category": "Nářadí a dílna",
-   "product": "Aku vrtačka Parkside Performance",
-   "text": "Také dnes má Lidl v akci jednu aku vrtačku vyšší řady Parkside Performance . Jde o model s příklepem a kufrem plným příslušenství, který běžně stojí 3499 Kč, ale s kupónem na 1800 Kč vyjde jen na 1699 Kč . Má výkonný bezkartáčový motor, v ceně jsou dva akumulátory, nabíječka, přídavné držadlo, hloubkový doraz, odlamovací nůž s 8 čepelemi, svinovací metr, ráčnový šroubovák (¼\"), držák bitů pro šroubovák (¼\"), 6× vrták do dřeva, 6× vrták do kovu, 6× vrták do kamene, 2× držák bitů (60 mm) a 72 bitů.",
-   "author": "Hlídač slev",
-   "date": "13. 11. 2026 8:45",
-   "discount": "1699 Kč",
-   "url": "https://www.lidl.cz/p/parkside-performance-sada-s-aku-priklepovou-vrtackou-psbsap-20-li-c3/p100405586",
-   "host": "lidl.cz",
-   "extra": [],
-   "expired": false,
-   "id": 137
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
    "product": "Gravírovací pero Xiaomi",
    "text": "Gravírovací nástroj S zlevnil o 15 % na 671 Kč . Má bezuhlíkový motor, otáčky 15 až 22 tisíc otáček za minutu, výdrž až 60 min a nabíjí se pomocí USB-C. V sadě je také kufřík s 16 nástavci pro gravírování, broušení, leštění a vrtání. Tohle potřebuje každý kutil.",
    "author": "Hlídač slev",
@@ -2314,16 +2258,30 @@
   {
    "source": "redakce",
    "category": "Nářadí a dílna",
-   "product": "Aku vrtačka Parkside",
-   "text": "Lidl má dnes akci na aku vrtací šroubovák Parkside PABS 20-Li I9 . Když si na stránce aktivujete kupón za tisícovku, celá sada šroubováku, dvou baterií, nabíječky a dalšího příslušenství vás vyjde jen na 899 Kč . V kufříku jsou ještě tyto věci: odlamovací nůž, tesařská tužka (+ 2 náhradní tuhy), měřicí pásmo (5 m), 8× nástrčný klíč, záhlubník, důlčík, 5× vrták do dřeva, 14× vrták do kovu, 40 bitů a jeden držák bitů. Na Parkside je tříletá záruka.",
+   "product": "Sada nářadí Parkside",
+   "text": "Lidl má ještě jednu extrémně výhodnou akci, 12dílnou sadu aku nářadí Parkside se třemi akumulátory a rychlonabíječkou nabízí s kupónem jen za 4999 Kč . V balení jsou vrtací šroubovák, rázový utahovák, ruční okružní pila, přímočará pila s kyvadlovým zdvihem, pila ocaska, multifunkční nářadí, úhlová bruska a excentrická bruska. A ještě kufr navíc.",
    "author": "Hlídač slev",
-   "date": "12. 11. 2026 10:45",
-   "discount": "899 Kč",
-   "url": "https://www.lidl.cz/p/parkside-sada-s-aku-vrtacim-sroubovakem-pabs-20-li-i9/p100397948",
+   "date": "13. 11. 2026 12:45",
+   "discount": "4999 Kč",
+   "url": "https://www.lidl.cz/p/parkside-kombinovana-sada-aku-naradi-se-3-akumulatory-a-nabijeckou-12dilna/p100414306",
    "host": "lidl.cz",
    "extra": [],
    "expired": true,
-   "id": 127
+   "id": 138
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Aku vrtačka Parkside Performance",
+   "text": "Také dnes má Lidl v akci jednu aku vrtačku vyšší řady Parkside Performance . Jde o model s příklepem a kufrem plným příslušenství, který běžně stojí 3499 Kč, ale s kupónem na 1800 Kč vyjde jen na 1699 Kč . Má výkonný bezkartáčový motor, v ceně jsou dva akumulátory, nabíječka, přídavné držadlo, hloubkový doraz, odlamovací nůž s 8 čepelemi, svinovací metr, ráčnový šroubovák (¼\"), držák bitů pro šroubovák (¼\"), 6× vrták do dřeva, 6× vrták do kovu, 6× vrták do kamene, 2× držák bitů (60 mm) a 72 bitů.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 8:45",
+   "discount": "1699 Kč",
+   "url": "https://www.lidl.cz/p/parkside-performance-sada-s-aku-priklepovou-vrtackou-psbsap-20-li-c3/p100405586",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": true,
+   "id": 134
   },
   {
    "source": "redakce",
@@ -2357,7 +2315,7 @@
    "host": "zubni-kartacky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 159
+   "id": 156
   },
   {
    "source": "redakce",
@@ -2626,7 +2584,7 @@
    "host": "action.com",
    "extra": [],
    "expired": false,
-   "id": 133
+   "id": 130
   },
   {
    "source": "redakce",
@@ -2696,7 +2654,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": true,
-   "id": 136
+   "id": 133
   },
   {
    "source": "redakce",
@@ -2716,7 +2674,7 @@
     }
    ],
    "expired": false,
-   "id": 147
+   "id": 144
   },
   {
    "source": "redakce",

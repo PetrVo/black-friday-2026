@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T07:47:50.713Z",
- "comments": 244,
- "tips": 155,
+ "updated": "2026-11-15T08:47:55.142Z",
+ "comments": 245,
+ "tips": 154,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -19,7 +19,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 129
   },
   {
    "source": "redakce",
@@ -33,7 +33,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 97
+   "id": 96
   },
   {
    "source": "redakce",
@@ -47,7 +47,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": false,
-   "id": 79
+   "id": 78
   },
   {
    "source": "redakce",
@@ -75,7 +75,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 152
+   "id": 151
   },
   {
    "source": "redakce",
@@ -89,7 +89,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 146
+   "id": 145
   },
   {
    "source": "redakce",
@@ -103,7 +103,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 126
+   "id": 125
   },
   {
    "source": "diskuze",
@@ -131,7 +131,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 100
+   "id": 99
   },
   {
    "source": "redakce",
@@ -145,7 +145,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 98
+   "id": 97
   },
   {
    "source": "redakce",
@@ -159,7 +159,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 94
+   "id": 93
   },
   {
    "source": "redakce",
@@ -173,7 +173,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 85
+   "id": 84
   },
   {
    "source": "redakce",
@@ -193,7 +193,7 @@
     }
    ],
    "expired": false,
-   "id": 67
+   "id": 66
   },
   {
    "source": "redakce",
@@ -207,7 +207,7 @@
    "host": "asome.cz",
    "extra": [],
    "expired": false,
-   "id": 65
+   "id": 64
   },
   {
    "source": "diskuze",
@@ -361,7 +361,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 133
+   "id": 132
   },
   {
    "source": "redakce",
@@ -381,7 +381,7 @@
     }
    ],
    "expired": false,
-   "id": 155
+   "id": 154
   },
   {
    "source": "redakce",
@@ -395,7 +395,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 147
+   "id": 146
   },
   {
    "source": "redakce",
@@ -409,7 +409,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 143
+   "id": 142
   },
   {
    "source": "diskuze",
@@ -443,7 +443,7 @@
     }
    ],
    "expired": false,
-   "id": 127
+   "id": 126
   },
   {
    "source": "redakce",
@@ -457,7 +457,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 122
+   "id": 121
   },
   {
    "source": "diskuze",
@@ -485,7 +485,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 109
+   "id": 108
   },
   {
    "source": "redakce",
@@ -499,7 +499,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 101
+   "id": 100
   },
   {
    "source": "redakce",
@@ -519,7 +519,7 @@
     }
    ],
    "expired": false,
-   "id": 96
+   "id": 95
   },
   {
    "source": "redakce",
@@ -533,7 +533,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 86
+   "id": 85
   },
   {
    "source": "redakce",
@@ -547,7 +547,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 82
+   "id": 81
   },
   {
    "source": "redakce",
@@ -561,7 +561,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 74
+   "id": 73
   },
   {
    "source": "redakce",
@@ -645,7 +645,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 154
+   "id": 153
   },
   {
    "source": "redakce",
@@ -665,7 +665,7 @@
     }
    ],
    "expired": false,
-   "id": 150
+   "id": 149
   },
   {
    "source": "redakce",
@@ -685,7 +685,7 @@
     }
    ],
    "expired": false,
-   "id": 144
+   "id": 143
   },
   {
    "source": "redakce",
@@ -699,7 +699,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 120
+   "id": 119
   },
   {
    "source": "redakce",
@@ -713,7 +713,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 119
+   "id": 118
   },
   {
    "source": "redakce",
@@ -727,7 +727,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 117
+   "id": 116
   },
   {
    "source": "redakce",
@@ -741,7 +741,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 108
+   "id": 107
   },
   {
    "source": "redakce",
@@ -755,7 +755,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 103
+   "id": 102
   },
   {
    "source": "redakce",
@@ -769,7 +769,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 68
+   "id": 67
   },
   {
    "source": "redakce",
@@ -950,7 +950,7 @@
    "host": "reprosoustavy-reproduktory.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 124
+   "id": 123
   },
   {
    "source": "redakce",
@@ -978,7 +978,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 145
+   "id": 144
   },
   {
    "source": "redakce",
@@ -992,7 +992,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 141
+   "id": 140
   },
   {
    "source": "redakce",
@@ -1006,7 +1006,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 135
+   "id": 134
   },
   {
    "source": "diskuze",
@@ -1034,7 +1034,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 129
+   "id": 128
   },
   {
    "source": "redakce",
@@ -1048,7 +1048,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 121
+   "id": 120
   },
   {
    "source": "redakce",
@@ -1062,7 +1062,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 104
+   "id": 103
   },
   {
    "source": "redakce",
@@ -1076,7 +1076,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 91
+   "id": 90
   },
   {
    "source": "redakce",
@@ -1090,7 +1090,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 89
+   "id": 88
   },
   {
    "source": "redakce",
@@ -1104,7 +1104,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 80
+   "id": 79
   },
   {
    "source": "redakce",
@@ -1118,7 +1118,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 66
+   "id": 65
   },
   {
    "source": "redakce",
@@ -1373,7 +1373,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 153
+   "id": 152
   },
   {
    "source": "redakce",
@@ -1387,7 +1387,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 115
+   "id": 114
   },
   {
    "source": "redakce",
@@ -1401,7 +1401,7 @@
    "host": "dafilms.cz",
    "extra": [],
    "expired": false,
-   "id": 106
+   "id": 105
   },
   {
    "source": "redakce",
@@ -1421,7 +1421,7 @@
     }
    ],
    "expired": false,
-   "id": 92
+   "id": 91
   },
   {
    "source": "redakce",
@@ -1435,7 +1435,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 75
+   "id": 74
   },
   {
    "source": "redakce",
@@ -1449,7 +1449,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 69
+   "id": 68
   },
   {
    "source": "redakce",
@@ -1463,7 +1463,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 64
+   "id": 63
   },
   {
    "source": "redakce",
@@ -1477,7 +1477,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 63
+   "id": 62
   },
   {
    "source": "redakce",
@@ -1642,7 +1642,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 125
+   "id": 124
   },
   {
    "source": "redakce",
@@ -1656,7 +1656,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 123
+   "id": 122
   },
   {
    "source": "redakce",
@@ -1670,7 +1670,7 @@
    "host": "autoradia.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 95
+   "id": 94
   },
   {
    "source": "redakce",
@@ -1690,7 +1690,7 @@
     }
    ],
    "expired": false,
-   "id": 87
+   "id": 86
   },
   {
    "source": "redakce",
@@ -1715,7 +1715,7 @@
     }
    ],
    "expired": false,
-   "id": 83
+   "id": 82
   },
   {
    "source": "redakce",
@@ -1743,7 +1743,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 140
+   "id": 139
   },
   {
    "source": "redakce",
@@ -1757,7 +1757,7 @@
    "host": "tachometry-na-kolo.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 139
+   "id": 138
   },
   {
    "source": "redakce",
@@ -1771,7 +1771,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 136
+   "id": 135
   },
   {
    "source": "redakce",
@@ -1785,7 +1785,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 118
+   "id": 117
   },
   {
    "source": "redakce",
@@ -1799,7 +1799,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 78
+   "id": 77
   },
   {
    "source": "redakce",
@@ -1819,21 +1819,7 @@
     }
    ],
    "expired": false,
-   "id": 72
-  },
-  {
-   "source": "redakce",
-   "category": "Chytré hodinky a fitness",
-   "product": "Garmiňácké „Apple Watch“",
-   "text": "V Alze koupíte Garmin Venu X1 v zelené verzi jen za 11 990 Kč , všude jinde jsou minimálně o tisícovku dražší. Ultratenké hodinky s velkým obdélníkovým displejem obsahují svítilnu, desítky sportovních i zdravotních funkcí a na jedno nabití vydrží až týden (s always-on displejem jen 2 dny). Je to pokus Garminu vytvořit něco jako Apple Watch.",
-   "author": "Hlídač slev",
-   "date": "5. 11. 2026 8:45",
-   "discount": "11 990 Kč",
-   "url": "https://www.alza.cz/garmin-venu-x1-moss-d12977291.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 62
+   "id": 71
   },
   {
    "source": "redakce",
@@ -1963,7 +1949,7 @@
    "host": "myheritage.cz",
    "extra": [],
    "expired": false,
-   "id": 132
+   "id": 131
   },
   {
    "source": "redakce",
@@ -1977,7 +1963,7 @@
    "host": "cyklotrenazery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 131
+   "id": 130
   },
   {
    "source": "diskuze",
@@ -2005,7 +1991,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 116
+   "id": 115
   },
   {
    "source": "redakce",
@@ -2019,7 +2005,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 113
+   "id": 112
   },
   {
    "source": "redakce",
@@ -2033,7 +2019,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 105
+   "id": 104
   },
   {
    "source": "redakce",
@@ -2047,7 +2033,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 73
+   "id": 72
   },
   {
    "source": "redakce",
@@ -2177,7 +2163,7 @@
     }
    ],
    "expired": false,
-   "id": 151
+   "id": 150
   },
   {
    "source": "diskuze",
@@ -2211,7 +2197,7 @@
     }
    ],
    "expired": false,
-   "id": 149
+   "id": 148
   },
   {
    "source": "redakce",
@@ -2225,7 +2211,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 142
+   "id": 141
   },
   {
    "source": "diskuze",
@@ -2253,7 +2239,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 138
+   "id": 137
   },
   {
    "source": "redakce",
@@ -2267,7 +2253,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 71
+   "id": 70
   },
   {
    "source": "redakce",
@@ -2281,7 +2267,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": true,
-   "id": 128
+   "id": 127
   },
   {
    "source": "redakce",
@@ -2301,7 +2287,7 @@
     }
    ],
    "expired": true,
-   "id": 111
+   "id": 110
   },
   {
    "source": "redakce",
@@ -2315,7 +2301,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 93
+   "id": 92
   },
   {
    "source": "redakce",
@@ -2329,7 +2315,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 84
+   "id": 83
   },
   {
    "source": "redakce",
@@ -2343,7 +2329,7 @@
    "host": "eu.govee.com",
    "extra": [],
    "expired": false,
-   "id": 81
+   "id": 80
   },
   {
    "source": "redakce",
@@ -2363,7 +2349,7 @@
     }
    ],
    "expired": false,
-   "id": 77
+   "id": 76
   },
   {
    "source": "diskuze",
@@ -2411,7 +2397,7 @@
     }
    ],
    "expired": true,
-   "id": 102
+   "id": 101
   },
   {
    "source": "redakce",
@@ -2425,7 +2411,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 99
+   "id": 98
   },
   {
    "source": "redakce",
@@ -2439,7 +2425,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 88
+   "id": 87
   },
   {
    "source": "diskuze",
@@ -2467,7 +2453,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 70
+   "id": 69
   },
   {
    "source": "redakce",
@@ -2570,7 +2556,7 @@
    "host": "action.com",
    "extra": [],
    "expired": false,
-   "id": 134
+   "id": 133
   },
   {
    "source": "redakce",
@@ -2584,7 +2570,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 107
+   "id": 106
   },
   {
    "source": "redakce",
@@ -2598,7 +2584,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 90
+   "id": 89
   },
   {
    "source": "redakce",
@@ -2612,7 +2598,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 110
+   "id": 109
   },
   {
    "source": "diskuze",
@@ -2640,7 +2626,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": true,
-   "id": 137
+   "id": 136
   },
   {
    "source": "redakce",
@@ -2660,7 +2646,7 @@
     }
    ],
    "expired": false,
-   "id": 148
+   "id": 147
   },
   {
    "source": "redakce",
@@ -2674,7 +2660,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 114
+   "id": 113
   },
   {
    "source": "redakce",
@@ -2688,7 +2674,7 @@
    "host": "bundlehunt.com",
    "extra": [],
    "expired": false,
-   "id": 112
+   "id": 111
   },
   {
    "source": "redakce",
@@ -2702,7 +2688,7 @@
    "host": "go.getproton.me",
    "extra": [],
    "expired": false,
-   "id": 76
+   "id": 75
   },
   {
    "source": "diskuze",

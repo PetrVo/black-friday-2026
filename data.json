@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T15:49:50.378Z",
+ "updated": "2026-11-16T16:49:56.571Z",
  "comments": 261,
- "tips": 166,
+ "tips": 167,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2276,6 +2276,20 @@
    "extra": [],
    "expired": true,
    "id": 7
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Dva velké akumulátory Parkside",
+   "text": "Lidl tento týden nabízí sadu dvou 8Ah akumulátorů Parkside Performance s velkou slevou za 1999 Kč . Pokud si navíc dnes (jen dnes) aktivujete kupón se slevou 200 Kč pro nákupy nad 1700 Kč, získáte oba za 1799 Kč včetně dopravy domů, tříleté záruky a možnosti produkt vrátit do 30 dní.\n\nBěžně se za 1899 Kč prodává pouze jeden akumulátor, teď můžete mít za podobnou cenu dva. Hodí se do vnitřního i venkovního nářadí. Jde o druhou největší kapacitu, kterou pro systém „Parkside X 20 V Team“ lze koupit. Větší už jsou jen 12Ah baterie.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 17:45",
+   "discount": "1999 Kč",
+   "url": "https://www.lidl.cz/p/parkside-performance-sada-smart-akumulatoru-8-ah-papp-208-a1-2dilna/p800014233",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 167
   },
   {
    "source": "redakce",

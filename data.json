@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T14:49:45.806Z",
+ "updated": "2026-11-16T15:49:50.378Z",
  "comments": 261,
- "tips": 165,
+ "tips": 166,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1394,6 +1394,20 @@
    ],
    "expired": false,
    "id": 3
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Herní headset Razer",
+   "text": "Na Amazonu koupíte bezdrátová sluchátka s mikrofonem Razer BlackShark V3 X Hyperspeed jen za 1633 Kč . V Česku stojí minimálně 2400 Kč, ale typická cena je přes tři tisíce. Používají 50mm měniče, odnímatelný mikrofon a připojují se přes USB, Bluetooth i bezdrátový dongle. Na jedno nabití vydrží až 70 hodin, přitom váží jen 270 gramů. Na hudbu nemá Razer moc dobrý zvuk, ale ve hrách bude dostatečný.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 16:45",
+   "discount": "1633 Kč",
+   "url": "https://www.amazon.de/-/en/Razer-RZ04-05420100-R3M1-black/dp/B0F93SY4BH?th=1&linkCode=ll2&tag=zivecz-21&linkId=b7f87fbf26c743738a18cd2126e9b357&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 166
   },
   {
    "source": "redakce",

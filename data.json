@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T12:49:36.342Z",
- "comments": 256,
- "tips": 163,
+ "updated": "2026-11-16T13:49:40.450Z",
+ "comments": 260,
+ "tips": 164,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2821,6 +2821,31 @@
    "extra": [],
    "expired": false,
    "id": 75
+  },
+  {
+   "source": "redakce",
+   "category": "Ostatní",
+   "product": "Polohovací stůl AlzaErgo",
+   "text": "Alza má v pěkných akcích polohovací stoly různých kategorií, ale ušetřit můžete ještě více, pokud použijete její konfigurátor. V něm se totiž využijí slevy na konstrukci stolu, desku a ještě bude cena o 10 % nižší díky použití konfigurátoru .\n\nNěkdy je ale celá sada levnější. Nejlepší dvoumotorový stůl AlzaErgo Table ET1 NewGen v černé barvě a s bambusovou deskou o velikosti 160 × 80 cm stojí 6747 Kč . Paradoxně je tak levnější než samotná konstrukce bez desky, za kterou si Alza účtuje 6989 Kč.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 14:45",
+   "discount": "6747 Kč",
+   "url": "https://www.alza.cz/polohovaci-stoly-a-stanice/alzaergo/18868000-v13737.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/alzaergo-table-et1-newgen-cerny-deska-tte-03-160x80cm-bambusova-d6161023.htm",
+     "host": "alza.cz",
+     "label": "6747 Kč"
+    },
+    {
+     "url": "https://www.alza.cz/konfigurator-alzaergo",
+     "host": "alza.cz",
+     "label": "konfigurátoru"
+    }
+   ],
+   "expired": false,
+   "id": 164
   },
   {
    "source": "diskuze",

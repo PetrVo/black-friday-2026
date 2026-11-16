@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T13:49:40.450Z",
- "comments": 260,
- "tips": 164,
+ "updated": "2026-11-16T14:49:45.806Z",
+ "comments": 261,
+ "tips": 165,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2530,6 +2530,26 @@
    ],
    "expired": true,
    "id": 101
+  },
+  {
+   "source": "redakce",
+   "category": "Chytrá domácnost",
+   "product": "Přepěťová ochrana Philips",
+   "text": "V Alze zlevnili přepěťovku Philips se čtyřmi 230V zásuvkami, jedním USB-C a dvěma USB-A o 20 % na 799 Kč , níže dosud nešla. Do celého bloku USB pošle maximálně 20 W, takže se hodí jen pro nejúspornější zařízení. Přepěťová ochrana absorbuje rázový impulz až 2400 J. V akci za 1199 Kč je také varianta s osmi zásuvkami a čtyřmi USB s výkonem až 30 W.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 15:45",
+   "discount": "799 Kč; 1199 Kč",
+   "url": "https://www.alza.cz/philips-spn4140ga-60-d13395024.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/philips-spn8180ga-60-d13395023.htm",
+     "host": "alza.cz",
+     "label": "1199 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 165
   },
   {
    "source": "redakce",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T09:49:21.379Z",
- "comments": 255,
- "tips": 160,
+ "updated": "2026-11-16T10:49:26.230Z",
+ "comments": 256,
+ "tips": 161,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -62,6 +62,20 @@
    "extra": [],
    "expired": false,
    "id": 44
+  },
+  {
+   "source": "redakce",
+   "category": "Monitory",
+   "product": "Držák na dva monitory",
+   "text": "Lidl nabízí držák Tronic pro dva monitory v akci za 400 Kč , to je málo i na jednoramennou verzi. Počítejte však s kompromisy. Ramena jsou ve stejné výšce připevněná na jedné ose, a nejsou moc dlouhá, takže se počítá s úhlopříčkami do 28\". Monitor nelze otočit na výšku, jen sklopit a natočit. Hodí se tak hlavně pro dva menší monitory, které se umístí nastálo, a cílem je především ušetřit místo na stole.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 11:45",
+   "discount": "400 Kč",
+   "url": "https://www.lidl.cz/p/tronic-drzak-na-2-monitory-s-uchycenim-ke-stolu/p100409714",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 161
   },
   {
    "source": "redakce",

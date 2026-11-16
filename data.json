@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T20:48:40.851Z",
+ "updated": "2026-11-16T06:49:04.571Z",
  "comments": 252,
- "tips": 156,
+ "tips": 157,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1360,6 +1360,20 @@
    ],
    "expired": false,
    "id": 3
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Apple AirPods 5",
+   "text": "Mall prodává čerstvou novinku AirPods 5 s bezdrátovým nabíjecím pouzdrem za 3332 Kč , Apple si účtuje čtyři tisíce a ostatní velcí prodejci ho následují. Pátá generace AirPodů slibuje zatím nejlepší zvuk a ještě účinnější ANC. Vyšší verze kromě lepšího pouzdra nabízí i delší výdrž (5 místo 4 hodin poslechu) a tlakový snímač pro ovládání hlasitosti pomocí gest.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 7:45",
+   "discount": "3332 Kč",
+   "url": "https://sluchatka.heureka.cz/apple-airpods-5-s-bezdratovym-nabijecim-pouzdrem-mkft4zm-a_2/",
+   "host": "sluchatka.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 157
   },
   {
    "source": "redakce",

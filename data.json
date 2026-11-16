@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T16:49:56.571Z",
- "comments": 261,
- "tips": 167,
+ "updated": "2026-11-16T17:50:01.035Z",
+ "comments": 262,
+ "tips": 166,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -60,7 +60,7 @@
    "url": "https://herni-konzole.heureka.cz/nintendo-switch-2_2/",
    "host": "herni-konzole.heureka.cz",
    "extra": [],
-   "expired": false,
+   "expired": true,
    "id": 44
   },
   {
@@ -75,7 +75,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 161
+   "id": 158
   },
   {
    "source": "redakce",
@@ -89,7 +89,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 148
+   "id": 145
   },
   {
    "source": "redakce",
@@ -103,7 +103,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 142
+   "id": 139
   },
   {
    "source": "redakce",
@@ -365,40 +365,6 @@
   },
   {
    "source": "redakce",
-   "category": "Monitory",
-   "product": "OLED monitor ve velké akci",
-   "text": "Herní monitor Lenovo Legion Pro 27UD-10 ještě na jaře stál dvacet tisíc, teď je s cashbackem můžete v Alze koupit za 13 490 Kč . Nabízí 27\" QD OLED panel s rozlišením 3840 × 2160 px a frekvencí 240 Hz. Láká na špičkové barvy, dokonalý kontrast, okamžitou odezvu a jas v HDR dosahující až 1000 nitů. Nechybí plně polohovatelný stojan ani USB hub. Má čtyři vstupy: dva HDMI 2.1, jeden DisplayPort 1.4 a jeden USB-C s podporou 15W nabíjení. Nasytit tak zvládne jen úsporný ultrabook.",
-   "author": "Hlídač slev",
-   "date": "12. 11. 2026 15:45",
-   "discount": "13 490 Kč",
-   "url": "https://www.alza.cz/26-5-lenovo-legion-pro-27ud-10-d13145282.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 129
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "Dok s Thunderboltem",
-   "text": "Smarty dnes nabízí stanici Asus SimProDock 2 s 50% slevou za 2749 Kč . Za dobrou cenu je i v Softcomu, kde stojí 2999 Kč . Jde o nejlevnější dok s rychlým Thundeboltem 3, který jedním kabelem přenese data, obraz, zvuk i napájení. Je vybaven 180W adaptérem, obsahuje tři obrazové výstupy, čtyři USB, sluchátkový výstup, gigabitový Ethernet a navrch má i čtečku čipových karet, například pro eObčanku.",
-   "author": "Hlídač slev",
-   "date": "15. 11. 2026 8:45",
-   "discount": "-50 %; 2749 Kč; 2999 Kč",
-   "url": "https://www.smarty.cz/ASUS-SimProDock-2-4p116854",
-   "host": "smarty.cz",
-   "extra": [
-    {
-     "url": "https://dokovaci-stanice-a-replikatory-portu.heureka.cz/asus-simprodock-2-90nx0460-p00030/",
-     "host": "dokovaci-stanice-a-replikatory-portu.heureka.cz",
-     "label": "2999 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 151
-  },
-  {
-   "source": "redakce",
    "category": "Nabíječky, kabely a příslušenství",
    "product": "300W nabíječka od O2",
    "text": "Operátor O2 začal prodávat novou nabíječku vlastní značky O2 Power Hub s šesti konektory a celkovým výkonem 300 W za 1599 Kč, ale v aplikaci Moje O2 vyjde na 1599 Kč . Nabízí pět USB-C a jeden USB-A. Na jednom céčku nabídne výkon až 140 W. Při plném zapojení výkon rozdělí na 140+65+45+35+7,5+7,5 W.",
@@ -409,7 +375,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 143
+   "id": 140
   },
   {
    "source": "redakce",
@@ -423,7 +389,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 139
+   "id": 136
   },
   {
    "source": "diskuze",
@@ -504,20 +470,6 @@
   {
    "source": "redakce",
    "category": "Nabíječky, kabely a příslušenství",
-   "product": "Šňůra na telefon kombinovaná s kabelem",
-   "text": "V Alze o 67 % zlevnil kabel Tactical Wire Snake USB-C , stojí 97 Kč . Je opletený, nabíjecí (60 W) i datový (480 Mb/s) a má céčkový konektor na obou stranách. Na něj se však dá našroubovat koncovka s karabinou na konci, takže kabel poslouží i jako šňůra pro nošení mobilu (příslušenství je v balení), klíčů, karet apod. Kabel tak budete mít vždy s sebou.",
-   "author": "Hlídač slev",
-   "date": "10. 11. 2026 7:45",
-   "discount": "-67 %; 97 Kč",
-   "url": "https://www.alza.cz/tactical-wire-snake-usb-c-1-2m-white-d13124862.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 100
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
    "product": "Bezdrátová nabíječka 3v1",
    "text": "Bezdrátová nabíječka české značky Cubenest SQ314 zlevnila v e-shopu výrobce o tři stovky na 1399 Kč ve verzi pro Apple Watch. Stejných 1399 Kč zaplatíte také za variantu s kolébkou pro Samsung Watch. Nabíječka pro Garmin v akci bohužel není.\n\nJde o stojánek 3v1, který současně bezdrátově nabije mobil, sluchátka a chytré hodinky. Podporuje standardy Qi2.2 a MagSafe s výkonem až 25 W. Do sluchátek pustí 5 W a do hodinek také. Adaptér v ceně není, jen kabel s koncovkou USB-C.",
    "author": "Hlídač slev",
@@ -566,20 +518,6 @@
   {
    "source": "redakce",
    "category": "Nabíječky, kabely a příslušenství",
-   "product": "Šílený kabel se svítilnou a zapalovačem",
-   "text": "ChoeTech Smart je asi nejvšestrannější kabel, který můžete koupit. Má 120 cm, podporuje 60W nabíjecí dle normy USB PD. Je opletený balistickým nylonem a nabízí koncovky USB-C, ale na jejich konci najdeme ještě další příslušenství. Na jednom je zapalovač, na druhém svítilna. Stačí kabel připojit do powerbanky nebo mobilu se zpětným nabíjením, a můžete s ním dělat zázraky. Alza jej teď zlevnila o třetinu na 179 Kč .",
-   "author": "Hlídač slev",
-   "date": "6. 11. 2026 8:45",
-   "discount": "cca -33 %; 179 Kč",
-   "url": "https://www.alza.cz/choetech-smart-pd60w-4-in-1-type-c-to-type-c-cable-d13090775.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 73
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
    "product": "Výkonná nabíječka pro mobily i notebooky",
    "text": "Adaptér Anker s výkonem 140 W , displejem, čtyřmi konektory a dodávaným 1,5m céčkovým kabelem s opletením zlevnil plošně o 20 % na 1390 Kč . Podporuje USB Power Delivery 3.1 a utáhne i žravější notebooky. Do dvou hlavních USB-C pustí jednotlivě až 140 W, do třetího konektoru 40 W a do jednoho USB-A pak 33 W. Celkový výkon se sdílí, takže při využití všech čtyř rozhraní tam bude 65 + 45 + 12 + 12 W. Nabíječka má velmi pozitivní recenze, ostatně jako většina produktů od Ankeru.",
    "author": "Hlídač slev",
@@ -608,20 +546,6 @@
   {
    "source": "redakce",
    "category": "Nabíječky, kabely a příslušenství",
-   "product": "Super kabel k notebooku",
-   "text": "Datový kabel AlzaPower AluCure s podporou USB4 (40 Gb/s) a výkonu 240 W zlevnil o třetinu na 329 Kč . Má jen jeden metr, ale to nevadí. Primárně je určený pro připojení notebooku k dokovací stanici nebo monitoru. Jedním kabelem přenesete data, obraz, zvuk i napájení. Má pozlacené USB-C, opletení balistickým nylonem a podporuje i režim Thunderbolt 3.",
-   "author": "Hlídač slev",
-   "date": "2. 11. 2026 9:45",
-   "discount": "cca -33 %; 329 Kč",
-   "url": "https://www.alza.cz/alzapower-alucore-usb-c-to-usb-c-usb4-gen-3x2-240w-1m-cerny-d13109500.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 27
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
    "product": "Bezdrátová nabíječka 3v1",
    "text": "Alza prodává bezdrátovou nabíječku české značky Fixed MagPowerstation Alu3 za 899 Kč (30% sleva). Hodí se primárně jablíčkářům. Podporuje MagSafe a Qi 2.2 s výkonem až 25 W, do podložky pro sluchátka pustí 5 W a vzadu je kolébka pro rychlonabíjení Apple Watch.",
    "author": "Hlídač slev",
@@ -636,6 +560,68 @@
   {
    "source": "redakce",
    "category": "Nabíječky, kabely a příslušenství",
+   "product": "Dok s Thunderboltem",
+   "text": "Smarty dnes nabízí stanici Asus SimProDock 2 s 50% slevou za 2749 Kč .Za dobrou cenu je i v Softcomu, kde stojí 2999 Kč . Jde o nejlevnější dok s rychlým Thundeboltem 3, který jedním kabelem přenese data, obraz, zvuk i napájení. Je vybaven 180W adaptérem, obsahuje tři obrazové výstupy, čtyři USB, sluchátkový výstup, gigabitový Ethernet a navrch má i čtečku čipových karet, například pro eObčanku.",
+   "author": "Hlídač slev",
+   "date": "15. 11. 2026 8:45",
+   "discount": "-50 %; 2749 Kč; 2999 Kč",
+   "url": "https://www.smarty.cz/ASUS-SimProDock-2-4p116854",
+   "host": "smarty.cz",
+   "extra": [
+    {
+     "url": "https://dokovaci-stanice-a-replikatory-portu.heureka.cz/asus-simprodock-2-90nx0460-p00030/",
+     "host": "dokovaci-stanice-a-replikatory-portu.heureka.cz",
+     "label": "2999 Kč"
+    }
+   ],
+   "expired": true,
+   "id": 148
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Šňůra na telefon kombinovaná s kabelem",
+   "text": "V Alze o 67 % zlevnil kabel Tactical Wire Snake USB-C , stojí 97 Kč . Je opletený, nabíjecí (60 W) i datový (480 Mb/s) a má céčkový konektor na obou stranách. Na něj se však dá našroubovat koncovka s karabinou na konci, takže kabel poslouží i jako šňůra pro nošení mobilu (příslušenství je v balení), klíčů, karet apod. Kabel tak budete mít vždy s sebou.",
+   "author": "Hlídač slev",
+   "date": "10. 11. 2026 7:45",
+   "discount": "-67 %; 97 Kč",
+   "url": "https://www.alza.cz/tactical-wire-snake-usb-c-1-2m-white-d13124862.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 100
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Šílený kabel se svítilnou a zapalovačem",
+   "text": "ChoeTech Smart je asi nejvšestrannější kabel, který můžete koupit. Má 120 cm, podporuje 60W nabíjecí dle normy USB PD. Je opletený balistickým nylonem a nabízí koncovky USB-C, ale na jejich konci najdeme ještě další příslušenství. Na jednom je zapalovač, na druhém svítilna. Stačí kabel připojit do powerbanky nebo mobilu se zpětným nabíjením, a můžete s ním dělat zázraky. Alza jej teď zlevnila o třetinu na 179 Kč .",
+   "author": "Hlídač slev",
+   "date": "6. 11. 2026 8:45",
+   "discount": "cca -33 %; 179 Kč",
+   "url": "https://www.alza.cz/choetech-smart-pd60w-4-in-1-type-c-to-type-c-cable-d13090775.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 73
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Super kabel k notebooku",
+   "text": "Datový kabel AlzaPower AluCure s podporou USB4 (40 Gb/s) a výkonu 240 W zlevnil o třetinu na 329 Kč . Má jen jeden metr, ale to nevadí. Primárně je určený pro připojení notebooku k dokovací stanici nebo monitoru. Jedním kabelem přenesete data, obraz, zvuk i napájení. Má pozlacené USB-C, opletení balistickým nylonem a podporuje i režim Thunderbolt 3.",
+   "author": "Hlídač slev",
+   "date": "2. 11. 2026 9:45",
+   "discount": "cca -33 %; 329 Kč",
+   "url": "https://www.alza.cz/alzapower-alucore-usb-c-to-usb-c-usb4-gen-3x2-240w-1m-cerny-d13109500.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 27
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
    "product": "Powerbanka, která utáhne i notebook",
    "text": "Anker Power Bank 25K zlevnila v Alze na historicky nejnižších 1490 Kč . Má kapacitu 25 000 mAh a čtyři výstupy včetně jednoho integrovaného kabelu. Celkový výstupní výkon je 165 W, do jednoho USB-C pošle až 100 W. Dost pro nouzové napájení notebooku.",
    "author": "Hlídač slev",
@@ -644,7 +630,7 @@
    "url": "https://www.alza.cz/anker-power-bank-25k-165w-built-in-usb-c-and-retractable-cable-black-d12884190.htm",
    "host": "alza.cz",
    "extra": [],
-   "expired": false,
+   "expired": true,
    "id": 12
   },
   {
@@ -659,7 +645,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": false,
-   "id": 153
+   "id": 150
   },
   {
    "source": "redakce",
@@ -673,7 +659,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 150
+   "id": 147
   },
   {
    "source": "redakce",
@@ -693,7 +679,7 @@
     }
    ],
    "expired": false,
-   "id": 146
+   "id": 143
   },
   {
    "source": "redakce",
@@ -713,7 +699,7 @@
     }
    ],
    "expired": false,
-   "id": 140
+   "id": 137
   },
   {
    "source": "redakce",
@@ -770,20 +756,6 @@
    "extra": [],
    "expired": false,
    "id": 107
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Levný notebook do kanceláře",
-   "text": "V Alze koupíte Asus Vivobook 15 X1504VA za 12 990 Kč . Za původních 20 tisíc nedával smysl, teď už se o něm dá uvažovat. Má 15\" IPS displej s rozlišením 1920 × 1080 px, desetijádrový Intel Core 5 120U, 16 GB RAM a 512GB SSD. Nechybí podsvícená klávesnice s numerickým blokem, v ceně je překvapivě i Windows 11 Home. Tělo je ale pochopitelně jen plastové a displej patří k těm nejslabším, které dnes výrobci používají. Má tedy nízký jas (250 nitů) a slabé barevné podání (45% NTSC). V nenáročné kanceláři ale ostudu neudělá.",
-   "author": "Hlídač slev",
-   "date": "10. 11. 2026 9:45",
-   "discount": "12 990 Kč",
-   "url": "https://www.alza.cz/asus-vivobook-15-x1504va-bq5789wz-quiet-blue-bez-adapteru-d13413695.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 102
   },
   {
    "source": "redakce",
@@ -897,44 +869,16 @@
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
-   "product": "Nadupaný herní notebook",
-   "text": "V Alze koupíte Asus ROG Strix G16 v super výbavě za 46 990 Kč , ještě nedávno tento notebook stál o dvacet tisíc víc. Levněji nekoupíte ani žádnou alternativu s podobným výkonem. Asus má 16\" IPS displej s rozlišením 2560 × 1600 px a frekvencí 300 Hz. Uvnitř tiká 16jádrový čip AMD Ryzen 9 8940HX (Zen 4), má po ruce 16 GB RAM a 1TB SSD. Grafikou je GeForce RTX 5070 Ti. V ceně bohužel není operační systém.",
-   "author": "Hlídač slev",
-   "date": "1. 11. 2026 7:45",
-   "discount": "46 990 Kč",
-   "url": "https://www.alza.cz/asus-rog-strix-g16-g614pr-ts144-eclipse-gray-kovovy-d13551804.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 19
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
    "product": "Dvoudiskový NAS",
-   "text": "Na Amazonu koupíte Ugreen NASsync DH2300 za 5215 Kč , u nás je o několik set korun dražší. Stojí podobně jako nižší třídy Synology, ale nabídne toho více. Používá rychlejší osmijádrový procesor, má více paměti a hned trojici USB pro připojení externích disků a flashek. Součástí je také výstup HDMI 2.0, protože tento NAS může fungovat i jako multimediální přehrávač připojený k televizoru nebo projektoru. Operační systém UGOS Pro je ještě trochu nevyzrálý a chybí mu čeština, ale už dnes obsahuje hodně praktických funkcí.",
+   "text": "Na Amazonu koupíte Ugreen NASsync DH2300 za 4226 Kč , u nás je o 1500 Kč dražší. Stojí podobně jako nižší třídy Synology, ale nabídne toho více. Používá rychlejší osmijádrový procesor, má více paměti a hned trojici USB pro připojení externích disků a flashek. Součástí je také výstup HDMI 2.0, protože tento NAS může fungovat i jako multimediální přehrávač připojený k televizoru nebo projektoru. Operační systém UGOS Pro je ještě trochu nevyzrálý a chybí mu čeština, ale už dnes obsahuje hodně praktických funkcí.",
    "author": "Hlídač slev",
    "date": "30. 10. 2026 17:45",
-   "discount": "5215 Kč",
+   "discount": "4226 Kč",
    "url": "https://www.amazon.de/-/en/UGREEN-DH2300-Beginners-without-smartphone/dp/B0FNWWDGSX/",
    "host": "amazon.de",
    "extra": [],
    "expired": false,
    "id": 11
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Nejlepší notebook za 16 tisíc",
-   "text": "Alza prodává Asus Vivobook S14 za 15 990 Kč , stojí téměř polovinu toho co v létě. Jde o model s výbornou výbavou. Nabízí procesor Ryzen AI 330 se čtyřmi jádry Zen 5, nadstandardních 32 GB RAM, 512GB SSD a 14\" OLED displej s rozlišením 1920 × 1200 px. Nechybí ani podsvícená klávesnice, biometrický skener obličeje nebo velký touchpad. To vše v pěkném kovovém těle. V ceně není operační systém ani nabíjecí adaptér, ale za 16 tisíc teď nekoupíte lepší notebook.",
-   "author": "Hlídač slev",
-   "date": "30. 10. 2026 8:15",
-   "discount": "15 990 Kč",
-   "url": "https://www.alza.cz/asus-vivobook-s14-m3407ka-oled115z-matte-gray-bez-adapteru-d13379669.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 2
   },
   {
    "source": "redakce",
@@ -969,6 +913,20 @@
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
+   "product": "Levný notebook do kanceláře",
+   "text": "V Alze koupíte Asus Vivobook 15 X1504VA za 12 990 Kč . Za původních 20 tisíc nedával smysl, teď už se o něm dá uvažovat. Má 15\" IPS displej s rozlišením 1920 × 1080 px, desetijádrový Intel Core 5 120U, 16 GB RAM a 512GB SSD. Nechybí podsvícená klávesnice s numerickým blokem, v ceně je překvapivě i Windows 11 Home. Tělo je ale pochopitelně jen plastové a displej patří k těm nejslabším, které dnes výrobci používají. Má tedy nízký jas (250 nitů) a slabé barevné podání (45% NTSC). V nenáročné kanceláři ale ostudu neudělá.",
+   "author": "Hlídač slev",
+   "date": "10. 11. 2026 9:45",
+   "discount": "12 990 Kč",
+   "url": "https://www.alza.cz/asus-vivobook-15-x1504va-bq5789wz-quiet-blue-bez-adapteru-d13413695.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 102
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
    "product": "Herní PC levnější než cena komponent",
    "text": "Smarty prodává počítač vlastní privátní značky Tigo Machine za 27 066 Kč , běžně stojí 30 tisíc. Jen cena komponent uvnitř ale má hodnotu skoro 31 tisíc. Jde o dobře vyvážený stroj s malou skříní DeepCool, ve kterém najdeme osmijádro Ryzen 7 5700X, 16 GB RAM, 1TB SSD a grafiku Radeon RX 9060 XT (8 GB). Zdroj o výkonu 650 W je také od DeepCoolu, procesorový chladič s ARGB podsvícením je brandované Tigo. Zajímavostí je operační systém, Smarty nasadil linuxovou distribuci Bazzite optimalizovanou pro hry.",
    "author": "Hlídač slev",
@@ -982,23 +940,73 @@
   },
   {
    "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Nadupaný herní notebook",
+   "text": "V Alze koupíte Asus ROG Strix G16 v super výbavě za 46 990 Kč , ještě nedávno tento notebook stál o dvacet tisíc víc. Levněji nekoupíte ani žádnou alternativu s podobným výkonem. Asus má 16\" IPS displej s rozlišením 2560 × 1600 px a frekvencí 300 Hz. Uvnitř tiká 16jádrový čip AMD Ryzen 9 8940HX (Zen 4), má po ruce 16 GB RAM a 1TB SSD. Grafikou je GeForce RTX 5070 Ti. V ceně bohužel není operační systém.",
+   "author": "Hlídač slev",
+   "date": "1. 11. 2026 7:45",
+   "discount": "46 990 Kč",
+   "url": "https://www.alza.cz/asus-rog-strix-g16-g614pr-ts144-eclipse-gray-kovovy-d13551804.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 19
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Nejlepší notebook za 16 tisíc",
+   "text": "Alza prodává Asus Vivobook S14 za 15 990 Kč , stojí téměř polovinu toho co v létě. Jde o model s výbornou výbavou. Nabízí procesor Ryzen AI 330 se čtyřmi jádry Zen 5, nadstandardních 32 GB RAM, 512GB SSD a 14\" OLED displej s rozlišením 1920 × 1200 px. Nechybí ani podsvícená klávesnice, biometrický skener obličeje nebo velký touchpad. To vše v pěkném kovovém těle. V ceně není operační systém ani nabíjecí adaptér, ale za 16 tisíc teď nekoupíte lepší notebook.",
+   "author": "Hlídač slev",
+   "date": "30. 10. 2026 8:15",
+   "discount": "15 990 Kč",
+   "url": "https://www.alza.cz/asus-vivobook-s14-m3407ka-oled115z-matte-gray-bez-adapteru-d13379669.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 2
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Podložka pod myš a klávesnici",
+   "text": "Podložka SteelSeries QCK XXL zlevnila o třetinu na 599 Kč . Měří 90 × 40 cm, takže se na ni vejdou myš i klávesnice. Používá kvalitní textilní povrch, obšité okraje a protiskluzovou spodní vrstvu. Design je decentní černý s bílým logem v rohu. Už se jí prodalo přes 5000 kusů a uživatelé ji hodnotí nadprůměrnou známkou 4,8/5.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 18:45",
+   "discount": "cca -33 %; 599 Kč",
+   "url": "https://www.alza.cz/steelseries-qck-xxl-d12679311.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 166
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Levnější předeplatné AlzaPlus+",
+   "text": "Připomínáme starší článek s návodem, jak získat levnější předplatné AlzaPlus+. S touto službou máte neomezenou dopravu zboží na pobočky Alzy, do AlzaBoxů a jiných samoobslužných boxů a výdejen. Stojí 59 Kč měsíčně nebo 299 Kč ročně, ale když využijete doporučení, máte to za rok o 20 % levněji. V diskuzi pod tímto článkem najdete aktuální slevové kódy:",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 18:35",
+   "discount": "-20 %; 59 Kč; 299 Kč",
+   "url": "",
+   "host": "",
+   "extra": [],
+   "expired": false,
+   "id": 165
+  },
+  {
+   "source": "redakce",
    "category": "Příslušenství k PC",
    "product": "Surface Pro",
-   "text": "Amazon zlevnil tablet Microsoft Surface Pro na 19 864 Kč . Jde o variantu s 12\" LCD, čipem Snapdragon X Plus, 16 GB RAM a 256GB SSD je za 711 eur (17 218 Kč) . Tatáž verze v Česku po letošním zdražení stojí 30 tisíc. V ceně nejsou napájecí adaptér, klávesnice, ani stylus.",
+   "text": "Amazon zlevnil tablet Microsoft Surface Pro na 19 024 Kč . Jde o variantu s 12\" LCD, čipem Snapdragon X Plus, 16 GB RAM a 256GB SSD. Tatáž verze v Česku po letošním zdražení stojí 30 tisíc. V ceně nejsou napájecí adaptér, klávesnice, ani stylus.",
    "author": "Hlídač slev",
    "date": "16. 11. 2026 10:45",
-   "discount": "19 864 Kč; 711 eur (17 218 Kč)",
+   "discount": "19 024 Kč",
    "url": "https://www.amazon.de/dp/B0DYDV1KDM?th=1&linkCode=ll2&tag=zivecz-21&linkId=0ccc12ef826172d4da88adf283f5299a&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
    "host": "amazon.de",
-   "extra": [
-    {
-     "url": "https://amzn.to/48kIn6q",
-     "host": "amzn.to",
-     "label": "za 711 eur (17 218 Kč)"
-    }
-   ],
+   "extra": [],
    "expired": false,
-   "id": 160
+   "id": 157
   },
   {
    "source": "redakce",
@@ -1012,7 +1020,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 141
+   "id": 138
   },
   {
    "source": "redakce",
@@ -1026,7 +1034,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 137
+   "id": 134
   },
   {
    "source": "redakce",
@@ -1040,7 +1048,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 131
+   "id": 130
   },
   {
    "source": "diskuze",
@@ -1060,10 +1068,10 @@
    "source": "redakce",
    "category": "Příslušenství k PC",
    "product": "Apple Magic Keyboard s Touch ID",
-   "text": "Tera.cz nabízí klávesnici Magic Keyboard se čtečkou otisků za 2180 Kč , ostatní české obchody nejdou pod tři tisíce. Jde o stříbrnou variantu s českými popisky, ale bez numerického bloku. V současnosti je to také nejlevnější varianta, jak do stolního Macu přidat biometrické ověřování.",
+   "text": "Tera.cz nabízí klávesnici Magic Keyboard se čtečkou otisků za 1984 Kč , ostatní české obchody nejdou pod tři tisíce. Jde o stříbrnou variantu s českými popisky, ale bez numerického bloku. V současnosti je to také nejlevnější varianta, jak do stolního Macu přidat biometrické ověřování.",
    "author": "Hlídač slev",
    "date": "12. 11. 2026 11:45",
-   "discount": "2180 Kč",
+   "discount": "1984 Kč",
    "url": "https://klavesnice.heureka.cz/apple-magic-keyboard-touch-id-mk293cz-a/",
    "host": "klavesnice.heureka.cz",
    "extra": [],
@@ -1407,7 +1415,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 166
+   "id": 163
   },
   {
    "source": "redakce",
@@ -1421,7 +1429,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 159
+   "id": 156
   },
   {
    "source": "redakce",
@@ -1435,21 +1443,21 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 157
+   "id": 154
   },
   {
    "source": "redakce",
    "category": "TV a audio",
    "product": "Výborný OLED na práci pod 10 tisíc",
-   "text": "Monitor Dell S3225QC zlevnil v mnoha e-shopech už pod deset tisíc, třeba ve Světě počítačů stojí 9260 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
+   "text": "Monitor Dell S3225QC zlevnil v mnoha e-shopech už pod deset tisíc, třeba ve Světě počítačů stojí 9290 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
    "author": "Hlídač slev",
    "date": "15. 11. 2026 14:45",
-   "discount": "9260 Kč",
+   "discount": "9290 Kč",
    "url": "https://monitory.heureka.cz/dell-s3225qc_2/",
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 154
+   "id": 151
   },
   {
    "source": "redakce",
@@ -1463,7 +1471,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 149
+   "id": 146
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Soundbar Sony",
+   "text": "Sony HT-S2000 je 3.1kanálový soundbar, který dokáže vykouzlit prostorový zvuk linoucí se i z boku nebo zezadu. Obvykle stojí osm tisíc, teď se dá v Alze koupit za 5990 Kč . Podporuje všechny klíčové formáty zvuku včetně Dolby Atmos a DTS:X. Televizor stačí připojit přes HDMI eARC a užívat si například Atmosu z Netflixu. Vzhledem ke zpětné kompatibilitě nechybí ani digitální optický vstup, pro streamování a poslech hudby využijete bezdrátové připojení Bluetooth 5.2.\n\nNa výběr máte z několika režimů, nebo můžete vše nechat na automatice. Udávaný celkový výkon je 250 W. Integrovaný subwoofer usnadňuje instalaci, když budete ale chtít vylepšení, můžete později dokoupit externí bezdrátový kus, nebo dokonce zadní bezdrátové efektové bedny. Celkově Sony HT-S2000 představuje dostupné, kvalitní a prostorově nenáročné řešení.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 17:45",
+   "discount": "5990 Kč",
+   "url": "https://www.alza.cz/sony-ht-s2000?dq=7760807%3F&dp=2119",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 122
   },
   {
    "source": "redakce",
@@ -1722,20 +1744,6 @@
   },
   {
    "source": "redakce",
-   "category": "TV a audio",
-   "product": "Soundbar Sony",
-   "text": "Sony HT-S2000 je 3.1kanálový soundbar, který dokáže vykouzlit prostorový zvuk linoucí se i z boku nebo zezadu. Obvykle stojí osm tisíc, teď se dá v Alze koupit za 5990 Kč . Podporuje všechny klíčové formáty zvuku včetně Dolby Atmos a DTS:X. Televizor stačí připojit přes HDMI eARC a užívat si například Atmosu z Netflixu. Vzhledem ke zpětné kompatibilitě nechybí ani digitální optický vstup, pro streamování a poslech hudby využijete bezdrátové připojení Bluetooth 5.2.\n\nNa výběr máte z několika režimů, nebo můžete vše nechat na automatice. Udávaný celkový výkon je 250 W. Integrovaný subwoofer usnadňuje instalaci, když budete ale chtít vylepšení, můžete později dokoupit externí bezdrátový kus, nebo dokonce zadní bezdrátové efektové bedny. Celkově Sony HT-S2000 představuje dostupné, kvalitní a prostorově nenáročné řešení.",
-   "author": "Hlídač slev",
-   "date": "11. 11. 2026 17:45",
-   "discount": "5990 Kč",
-   "url": "https://www.alza.cz/sony-ht-s2000?dq=7760807%3F&dp=2119",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 122
-  },
-  {
-   "source": "redakce",
    "category": "Foto a video",
    "product": "Akční kamera DJI",
    "text": "Kamera DJI Osmo Action 4 ve standardním balení s jednou baterií zlevnila na historicky nejnižších 4690 Kč . Používá velký 1/1,3\" senzor s rozlišením 10 Mpx pro fotky a 4K120 pro videa, samozřejmě s elektronickou stabilizací. Má vodotěsné tělo pro potápění až do 18 metrů bez pouzdra nebo 60 metrů s pouzdrem. Na těle jsou tři mikrofony, dva displeje a šachta pro vyměnitelné baterie. S jednou vydrží až 160 minut při natáčení v 1080p24.",
@@ -1746,7 +1754,7 @@
    "host": "sportovni-kamery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 162
+   "id": 159
   },
   {
    "source": "redakce",
@@ -1760,7 +1768,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 158
+   "id": 155
   },
   {
    "source": "redakce",
@@ -1847,7 +1855,7 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 163
+   "id": 160
   },
   {
    "source": "redakce",
@@ -1861,7 +1869,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 155
+   "id": 152
   },
   {
    "source": "redakce",
@@ -1875,21 +1883,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 136
-  },
-  {
-   "source": "redakce",
-   "category": "Chytré hodinky a fitness",
-   "product": "Levný cyklopočítač s GPS",
-   "text": "Cyklocomputer Lezyne Super Pro prodává Kolokrám za 1290 Kč , běžně stojí o tisícovku víc. Patří k těm nejlevnějším, které umí zaznamenat jízdu pomocí družicového signálu. Podporuje GPS a Glonass, nechybí barometr, umí připojit i senzory přes ANT+ a Bluetooth. Na jedno nabití vydrží až 28 hodin. Nabízí dobře čitelný černobílý displej. Nezobrazí však mapu a neumí navigovat. Slouží jen pro zobrazení dat a záznam trasy.",
-   "author": "Hlídač slev",
-   "date": "13. 11. 2026 9:45",
-   "discount": "1290 Kč",
-   "url": "https://tachometry-na-kolo.heureka.cz/lezyne-super-pro-gps/",
-   "host": "tachometry-na-kolo.heureka.cz",
-   "extra": [],
-   "expired": false,
-   "id": 135
+   "id": 133
   },
   {
    "source": "redakce",
@@ -1903,7 +1897,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 132
+   "id": 131
   },
   {
    "source": "redakce",
@@ -1991,19 +1985,13 @@
    "source": "redakce",
    "category": "Chytré hodinky a fitness",
    "product": "Garmin Fénix 8",
-   "text": "Pokud nepotřebujete nejnovější Fénix 9, který je teď také v akci, T.S.Bohemia nabízí a znovu naskladnila Fénix 8 (Amoled, 47mm) za neskutečných 13 990 Kč . V dosud nejlepší akci za 17 990 Kč je také Fénix 8 Pro se safírovým sklem, titanovým tělem a eSIM.",
+   "text": "V dosud nejlepší akci za 17 990 Kč je Fénix 8 Pro se safírovým sklem, titanovým tělem a eSIM.",
    "author": "Hlídač slev",
    "date": "3. 11. 2026 18:40",
-   "discount": "13 990 Kč; 17 990 Kč",
-   "url": "https://chytre-hodinky.heureka.cz/garmin-fenix-8-amoled-47mm-gray-black-010-02904-00/",
+   "discount": "17 990 Kč",
+   "url": "https://chytre-hodinky.heureka.cz/garmin-fenix-8-pro-47mm-amoled-sapphire-titanium-graphite-010-03198-11_2/",
    "host": "chytre-hodinky.heureka.cz",
-   "extra": [
-    {
-     "url": "https://chytre-hodinky.heureka.cz/garmin-fenix-8-pro-47mm-amoled-sapphire-titanium-graphite-010-03198-11_2/",
-     "host": "chytre-hodinky.heureka.cz",
-     "label": "17 990 Kč"
-    }
-   ],
+   "extra": [],
    "expired": false,
    "id": 48
   },
@@ -2040,6 +2028,20 @@
    "extra": [],
    "expired": false,
    "id": 4
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Levný cyklopočítač s GPS",
+   "text": "Cyklocomputer Lezyne Super Pro prodává Kolokrám za 1290 Kč , běžně stojí o tisícovku víc. Patří k těm nejlevnějším, které umí zaznamenat jízdu pomocí družicového signálu. Podporuje GPS a Glonass, nechybí barometr, umí připojit i senzory přes ANT+ a Bluetooth. Na jedno nabití vydrží až 28 hodin. Nabízí dobře čitelný černobílý displej. Nezobrazí však mapu a neumí navigovat. Slouží jen pro zobrazení dat a záznam trasy.",
+   "author": "Hlídač slev",
+   "date": "13. 11. 2026 9:45",
+   "discount": "1290 Kč",
+   "url": "https://tachometry-na-kolo.heureka.cz/lezyne-super-pro-gps/",
+   "host": "tachometry-na-kolo.heureka.cz",
+   "extra": [],
+   "expired": true,
+   "id": 132
   },
   {
    "source": "diskuze",
@@ -2156,20 +2158,6 @@
   {
    "source": "redakce",
    "category": "Telefony a tablety",
-   "product": "Velký tablet s LTE",
-   "text": "Na jarní cenu se vrátil tablet Blackview Mega 2 , který v Alze stojí 4489 Kč , jinde chtějí o dva tisíce navíc. Používá 12\" displej s rozlišením 2000 × 1200 px, uvnitř je základní osmijádrový čip s 12 GB RAM a 256GB úložištěm plus slotem pro microSD kartu. Potěší LTE modem, GPS a bohaté příslušenství. Tablet má dvě krycí skla na displej (jedno už je aplikované), klávesnici, myši i nabíječku. Sbírá nadšené recenze s průměrnou známkou 4,9/5.",
-   "author": "Hlídač slev",
-   "date": "6. 11. 2026 7:45",
-   "discount": "4489 Kč",
-   "url": "https://www.alza.cz/blackview-mega-2-lte-d12988389.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 72
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
    "product": "Nothing Phone (3)",
    "text": "Alza výrazně zlevnila smartphone Nothing Phone (3) . Verze s kapacitou 12/256 GB stojí 12 499 Kč , loni stál přes dvacet tisíc. Nothing láká na výborný displej, dobrý výkon a tři slušné foťáky. Je voděodolný, má bezdrátové nabíjení i rychlé kabelové, pyšní se také dobrou softwarovou podporou. Tahákem Nothingu byl ale vždy netradiční design s průhledným tělem. Zde je nově doplněný o speciální displej na zádech, který může informovat o notifikacích apod.",
    "author": "Hlídač slev",
@@ -2246,6 +2234,20 @@
   {
    "source": "redakce",
    "category": "Telefony a tablety",
+   "product": "Velký tablet s LTE",
+   "text": "Na jarní cenu se vrátil tablet Blackview Mega 2 , který v Alze stojí 4489 Kč , jinde chtějí o dva tisíce navíc. Používá 12\" displej s rozlišením 2000 × 1200 px, uvnitř je základní osmijádrový čip s 12 GB RAM a 256GB úložištěm plus slotem pro microSD kartu. Potěší LTE modem, GPS a bohaté příslušenství. Tablet má dvě krycí skla na displej (jedno už je aplikované), klávesnici, myši i nabíječku. Sbírá nadšené recenze s průměrnou známkou 4,9/5.",
+   "author": "Hlídač slev",
+   "date": "6. 11. 2026 7:45",
+   "discount": "4489 Kč",
+   "url": "https://www.alza.cz/blackview-mega-2-lte-d12988389.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 72
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
    "product": "Nejlevnější čtečka e-knih",
    "text": "PocketBook 619 Verse Lite v Alze zlevnil o 10 % na 2151 Kč , levněji u nás žádnou jinou čtečku e-knih nekoupíte. Má 6\" displej, dostatečné rozlišení 212 dpi, podsvícení, české prostředí a nabíjení pomocí USB-C.\n\nVýhodný je také o stupeň vyšší model PocketBook 629 Verse za 2600 Kč . Většina parametrů je shodná, ale má podsvícení s volitelnou teplotou reagující na okolní světlo, čtečku microSD karet (pokud by nestačilo interní 8GB úložiště) a o polovinu větší baterii. Kvůli tomu ale také váží více.",
    "author": "Hlídač slev",
@@ -2289,21 +2291,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 167
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
-   "product": "Další nářadí Parkside",
-   "text": "Také v neděli má Lidl akci na zase trochu jinou sadu aku nářadí. Tentokrát vrtací šroubovák Parkside Performance PBSPA 12 E4 za 699 Kč , když použijete kupón na 500 Kč uvedený na stránce s produktem. Má 20+1 stupeň vrtání, točitý moment až 35 Nm, v balení dva akumulátory, rychlonabíječku, 25 bitů, 7 vrtáků do dřeva a 7 do kovu. K tomu i tašku. Jde o variantu používající akumulátory X 12 V Team, které se používají v menším nářadí, nikoliv v sekačkách, pilách apod. Na řadu Performance se vztahuje pětiletá záruka.",
-   "author": "Hlídač slev",
-   "date": "15. 11. 2026 10:45",
-   "discount": "699 Kč",
-   "url": "https://www.lidl.cz/p/parkside-performance-sada-s-aku-vrtacim-sroubovakem-pbspa-12-e4/p100395732",
-   "host": "lidl.cz",
-   "extra": [],
-   "expired": false,
-   "id": 152
+   "id": 164
   },
   {
    "source": "redakce",
@@ -2323,7 +2311,7 @@
     }
    ],
    "expired": false,
-   "id": 147
+   "id": 144
   },
   {
    "source": "diskuze",
@@ -2338,26 +2326,6 @@
    "extra": [],
    "expired": false,
    "id": 2174863
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
-   "product": "Akumulátory Parkside",
-   "text": "Lidl má dnes opět v akci akumulátory pro nářadí Parkside (Performance). Jsou kompatibilní se všemi produkty řady X 20 V Team. Nejmenší 2Ah akumulátor včetně nabíječky stojí s kupónem jen 300 Kč . Větší 4Ah stojí 500 Kč .",
-   "author": "Hlídač slev",
-   "date": "14. 11. 2026 8:45",
-   "discount": "300 Kč; 500 Kč",
-   "url": "https://www.lidl.cz/p/parkside-akumulator-2-ah-pap-202-a1-a-nabijecka-plg-20-c1-limited-edition/p100407867",
-   "host": "lidl.cz",
-   "extra": [
-    {
-     "url": "https://www.lidl.cz/p/parkside-performance-smart-akumulator-4-ah-papp-204-a1/p100398333",
-     "host": "lidl.cz",
-     "label": "500 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 145
   },
   {
    "source": "diskuze",
@@ -2376,16 +2344,36 @@
   {
    "source": "redakce",
    "category": "Nářadí a dílna",
-   "product": "Gravírovací pero Xiaomi",
-   "text": "Gravírovací nástroj S zlevnil o 15 % na 671 Kč . Má bezuhlíkový motor, otáčky 15 až 22 tisíc otáček za minutu, výdrž až 60 min a nabíjí se pomocí USB-C. V sadě je také kufřík s 16 nástavci pro gravírování, broušení, leštění a vrtání. Tohle potřebuje každý kutil.",
+   "product": "Další nářadí Parkside",
+   "text": "Také v neděli má Lidl akci na zase trochu jinou sadu aku nářadí. Tentokrát vrtací šroubovák Parkside Performance PBSPA 12 E4 za 699 Kč , když použijete kupón na 500 Kč uvedený na stránce s produktem. Má 20+1 stupeň vrtání, točitý moment až 35 Nm, v balení dva akumulátory, rychlonabíječku, 25 bitů, 7 vrtáků do dřeva a 7 do kovu. K tomu i tašku. Jde o variantu používající akumulátory X 12 V Team, které se používají v menším nářadí, nikoliv v sekačkách, pilách apod. Na řadu Performance se vztahuje pětiletá záruka.",
    "author": "Hlídač slev",
-   "date": "5. 11. 2026 17:45",
-   "discount": "-15 %; 671 Kč",
-   "url": "https://www.alza.cz/xiaomi-mi-gravirovaci-pero-mijia-72650-1x0-8-ah-d13315239.htm",
-   "host": "alza.cz",
+   "date": "15. 11. 2026 10:45",
+   "discount": "699 Kč",
+   "url": "https://www.lidl.cz/p/parkside-performance-sada-s-aku-vrtacim-sroubovakem-pbspa-12-e4/p100395732",
+   "host": "lidl.cz",
    "extra": [],
-   "expired": false,
-   "id": 70
+   "expired": true,
+   "id": 149
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Akumulátory Parkside",
+   "text": "Lidl má dnes opět v akci akumulátory pro nářadí Parkside (Performance). Jsou kompatibilní se všemi produkty řady X 20 V Team. Nejmenší 2Ah akumulátor včetně nabíječky stojí s kupónem jen 300 Kč . Větší 4Ah stojí 500 Kč .",
+   "author": "Hlídač slev",
+   "date": "14. 11. 2026 8:45",
+   "discount": "300 Kč; 500 Kč",
+   "url": "https://www.lidl.cz/p/parkside-akumulator-2-ah-pap-202-a1-a-nabijecka-plg-20-c1-limited-edition/p100407867",
+   "host": "lidl.cz",
+   "extra": [
+    {
+     "url": "https://www.lidl.cz/p/parkside-performance-smart-akumulator-4-ah-papp-204-a1/p100398333",
+     "host": "lidl.cz",
+     "label": "500 Kč"
+    }
+   ],
+   "expired": true,
+   "id": 142
   },
   {
    "source": "redakce",
@@ -2399,21 +2387,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": true,
-   "id": 138
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
-   "product": "Aku vrtačka Parkside Performance",
-   "text": "Také dnes má Lidl v akci jednu aku vrtačku vyšší řady Parkside Performance . Jde o model s příklepem a kufrem plným příslušenství, který běžně stojí 3499 Kč, ale s kupónem na 1800 Kč vyjde jen na 1699 Kč . Má výkonný bezkartáčový motor, v ceně jsou dva akumulátory, nabíječka, přídavné držadlo, hloubkový doraz, odlamovací nůž s 8 čepelemi, svinovací metr, ráčnový šroubovák (¼\"), držák bitů pro šroubovák (¼\"), 6× vrták do dřeva, 6× vrták do kovu, 6× vrták do kamene, 2× držák bitů (60 mm) a 72 bitů.",
-   "author": "Hlídač slev",
-   "date": "13. 11. 2026 8:45",
-   "discount": "1699 Kč",
-   "url": "https://www.lidl.cz/p/parkside-performance-sada-s-aku-priklepovou-vrtackou-psbsap-20-li-c3/p100405586",
-   "host": "lidl.cz",
-   "extra": [],
-   "expired": true,
-   "id": 134
+   "id": 135
   },
   {
    "source": "redakce",
@@ -2437,6 +2411,20 @@
   },
   {
    "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Gravírovací pero Xiaomi",
+   "text": "Gravírovací nástroj S zlevnil o 15 % na 671 Kč . Má bezuhlíkový motor, otáčky 15 až 22 tisíc otáček za minutu, výdrž až 60 min a nabíjí se pomocí USB-C. V sadě je také kufřík s 16 nástavci pro gravírování, broušení, leštění a vrtání. Tohle potřebuje každý kutil.",
+   "author": "Hlídač slev",
+   "date": "5. 11. 2026 17:45",
+   "discount": "-15 %; 671 Kč",
+   "url": "https://www.alza.cz/xiaomi-mi-gravirovaci-pero-mijia-72650-1x0-8-ah-d13315239.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 70
+  },
+  {
+   "source": "redakce",
    "category": "Domácnost a kuchyně",
    "product": "Sonický kartáček s tlakovým senzorem",
    "text": "V českých obchodech plošně zlevnil sonický zubní kartáček české značky TrueLife SonicBrush Clean70 UV , stojí 1189 Kč . Není chytrý v tom smyslu, že by se připojil k mobilu. Má však tlakový senzor, který upozorní na špatné čištění. Nabízí tichý motor s výkonem 90 000 pohybů za minutu. Součástí je také pouzdro s UV sterilizátorem. Na jedno nabití kartáček vydrží až dva měsíce. Náhradní hlavice se prodávají ve výhodných baleních po osmi kusech za pětistovku.",
@@ -2447,7 +2435,7 @@
    "host": "zubni-kartacky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 156
+   "id": 153
   },
   {
    "source": "redakce",
@@ -2481,10 +2469,10 @@
    "source": "redakce",
    "category": "Domácnost a kuchyně",
    "product": "LED světla Govee",
-   "text": "Govee má ve svém evropském e-shopu až 50% slevy na LED světla všeho druhu. Například RGB světlo na vánoční stromek Govee Cone Tree Lights zlevnilo o 40 eur na 130 eur (3200 Kč), zatímco u nás stojí minimálně čtyři tisíce. Tato verze je pro stromky o výšce 1,87 m, v nabídce jsou i větší. Světla mají přes 100 různých režimů, dají se programovat i ručně pomocí mobilní aplikace. Nechybí ani podpora Matteru pro připojení do chytré domácnosti.",
+   "text": "Govee má ve svém evropském e-shopu až 50% slevy na LED světla všeho druhu. Například RGB světlo na vánoční stromek Govee Cone Tree Lights zlevnilo o 40 eur na 119 eur (2900 Kč), zatímco u nás stojí minimálně čtyři tisíce. Tato verze je pro stromky o výšce 1,87 m, v nabídce jsou i větší. Světla mají přes 100 různých režimů, dají se programovat i ručně pomocí mobilní aplikace. Nechybí ani podpora Matteru pro připojení do chytré domácnosti.",
    "author": "Hlídač slev",
    "date": "6. 11. 2026 16:45",
-   "discount": "-50 %; 130 eur",
+   "discount": "-50 %; 119 eur",
    "url": "https://eu.govee.com/cs-cz/products/govee-cone-tree-lights?variant=51681358872760",
    "host": "eu.govee.com",
    "extra": [],
@@ -2577,7 +2565,7 @@
     }
    ],
    "expired": false,
-   "id": 165
+   "id": 162
   },
   {
    "source": "redakce",
@@ -2592,20 +2580,6 @@
    "extra": [],
    "expired": false,
    "id": 98
-  },
-  {
-   "source": "redakce",
-   "category": "Chytrá domácnost",
-   "product": "Pohybový senzor",
-   "text": "Pohybový senzor do chytré domácnosti Aqara FP300 zlevnil na historicky nejnižších 888 Kč . Sleduje pohyb v rozsahu 120° × 90°, má dosah až šest metrů a na dvě baterie CR2450 vydrží až tři roky. Pohyb nebo přítomnost osob snímá pomocí infračerveného nebo mmWave senzoru, měří také intenzitu světla, teplotu a vlhkost. Data předává přes Zigbee nebo Thread. Umí se tak připojit ke všem ekosystémům chytré domácnosti.",
-   "author": "Hlídač slev",
-   "date": "8. 11. 2026 14:45",
-   "discount": "888 Kč",
-   "url": "https://www.alza.cz/aqara-presence-multi-sensor-fp300-ps-s04d-zigbee-thread-d13154855.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 87
   },
   {
    "source": "diskuze",
@@ -2726,6 +2700,20 @@
   },
   {
    "source": "redakce",
+   "category": "Chytrá domácnost",
+   "product": "Pohybový senzor",
+   "text": "Pohybový senzor do chytré domácnosti Aqara FP300 zlevnil na historicky nejnižších 888 Kč . Sleduje pohyb v rozsahu 120° × 90°, má dosah až šest metrů a na dvě baterie CR2450 vydrží až tři roky. Pohyb nebo přítomnost osob snímá pomocí infračerveného nebo mmWave senzoru, měří také intenzitu světla, teplotu a vlhkost. Data předává přes Zigbee nebo Thread. Umí se tak připojit ke všem ekosystémům chytré domácnosti.",
+   "author": "Hlídač slev",
+   "date": "8. 11. 2026 14:45",
+   "discount": "888 Kč",
+   "url": "https://www.alza.cz/aqara-presence-multi-sensor-fp300-ps-s04d-zigbee-thread-d13154855.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 87
+  },
+  {
+   "source": "redakce",
    "category": "Baterie a nabíjení",
    "product": "Tužkovky za tři koruny",
    "text": "Není to sice v e-shopu, ale Action má prodejny všude možně. Tento týden v nich nabízí sadu dvaceti tužkových (AA) baterií jen za 60 Kč , tj. 3 Kč za kus. To je výjimečná cena, protože ani ve zvýhodněných sadách obvykle nekoupíte baterie levněji než za pět korun.",
@@ -2736,7 +2724,7 @@
    "host": "action.com",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 129
   },
   {
    "source": "redakce",
@@ -2796,20 +2784,6 @@
   },
   {
    "source": "redakce",
-   "category": "Oblečení, sport a batohy",
-   "product": "AirTag 2 za pětistovku",
-   "text": "Smarty dnes nabízí sadu čtyř AirTagů druhé generace za 1990 Kč . V prodeji je jen 12 kusů, tak neváhejte. Jinde jsou minimálně o 250 Kč dražší, doporučená cena Applem činí 2690 Kč. Vylepšené lokátory mají delší dosah Bluetooth i UWB a hlasitější repráček. Hodí se na klíče, do peněženek, kufrů, batohů, na kola nebo další věci, které se mohou ztratit. Nyní už mají tuto cenu pouze členové programu Smarty Student.",
-   "author": "Hlídač slev",
-   "date": "13. 11. 2026 7:45",
-   "discount": "1990 Kč",
-   "url": "https://www.smarty.cz/Apple-AirTag-2-generace-sada-4-ks-4p256954",
-   "host": "smarty.cz",
-   "extra": [],
-   "expired": true,
-   "id": 133
-  },
-  {
-   "source": "redakce",
    "category": "Software a předplatné",
    "product": "Proton VPN a ExpressVPN",
    "text": "V akci stále zůstává Proton VPN . Dvouletý tarif zlevnil o 75 % a stojí 60 eur (2,50 eura měsíčně) . V 50% slevě je také nejvyšší předplatné Proton Unlimited za 78 eur na rok (6,50 eura měsíčně). Ten má navíc i šifrovaný e-mail, kancelářskou aplikaci, správce hesel a 500GB cloudový disk.\n\nAlternativa ExpressVPN nabízí až 80% slevy na dvouleté předplatné. Tarif Basic s čtyřměsíčním bonusem vyjde na 84 dolarů (1850 Kč), v přepočtu tedy 66 Kč na měsíc a k tomu DPH. Připlatit se dá za extra služby jako pevnou IP adresu, správce hesel, eSIM apod. ExpressVPN má servery ve více než 100 zemí světa a no-log politiku.",
@@ -2826,7 +2800,7 @@
     }
    ],
    "expired": false,
-   "id": 144
+   "id": 141
   },
   {
    "source": "redakce",
@@ -2893,7 +2867,7 @@
     }
    ],
    "expired": false,
-   "id": 164
+   "id": 161
   },
   {
    "source": "diskuze",

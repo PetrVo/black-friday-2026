@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T11:49:30.730Z",
- "comments": 257,
- "tips": 162,
+ "updated": "2026-11-16T12:49:36.342Z",
+ "comments": 256,
+ "tips": 163,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1824,6 +1824,20 @@
   {
    "source": "redakce",
    "category": "Chytré hodinky a fitness",
+   "product": "Garminy na běhání",
+   "text": "Loňský sporttester Garmin Forerunner 165 stojí v Decathlonu 4599 Kč , patří tak k jedněm z nejlevnějších hodinek výrobce. Má 1,2\" dotykový Amoled, ale i ovládání tlačítky. Svým zaměřením cílí hlavně na běžce, ale nabízí i další sportovní profily. Nechybí žádný podstatný senzor, hodinkami lze i platit, v běžném režimu vydrží až 11 dní. Oproti vyšším modelům chybí offline mapy, svítilna nebo některé analytické nástroje.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 13:45",
+   "discount": "4599 Kč",
+   "url": "https://sporttestery-computery.heureka.cz/garmin-forerunner-165_2/",
+   "host": "sporttestery-computery.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 163
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
    "product": "Garmiňácké „Apple Watch“",
    "text": "V Datartu a iSpace koupíte Garmin Venu X1 v zelené verzi jen za 10 990 Kč . Levněji dosud nebyly a všude jinde jsou minimálně o tisícovku dražší. Ultratenké hodinky s velkým obdélníkovým displejem obsahují svítilnu, desítky sportovních i zdravotních funkcí a na jedno nabití vydrží až týden (s always-on displejem jen 2 dny). Je to pokus Garminu vytvořit něco jako Apple Watch.",
    "author": "Hlídač slev",
@@ -2807,20 +2821,6 @@
    "extra": [],
    "expired": false,
    "id": 75
-  },
-  {
-   "source": "diskuze",
-   "category": "Ostatní",
-   "product": "Alzaplus referral",
-   "text": "Asi jen klasických 20% na roční přes referral: (zbývají 3 využití).",
-   "author": "Wit.cz",
-   "date": "16. 11. 2026 10:32",
-   "discount": "-20 %",
-   "url": "https://www.alza.cz/alzaplus-referral?referralCode=YR9GxMtvcKh6",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 2175141
   },
   {
    "source": "diskuze",

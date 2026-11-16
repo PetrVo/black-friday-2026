@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T08:49:15.334Z",
- "comments": 254,
- "tips": 159,
+ "updated": "2026-11-16T09:49:21.379Z",
+ "comments": 255,
+ "tips": 160,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -965,6 +965,26 @@
    "extra": [],
    "expired": true,
    "id": 57
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Surface Pro",
+   "text": "Amazon zlevnil tablet Microsoft Surface Pro na 19 864 Kč . Jde o variantu s 12\" LCD, čipem Snapdragon X Plus, 16 GB RAM a 256GB SSD je za 711 eur (17 218 Kč) . Tatáž verze v Česku po letošním zdražení stojí 30 tisíc. V ceně nejsou napájecí adaptér, klávesnice, ani stylus.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 10:45",
+   "discount": "19 864 Kč; 711 eur (17 218 Kč)",
+   "url": "https://www.amazon.de/dp/B0DYDV1KDM?th=1&linkCode=ll2&tag=zivecz-21&linkId=0ccc12ef826172d4da88adf283f5299a&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [
+    {
+     "url": "https://amzn.to/48kIn6q",
+     "host": "amzn.to",
+     "label": "za 711 eur (17 218 Kč)"
+    }
+   ],
+   "expired": false,
+   "id": 160
   },
   {
    "source": "redakce",
@@ -2759,6 +2779,20 @@
    "extra": [],
    "expired": false,
    "id": 75
+  },
+  {
+   "source": "diskuze",
+   "category": "Ostatní",
+   "product": "Alzaplus referral",
+   "text": "Asi jen klasických 20% na roční přes referral: (zbývají 3 využití).",
+   "author": "Wit.cz",
+   "date": "16. 11. 2026 10:32",
+   "discount": "-20 %",
+   "url": "https://www.alza.cz/alzaplus-referral?referralCode=YR9GxMtvcKh6",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 2175141
   },
   {
    "source": "diskuze",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T07:50:40.925Z",
- "comments": 265,
- "tips": 166,
+ "updated": "2026-11-17T08:50:46.261Z",
+ "comments": 266,
+ "tips": 167,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2289,6 +2289,26 @@
    "extra": [],
    "expired": true,
    "id": 7
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Lidl s 10% slevou na všechno",
+   "text": "Lidl má dnes 10% slevu na celý nákup. Platí i na již zlevněné produkty. Takže například robotická sekačka Parkside Performance s pětiletou zárukou místo původních 16 999 Kč vyjde po aplikaci dvou slev jen na 10 799 Kč .",
+   "author": "Hlídač slev",
+   "date": "17. 11. 2026 9:45",
+   "discount": "-10 %; 10 799 Kč",
+   "url": "https://www.lidl.cz/",
+   "host": "lidl.cz",
+   "extra": [
+    {
+     "url": "https://www.lidl.cz/p/parkside-performance-roboticka-sekacka-na-travu-ppamr-1250-a1-smart-free-vcetne-akumulatoru-a-nabijeci-stanice/p100405120",
+     "host": "lidl.cz",
+     "label": "10 799 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 167
   },
   {
    "source": "redakce",

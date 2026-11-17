@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T08:50:46.261Z",
- "comments": 266,
+ "updated": "2026-11-17T09:50:52.375Z",
+ "comments": 267,
  "tips": 167,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
@@ -990,6 +990,34 @@
    "extra": [],
    "expired": true,
    "id": 2
+  },
+  {
+   "source": "diskuze",
+   "category": "Příslušenství k PC",
+   "product": "TITANWOLF - XXL Speed Gaming podložka pod myš Titanwolf černá 900 x 400 mm - XXL podložka pod myš - podložka na stůl …",
+   "text": "Kdo nestihl avizovanou slevu na již vyprodanou podložku pod myš a klávesnici na Alze za 599,-, může zkusit podobnou za 321,- Kč na Amazonu. Nebo tuto za 273,- Kč",
+   "author": "sender21",
+   "date": "17. 11. 2026 10:30",
+   "discount": "599 Kč; 321 Kč; 273 Kč",
+   "url": "https://www.amazon.de/-/cs/gp/product/B07H37NQNQ/",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 2175315
+  },
+  {
+   "source": "diskuze",
+   "category": "Příslušenství k PC",
+   "product": "TITANWOLF XXL Speed Gaming podložka pod myš - 900 x 400 mm - XXL podložka pod myš - podložka na stůl Large Size - s m…",
+   "text": "Kdo nestihl avizovanou slevu na již vyprodanou podložku pod myš a klávesnici na Alze za 599,-, může zkusit podobnou za 321,- Kč na Amazonu. Nebo tuto za 273,- Kč",
+   "author": "sender21",
+   "date": "17. 11. 2026 10:30",
+   "discount": "599 Kč; 321 Kč; 273 Kč",
+   "url": "https://www.amazon.de/-/cs/dp/B075ZVP2M9/",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 2175315
   },
   {
    "source": "redakce",

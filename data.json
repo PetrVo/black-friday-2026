@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T05:50:32.370Z",
+ "updated": "2026-11-17T06:50:36.345Z",
  "comments": 265,
- "tips": 166,
+ "tips": 167,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -632,6 +632,31 @@
    "extra": [],
    "expired": true,
    "id": 12
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Organizér na stůl",
+   "text": "Alza prodává o téměř třetinu levněji pegboardy své vlastní značky AlzaErgo. Model CL10 Edge instalovaný na hranu stolu stojí 709 Kč . Varianta SL20 Desk pro umístění na stůl je za 659 Kč . Verze WL30 Wall se prodává za 729 Kč . Pegboardy mají 520 × 420 mm a v balení obsahují i řadu háčků, poliček a jiného příslušenství pro kancelářské a počítačové potřeby. Podobné modulární nástěnky se hodí ale i do dílny.",
+   "author": "Hlídač slev",
+   "date": "17. 11. 2026 7:45",
+   "discount": "709 Kč; 659 Kč; 729 Kč",
+   "url": "https://www.alza.cz/alzaergo-pegboard-cl10-edge-cerny-d13056933.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/alzaergo-pegboard-sl20-desk-cerny-d13056932.htm",
+     "host": "alza.cz",
+     "label": "659 Kč"
+    },
+    {
+     "url": "https://www.alza.cz/alzaergo-pegboard-wl30-wall-cerny-d13056935.htm",
+     "host": "alza.cz",
+     "label": "729 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 167
   },
   {
    "source": "redakce",

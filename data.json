@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T16:51:30.019Z",
- "comments": 273,
- "tips": 167,
+ "updated": "2026-11-17T18:51:38.479Z",
+ "comments": 272,
+ "tips": 168,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1507,6 +1507,20 @@
   {
    "source": "redakce",
    "category": "TV a audio",
+   "product": "Skvělý herní headset",
+   "text": "V tuzemských obchodech o tisícovku zlevnil headset HyperX Cloud III S Wireless , stojí tak 2799 Kč . Pyšní se dobrým zvukem, kvalitním odpojitelným mikrofonem, sluchátka jsou navíc pohodlná a dlouho vydrží (až 200 hodin). Cloudy jsou navíc tradičně pohodlné, lehké na hlavě. Připojují se kabelem, přes USB dongle nebo Bluetooth.",
+   "author": "Hlídač slev",
+   "date": "17. 11. 2026 19:45",
+   "discount": "2799 Kč",
+   "url": "https://sluchatka.heureka.cz/hyperx-cloud-iii-s-wireless/",
+   "host": "sluchatka.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 168
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
    "product": "Sluchátka pro běžce a cyklisty",
    "text": "Lícní sluchátka Shokz OpenRun Pro 2 zlevnila v Decathlonu na 4299 Kč . Alza šla ještě níž, ta si řekne o 4099 Kč . A na Amazonu jsou aktuálně s dopravou zdarma za 3704 Kč . Zvuk se u nich vede pomocí vibrací do lícní kosti, takže zvukovody nic neblokuje a uživatel plně slyší okolí. Shokz je s vývojem nejdále ze všech a také tentokrát se mu podařilo zvýšit kvalitu reprodukce. OpenRun Pro 2 už tolik nevibrují, a navíc nově obsahují klasické měniče pro posílení basů. Právě hloubky lícní technologii nejčastěji chyběly.\n\nShokz ale oproti předchozím generacím přidal i další zlepšováky. Místo dvou režimů přehrávání tady najdete šest předvoleb ekvalizéru a dvě vlastní nastavení. Výrobce prodloužil výdrž z 10 na 12 hodin. Zrychlilo se i nabíjení, po 5 minutách sluchátka získají energii na 2,5 hodiny přehrávání (o hodinu déle než u předchůdce). Shokz slibuje také lepší mikrofon s protivětrným štítem.",
    "author": "Hlídač slev",
@@ -2907,20 +2921,6 @@
    "extra": [],
    "expired": false,
    "id": 72
-  },
-  {
-   "source": "diskuze",
-   "category": "Ostatní",
-   "product": "Alzaplus referral",
-   "text": "Ahoj, mám pro tebe 20 % slevu na roční členství AlzaPlus+. Díky němu získáš doručení zdarma na cokoli a slevy jen pro členy. Kód: YwrCWx2a9gRF zadej na",
-   "author": "Miroslav Velinsky",
-   "date": "17. 11. 2026 16:50",
-   "discount": "-20 %",
-   "url": "https://www.alza.cz/alzaplus-referral?referralCode=YwrCWx2a9gRF",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 2175343
   },
   {
    "source": "diskuze",

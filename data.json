@@ -1,12 +1,32 @@
 {
- "updated": "2026-11-17T11:51:01.608Z",
- "comments": 267,
- "tips": 168,
+ "updated": "2026-11-17T12:51:08.798Z",
+ "comments": 268,
+ "tips": 169,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
  },
  "deals": [
+  {
+   "source": "redakce",
+   "category": "Herní konzole a hry",
+   "product": "České a slovenské PC hry",
+   "text": "Na Steamu a GOGu se až do 23. listopadu slaví Czech & Slovak Games Week v rámci něhož můžete koupit desítky tuzemských her ve velkých slevách. V akcích jsou Kingdom Come, Euro Truck Simulator 2, Way of the Hunter, Space Engineers 2 nebo aktuální hit – krokovací dungeon Underkeep.",
+   "author": "Hlídač slev",
+   "date": "17. 11. 2026 13:45",
+   "discount": "",
+   "url": "https://store.steampowered.com/sale/CzechSlovakGamesWeek2026",
+   "host": "store.steampowered.com",
+   "extra": [
+    {
+     "url": "https://www.gog.com/en/promo/20261116_czech_and_slovak_games",
+     "host": "gog.com",
+     "label": "GOGu"
+    }
+   ],
+   "expired": false,
+   "id": 169
+  },
   {
    "source": "redakce",
    "category": "Herní konzole a hry",

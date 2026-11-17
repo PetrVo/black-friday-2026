@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T15:51:23.863Z",
+ "updated": "2026-11-17T16:51:30.019Z",
  "comments": 273,
- "tips": 170,
+ "tips": 167,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -25,7 +25,7 @@
     }
    ],
    "expired": false,
-   "id": 169
+   "id": 165
   },
   {
    "source": "redakce",
@@ -39,21 +39,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 125
+   "id": 122
   },
   {
    "source": "redakce",
    "category": "Herní konzole a hry",
    "product": "Bezdrátový headset pro PC a PS5",
-   "text": "Náhlavní sluchátka s mikrofonem Sony Inzone H9 II v Alze zlevnila na téměř polovinu běžné ceny, s kupónem stojí 4491 Kč . Jde o headset pro PC, PS4 a PS5, který se připojuje kabelem, přes Bluetooth i USB/RF dongle. Hrají velmi dobře, mají vynikající ANC jako u hudebních sluchátek od Sony, kvalitní mikrofon potlačující šum a podporují virtuální prostorový zvuk 7.1. Slabší je jen 30hodinová výdrž, konkurence zvládá delší.",
+   "text": "Náhlavní sluchátka s mikrofonem Sony Inzone H9 II v Alze zlevnila na téměř polovinu běžné ceny, s kupónem stojí 4490 Kč . Jde o headset pro PC, PS4 a PS5, který se připojuje kabelem, přes Bluetooth i USB/RF dongle. Hrají velmi dobře, mají vynikající ANC jako u hudebních sluchátek od Sony, kvalitní mikrofon potlačující šum a podporují virtuální prostorový zvuk 7.1. Slabší je jen 30hodinová výdrž, konkurence zvládá delší.",
    "author": "Hlídač slev",
    "date": "9. 11. 2026 14:45",
-   "discount": "4491 Kč",
+   "discount": "4490 Kč",
    "url": "https://www.alza.cz/sony-inzone-h9-ii-cerna-d13059237.htm?o=3",
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 95
+   "id": 93
   },
   {
    "source": "redakce",
@@ -67,7 +67,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": false,
-   "id": 77
+   "id": 75
   },
   {
    "source": "redakce",
@@ -81,7 +81,21 @@
    "host": "herni-konzole.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 44
+   "id": 43
+  },
+  {
+   "source": "redakce",
+   "category": "Monitory",
+   "product": "Držák na dva monitory",
+   "text": "Smarty nabízí dvoumonitorový držák své privátní značky Tigo Office ProView S125D s 30% slevou za 903 Kč . Má celkovou nosnost 9 kg, vejdou se na něj až 32\" monitory a ke stolu se dá přitáhnout svorkou nebo přišroubovat skrz desku. Díky plně polohovatelným ramenům můžete volně manipulovat s libovolným monitorem, i když jeho dodávaný stojan nic takového nezvládne. Stačí, aby měl vzadu matice VESA 75×75 nebo 100×100, což dnes mají skoro všechny. Tigo je jeden z mála alternativních držáků s bílým designem, což se v některých kancelářích může hodit víc než černý.",
+   "author": "Hlídač slev",
+   "date": "17. 11. 2026 17:45",
+   "discount": "-30 %; 903 Kč",
+   "url": "https://www.smarty.cz/TIGO-Office-ProView-S125D-drzak-na-dva-monitory-17-32-bily-4p283619",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": false,
+   "id": 167
   },
   {
    "source": "redakce",
@@ -95,7 +109,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 157
+   "id": 153
   },
   {
    "source": "redakce",
@@ -109,7 +123,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 144
+   "id": 141
   },
   {
    "source": "redakce",
@@ -123,7 +137,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 138
+   "id": 135
   },
   {
    "source": "redakce",
@@ -137,7 +151,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 122
+   "id": 119
   },
   {
    "source": "diskuze",
@@ -165,7 +179,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 98
+   "id": 96
   },
   {
    "source": "redakce",
@@ -179,7 +193,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 96
+   "id": 94
   },
   {
    "source": "redakce",
@@ -193,7 +207,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 92
+   "id": 90
   },
   {
    "source": "redakce",
@@ -207,7 +221,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 83
+   "id": 81
   },
   {
    "source": "redakce",
@@ -227,7 +241,7 @@
     }
    ],
    "expired": false,
-   "id": 65
+   "id": 63
   },
   {
    "source": "redakce",
@@ -241,7 +255,7 @@
    "host": "asome.cz",
    "extra": [],
    "expired": false,
-   "id": 63
+   "id": 61
   },
   {
    "source": "diskuze",
@@ -283,21 +297,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 37
-  },
-  {
-   "source": "redakce",
-   "category": "Monitory",
-   "product": "Nejlevnější ultraširoký monitor",
-   "text": "Mall nabízí MSI Pro MP341CQ jen za 3870 Kč , jinde je minimálně o šest stovek dražší. A levněji nekoupíte ani žádný jiný 34\" monitor s rozlišením 3440 × 1440 px. Má zakřivený panel, frekvenci 100 Hz a láká na dobré barevné podání. MSI nabízí tři vstupy – dva HDMI 2.0b a jeden DisplayPort 1.2a. Nechybí ani stereo reproduktory nebo výstup na sluchátka, ale od zvuku nečekejte žádné zázraky.",
-   "author": "Hlídač slev",
-   "date": "2. 11. 2026 16:45",
-   "discount": "3870 Kč",
-   "url": "https://monitory.heureka.cz/msi-pro-mp341cq/",
-   "host": "monitory.heureka.cz",
-   "extra": [],
-   "expired": false,
-   "id": 34
+   "id": 36
   },
   {
    "source": "redakce",
@@ -311,7 +311,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 28
+   "id": 27
   },
   {
    "source": "redakce",
@@ -325,7 +325,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 24
+   "id": 23
   },
   {
    "source": "diskuze",
@@ -367,7 +367,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 17
+   "id": 16
   },
   {
    "source": "redakce",
@@ -381,7 +381,21 @@
    "host": "planeo.cz",
    "extra": [],
    "expired": false,
-   "id": 13
+   "id": 12
+  },
+  {
+   "source": "redakce",
+   "category": "Monitory",
+   "product": "Nejlevnější ultraširoký monitor",
+   "text": "Mall nabízí MSI Pro MP341CQ jen za 3870 Kč , jinde je minimálně o šest stovek dražší. A levněji nekoupíte ani žádný jiný 34\" monitor s rozlišením 3440 × 1440 px. Má zakřivený panel, frekvenci 100 Hz a láká na dobré barevné podání. MSI nabízí tři vstupy – dva HDMI 2.0b a jeden DisplayPort 1.2a. Nechybí ani stereo reproduktory nebo výstup na sluchátka, ale od zvuku nečekejte žádné zázraky.",
+   "author": "Hlídač slev",
+   "date": "2. 11. 2026 16:45",
+   "discount": "3870 Kč",
+   "url": "https://monitory.heureka.cz/msi-pro-mp341cq/",
+   "host": "monitory.heureka.cz",
+   "extra": [],
+   "expired": true,
+   "id": 33
   },
   {
    "source": "redakce",
@@ -395,7 +409,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 139
+   "id": 136
   },
   {
    "source": "redakce",
@@ -409,7 +423,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 135
+   "id": 132
   },
   {
    "source": "diskuze",
@@ -443,7 +457,7 @@
     }
    ],
    "expired": false,
-   "id": 123
+   "id": 120
   },
   {
    "source": "redakce",
@@ -457,7 +471,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 120
+   "id": 117
   },
   {
    "source": "diskuze",
@@ -485,7 +499,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 107
+   "id": 105
   },
   {
    "source": "redakce",
@@ -505,7 +519,7 @@
     }
    ],
    "expired": false,
-   "id": 94
+   "id": 92
   },
   {
    "source": "redakce",
@@ -519,7 +533,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 84
+   "id": 82
   },
   {
    "source": "redakce",
@@ -533,7 +547,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 80
+   "id": 78
   },
   {
    "source": "redakce",
@@ -547,7 +561,7 @@
    "host": "nabijecky-pro-mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 61
+   "id": 59
   },
   {
    "source": "redakce",
@@ -561,7 +575,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 43
+   "id": 42
   },
   {
    "source": "redakce",
@@ -575,13 +589,13 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 18
+   "id": 17
   },
   {
    "source": "redakce",
    "category": "Nabíječky, kabely a příslušenství",
    "product": "Dok s Thunderboltem",
-   "text": "Smarty dnes nabízí stanici Asus SimProDock 2 s 50% slevou za 2749 Kč .Za dobrou cenu je i v Softcomu, kde stojí 2999 Kč . Jde o nejlevnější dok s rychlým Thundeboltem 3, který jedním kabelem přenese data, obraz, zvuk i napájení. Je vybaven 180W adaptérem, obsahuje tři obrazové výstupy, čtyři USB, sluchátkový výstup, gigabitový Ethernet a navrch má i čtečku čipových karet, například pro eObčanku.",
+   "text": "Smarty dnes nabízí stanici Asus SimProDock 2 s 50% slevou za 2749 Kč . Za dobrou cenu je i v Softcomu, kde stojí 2999 Kč . Jde o nejlevnější dok s rychlým Thundeboltem 3, který jedním kabelem přenese data, obraz, zvuk i napájení. Je vybaven 180W adaptérem, obsahuje tři obrazové výstupy, čtyři USB, sluchátkový výstup, gigabitový Ethernet a navrch má i čtečku čipových karet, například pro eObčanku.",
    "author": "Hlídač slev",
    "date": "15. 11. 2026 8:45",
    "discount": "-50 %; 2749 Kč; 2999 Kč",
@@ -595,7 +609,7 @@
     }
    ],
    "expired": true,
-   "id": 147
+   "id": 144
   },
   {
    "source": "redakce",
@@ -609,7 +623,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 99
+   "id": 97
   },
   {
    "source": "redakce",
@@ -623,7 +637,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 72
+   "id": 70
   },
   {
    "source": "redakce",
@@ -637,7 +651,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 27
+   "id": 26
   },
   {
    "source": "redakce",
@@ -651,7 +665,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 12
+   "id": 11
   },
   {
    "source": "redakce",
@@ -676,7 +690,7 @@
     }
    ],
    "expired": false,
-   "id": 166
+   "id": 162
   },
   {
    "source": "redakce",
@@ -690,7 +704,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": false,
-   "id": 149
+   "id": 145
   },
   {
    "source": "redakce",
@@ -704,7 +718,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 146
+   "id": 143
   },
   {
    "source": "redakce",
@@ -724,7 +738,7 @@
     }
    ],
    "expired": false,
-   "id": 142
+   "id": 139
   },
   {
    "source": "redakce",
@@ -744,7 +758,7 @@
     }
    ],
    "expired": false,
-   "id": 136
+   "id": 133
   },
   {
    "source": "redakce",
@@ -758,7 +772,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 118
+   "id": 115
   },
   {
    "source": "redakce",
@@ -772,7 +786,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 117
+   "id": 114
   },
   {
    "source": "redakce",
@@ -786,7 +800,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 115
+   "id": 112
   },
   {
    "source": "redakce",
@@ -800,7 +814,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 106
+   "id": 104
   },
   {
    "source": "redakce",
@@ -814,7 +828,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 66
+   "id": 64
   },
   {
    "source": "redakce",
@@ -828,7 +842,21 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 58
+   "id": 56
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Herní PC levnější než cena komponent",
+   "text": "Smarty prodává počítač vlastní privátní značky Tigo Machine za 28 491 Kč , běžně stojí 30 tisíc. Jen cena komponent uvnitř ale má hodnotu skoro 31 tisíc. Jde o dobře vyvážený stroj s malou skříní DeepCool, ve kterém najdeme osmijádro Ryzen 7 5700X, 16 GB RAM, 1TB SSD a grafiku Radeon RX 9060 XT (8 GB). Zdroj o výkonu 650 W je také od DeepCoolu, procesorový chladič s ARGB podsvícením je brandované Tigo. Zajímavostí je operační systém, Smarty nasadil linuxovou distribuci Bazzite optimalizovanou pro hry.",
+   "author": "Hlídač slev",
+   "date": "4. 11. 2026 15:45",
+   "discount": "28 491 Kč",
+   "url": "https://www.smarty.cz/TIGO-MACHINE-R7-5700X-RX-9060-XT-1TB-16GB-WIFI-4p280950",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": false,
+   "id": 55
   },
   {
    "source": "redakce",
@@ -842,7 +870,7 @@
    "host": "turisticke-batohy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 54
+   "id": 53
   },
   {
    "source": "redakce",
@@ -856,7 +884,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 33
+   "id": 32
   },
   {
    "source": "redakce",
@@ -870,7 +898,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 32
+   "id": 31
   },
   {
    "source": "redakce",
@@ -895,7 +923,7 @@
     }
    ],
    "expired": false,
-   "id": 25
+   "id": 24
   },
   {
    "source": "redakce",
@@ -909,7 +937,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 20
+   "id": 19
   },
   {
    "source": "redakce",
@@ -923,7 +951,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 11
+   "id": 10
   },
   {
    "source": "redakce",
@@ -967,21 +995,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 101
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Herní PC levnější než cena komponent",
-   "text": "Smarty prodává počítač vlastní privátní značky Tigo Machine za 27 066 Kč , běžně stojí 30 tisíc. Jen cena komponent uvnitř ale má hodnotu skoro 31 tisíc. Jde o dobře vyvážený stroj s malou skříní DeepCool, ve kterém najdeme osmijádro Ryzen 7 5700X, 16 GB RAM, 1TB SSD a grafiku Radeon RX 9060 XT (8 GB). Zdroj o výkonu 650 W je také od DeepCoolu, procesorový chladič s ARGB podsvícením je brandované Tigo. Zajímavostí je operační systém, Smarty nasadil linuxovou distribuci Bazzite optimalizovanou pro hry.",
-   "author": "Hlídač slev",
-   "date": "4. 11. 2026 15:45",
-   "discount": "27 066 Kč",
-   "url": "https://www.smarty.cz/TIGO-MACHINE-R7-5700X-RX-9060-XT-1TB-16GB-WIFI-4p280950",
-   "host": "smarty.cz",
-   "extra": [],
-   "expired": true,
-   "id": 57
+   "id": 99
   },
   {
    "source": "redakce",
@@ -995,7 +1009,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 19
+   "id": 18
   },
   {
    "source": "redakce",
@@ -1023,7 +1037,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 170
+   "id": 166
   },
   {
    "source": "diskuze",
@@ -1056,20 +1070,6 @@
   {
    "source": "redakce",
    "category": "Příslušenství k PC",
-   "product": "Podložka pod myš a klávesnici",
-   "text": "Podložka SteelSeries QCK XXL zlevnila o třetinu na 599 Kč . Měří 90 × 40 cm, takže se na ni vejdou myš i klávesnice. Používá kvalitní textilní povrch, obšité okraje a protiskluzovou spodní vrstvu. Design je decentní černý s bílým logem v rohu. Už se jí prodalo přes 5000 kusů a uživatelé ji hodnotí nadprůměrnou známkou 4,8/5.",
-   "author": "Hlídač slev",
-   "date": "16. 11. 2026 18:45",
-   "discount": "cca -33 %; 599 Kč",
-   "url": "https://www.alza.cz/steelseries-qck-xxl-d12679311.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 165
-  },
-  {
-   "source": "redakce",
-   "category": "Příslušenství k PC",
    "product": "Levnější předeplatné AlzaPlus+",
    "text": "Připomínáme starší článek s návodem, jak získat levnější předplatné AlzaPlus+. S touto službou máte neomezenou dopravu zboží na pobočky Alzy, do AlzaBoxů a jiných samoobslužných boxů a výdejen. Stojí 59 Kč měsíčně nebo 299 Kč ročně, ale když využijete doporučení, máte to na rok o 20 % levněji. V diskuzi pod tímto článkem najdete aktuální slevové kódy:",
    "author": "Hlídač slev",
@@ -1079,21 +1079,21 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 164
+   "id": 160
   },
   {
    "source": "redakce",
    "category": "Příslušenství k PC",
    "product": "Surface Pro",
-   "text": "Amazon zlevnil tablet Microsoft Surface Pro na 19 024 Kč . Jde o variantu s 12\" LCD, čipem Snapdragon X Plus, 16 GB RAM a 256GB SSD. Tatáž verze v Česku po letošním zdražení stojí 30 tisíc. V ceně nejsou napájecí adaptér, klávesnice, ani stylus.",
+   "text": "Amazon zlevnil tablet Microsoft Surface Pro na 19 864 Kč . Jde o variantu s 12\" LCD, čipem Snapdragon X Plus, 16 GB RAM a 256GB SSD. Tatáž verze v Česku po letošním zdražení stojí 30 tisíc. V ceně nejsou napájecí adaptér, klávesnice, ani stylus.",
    "author": "Hlídač slev",
    "date": "16. 11. 2026 10:45",
-   "discount": "19 024 Kč",
+   "discount": "19 864 Kč",
    "url": "https://www.amazon.de/dp/B0DYDV1KDM?th=1&linkCode=ll2&tag=zivecz-21&linkId=0ccc12ef826172d4da88adf283f5299a&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 156
+   "id": 152
   },
   {
    "source": "redakce",
@@ -1107,7 +1107,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 137
+   "id": 134
   },
   {
    "source": "redakce",
@@ -1121,7 +1121,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 133
+   "id": 130
   },
   {
    "source": "redakce",
@@ -1135,7 +1135,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 129
+   "id": 126
   },
   {
    "source": "diskuze",
@@ -1163,7 +1163,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 124
+   "id": 121
   },
   {
    "source": "redakce",
@@ -1177,7 +1177,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 119
+   "id": 116
   },
   {
    "source": "redakce",
@@ -1191,7 +1191,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 102
+   "id": 100
   },
   {
    "source": "redakce",
@@ -1205,7 +1205,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 89
+   "id": 87
   },
   {
    "source": "redakce",
@@ -1219,7 +1219,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 87
+   "id": 85
   },
   {
    "source": "redakce",
@@ -1233,7 +1233,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 78
+   "id": 76
   },
   {
    "source": "redakce",
@@ -1247,7 +1247,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 64
+   "id": 62
   },
   {
    "source": "redakce",
@@ -1261,13 +1261,13 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 59
+   "id": 57
   },
   {
    "source": "redakce",
    "category": "Příslušenství k PC",
    "product": "3D pero pro děti",
-   "text": "Oblíbený 3Doodler Start+ se 72 náplněmi a 12 šablonami je teď v Hura Mobilus kódem 3DOODLER10 za 1189 Kč . Dříve se dalo koupit i o dvě stovky levněji, ale časem všude zdražil, dnes obvykle stojí čtrnáct stovek. Jde o 3D pero fungující na podobném principu jako tavné lepicí pistole nebo 3D tiskárny. Pracuje ale s nižší teplotou a náplně rychle schnou, takže si s ním mohou hrát i děti a tvořit si vlastní hračky.",
+   "text": "Oblíbený 3Doodler Start+ se 72 náplněmi a 12 šablonami je teď v Alze za 1189 Kč . Dříve se dalo koupit i o dvě stovky levněji, ale časem všude zdražil, dnes obvykle stojí čtrnáct stovek. Jde o 3D pero fungující na podobném principu jako tavné lepicí pistole nebo 3D tiskárny. Pracuje ale s nižší teplotou a náplně rychle schnou, takže si s ním mohou hrát i děti a tvořit si vlastní hračky.",
    "author": "Hlídač slev",
    "date": "4. 11. 2026 14:45",
    "discount": "1189 Kč",
@@ -1275,7 +1275,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 56
+   "id": 54
   },
   {
    "source": "redakce",
@@ -1289,7 +1289,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 52
+   "id": 51
   },
   {
    "source": "redakce",
@@ -1303,7 +1303,7 @@
    "host": "pevne-disky-externi.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 51
+   "id": 50
   },
   {
    "source": "redakce",
@@ -1317,7 +1317,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 46
+   "id": 45
   },
   {
    "source": "redakce",
@@ -1331,7 +1331,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 45
+   "id": 44
   },
   {
    "source": "redakce",
@@ -1356,7 +1356,7 @@
     }
    ],
    "expired": false,
-   "id": 42
+   "id": 41
   },
   {
    "source": "redakce",
@@ -1381,7 +1381,7 @@
     }
    ],
    "expired": false,
-   "id": 38
+   "id": 37
   },
   {
    "source": "redakce",
@@ -1395,7 +1395,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 35
+   "id": 34
   },
   {
    "source": "redakce",
@@ -1409,7 +1409,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 29
+   "id": 28
   },
   {
    "source": "redakce",
@@ -1429,7 +1429,7 @@
     }
    ],
    "expired": false,
-   "id": 22
+   "id": 21
   },
   {
    "source": "redakce",
@@ -1443,7 +1443,7 @@
    "host": "mysi.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 16
+   "id": 15
   },
   {
    "source": "redakce",
@@ -1463,7 +1463,7 @@
     }
    ],
    "expired": false,
-   "id": 10
+   "id": 9
   },
   {
    "source": "redakce",
@@ -1492,6 +1492,20 @@
   },
   {
    "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Podložka pod myš a klávesnici",
+   "text": "Podložka SteelSeries QCK XXL zlevnila o třetinu na 599 Kč . Měří 90 × 40 cm, takže se na ni vejdou myš i klávesnice. Používá kvalitní textilní povrch, obšité okraje a protiskluzovou spodní vrstvu. Design je decentní černý s bílým logem v rohu. Už se jí prodalo přes 5000 kusů a uživatelé ji hodnotí nadprůměrnou známkou 4,8/5.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 18:45",
+   "discount": "cca -33 %; 599 Kč",
+   "url": "https://www.alza.cz/steelseries-qck-xxl-d12679311.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 161
+  },
+  {
+   "source": "redakce",
    "category": "TV a audio",
    "product": "Sluchátka pro běžce a cyklisty",
    "text": "Lícní sluchátka Shokz OpenRun Pro 2 zlevnila v Decathlonu na 4299 Kč . Alza šla ještě níž, ta si řekne o 4099 Kč . A na Amazonu jsou aktuálně s dopravou zdarma za 3704 Kč . Zvuk se u nich vede pomocí vibrací do lícní kosti, takže zvukovody nic neblokuje a uživatel plně slyší okolí. Shokz je s vývojem nejdále ze všech a také tentokrát se mu podařilo zvýšit kvalitu reprodukce. OpenRun Pro 2 už tolik nevibrují, a navíc nově obsahují klasické měniče pro posílení basů. Právě hloubky lícní technologii nejčastěji chyběly.\n\nShokz ale oproti předchozím generacím přidal i další zlepšováky. Místo dvou režimů přehrávání tady najdete šest předvoleb ekvalizéru a dvě vlastní nastavení. Výrobce prodloužil výdrž z 10 na 12 hodin. Zrychlilo se i nabíjení, po 5 minutách sluchátka získají energii na 2,5 hodiny přehrávání (o hodinu déle než u předchůdce). Shokz slibuje také lepší mikrofon s protivětrným štítem.",
@@ -1513,7 +1527,7 @@
     }
    ],
    "expired": false,
-   "id": 168
+   "id": 164
   },
   {
    "source": "redakce",
@@ -1527,7 +1541,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 162
+   "id": 158
   },
   {
    "source": "redakce",
@@ -1541,7 +1555,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 155
+   "id": 151
   },
   {
    "source": "redakce",
@@ -1555,21 +1569,21 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 153
+   "id": 149
   },
   {
    "source": "redakce",
    "category": "TV a audio",
    "product": "Výborný OLED na práci pod 10 tisíc",
-   "text": "Monitor Dell S3225QC zlevnil v mnoha e-shopech už pod deset tisíc, třeba ve Světě počítačů stojí 9290 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
+   "text": "Monitor Dell S3225QC zlevnil v mnoha e-shopech už pod deset tisíc, třeba ve Světě počítačů stojí 9490 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
    "author": "Hlídač slev",
    "date": "15. 11. 2026 14:45",
-   "discount": "9290 Kč",
+   "discount": "9490 Kč",
    "url": "https://monitory.heureka.cz/dell-s3225qc_2/",
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 150
+   "id": 146
   },
   {
    "source": "redakce",
@@ -1583,7 +1597,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 145
+   "id": 142
   },
   {
    "source": "redakce",
@@ -1597,7 +1611,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 121
+   "id": 118
   },
   {
    "source": "redakce",
@@ -1611,7 +1625,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 113
+   "id": 110
   },
   {
    "source": "redakce",
@@ -1625,7 +1639,7 @@
    "host": "dafilms.cz",
    "extra": [],
    "expired": false,
-   "id": 104
+   "id": 102
   },
   {
    "source": "redakce",
@@ -1645,21 +1659,21 @@
     }
    ],
    "expired": false,
-   "id": 90
+   "id": 88
   },
   {
    "source": "redakce",
    "category": "TV a audio",
    "product": "Výborný OLED na práci",
-   "text": "Monitor Dell S3225QC zlevnil v mnoha eshopech, třeba ve Světě počítačů, na 9300 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
+   "text": "Monitor Dell S3225QC zlevnil v mnoha eshopech, třeba ve Světě počítačů, na 9490 Kč . Je tak momentálně nejlevnějším (QD) OLED modelem s úhlopříčkou 32\" a rozlišením 4K. Dell cílí hlavně na práci. Slibuje přesné barvy, nabízí frekvenci 120 Hz, jas ve špičkách HDR činí až 1000 nitů. Má také překvapivě kvalitní reproduktory, plně polohovatelný stojan, USB hub a také USB-C pro připojení notebooku se zpětným nabíjením o výkonu 90 W. Také hezky vypadá. V recenzi od nás získal známku 8/10.",
    "author": "Hlídač slev",
    "date": "6. 11. 2026 9:45",
-   "discount": "9300 Kč",
+   "discount": "9490 Kč",
    "url": "https://monitory.heureka.cz/dell-s3225qc_2/",
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 73
+   "id": 71
   },
   {
    "source": "redakce",
@@ -1673,7 +1687,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 67
+   "id": 65
   },
   {
    "source": "redakce",
@@ -1687,7 +1701,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 62
+   "id": 60
   },
   {
    "source": "redakce",
@@ -1701,7 +1715,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 60
+   "id": 58
   },
   {
    "source": "redakce",
@@ -1715,7 +1729,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 50
+   "id": 49
   },
   {
    "source": "redakce",
@@ -1729,7 +1743,7 @@
    "host": "datart.cz",
    "extra": [],
    "expired": false,
-   "id": 47
+   "id": 46
   },
   {
    "source": "redakce",
@@ -1743,7 +1757,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 39
+   "id": 38
   },
   {
    "source": "diskuze",
@@ -1771,7 +1785,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 30
+   "id": 29
   },
   {
    "source": "diskuze",
@@ -1799,7 +1813,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 21
+   "id": 20
   },
   {
    "source": "redakce",
@@ -1813,13 +1827,13 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 8
+   "id": 7
   },
   {
    "source": "redakce",
    "category": "TV a audio",
    "product": "Levné OLED TV",
-   "text": "Planeo a další obchody prodávají letošní základní OLED TV od LG o 20 % levněji. Nejmenší 48\" model stojí 17 990 Kč . Varianta s 55\" úhlopříčkou LG OLED55B65 se prodává za 19 990 Kč . Větší LG OLED65B65 je například v LG Shopu za 24 990 Kč . Televizory mají skvělý obraz, který bude slušet filmům i hrám, podporují 120Hz frekvenci a mají chytrý systém webOS. Oproti dražším modelům však nabídnou nižší jas nebo slabší procesor pro zpracování obrazu z nižšího rozlišení, typicky televizního vysílání.",
+   "text": "Planeo a další obchody prodávají letošní základní OLED TV od LG o 20 % levněji. Nejmenší 48\" model stojí 17 990 Kč . Varianta s 55\" úhlopříčkou LG OLED55B65 se prodává za 19 990 Kč . Větší LG OLED65B65 je například v LG Store za 24 990 Kč . Televizory mají skvělý obraz, který bude slušet filmům i hrám, podporují 120Hz frekvenci a mají chytrý systém webOS. Oproti dražším modelům však nabídnou nižší jas nebo slabší procesor pro zpracování obrazu z nižšího rozlišení, typicky televizního vysílání.",
    "author": "Hlídač slev",
    "date": "30. 10. 2026 11:45",
    "discount": "17 990 Kč; 19 990 Kč; 24 990 Kč",
@@ -1852,7 +1866,7 @@
    "host": "sportovni-kamery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 158
+   "id": 154
   },
   {
    "source": "redakce",
@@ -1866,7 +1880,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 154
+   "id": 150
   },
   {
    "source": "redakce",
@@ -1880,7 +1894,7 @@
    "host": "autoradia.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 93
+   "id": 91
   },
   {
    "source": "redakce",
@@ -1900,7 +1914,7 @@
     }
    ],
    "expired": false,
-   "id": 85
+   "id": 83
   },
   {
    "source": "redakce",
@@ -1925,7 +1939,7 @@
     }
    ],
    "expired": false,
-   "id": 81
+   "id": 79
   },
   {
    "source": "redakce",
@@ -1939,7 +1953,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 23
+   "id": 22
   },
   {
    "source": "redakce",
@@ -1953,7 +1967,7 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 159
+   "id": 155
   },
   {
    "source": "redakce",
@@ -1967,7 +1981,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 151
+   "id": 147
   },
   {
    "source": "redakce",
@@ -1981,7 +1995,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 132
+   "id": 129
   },
   {
    "source": "redakce",
@@ -1995,7 +2009,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 127
   },
   {
    "source": "redakce",
@@ -2009,7 +2023,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 116
+   "id": 113
   },
   {
    "source": "redakce",
@@ -2023,7 +2037,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 76
+   "id": 74
   },
   {
    "source": "redakce",
@@ -2043,7 +2057,7 @@
     }
    ],
    "expired": false,
-   "id": 70
+   "id": 68
   },
   {
    "source": "redakce",
@@ -2057,7 +2071,7 @@
    "host": "kupkolo.cz",
    "extra": [],
    "expired": false,
-   "id": 53
+   "id": 52
   },
   {
    "source": "redakce",
@@ -2077,7 +2091,7 @@
     }
    ],
    "expired": false,
-   "id": 49
+   "id": 48
   },
   {
    "source": "redakce",
@@ -2091,7 +2105,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 48
+   "id": 47
   },
   {
    "source": "redakce",
@@ -2111,7 +2125,7 @@
     }
    ],
    "expired": false,
-   "id": 41
+   "id": 40
   },
   {
    "source": "redakce",
@@ -2139,7 +2153,7 @@
    "host": "tachometry-na-kolo.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 131
+   "id": 128
   },
   {
    "source": "diskuze",
@@ -2181,7 +2195,7 @@
    "host": "myheritage.cz",
    "extra": [],
    "expired": false,
-   "id": 127
+   "id": 124
   },
   {
    "source": "redakce",
@@ -2195,7 +2209,7 @@
    "host": "cyklotrenazery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 126
+   "id": 123
   },
   {
    "source": "diskuze",
@@ -2214,20 +2228,6 @@
   {
    "source": "redakce",
    "category": "Telefony a tablety",
-   "product": "Čtečka eObčanek",
-   "text": "Pokud chcete používat Občanku k přístupu ke službám státu, v Alze zlevnila o 23 % na 199 Kč čtečka Axagon . Funguje s PC i Androidem, na mobilu ale budete potřebovat OTG adaptér, protože tady je kabel s koncovkou USB-A.",
-   "author": "Hlídač slev",
-   "date": "11. 11. 2026 10:45",
-   "discount": "-23 %; 199 Kč",
-   "url": "https://www.alza.cz/axagon-cre-sm3t-smart-card-id-card-flatreader-usb-a-cable-1-3-m-d12370240.htm?o=3#reviews",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 114
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
    "product": "Stylus pro iPad",
    "text": "Alzácký stylus AlzaGuard Magnetic Pen zlevnil o 22 % na 690 Kč . Je kompatibilní se všemi iPady, pomocí magnetu se přichytí k hraně tabletu, ale dobíjí se pomocí USB-C. Funguje s minimální odezvou, nabízí palm rejection a rozpozná náklon, nikoliv však přítlak. V balení jsou i dva náhradní hroty.",
    "author": "Hlídač slev",
@@ -2237,7 +2237,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 111
+   "id": 108
   },
   {
    "source": "redakce",
@@ -2251,7 +2251,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 103
+   "id": 101
   },
   {
    "source": "redakce",
@@ -2265,7 +2265,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 40
+   "id": 39
   },
   {
    "source": "diskuze",
@@ -2299,7 +2299,7 @@
     }
    ],
    "expired": false,
-   "id": 15
+   "id": 14
   },
   {
    "source": "diskuze",
@@ -2332,6 +2332,20 @@
   {
    "source": "redakce",
    "category": "Telefony a tablety",
+   "product": "Čtečka eObčanek",
+   "text": "Pokud chcete používat Občanku k přístupu ke službám státu, v Alze zlevnila o 23 % na 199 Kč čtečka Axagon . Funguje s PC i Androidem, na mobilu ale budete potřebovat OTG adaptér, protože tady je kabel s koncovkou USB-A.",
+   "author": "Hlídač slev",
+   "date": "11. 11. 2026 10:45",
+   "discount": "-23 %; 199 Kč",
+   "url": "https://www.alza.cz/axagon-cre-sm3t-smart-card-id-card-flatreader-usb-a-cable-1-3-m-d12370240.htm?o=3#reviews",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 111
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
    "product": "Velký tablet s LTE",
    "text": "Na jarní cenu se vrátil tablet Blackview Mega 2 , který v Alze stojí 4489 Kč , jinde chtějí o dva tisíce navíc. Používá 12\" displej s rozlišením 2000 × 1200 px, uvnitř je základní osmijádrový čip s 12 GB RAM a 256GB úložištěm plus slotem pro microSD kartu. Potěší LTE modem, GPS a bohaté příslušenství. Tablet má dvě krycí skla na displej (jedno už je aplikované), klávesnici, myši i nabíječku. Sbírá nadšené recenze s průměrnou známkou 4,9/5.",
    "author": "Hlídač slev",
@@ -2341,41 +2355,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 71
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
-   "product": "Nejlevnější čtečka e-knih",
-   "text": "PocketBook 619 Verse Lite v Alze zlevnil o 10 % na 2151 Kč , levněji u nás žádnou jinou čtečku e-knih nekoupíte. Má 6\" displej, dostatečné rozlišení 212 dpi, podsvícení, české prostředí a nabíjení pomocí USB-C.\n\nVýhodný je také o stupeň vyšší model PocketBook 629 Verse za 2600 Kč . Většina parametrů je shodná, ale má podsvícení s volitelnou teplotou reagující na okolní světlo, čtečku microSD karet (pokud by nestačilo interní 8GB úložiště) a o polovinu větší baterii. Kvůli tomu ale také váží více.",
-   "author": "Hlídač slev",
-   "date": "4. 11. 2026 13:45",
-   "discount": "-10 %; 2151 Kč; 2600 Kč",
-   "url": "https://www.alza.cz/pocketbook-619-verse-lite-midnight-gray-sedy-d12902826.htm",
-   "host": "alza.cz",
-   "extra": [
-    {
-     "url": "https://www.alza.cz/pocketbook-629-verse-bright-blue-modry-d7927849.htm",
-     "host": "alza.cz",
-     "label": "2600 Kč"
-    }
-   ],
-   "expired": true,
-   "id": 55
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
-   "product": "Barevná čtečka za pár korun",
-   "text": "Čtečku e-knih PocketBook Verse Pro Color koupíte v Alze za 3321 Kč , levněji nikde není a nikdy ani nebyla. Má 6\" displej s rozlišením 300 dpi. Zobrazí i 4096 barev, je podsvícený a dotykový. Oproti Kindlům jsou zde tradičně také české menu, listování i pomocí tlačítek nebo podpora ochrany Adobe DRM pro EPUB a PDF, jenž využívají některé obchody s e-knihami.",
-   "author": "Hlídač slev",
-   "date": "30. 10. 2026 13:45",
-   "discount": "3321 Kč",
-   "url": "https://www.alza.cz/pocketbook-634k3-verse-pro-color-stormy-sea-d12723942.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 7
+   "id": 69
   },
   {
    "source": "redakce",
@@ -2395,7 +2375,7 @@
     }
    ],
    "expired": false,
-   "id": 167
+   "id": 163
   },
   {
    "source": "redakce",
@@ -2409,7 +2389,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 163
+   "id": 159
   },
   {
    "source": "redakce",
@@ -2429,7 +2409,7 @@
     }
    ],
    "expired": false,
-   "id": 143
+   "id": 140
   },
   {
    "source": "diskuze",
@@ -2462,20 +2442,6 @@
   {
    "source": "redakce",
    "category": "Nářadí a dílna",
-   "product": "Další nářadí Parkside",
-   "text": "Také v neděli má Lidl akci na zase trochu jinou sadu aku nářadí. Tentokrát vrtací šroubovák Parkside Performance PBSPA 12 E4 za 699 Kč , když použijete kupón na 500 Kč uvedený na stránce s produktem. Má 20+1 stupeň vrtání, točitý moment až 35 Nm, v balení dva akumulátory, rychlonabíječku, 25 bitů, 7 vrtáků do dřeva a 7 do kovu. K tomu i tašku. Jde o variantu používající akumulátory X 12 V Team, které se používají v menším nářadí, nikoliv v sekačkách, pilách apod. Na řadu Performance se vztahuje pětiletá záruka.",
-   "author": "Hlídač slev",
-   "date": "15. 11. 2026 10:45",
-   "discount": "699 Kč",
-   "url": "https://www.lidl.cz/p/parkside-performance-sada-s-aku-vrtacim-sroubovakem-pbspa-12-e4/p100395732",
-   "host": "lidl.cz",
-   "extra": [],
-   "expired": true,
-   "id": 148
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
    "product": "Akumulátory Parkside",
    "text": "Lidl má dnes opět v akci akumulátory pro nářadí Parkside (Performance). Jsou kompatibilní se všemi produkty řady X 20 V Team. Nejmenší 2Ah akumulátor včetně nabíječky stojí s kupónem jen 300 Kč . Větší 4Ah stojí 500 Kč .",
    "author": "Hlídač slev",
@@ -2491,7 +2457,7 @@
     }
    ],
    "expired": true,
-   "id": 141
+   "id": 138
   },
   {
    "source": "redakce",
@@ -2505,27 +2471,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": true,
-   "id": 134
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
-   "product": "Vrtačka Parkside Performance a výhodný akumulátor",
-   "text": "Ještě dva tipy z Lidlu – aku vrtačka Parkside Performance bez akumulátoru a nabíječky je pouze dnes v 50% slevě za 999 Kč , musíte si na stránce aktivovat kupón. Má bezkartáčový motor s dlouhou životností, maximální točivý moment je 64 Nm, má 20+ stupňů vrtání a příklep. Nechybí kufřík, užitečné příslušenství a lákadlem je i pětiletá záruka. Recenze jsou velmi nadšené.\n\nV akci je dnes také 4Ah akumulátor, s kupónem vyjde jen na 500 Kč . To je fantastická nabídka, nikdy nebyl levnější. Jde o sérii Parkside X 20 V Team, takže jej lze použít v desítkách různých nářadí.",
-   "author": "Hlídač slev",
-   "date": "10. 11. 2026 17:45",
-   "discount": "-50 %; 999 Kč; 500 Kč",
-   "url": "https://www.lidl.cz/p/parkside-performance-aku-priklepova-vrtacka-psbsap-20-li-d4-bez-akumulatoru-a-nabijecky/p100380977",
-   "host": "lidl.cz",
-   "extra": [
-    {
-     "url": "https://www.lidl.cz/p/parkside-performance-smart-akumulator-4-ah-papp-204-a1/p100398333",
-     "host": "lidl.cz",
-     "label": "500 Kč"
-    }
-   ],
-   "expired": true,
-   "id": 109
+   "id": 131
   },
   {
    "source": "redakce",
@@ -2539,7 +2485,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 69
+   "id": 67
   },
   {
    "source": "redakce",
@@ -2553,7 +2499,7 @@
    "host": "zubni-kartacky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 152
+   "id": 148
   },
   {
    "source": "redakce",
@@ -2567,21 +2513,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 91
-  },
-  {
-   "source": "redakce",
-   "category": "Domácnost a kuchyně",
-   "product": "Herní židle Rapture",
-   "text": "Herní židle alzácké značky Rapture Galley zlevnila o polovinu na 4499 Kč . Je určená pro postavy o výšce 160–190 cm a hmotnosti do 120 kg. Nabízí textilní povrch, krční i bederní opěrky, plně nastavitelné područky a houpací mechanismus s aretací. Lidé ji dost chválí (průměrná známka 4,5/5), ale někteří si stěžují na vrzání.",
-   "author": "Hlídač slev",
-   "date": "7. 11. 2026 10:45",
-   "discount": "cca -50 %; 4499 Kč",
-   "url": "https://www.alza.cz/rapture-galley-cerna-d7507005.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 82
+   "id": 89
   },
   {
    "source": "redakce",
@@ -2595,7 +2527,7 @@
    "host": "eu.govee.com",
    "extra": [],
    "expired": false,
-   "id": 79
+   "id": 77
   },
   {
    "source": "redakce",
@@ -2615,7 +2547,7 @@
     }
    ],
    "expired": false,
-   "id": 75
+   "id": 73
   },
   {
    "source": "diskuze",
@@ -2643,7 +2575,7 @@
    "host": "roboticke-vysavace.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 31
+   "id": 30
   },
   {
    "source": "redakce",
@@ -2663,7 +2595,21 @@
     }
    ],
    "expired": true,
-   "id": 100
+   "id": 98
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
+   "product": "Herní židle Rapture",
+   "text": "Herní židle alzácké značky Rapture Galley zlevnila o polovinu na 4499 Kč . Je určená pro postavy o výšce 160–190 cm a hmotnosti do 120 kg. Nabízí textilní povrch, krční i bederní opěrky, plně nastavitelné područky a houpací mechanismus s aretací. Lidé ji dost chválí (průměrná známka 4,5/5), ale někteří si stěžují na vrzání.",
+   "author": "Hlídač slev",
+   "date": "7. 11. 2026 10:45",
+   "discount": "cca -50 %; 4499 Kč",
+   "url": "https://www.alza.cz/rapture-galley-cerna-d7507005.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 80
   },
   {
    "source": "redakce",
@@ -2683,7 +2629,7 @@
     }
    ],
    "expired": false,
-   "id": 161
+   "id": 157
   },
   {
    "source": "redakce",
@@ -2697,7 +2643,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 97
+   "id": 95
   },
   {
    "source": "diskuze",
@@ -2725,7 +2671,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 68
+   "id": 66
   },
   {
    "source": "redakce",
@@ -2739,7 +2685,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 36
+   "id": 35
   },
   {
    "source": "redakce",
@@ -2764,7 +2710,7 @@
     }
    ],
    "expired": false,
-   "id": 26
+   "id": 25
   },
   {
    "source": "redakce",
@@ -2784,7 +2730,7 @@
     }
    ],
    "expired": false,
-   "id": 14
+   "id": 13
   },
   {
    "source": "redakce",
@@ -2814,7 +2760,7 @@
     }
    ],
    "expired": false,
-   "id": 9
+   "id": 8
   },
   {
    "source": "redakce",
@@ -2828,7 +2774,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 86
+   "id": 84
   },
   {
    "source": "redakce",
@@ -2842,7 +2788,7 @@
    "host": "action.com",
    "extra": [],
    "expired": false,
-   "id": 128
+   "id": 125
   },
   {
    "source": "redakce",
@@ -2856,7 +2802,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 105
+   "id": 103
   },
   {
    "source": "redakce",
@@ -2870,7 +2816,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 88
+   "id": 86
   },
   {
    "source": "redakce",
@@ -2884,7 +2830,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 108
+   "id": 106
   },
   {
    "source": "diskuze",
@@ -2918,7 +2864,7 @@
     }
    ],
    "expired": false,
-   "id": 140
+   "id": 137
   },
   {
    "source": "redakce",
@@ -2932,7 +2878,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 112
+   "id": 109
   },
   {
    "source": "redakce",
@@ -2946,7 +2892,7 @@
    "host": "bundlehunt.com",
    "extra": [],
    "expired": false,
-   "id": 110
+   "id": 107
   },
   {
    "source": "redakce",
@@ -2960,7 +2906,7 @@
    "host": "go.getproton.me",
    "extra": [],
    "expired": false,
-   "id": 74
+   "id": 72
   },
   {
    "source": "diskuze",
@@ -3013,7 +2959,7 @@
     }
    ],
    "expired": false,
-   "id": 160
+   "id": 156
   },
   {
    "source": "diskuze",

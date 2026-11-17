@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T09:50:52.375Z",
- "comments": 267,
- "tips": 167,
+ "updated": "2026-11-17T10:50:56.901Z",
+ "comments": 266,
+ "tips": 168,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1455,6 +1455,26 @@
    ],
    "expired": false,
    "id": 3
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Sluchátka pro běžce a cyklisty",
+   "text": "Lícní sluchátka Shokz OpenRun Pro 2 zlevnila v Decathlonu na 4299 Kč . Alza šla ještě níž, ta si řekne o 4099 Kč . Nabízí 10. generaci technologie bone conduction, která zvuk vede pomocí vibrací do lícní kosti, takže zvukovody nic neblokuje a uživatel plně slyší okolí. Shokz je s vývojem nejdále ze všech a také tentokrát se mu podařilo zvýšit kvalitu reprodukce. OpenRun Pro 2 už tolik nevibrují, a navíc nově obsahují klasické měniče pro posílení basů. Právě hloubky lícní technologii nejčastěji chyběly.\n\nShokz ale oproti předchozím generacím přidal i další zlepšováky. Místo dvou režimů přehrávání tady najdete šest předvoleb ekvalizéru a dvě vlastní nastavení. Výrobce prodloužil výdrž z 10 na 12 hodin. Zrychlilo se i nabíjení, po 5 minutách sluchátka získají energii na 2,5 hodiny přehrávání (o hodinu déle než u předchůdce). Shokz slibuje také lepší mikrofon s protivětrným štítem.",
+   "author": "Hlídač slev",
+   "date": "17. 11. 2026 11:45",
+   "discount": "4299 Kč; 4099 Kč",
+   "url": "https://sluchatka.heureka.cz/shokz-openrun-pro-2/",
+   "host": "sluchatka.heureka.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/shokz-openrun-pro-2-cerna-d12551045.htm",
+     "host": "alza.cz",
+     "label": "4099 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 168
   },
   {
    "source": "redakce",

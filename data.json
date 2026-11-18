@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T17:53:16.212Z",
- "comments": 279,
+ "updated": "2026-11-18T20:53:28.571Z",
+ "comments": 280,
  "tips": 178,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
@@ -1981,6 +1981,20 @@
    "extra": [],
    "expired": true,
    "id": 48
+  },
+  {
+   "source": "diskuze",
+   "category": "Foto a video",
+   "product": "Dji osmo nano standard combo 64gb",
+   "text": "Zase je k dispozici ve slevě DJI nano 6399Kč",
+   "author": "oldass",
+   "date": "18. 11. 2026 21:26",
+   "discount": "6399 Kč",
+   "url": "https://m.alza.cz/dji-osmo-nano-standard-combo-64gb-d13095295.htm?evt=ac&pos=3&ste=com&sqid=Algolia_ab107ecf95531ee7c5ecc94f9b8bf227",
+   "host": "m.alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 2175461
   },
   {
    "source": "redakce",

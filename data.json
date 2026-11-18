@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T11:52:41.917Z",
+ "updated": "2026-11-18T12:52:48.398Z",
  "comments": 278,
- "tips": 174,
+ "tips": 175,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2354,7 +2354,7 @@
   {
    "source": "diskuze",
    "category": "Telefony a tablety",
-   "product": "Global Version Zte Nubia Z80 Ultra 5g Snapdragon 8 Elite Gen 5 7200Mah 6.85",
+   "product": "New ZTE nubia Z80 Ultra 5G Smartphon Global Version Snapdragon 8 Elite Gen 5 7200mAh 6.85",
    "text": "Excelentní telefon Nubia Z80 Ultra 16/512 za 13.495,- Kč.",
    "author": "sender21",
    "date": "2. 11. 2026 11:09",
@@ -2570,6 +2570,26 @@
    "extra": [],
    "expired": true,
    "id": 67
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
+   "product": "Chytrá stolní lampa",
+   "text": "Chytré osvětlení Govee Table Lamp 2 zlevnilo na Smarty na 1559 Kč , jinde stojí okolo dvou tisíc. Sám výrobce jej na svém evropském webu nabízí v akci za 42 eur (1050 Kč). Stolní lampa vysoká 20 cm používá programovatelné RGBW diody, které umí hezky svítit bíle i barevně. Svítivost je až 500 lumenů, teplotu barev lze zvolit mezi 2700 a 6500 K. Govee má dotykové ovládání, ale skrz Bluetooth a Wi-Fi (včetně Matter) se umí připojit také k mobilu nebo chytré domácnosti.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 13:45",
+   "discount": "1559 Kč; 42 eur",
+   "url": "https://www.smarty.cz/Govee-Table-Lamp-2-RGBW-Matter-stolni-lampa-4p199826",
+   "host": "smarty.cz",
+   "extra": [
+    {
+     "url": "https://eu.govee.com/cs-cz/products/led-table-lamp-2",
+     "host": "eu.govee.com",
+     "label": "42 eur"
+    }
+   ],
+   "expired": false,
+   "id": 175
   },
   {
    "source": "redakce",

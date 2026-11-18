@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T12:52:48.398Z",
+ "updated": "2026-11-18T13:52:52.647Z",
  "comments": 278,
- "tips": 175,
+ "tips": 176,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1559,6 +1559,20 @@
    "extra": [],
    "expired": true,
    "id": 161
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Soundbar za hubičku",
+   "text": "Alza nabízí soundbar Philips TAB4000 jen za 1199 Kč , běžně je dvakrát dražší. Nečekejte špičkový zvuk, ale bude zní lépe než váš televizor. Philips láká na výkon 30 W, má jeden vstupní HDMI (eARC) a slouží i jako bezdrátový reproduktory díky Bluetooth 5.4. Přes USB umí přímo přehrávat MP3 nebo FLAC. Zapomeňte ale na virtuální prostorový zvuk nebo mohutné basy. Je to levný soundbar k levné TV.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 14:45",
+   "discount": "1199 Kč",
+   "url": "https://www.alza.cz/philips-tab4000-10-d12955840.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 176
   },
   {
    "source": "redakce",

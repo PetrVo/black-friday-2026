@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T09:52:32.153Z",
+ "updated": "2026-11-18T10:52:37.208Z",
  "comments": 278,
- "tips": 172,
+ "tips": 173,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2977,6 +2977,31 @@
    "extra": [],
    "expired": false,
    "id": 72
+  },
+  {
+   "source": "redakce",
+   "category": "Ostatní",
+   "product": "Stream Decky",
+   "text": "Amazon má pěkné slevy na ovládací panely Elgato oblíbené hlavně u streamerů nebo programátorů. Stream Deck MK.2 s 15 programovatelnými LCD tlačítky je za 2737 Kč . Stream Deck+ s 8 tlačítky, dotykovým displejem a čtyřmi otočnými koflíky stojí 3957 Kč . Nejmenší Stream Deck Mini s šesti tlačítky stojí 1182 Kč . V Česku byste zaplatili 3599, 4699 a 1599 Kč.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 11:45",
+   "discount": "3957 Kč; 1182 Kč",
+   "url": "https://www.amazon.de/dp/B0BJL8SJ59?th=1&linkCode=ll2&tag=zivecz-21&linkId=36a0b7a0a26a4096bcfccc8d93723ed9&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [
+    {
+     "url": "https://www.amazon.de/dp/B07DYRS1WH?th=1&linkCode=ll2&tag=zivecz-21&linkId=3193c18f8252013bbeaa92925222bb03&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+     "host": "amazon.de",
+     "label": "1182 Kč"
+    },
+    {
+     "url": "https://www.amazon.de/dp/B09738CV2G?th=1&linkCode=ll2&tag=zivecz-21&linkId=beffb0cea024d0567d5fd3dd26cd714b&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+     "host": "amazon.de",
+     "label": "2737 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 173
   },
   {
    "source": "diskuze",

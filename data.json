@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T07:52:19.040Z",
- "comments": 277,
- "tips": 170,
+ "updated": "2026-11-18T08:52:26.457Z",
+ "comments": 278,
+ "tips": 171,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1038,6 +1038,20 @@
    "extra": [],
    "expired": true,
    "id": 2
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Trojitá autokamera",
+   "text": "Velké e-shopy zlevnily autokameru Lamax N10 na 3199 Kč . Má GPS, dvoupásmovou Wi-Fi, točí ve 4K a napájí se superkondenzátorem. Sada sestává z 3,15\" širokoúhlého displeje a rovnou tří kamer. Sledují přední i zadní stranu a navíc také interiér.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 9:45",
+   "discount": "3199 Kč",
+   "url": "https://cerne-skrinky.heureka.cz/lamax-n10-gps-3in1/",
+   "host": "cerne-skrinky.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 171
   },
   {
    "source": "redakce",

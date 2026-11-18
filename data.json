@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T23:51:55.496Z",
+ "updated": "2026-11-18T06:52:13.696Z",
  "comments": 277,
- "tips": 168,
+ "tips": 169,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2168,6 +2168,20 @@
    "extra": [],
    "expired": true,
    "id": 128
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "iPhone 17",
+   "text": "Mall prodává bílý iPhone 17 (256 GB) za 22 374 Kč , nejlevněji ze všech obchodů s českou distribucí. Běžně je minimálně o dva tisíce dražší. Sedmnáctka je na trhu už rok, stále však bez nástupce. V této generaci se výrazně přiblížila řadě Pro. Má špičkový 120Hz OLED s funkcí always-on, rychlé bezdrátové nabíjení, výborný foťák i dlouhou výdrž. Chybět tak bude hlavně foťák s teleobjektivem.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 7:45",
+   "discount": "22 374 Kč",
+   "url": "https://mobilni-telefony.heureka.cz/apple-iphone-17-256gb-white/",
+   "host": "mobilni-telefony.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 169
   },
   {
    "source": "diskuze",

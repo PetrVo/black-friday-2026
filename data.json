@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T15:53:03.268Z",
+ "updated": "2026-11-18T16:53:08.908Z",
  "comments": 279,
- "tips": 178,
+ "tips": 177,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -25,7 +25,7 @@
     }
    ],
    "expired": false,
-   "id": 165
+   "id": 163
   },
   {
    "source": "redakce",
@@ -39,21 +39,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 122
+   "id": 121
   },
   {
    "source": "redakce",
    "category": "Herní konzole a hry",
    "product": "Bezdrátový headset pro PC a PS5",
-   "text": "Náhlavní sluchátka s mikrofonem Sony Inzone H9 II v Alze zlevnila na téměř polovinu běžné ceny, s kupónem stojí 4490 Kč . Jde o headset pro PC, PS4 a PS5, který se připojuje kabelem, přes Bluetooth i USB/RF dongle. Hrají velmi dobře, mají vynikající ANC jako u hudebních sluchátek od Sony, kvalitní mikrofon potlačující šum a podporují virtuální prostorový zvuk 7.1. Slabší je jen 30hodinová výdrž, konkurence zvládá delší.",
+   "text": "Náhlavní sluchátka s mikrofonem Sony Inzone H9 II v Alze zlevnila na téměř polovinu běžné ceny, s kupónem stojí 4491 Kč . Jde o headset pro PC, PS4 a PS5, který se připojuje kabelem, přes Bluetooth i USB/RF dongle. Hrají velmi dobře, mají vynikající ANC jako u hudebních sluchátek od Sony, kvalitní mikrofon potlačující šum a podporují virtuální prostorový zvuk 7.1. Slabší je jen 30hodinová výdrž, konkurence zvládá delší.",
    "author": "Hlídač slev",
    "date": "9. 11. 2026 14:45",
-   "discount": "4490 Kč",
+   "discount": "4491 Kč",
    "url": "https://www.alza.cz/sony-inzone-h9-ii-cerna-d13059237.htm?o=3",
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 93
+   "id": 92
   },
   {
    "source": "redakce",
@@ -67,21 +67,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": false,
-   "id": 75
-  },
-  {
-   "source": "redakce",
-   "category": "Herní konzole a hry",
-   "product": "Nejlevnější Nintendo Switch 2",
-   "text": "Nintendo Switch 2 letos zdražil na více než 12 tisíc, ale Mall teď nabízí tuto hybridní konzoli v akci za 10 280 Kč . Druhá generace Switche přináší výkonnější hardware, který zvládá i hry s HDR a v rozlišení 1080p120, případně 4K60, pokud konzoli připojíte k televizoru. Oproti předchůdci nabízí i větší 7,9\" displej a pohodlnější magneticky připojitelné Joy-Cony. Ty mohou v některých hrách sloužit i jako myš.",
-   "author": "Hlídač slev",
-   "date": "3. 11. 2026 14:45",
-   "discount": "10 280 Kč",
-   "url": "https://herni-konzole.heureka.cz/nintendo-switch-2_2/",
-   "host": "herni-konzole.heureka.cz",
-   "extra": [],
-   "expired": true,
-   "id": 43
+   "id": 74
   },
   {
    "source": "redakce",
@@ -95,7 +81,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 170
+   "id": 168
   },
   {
    "source": "redakce",
@@ -109,7 +95,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 167
+   "id": 165
   },
   {
    "source": "redakce",
@@ -123,7 +109,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 153
+   "id": 151
   },
   {
    "source": "redakce",
@@ -137,7 +123,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 141
+   "id": 139
   },
   {
    "source": "redakce",
@@ -151,7 +137,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 135
+   "id": 133
   },
   {
    "source": "redakce",
@@ -165,7 +151,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 119
+   "id": 118
   },
   {
    "source": "diskuze",
@@ -193,7 +179,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 96
+   "id": 95
   },
   {
    "source": "redakce",
@@ -207,7 +193,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 94
+   "id": 93
   },
   {
    "source": "redakce",
@@ -221,7 +207,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 90
+   "id": 89
   },
   {
    "source": "redakce",
@@ -235,7 +221,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 81
+   "id": 80
   },
   {
    "source": "redakce",
@@ -255,7 +241,7 @@
     }
    ],
    "expired": false,
-   "id": 63
+   "id": 62
   },
   {
    "source": "redakce",
@@ -269,7 +255,7 @@
    "host": "asome.cz",
    "extra": [],
    "expired": false,
-   "id": 61
+   "id": 60
   },
   {
    "source": "diskuze",
@@ -423,7 +409,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 174
+   "id": 172
   },
   {
    "source": "redakce",
@@ -437,7 +423,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 136
+   "id": 134
   },
   {
    "source": "redakce",
@@ -451,7 +437,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 132
+   "id": 130
   },
   {
    "source": "diskuze",
@@ -466,6 +452,20 @@
    "extra": [],
    "expired": false,
    "id": 2174695
+  },
+  {
+   "source": "diskuze",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Parkside kombinovana sada aku naradi se 3 akumulatory a nabijeckou 12dilna",
+   "text": "Sada Parkside X20 nářadí a baterií za 4990,- (započten dnešní kupón na -3000,-). Kdybych toho už polovinu neměl doma, tak o tom vážně uvažuju. Možná, že jednotlivě v akcích to nevyjde o moc dráž, ale v běžných cenách je to i s kufrem za dvojnásobek.",
+   "author": "Tom V.",
+   "date": "13. 11. 2026 10:04",
+   "discount": "4990 Kč; 3000 Kč",
+   "url": "https://www.lidl.cz/p/parkside-kombinovana-sada-aku-naradi-se-3-akumulatory-a-nabijeckou-12dilna/p100414306",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 2174668
   },
   {
    "source": "redakce",
@@ -485,7 +485,7 @@
     }
    ],
    "expired": false,
-   "id": 120
+   "id": 119
   },
   {
    "source": "redakce",
@@ -499,7 +499,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 117
+   "id": 116
   },
   {
    "source": "diskuze",
@@ -527,7 +527,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 105
+   "id": 104
   },
   {
    "source": "redakce",
@@ -547,7 +547,7 @@
     }
    ],
    "expired": false,
-   "id": 92
+   "id": 91
   },
   {
    "source": "redakce",
@@ -561,7 +561,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 82
+   "id": 81
   },
   {
    "source": "redakce",
@@ -575,7 +575,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 78
+   "id": 77
   },
   {
    "source": "redakce",
@@ -589,7 +589,7 @@
    "host": "nabijecky-pro-mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 59
+   "id": 58
   },
   {
    "source": "redakce",
@@ -637,7 +637,7 @@
     }
    ],
    "expired": true,
-   "id": 144
+   "id": 142
   },
   {
    "source": "redakce",
@@ -651,7 +651,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 97
+   "id": 96
   },
   {
    "source": "redakce",
@@ -665,7 +665,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 70
+   "id": 69
   },
   {
    "source": "redakce",
@@ -698,6 +698,36 @@
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
+   "product": "Výkonné procesory AMD X3D",
+   "text": "Alza má nejlevněji ze všech českých obchodů výkonné procesory AMD X3D pro platformu AM5.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 17:45",
+   "discount": "10 390 Kč; 12 190 Kč; 14 590 Kč; 19 990 Kč",
+   "url": "https://www.alza.cz/amd-ryzen-7-9850x3d-d13213764.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/amd-ryzen-9-9900x3d-d12838126.htm",
+     "host": "alza.cz",
+     "label": "12 190 Kč"
+    },
+    {
+     "url": "https://www.alza.cz/amd-ryzen-9-9950x3d-d12838127.htm",
+     "host": "alza.cz",
+     "label": "14 590 Kč"
+    },
+    {
+     "url": "https://www.alza.cz/amd-ryzen-9-9950x3d2-d13342725.htm",
+     "host": "alza.cz",
+     "label": "19 990 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 177
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
    "product": "Herní procesor",
    "text": "Smarty nabízí osmijádrový Ryzen 7 5800X3D za 7971 Kč , jinde stojí minimálně 8390 Kč. Jde o obnovený prodej k 10. výročí platformy AM4. K procesoru je přibalena i chválená teplovodivá podložka Ice Pad, která nemá vyschnout, popraskat a jejíž tepelné vlastnosti se časem zlepšují. Jde o nejlepší herní procesor, který pro desky AM4 můžete koupit.",
    "author": "Hlídač slev",
@@ -707,7 +737,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 172
+   "id": 170
   },
   {
    "source": "redakce",
@@ -732,7 +762,7 @@
     }
    ],
    "expired": false,
-   "id": 162
+   "id": 160
   },
   {
    "source": "redakce",
@@ -744,20 +774,6 @@
    "discount": "22 eur",
    "url": "https://www.humblebundle.com/games/15th-anniversary-scifi-exposure",
    "host": "humblebundle.com",
-   "extra": [],
-   "expired": false,
-   "id": 145
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "AlzaPC za dobrou cenu",
-   "text": "Alza nabízí počítač AlzaPC GameBox Prime s 10% slevou za 42 990 Kč . Cena samotných komponent přitom přesahuje 50 tisíc. Uvnitř je 10jádrový procesor Intel Core Ultra 5 225F, 32 GB RAM, 1TB SSD, grafika GeForce RTX 5060 Ti (16 GB), 750W zdroj Fortron, chladič Fera 5 a v ceně je i OEM licence na Windows 11 Home.",
-   "author": "Hlídač slev",
-   "date": "14. 11. 2026 18:45",
-   "discount": "-10 %; 42 990 Kč",
-   "url": "https://www.alza.cz/alzapc/alzapc-gamebox-prime-u5-rtx5060ti-16gb-32gb-ram-1tb-ssd-d13501054.htm",
-   "host": "alza.cz",
    "extra": [],
    "expired": false,
    "id": 143
@@ -780,7 +796,7 @@
     }
    ],
    "expired": false,
-   "id": 139
+   "id": 137
   },
   {
    "source": "redakce",
@@ -800,7 +816,7 @@
     }
    ],
    "expired": false,
-   "id": 133
+   "id": 131
   },
   {
    "source": "redakce",
@@ -814,7 +830,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 115
+   "id": 114
   },
   {
    "source": "redakce",
@@ -828,7 +844,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 114
+   "id": 113
   },
   {
    "source": "redakce",
@@ -842,7 +858,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 112
+   "id": 111
   },
   {
    "source": "redakce",
@@ -856,7 +872,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 104
+   "id": 103
   },
   {
    "source": "redakce",
@@ -870,7 +886,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 64
+   "id": 63
   },
   {
    "source": "redakce",
@@ -884,7 +900,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 56
+   "id": 55
   },
   {
    "source": "redakce",
@@ -898,7 +914,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 55
+   "id": 54
   },
   {
    "source": "redakce",
@@ -912,7 +928,7 @@
    "host": "turisticke-batohy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 53
+   "id": 52
   },
   {
    "source": "redakce",
@@ -1028,6 +1044,20 @@
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
+   "product": "AlzaPC za dobrou cenu",
+   "text": "Alza nabízí počítač AlzaPC GameBox Prime s 10% slevou za 42 990 Kč . Cena samotných komponent přitom přesahuje 50 tisíc. Uvnitř je 10jádrový procesor Intel Core Ultra 5 225F, 32 GB RAM, 1TB SSD, grafika GeForce RTX 5060 Ti (16 GB), 750W zdroj Fortron, chladič Fera 5 a v ceně je i OEM licence na Windows 11 Home.",
+   "author": "Hlídač slev",
+   "date": "14. 11. 2026 18:45",
+   "discount": "-10 %; 42 990 Kč",
+   "url": "https://www.alza.cz/alzapc/alzapc-gamebox-prime-u5-rtx5060ti-16gb-32gb-ram-1tb-ssd-d13501054.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 141
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
    "product": "Levný notebook do kanceláře",
    "text": "V Alze koupíte Asus Vivobook 15 X1504VA za 12 990 Kč . Za původních 20 tisíc nedával smysl, teď už se o něm dá uvažovat. Má 15\" IPS displej s rozlišením 1920 × 1080 px, desetijádrový Intel Core 5 120U, 16 GB RAM a 512GB SSD. Nechybí podsvícená klávesnice s numerickým blokem, v ceně je překvapivě i Windows 11 Home. Tělo je ale pochopitelně jen plastové a displej patří k těm nejslabším, které dnes výrobci používají. Má tedy nízký jas (250 nitů) a slabé barevné podání (45% NTSC). V nenáročné kanceláři ale ostudu neudělá.",
    "author": "Hlídač slev",
@@ -1037,7 +1067,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 99
+   "id": 98
   },
   {
    "source": "redakce",
@@ -1079,7 +1109,7 @@
    "host": "cerne-skrinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 171
+   "id": 169
   },
   {
    "source": "redakce",
@@ -1093,7 +1123,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 166
+   "id": 164
   },
   {
    "source": "diskuze",
@@ -1135,7 +1165,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 160
+   "id": 158
   },
   {
    "source": "redakce",
@@ -1149,7 +1179,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 152
+   "id": 150
   },
   {
    "source": "redakce",
@@ -1163,7 +1193,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 134
+   "id": 132
   },
   {
    "source": "redakce",
@@ -1177,7 +1207,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 129
   },
   {
    "source": "redakce",
@@ -1191,7 +1221,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 126
+   "id": 125
   },
   {
    "source": "diskuze",
@@ -1219,7 +1249,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 121
+   "id": 120
   },
   {
    "source": "redakce",
@@ -1233,7 +1263,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 116
+   "id": 115
   },
   {
    "source": "redakce",
@@ -1247,7 +1277,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 100
+   "id": 99
   },
   {
    "source": "redakce",
@@ -1261,7 +1291,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 87
+   "id": 86
   },
   {
    "source": "redakce",
@@ -1275,7 +1305,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 85
+   "id": 84
   },
   {
    "source": "redakce",
@@ -1289,7 +1319,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 76
+   "id": 75
   },
   {
    "source": "redakce",
@@ -1303,7 +1333,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 62
+   "id": 61
   },
   {
    "source": "redakce",
@@ -1317,7 +1347,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 57
+   "id": 56
   },
   {
    "source": "redakce",
@@ -1331,7 +1361,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 54
+   "id": 53
   },
   {
    "source": "redakce",
@@ -1345,7 +1375,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 51
+   "id": 50
   },
   {
    "source": "redakce",
@@ -1359,7 +1389,7 @@
    "host": "pevne-disky-externi.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 50
+   "id": 49
   },
   {
    "source": "redakce",
@@ -1373,7 +1403,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 45
+   "id": 44
   },
   {
    "source": "redakce",
@@ -1387,7 +1417,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 44
+   "id": 43
   },
   {
    "source": "redakce",
@@ -1558,21 +1588,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 161
-  },
-  {
-   "source": "redakce",
-   "category": "TV a audio",
-   "product": "Soundbar za hubičku",
-   "text": "Alza nabízí soundbar Philips TAB4000 jen za 999 Kč , běžně je dvakrát dražší. Nečekejte špičkový zvuk, ale bude zní lépe než váš televizor. Philips láká na výkon 30 W, má jeden vstupní HDMI (eARC) a slouží i jako bezdrátový reproduktory díky Bluetooth 5.4. Přes USB umí přímo přehrávat MP3 nebo FLAC. Zapomeňte ale na virtuální prostorový zvuk nebo mohutné basy. Je to levný soundbar k levné TV.",
-   "author": "Hlídač slev",
-   "date": "18. 11. 2026 14:45",
-   "discount": "999 Kč",
-   "url": "https://www.alza.cz/philips-tab4000-10-d12955840.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 176
+   "id": 159
   },
   {
    "source": "redakce",
@@ -1586,7 +1602,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 168
+   "id": 166
   },
   {
    "source": "redakce",
@@ -1611,7 +1627,7 @@
     }
    ],
    "expired": false,
-   "id": 164
+   "id": 162
   },
   {
    "source": "redakce",
@@ -1625,7 +1641,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 158
+   "id": 156
   },
   {
    "source": "redakce",
@@ -1639,7 +1655,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 151
+   "id": 149
   },
   {
    "source": "redakce",
@@ -1653,7 +1669,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 149
+   "id": 147
   },
   {
    "source": "redakce",
@@ -1667,7 +1683,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 146
+   "id": 144
   },
   {
    "source": "redakce",
@@ -1681,7 +1697,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 142
+   "id": 140
   },
   {
    "source": "redakce",
@@ -1695,7 +1711,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 118
+   "id": 117
   },
   {
    "source": "redakce",
@@ -1709,7 +1725,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 110
+   "id": 109
   },
   {
    "source": "redakce",
@@ -1723,7 +1739,7 @@
    "host": "dafilms.cz",
    "extra": [],
    "expired": false,
-   "id": 102
+   "id": 101
   },
   {
    "source": "redakce",
@@ -1743,7 +1759,7 @@
     }
    ],
    "expired": false,
-   "id": 88
+   "id": 87
   },
   {
    "source": "redakce",
@@ -1757,7 +1773,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 71
+   "id": 70
   },
   {
    "source": "redakce",
@@ -1771,7 +1787,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 65
+   "id": 64
   },
   {
    "source": "redakce",
@@ -1785,7 +1801,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 60
+   "id": 59
   },
   {
    "source": "redakce",
@@ -1799,21 +1815,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 58
-  },
-  {
-   "source": "redakce",
-   "category": "TV a audio",
-   "product": "Výhodná TV Xiaomi",
-   "text": "Televizor Xiaomi TV A Pro 2. generace s 55\" QLED panelem zlevnil o 14 % na 8199 Kč . Jde o základní model s rozlišením 4K, frekvencí 50/60 Hz, ale nabízí pěkný obraz, dobrý zvuk a hlavně rychlé prostředí. Běží na Google TV, takže má k dispozici spousty aplikací.",
-   "author": "Hlídač slev",
-   "date": "4. 11. 2026 8:45",
-   "discount": "-14 %; 8199 Kč",
-   "url": "https://www.alza.cz/55-xiaomi-tv-a-pro-2nd-gen-d12907675.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 49
+   "id": 57
   },
   {
    "source": "redakce",
@@ -1827,7 +1829,7 @@
    "host": "datart.cz",
    "extra": [],
    "expired": false,
-   "id": 46
+   "id": 45
   },
   {
    "source": "redakce",
@@ -1861,10 +1863,10 @@
    "source": "redakce",
    "category": "TV a audio",
    "product": "Sluchátka, která vydrží 80 hodin",
-   "text": "Sluchátka Marshall Major IV plošně zlevnila – např. v Mobil Pohotovost – na 1289 Kč . Jde o pár let roky starý model, který už má na trhu nástupce. I čtyřka je však pořád dobrá. Pohodlně se nosí, hraje výborně a vydrží hrát několik dní v kuse.",
+   "text": "Sluchátka Marshall Major IV plošně zlevnila – např. v Mobil Pohotovost – na 1249 Kč . Jde o pár let roky starý model, který už má na trhu nástupce. I čtyřka je však pořád dobrá. Pohodlně se nosí, hraje výborně a vydrží hrát několik dní v kuse.",
    "author": "Hlídač slev",
    "date": "2. 11. 2026 12:45",
-   "discount": "1289 Kč",
+   "discount": "1249 Kč",
    "url": "https://sluchatka.heureka.cz/marshall-major-iv-bluetooth/",
    "host": "sluchatka.heureka.cz",
    "extra": [],
@@ -1917,7 +1919,7 @@
    "source": "redakce",
    "category": "TV a audio",
    "product": "Levné OLED TV",
-   "text": "Planeo a další obchody prodávají letošní základní OLED TV od LG o 20 % levněji. Nejmenší 48\" model stojí 17 990 Kč . Varianta s 55\" úhlopříčkou LG OLED55B65 se prodává za 19 990 Kč . Větší LG OLED65B65 je například v LG Store za 24 990 Kč . Televizory mají skvělý obraz, který bude slušet filmům i hrám, podporují 120Hz frekvenci a mají chytrý systém webOS. Oproti dražším modelům však nabídnou nižší jas nebo slabší procesor pro zpracování obrazu z nižšího rozlišení, typicky televizního vysílání.",
+   "text": "Planeo a další obchody prodávají letošní základní OLED TV od LG o 20 % levněji. Nejmenší 48\" model stojí 17 990 Kč . Varianta s 55\" úhlopříčkou LG OLED55B65 se prodává za 19 990 Kč . Větší LG OLED65B65 je například přímo u LG pro registrované za 24 990 Kč . Televizory mají skvělý obraz, který bude slušet filmům i hrám, podporují 120Hz frekvenci a mají chytrý systém webOS. Oproti dražším modelům však nabídnou nižší jas nebo slabší procesor pro zpracování obrazu z nižšího rozlišení, typicky televizního vysílání.",
    "author": "Hlídač slev",
    "date": "30. 10. 2026 11:45",
    "discount": "17 990 Kč; 19 990 Kč; 24 990 Kč",
@@ -1940,6 +1942,34 @@
   },
   {
    "source": "redakce",
+   "category": "TV a audio",
+   "product": "Soundbar za hubičku",
+   "text": "Alza nabízí soundbar Philips TAB4000 jen za 999 Kč , běžně je dvakrát dražší. Nečekejte špičkový zvuk, ale bude zní lépe než váš televizor. Philips láká na výkon 30 W, má jeden vstupní HDMI (eARC) a slouží i jako bezdrátový reproduktory díky Bluetooth 5.4. Přes USB umí přímo přehrávat MP3 nebo FLAC. Zapomeňte ale na virtuální prostorový zvuk nebo mohutné basy. Je to levný soundbar k levné TV.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 14:45",
+   "discount": "999 Kč",
+   "url": "https://www.alza.cz/philips-tab4000-10-d12955840.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 174
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Výhodná TV Xiaomi",
+   "text": "Televizor Xiaomi TV A Pro 2. generace s 55\" QLED panelem zlevnil o 14 % na 8199 Kč . Jde o základní model s rozlišením 4K, frekvencí 50/60 Hz, ale nabízí pěkný obraz, dobrý zvuk a hlavně rychlé prostředí. Běží na Google TV, takže má k dispozici spousty aplikací.",
+   "author": "Hlídač slev",
+   "date": "4. 11. 2026 8:45",
+   "discount": "-14 %; 8199 Kč",
+   "url": "https://www.alza.cz/55-xiaomi-tv-a-pro-2nd-gen-d12907675.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 48
+  },
+  {
+   "source": "redakce",
    "category": "Foto a video",
    "product": "Akční kamera DJI",
    "text": "Kamera DJI Osmo Action 4 ve standardním balení s jednou baterií zlevnila na historicky nejnižších 4690 Kč . Používá velký 1/1,3\" senzor s rozlišením 10 Mpx pro fotky a 4K120 pro videa, samozřejmě s elektronickou stabilizací. Má vodotěsné tělo pro potápění až do 18 metrů bez pouzdra nebo 60 metrů s pouzdrem. Na těle jsou tři mikrofony, dva displeje a šachta pro vyměnitelné baterie. S jednou vydrží až 160 minut při natáčení v 1080p24.",
@@ -1950,7 +1980,7 @@
    "host": "sportovni-kamery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 154
+   "id": 152
   },
   {
    "source": "redakce",
@@ -1964,7 +1994,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 150
+   "id": 148
   },
   {
    "source": "redakce",
@@ -1978,7 +2008,7 @@
    "host": "autoradia.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 91
+   "id": 90
   },
   {
    "source": "redakce",
@@ -1998,7 +2028,7 @@
     }
    ],
    "expired": false,
-   "id": 83
+   "id": 82
   },
   {
    "source": "redakce",
@@ -2023,7 +2053,7 @@
     }
    ],
    "expired": false,
-   "id": 79
+   "id": 78
   },
   {
    "source": "redakce",
@@ -2051,7 +2081,7 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 177
+   "id": 175
   },
   {
    "source": "redakce",
@@ -2065,7 +2095,7 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 155
+   "id": 153
   },
   {
    "source": "redakce",
@@ -2079,7 +2109,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 147
+   "id": 145
   },
   {
    "source": "redakce",
@@ -2093,7 +2123,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 129
+   "id": 128
   },
   {
    "source": "redakce",
@@ -2107,7 +2137,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 127
+   "id": 126
   },
   {
    "source": "redakce",
@@ -2121,7 +2151,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 113
+   "id": 112
   },
   {
    "source": "redakce",
@@ -2135,7 +2165,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 74
+   "id": 73
   },
   {
    "source": "redakce",
@@ -2155,21 +2185,21 @@
     }
    ],
    "expired": false,
-   "id": 68
+   "id": 67
   },
   {
    "source": "redakce",
    "category": "Chytré hodinky a fitness",
    "product": "Vrcholný cyklopočítač Garmin",
-   "text": "Cyklocomputer Garmin Edge 1050 , donedávna nejlepší model výrobce, je teď na KupKolo za 13 867 Kč , jinde stojí okolo 15 tisíc. Má jasný a jemný displej, hlasovou navigaci, bezkontaktní placení Garmin Pay a všechny sportovní funkce, na které si vzpomenete. Nedávno dorazil mnohem dražší nástupce Edge 1060 , který je rychlejší, má i hlasové ovládání a další funkce.",
+   "text": "Cyklocomputer Garmin Edge 1050 , donedávna nejlepší model výrobce, je teď na KupKolo za 13 499 Kč , jinde stojí okolo 15 tisíc. Má jasný a jemný displej, hlasovou navigaci, bezkontaktní placení Garmin Pay a všechny sportovní funkce, na které si vzpomenete. Nedávno dorazil mnohem dražší nástupce Edge 1060 , který je rychlejší, má i hlasové ovládání a další funkce.",
    "author": "Hlídač slev",
    "date": "4. 11. 2026 11:45",
-   "discount": "13 867 Kč",
+   "discount": "13 499 Kč",
    "url": "https://www.kupkolo.cz/cyklonavigace-garmin-edge-1050_z126143/",
    "host": "kupkolo.cz",
    "extra": [],
    "expired": false,
-   "id": 52
+   "id": 51
   },
   {
    "source": "redakce",
@@ -2189,7 +2219,7 @@
     }
    ],
    "expired": false,
-   "id": 48
+   "id": 47
   },
   {
    "source": "redakce",
@@ -2203,7 +2233,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 47
+   "id": 46
   },
   {
    "source": "redakce",
@@ -2251,7 +2281,7 @@
    "host": "tachometry-na-kolo.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 128
+   "id": 127
   },
   {
    "source": "redakce",
@@ -2265,7 +2295,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 169
+   "id": 167
   },
   {
    "source": "diskuze",
@@ -2307,7 +2337,7 @@
    "host": "myheritage.cz",
    "extra": [],
    "expired": false,
-   "id": 124
+   "id": 123
   },
   {
    "source": "redakce",
@@ -2321,7 +2351,7 @@
    "host": "cyklotrenazery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 123
+   "id": 122
   },
   {
    "source": "diskuze",
@@ -2349,7 +2379,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 108
+   "id": 107
   },
   {
    "source": "redakce",
@@ -2363,7 +2393,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 101
+   "id": 100
   },
   {
    "source": "redakce",
@@ -2453,7 +2483,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 111
+   "id": 110
   },
   {
    "source": "redakce",
@@ -2467,7 +2497,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 69
+   "id": 68
   },
   {
    "source": "redakce",
@@ -2481,7 +2511,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 178
+   "id": 176
   },
   {
    "source": "redakce",
@@ -2501,7 +2531,7 @@
     }
    ],
    "expired": false,
-   "id": 163
+   "id": 161
   },
   {
    "source": "redakce",
@@ -2515,7 +2545,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 159
+   "id": 157
   },
   {
    "source": "redakce",
@@ -2535,7 +2565,7 @@
     }
    ],
    "expired": false,
-   "id": 140
+   "id": 138
   },
   {
    "source": "diskuze",
@@ -2583,21 +2613,7 @@
     }
    ],
    "expired": true,
-   "id": 138
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
-   "product": "Sada nářadí Parkside",
-   "text": "Lidl má ještě jednu extrémně výhodnou akci, 12dílnou sadu aku nářadí Parkside se třemi akumulátory a rychlonabíječkou nabízí s kupónem jen za 4999 Kč . V balení jsou vrtací šroubovák, rázový utahovák, ruční okružní pila, přímočará pila s kyvadlovým zdvihem, pila ocaska, multifunkční nářadí, úhlová bruska a excentrická bruska. A ještě kufr navíc.",
-   "author": "Hlídač slev",
-   "date": "13. 11. 2026 12:45",
-   "discount": "4999 Kč",
-   "url": "https://www.lidl.cz/p/parkside-kombinovana-sada-aku-naradi-se-3-akumulatory-a-nabijeckou-12dilna/p100414306",
-   "host": "lidl.cz",
-   "extra": [],
-   "expired": true,
-   "id": 131
+   "id": 136
   },
   {
    "source": "redakce",
@@ -2611,7 +2627,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 67
+   "id": 66
   },
   {
    "source": "redakce",
@@ -2631,7 +2647,7 @@
     }
    ],
    "expired": false,
-   "id": 175
+   "id": 173
   },
   {
    "source": "redakce",
@@ -2645,7 +2661,7 @@
    "host": "zubni-kartacky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 148
+   "id": 146
   },
   {
    "source": "redakce",
@@ -2659,7 +2675,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 89
+   "id": 88
   },
   {
    "source": "redakce",
@@ -2673,7 +2689,7 @@
    "host": "eu.govee.com",
    "extra": [],
    "expired": false,
-   "id": 77
+   "id": 76
   },
   {
    "source": "redakce",
@@ -2693,7 +2709,7 @@
     }
    ],
    "expired": false,
-   "id": 73
+   "id": 72
   },
   {
    "source": "diskuze",
@@ -2741,7 +2757,7 @@
     }
    ],
    "expired": true,
-   "id": 98
+   "id": 97
   },
   {
    "source": "redakce",
@@ -2755,7 +2771,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 80
+   "id": 79
   },
   {
    "source": "redakce",
@@ -2775,7 +2791,7 @@
     }
    ],
    "expired": false,
-   "id": 157
+   "id": 155
   },
   {
    "source": "redakce",
@@ -2789,7 +2805,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 95
+   "id": 94
   },
   {
    "source": "diskuze",
@@ -2817,7 +2833,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 66
+   "id": 65
   },
   {
    "source": "redakce",
@@ -2920,21 +2936,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 84
-  },
-  {
-   "source": "redakce",
-   "category": "Baterie a nabíjení",
-   "product": "Tužkovky za tři koruny",
-   "text": "Není to sice v e-shopu, ale Action má prodejny všude možně. Tento týden v nich nabízí sadu dvaceti tužkových (AA) baterií jen za 60 Kč , tj. 3 Kč za kus. To je výjimečná cena, protože ani ve zvýhodněných sadách obvykle nekoupíte baterie levněji než za pět korun.",
-   "author": "Hlídač slev",
-   "date": "12. 11. 2026 16:45",
-   "discount": "60 Kč",
-   "url": "https://www.action.com/cs-cz/p/3216797/baterie-a-force-aa/",
-   "host": "action.com",
-   "extra": [],
-   "expired": false,
-   "id": 125
+   "id": 83
   },
   {
    "source": "redakce",
@@ -2948,7 +2950,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 103
+   "id": 102
   },
   {
    "source": "redakce",
@@ -2962,7 +2964,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 86
+   "id": 85
+  },
+  {
+   "source": "redakce",
+   "category": "Baterie a nabíjení",
+   "product": "Tužkovky za tři koruny",
+   "text": "Není to sice v e-shopu, ale Action má prodejny všude možně. Tento týden v nich nabízí sadu dvaceti tužkových (AA) baterií jen za 60 Kč , tj. 3 Kč za kus. To je výjimečná cena, protože ani ve zvýhodněných sadách obvykle nekoupíte baterie levněji než za pět korun.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 16:45",
+   "discount": "60 Kč",
+   "url": "https://www.action.com/cs-cz/p/3216797/baterie-a-force-aa/",
+   "host": "action.com",
+   "extra": [],
+   "expired": true,
+   "id": 124
   },
   {
    "source": "redakce",
@@ -2976,7 +2992,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 106
+   "id": 105
   },
   {
    "source": "diskuze",
@@ -3010,7 +3026,7 @@
     }
    ],
    "expired": false,
-   "id": 137
+   "id": 135
   },
   {
    "source": "redakce",
@@ -3024,7 +3040,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 109
+   "id": 108
   },
   {
    "source": "redakce",
@@ -3038,7 +3054,7 @@
    "host": "bundlehunt.com",
    "extra": [],
    "expired": false,
-   "id": 107
+   "id": 106
   },
   {
    "source": "redakce",
@@ -3052,7 +3068,7 @@
    "host": "go.getproton.me",
    "extra": [],
    "expired": false,
-   "id": 72
+   "id": 71
   },
   {
    "source": "redakce",
@@ -3077,7 +3093,7 @@
     }
    ],
    "expired": false,
-   "id": 173
+   "id": 171
   },
   {
    "source": "diskuze",
@@ -3116,7 +3132,7 @@
     }
    ],
    "expired": false,
-   "id": 156
+   "id": 154
   },
   {
    "source": "diskuze",

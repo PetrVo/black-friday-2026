@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T10:52:37.208Z",
+ "updated": "2026-11-18T11:52:41.917Z",
  "comments": 278,
- "tips": 173,
+ "tips": 174,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -410,6 +410,20 @@
    "extra": [],
    "expired": true,
    "id": 33
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Magnetická powerbanka Anker",
+   "text": "V Alze teď koupíte powerbanku Anker 633 s 37% slevou za 1490 Kč . Má kapacitu 10 000 mAh, bezdrátové nabíjení s výkonem 15 W a certifikacemi MagSafe i Qi2. Přes USB-C pak umí pustit až 27 W. Disponuje také displejem a výklopným stojánkem.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 12:45",
+   "discount": "-37 %; 1490 Kč",
+   "url": "https://www.alza.cz/anker-633-magnetic-wireless-power-bank-10000mah-15w-27w-usb-c-black-d12283346.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 174
   },
   {
    "source": "redakce",

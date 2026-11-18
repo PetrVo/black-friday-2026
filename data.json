@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T08:52:26.457Z",
+ "updated": "2026-11-18T09:52:32.153Z",
  "comments": 278,
- "tips": 171,
+ "tips": 172,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -680,6 +680,20 @@
    "extra": [],
    "expired": true,
    "id": 11
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Herní procesor",
+   "text": "Smarty nabízí osmijádrový Ryzen 7 5800X3D za 7971 Kč , jinde stojí minimálně 8390 Kč. Jde o obnovený prodej k 10. výročí platformy AM4. K procesoru je přibalena i chválená teplovodivá podložka Ice Pad, která nemá vyschnout, popraskat a jejíž tepelné vlastnosti se časem zlepšují. Jde o nejlepší herní procesor, který pro desky AM4 můžete koupit.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 10:45",
+   "discount": "7971 Kč",
+   "url": "https://www.smarty.cz/AMD-Ryzen-7-5800X3D-10th-Anniversary-Edition-4p274204",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": false,
+   "id": 172
   },
   {
    "source": "redakce",

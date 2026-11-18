@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T16:53:08.908Z",
+ "updated": "2026-11-18T17:53:16.212Z",
  "comments": 279,
- "tips": 177,
+ "tips": 178,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1589,6 +1589,20 @@
    "extra": [],
    "expired": true,
    "id": 159
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Přenosný projektor Xgimi",
+   "text": "V Alze je teď Xgimi MoGo 4 Laser 4v1 za historicky nejnižších 16 990 Kč . Jde o malý přenosný projektor, zde navíc dodávaný se stojanem fungujícím i jako powerbanka, s níž Xgimi vydrží promítat více než dvě hodiny. Používá technologii DLP s rozlišením 1080p a laserovou lampu o svítivosti 688 ANSI lumenů.\n\nBěží na Google TV, má certifikovaný Netflix, velmi dobrý reproduktor i automatickou korekci perspektivy. Obraz je sám o sobě také pěkný, ale hodí se spíš na noční sledování. Tělo umožňuje také přímé promítání na strop.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 18:45",
+   "discount": "16 990 Kč",
+   "url": "https://www.alza.cz/xgimi-mogo-4-laser-4v1-d13028144.htm?o=4",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 178
   },
   {
    "source": "redakce",

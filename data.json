@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T12:54:30.862Z",
- "comments": 282,
- "tips": 185,
+ "updated": "2026-11-19T13:54:35.662Z",
+ "comments": 283,
+ "tips": 186,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2390,6 +2390,20 @@
   {
    "source": "redakce",
    "category": "Telefony a tablety",
+   "product": "Starlink v akci",
+   "text": "Satelitní internet Starlink má až do konce listopadu 30% slevu na domácí tarify. Ten s rychlostí 100 Mb/s stojí 522 Kč měsíčně, za 200 Mb/s zaplatíte 707 Kč a za 400+ Mb/s pak 1082 Kč. Standardní ceny jsou 745, 1010 a 1545 Kč. V ceně je i pronájem modemu, který přitom běžně stojí 210 Kč měsíčně.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 14:45",
+   "discount": "-30 %; 522 Kč",
+   "url": "https://starlink.com/",
+   "host": "starlink.com",
+   "extra": [],
+   "expired": false,
+   "id": 186
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
    "product": "Neomezenka Vodafonu",
    "text": "Vodafone na Black Friday nabízí 41% slevu na neomezený tarif BezLimitu M. Místo 799 Kč stojí 472 Kč . Nabízí neomezené volání i SMS a data s rychlostí 8 Mb/s. Pět dní v měsíci je možné surfovat plnou rychlostí. Jako dárek získáte předplatné Disney+ na tři měsíce. Sleva je časově neomezená, bude platit po celou dobu trvání tarifu. Pokud by se někdy zdražil, tak pořád budete platit o 41 % méně.",
    "author": "Hlídač slev",
@@ -2616,6 +2630,20 @@
    "extra": [],
    "expired": true,
    "id": 68
+  },
+  {
+   "source": "diskuze",
+   "category": "Nářadí a dílna",
+   "product": "Parkside digitalna spajkovacia stanica plsd 60 c3",
+   "text": "toto je celkom zverina: 250 Kč 44,99€ / 1097 Kč to euro sa fakt oplatí",
+   "author": "kolkyno",
+   "date": "19. 11. 2026 14:27",
+   "discount": "876 250 Kč; 44,99 €; 1097 Kč",
+   "url": "https://www.lidl.sk/p/parkside-digitalna-spajkovacia-stanica-plsd-60-c3/p100400876#searchTrackingMasterId=Product.100400876&searchTrackingTitle=Digit%C3%A1lna+sp%C3%A1jkovacia+stanica+PLSD+60+C3&searchTrackingPageSize=48&searchTrackingPage=1&searchTrackingEvent=click&searchTrackingId=Product.100400876&searchTrackingOrigPos=1&searchTrackingPos=7&searchTrackingOrigPageSize=48&searchTrackingChannel=SK&list=/h/spajkovacky/h10000067",
+   "host": "lidl.sk",
+   "extra": [],
+   "expired": false,
+   "id": 2175557
   },
   {
    "source": "redakce",

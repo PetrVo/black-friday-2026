@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T16:55:49.685Z",
+ "updated": "2026-11-19T17:55:55.569Z",
  "comments": 290,
- "tips": 176,
+ "tips": 177,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2040,6 +2040,20 @@
    "extra": [],
    "expired": false,
    "id": 19
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Hodinky pro turistiku",
+   "text": "Několik obchodů s hodinkami zlevnilo Garmin Enduro 3 na 15 490 Kč , ještě loni stály 20 tisíc. Enduro mají podobnou výbavu jako řada Fénix, ale používají klasický displej typu MIP s dobrou čitelností na slunci a nízkou spotřebou, díky které hodinky vydrží déle než měsíc v pohotovosti, případně až tři měsíce se solárním nabíjením. Nechybí ani svítilna a navzdory výbavě jsou tyto hodinky překvapivě lehké.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 18:45",
+   "discount": "15 490 Kč",
+   "url": "https://chytre-hodinky.heureka.cz/garmin-enduro-3/",
+   "host": "chytre-hodinky.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 177
   },
   {
    "source": "redakce",

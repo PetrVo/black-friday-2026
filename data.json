@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T13:54:35.662Z",
- "comments": 283,
- "tips": 186,
+ "updated": "2026-11-19T14:54:40.741Z",
+ "comments": 288,
+ "tips": 187,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2774,6 +2774,20 @@
    "extra": [],
    "expired": true,
    "id": 66
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
+   "product": "Lampička na čtení",
+   "text": "Lampička AlzaPower LRC10 je v Alze k dostání za historicky nejnižších 189 Kč . Je to malé světlo na čtení, obsahuje pět diod a klip, díky kterému se připne na knihu, časopis nebo jiný dokument. Má nastavitelný jas i teplotu a integrovanou baterii. Podle intenzity zvládne svítit 8 až 80 hodin.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 15:45",
+   "discount": "189 Kč",
+   "url": "https://www.alza.cz/alzapower-lrc10-led-reading-lamp-bila-d12783948.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 187
   },
   {
    "source": "redakce",

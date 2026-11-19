@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T09:54:12.295Z",
- "comments": 281,
- "tips": 182,
+ "updated": "2026-11-19T10:54:16.220Z",
+ "comments": 282,
+ "tips": 183,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1096,6 +1096,20 @@
    "extra": [],
    "expired": true,
    "id": 2
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Struny pro 3D tiskárny",
+   "text": "Alza prodává své filamenty pro 3D tisk s 21% slevou . Akce platí na kilogramová balení Alzamentu z materiálů PLA+, PLA Silk, PETG a ASA, avšak v méně používaných barvách. Nejžádanější bílé a černé struny v akci nejsou.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 11:45",
+   "discount": "-21 %",
+   "url": "https://www.alza.cz/filamenty-pro-3d-tiskarny/black-friday/18854774-y0.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 183
   },
   {
    "source": "redakce",

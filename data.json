@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T06:53:56.722Z",
- "comments": 280,
- "tips": 178,
+ "updated": "2026-11-19T07:54:00.814Z",
+ "comments": 281,
+ "tips": 180,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1593,6 +1593,20 @@
   {
    "source": "redakce",
    "category": "TV a audio",
+   "product": "Bluetooth reproduktor Marshall",
+   "text": "Smarty má dnes v akci přenosný Bluetooth reproduktor Marshall Emberton III za 2790 Kč , zatímco jinde stojí přes tři tisíce. Reproduktor má voděodolnost IP67. Vydrží hrát až 32 hodin a rychle se dobíjí. Tahákem je zvuk linoucí se do všech stran a recenzenti chválí i kvalitní přednes středů, výšek, ale zejména basů. Láká také na krásný design.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 7:45",
+   "discount": "2790 Kč",
+   "url": "https://www.smarty.cz/Marshall-Emberton-III-cerno-medeny-4p175560",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": false,
+   "id": 179
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
    "product": "Přenosný projektor Xgimi",
    "text": "V Alze je teď Xgimi MoGo 4 Laser 4v1 za historicky nejnižších 16 990 Kč . Jde o malý přenosný projektor, zde navíc dodávaný se stojanem fungujícím i jako powerbanka, s níž Xgimi vydrží promítat více než dvě hodiny. Používá technologii DLP s rozlišením 1080p a laserovou lampu o svítivosti 688 ANSI lumenů.\n\nBěží na Google TV, má certifikovaný Netflix, velmi dobrý reproduktor i automatickou korekci perspektivy. Obraz je sám o sobě také pěkný, ale hodí se spíš na noční sledování. Tělo umožňuje také přímé promítání na strop.",
    "author": "Hlídač slev",
@@ -2314,10 +2328,24 @@
   {
    "source": "redakce",
    "category": "Telefony a tablety",
+   "product": "Neomezenka Vodafonu",
+   "text": "Vodafone na Black Friday nabízí 41% slevu na neomezený tarif BezLimitu M. Místo 799 Kč stojí 472 Kč . Nabízí neomezené volání i SMS a data s rychlostí 8 Mb/s. Pět dní v měsíci je možné surfovat plnou rychlostí. Jako dárek získáte předplatné Disney+ na tři měsíce. Sleva je časově neomezená, bude platit po celou dobu trvání tarifu. Pokud by se někdy zdražil, tak pořád budete platit o 41 % méně.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 8:45",
+   "discount": "-41 %; 472 Kč",
+   "url": "https://www.vodafone.cz/black-friday/?promo=cbu:hero1:default:black-friday-2026",
+   "host": "vodafone.cz",
+   "extra": [],
+   "expired": false,
+   "id": 180
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
    "product": "iPhone 17",
    "text": "Mall prodává bílý iPhone 17 (256 GB) za 22 374 Kč , nejlevněji ze všech obchodů s českou distribucí. Běžně je minimálně o dva tisíce dražší. Sedmnáctka je na trhu už rok, stále však bez nástupce. V této generaci se výrazně přiblížila řadě Pro. Má špičkový 120Hz OLED s funkcí always-on, rychlé bezdrátové nabíjení, výborný foťák i dlouhou výdrž. Chybět tak bude hlavně foťák s teleobjektivem.",
    "author": "Hlídač slev",
-   "date": "19. 11. 2026 7:45",
+   "date": "18. 11. 2026 7:45",
    "discount": "22 374 Kč",
    "url": "https://mobilni-telefony.heureka.cz/apple-iphone-17-256gb-white/",
    "host": "mobilni-telefony.heureka.cz",

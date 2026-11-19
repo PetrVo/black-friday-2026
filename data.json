@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T15:55:42.804Z",
- "comments": 289,
- "tips": 175,
+ "updated": "2026-11-19T16:55:49.685Z",
+ "comments": 290,
+ "tips": 176,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2240,6 +2240,26 @@
    "extra": [],
    "expired": false,
    "id": 3
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "iPad Pro",
+   "text": "iStyle prodává na Allegru nejlevněji ze všech obchodů iPad Pro 11 s čipem M5. Verze s 256 GB úložištěm a Wi-Fi stojí 29 990 Kč korun. Varianta s dvakrát větším úložištěm je za 34 990 Kč . Jinde jsou o několik tisíc dražší.\n\nPro má jemný a jasný OLED displej, ohromný výkon díky čipu M5 a 12 GB RAM. Nabízí výborné reproduktory, Face ID, Lidar. Díky pokrokům v iPadOS už navíc velmi často dokáže plně nahradit počítač a dospělý desktopový operační systém.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 17:45",
+   "discount": "29 990 Kč; 34 990 Kč",
+   "url": "https://tablety.heureka.cz/apple-ipad-pro-11-m5-2025-256gb-wi-fi-silver-mdwl4hc-a/",
+   "host": "tablety.heureka.cz",
+   "extra": [
+    {
+     "url": "https://tablety.heureka.cz/apple-ipad-pro-11-m5-2025-512gb-wi-fi-space-black-mdwm4hc-a/",
+     "host": "tablety.heureka.cz",
+     "label": "34 990 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 176
   },
   {
    "source": "redakce",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T11:54:20.132Z",
+ "updated": "2026-11-19T12:54:30.862Z",
  "comments": 282,
- "tips": 184,
+ "tips": 185,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1096,6 +1096,20 @@
    "extra": [],
    "expired": true,
    "id": 2
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Vertikální myš od Logitechu",
+   "text": "Mall prodává Logitech MX Vertical za historicky nejnižších 1163 Kč . Vertikální myš se sklonem 57° se hodí těm, které při práci bolí zápěstí. Tady je totiž ruka v přirozenější poloze. MX Vertical má celkově příjemný tvar a velmi dobré funkce. Jako jiné periferie řady MX ji lze spárovat se třemi zařízeními současně a přepínat se mezi nimi tlačítkem. S PC, tabletem nebo mobilem se spojí přes Bluetooth či RF dongle. Nabíjí se pomocí USB-C a vydrží až čtyři měsíce.\n\nVýtky máme po dlouhodobé zkušenosti jen dvě. Pogumovaný povrch už po několika letech nevypadá moc hezky. A kolečko je velmi obyčejné, jako u hlodavce za pár stovek. U klasických myší MX Master najdeme užitečný setrvačník nebo lepší materiály.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 13:45",
+   "discount": "1163 Kč",
+   "url": "https://mysi.heureka.cz/logitech-mx-vertical-advanced-ergonomic-mouse-910-005448/",
+   "host": "mysi.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 185
   },
   {
    "source": "redakce",

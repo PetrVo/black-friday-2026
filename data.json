@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T07:54:00.814Z",
+ "updated": "2026-11-19T08:54:04.793Z",
  "comments": 281,
- "tips": 180,
+ "tips": 181,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -3035,6 +3035,26 @@
    "extra": [],
    "expired": true,
    "id": 124
+  },
+  {
+   "source": "redakce",
+   "category": "Oblečení, sport a batohy",
+   "product": "Stylová taška Peak Design",
+   "text": "Brašnu Peak Design Tech Pouch teď koupíte v Alze s 20% slevou za 1189 Kč . Je oblíbená hlavně u fotografů, ale hodí se všem, kteří s sebou nosí hromadu elektroniky. Měří 24 × 15 × 10 cm a objem je dva litry. Uvnitř má dobře rozdělené kapsy, používá kvalitní materiály, vnější impregnovaný povrch odpuzuje vodu.\n\nPokud chcete ušetřit, můžete koupit AlzaGuard Tech Pouch za 499 Kč . Není v akci, ale je to skoro přesná kopie za méně než poloviční cenu.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 9:45",
+   "discount": "-20 %; 1189 Kč; 499 Kč",
+   "url": "https://www.alza.cz/peak-design-tech-pouch-cerna-d5505368.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/alzaguard-tech-pouch-cerny-d13181907.htm?o=1",
+     "host": "alza.cz",
+     "label": "499 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 181
   },
   {
    "source": "redakce",

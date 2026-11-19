@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T14:54:40.741Z",
- "comments": 288,
- "tips": 187,
+ "updated": "2026-11-19T15:55:42.804Z",
+ "comments": 289,
+ "tips": 175,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -25,7 +25,7 @@
     }
    ],
    "expired": false,
-   "id": 163
+   "id": 150
   },
   {
    "source": "redakce",
@@ -39,7 +39,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 121
+   "id": 111
   },
   {
    "source": "redakce",
@@ -53,7 +53,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 92
+   "id": 83
   },
   {
    "source": "redakce",
@@ -67,7 +67,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": false,
-   "id": 74
+   "id": 66
   },
   {
    "source": "redakce",
@@ -81,7 +81,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 168
+   "id": 155
   },
   {
    "source": "redakce",
@@ -95,7 +95,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 165
+   "id": 152
   },
   {
    "source": "redakce",
@@ -109,7 +109,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 151
+   "id": 138
   },
   {
    "source": "redakce",
@@ -123,7 +123,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 139
+   "id": 127
   },
   {
    "source": "redakce",
@@ -137,7 +137,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 133
+   "id": 122
   },
   {
    "source": "redakce",
@@ -151,7 +151,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 118
+   "id": 108
   },
   {
    "source": "diskuze",
@@ -179,7 +179,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 95
+   "id": 86
   },
   {
    "source": "redakce",
@@ -193,7 +193,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 93
+   "id": 84
   },
   {
    "source": "redakce",
@@ -207,7 +207,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 89
+   "id": 80
   },
   {
    "source": "redakce",
@@ -221,7 +221,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 80
+   "id": 72
   },
   {
    "source": "redakce",
@@ -241,7 +241,7 @@
     }
    ],
    "expired": false,
-   "id": 62
+   "id": 57
   },
   {
    "source": "redakce",
@@ -255,7 +255,7 @@
    "host": "asome.cz",
    "extra": [],
    "expired": false,
-   "id": 60
+   "id": 55
   },
   {
    "source": "diskuze",
@@ -297,7 +297,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 36
+   "id": 31
   },
   {
    "source": "redakce",
@@ -311,7 +311,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 27
+   "id": 23
   },
   {
    "source": "redakce",
@@ -325,7 +325,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 23
+   "id": 20
   },
   {
    "source": "diskuze",
@@ -367,7 +367,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 16
+   "id": 14
   },
   {
    "source": "redakce",
@@ -381,21 +381,7 @@
    "host": "planeo.cz",
    "extra": [],
    "expired": false,
-   "id": 12
-  },
-  {
-   "source": "redakce",
-   "category": "Monitory",
-   "product": "Nejlevnější ultraširoký monitor",
-   "text": "Mall nabízí MSI Pro MP341CQ jen za 3870 Kč , jinde je minimálně o šest stovek dražší. A levněji nekoupíte ani žádný jiný 34\" monitor s rozlišením 3440 × 1440 px. Má zakřivený panel, frekvenci 100 Hz a láká na dobré barevné podání. MSI nabízí tři vstupy – dva HDMI 2.0b a jeden DisplayPort 1.2a. Nechybí ani stereo reproduktory nebo výstup na sluchátka, ale od zvuku nečekejte žádné zázraky.",
-   "author": "Hlídač slev",
-   "date": "2. 11. 2026 16:45",
-   "discount": "3870 Kč",
-   "url": "https://monitory.heureka.cz/msi-pro-mp341cq/",
-   "host": "monitory.heureka.cz",
-   "extra": [],
-   "expired": true,
-   "id": 33
+   "id": 10
   },
   {
    "source": "redakce",
@@ -409,7 +395,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 172
+   "id": 159
   },
   {
    "source": "redakce",
@@ -423,7 +409,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 134
+   "id": 123
   },
   {
    "source": "redakce",
@@ -437,7 +423,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 119
   },
   {
    "source": "diskuze",
@@ -485,7 +471,7 @@
     }
    ],
    "expired": false,
-   "id": 119
+   "id": 109
   },
   {
    "source": "redakce",
@@ -499,7 +485,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 116
+   "id": 106
   },
   {
    "source": "diskuze",
@@ -527,7 +513,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 104
+   "id": 94
   },
   {
    "source": "redakce",
@@ -547,7 +533,7 @@
     }
    ],
    "expired": false,
-   "id": 91
+   "id": 82
   },
   {
    "source": "redakce",
@@ -561,7 +547,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 81
+   "id": 73
   },
   {
    "source": "redakce",
@@ -575,7 +561,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 77
+   "id": 69
   },
   {
    "source": "redakce",
@@ -589,7 +575,7 @@
    "host": "nabijecky-pro-mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 58
+   "id": 53
   },
   {
    "source": "redakce",
@@ -603,7 +589,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 42
+   "id": 37
   },
   {
    "source": "redakce",
@@ -617,83 +603,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 17
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "Dok s Thunderboltem",
-   "text": "Smarty dnes nabízí stanici Asus SimProDock 2 s 50% slevou za 2749 Kč . Za dobrou cenu je i v Softcomu, kde stojí 2999 Kč . Jde o nejlevnější dok s rychlým Thundeboltem 3, který jedním kabelem přenese data, obraz, zvuk i napájení. Je vybaven 180W adaptérem, obsahuje tři obrazové výstupy, čtyři USB, sluchátkový výstup, gigabitový Ethernet a navrch má i čtečku čipových karet, například pro eObčanku.",
-   "author": "Hlídač slev",
-   "date": "15. 11. 2026 8:45",
-   "discount": "-50 %; 2749 Kč; 2999 Kč",
-   "url": "https://www.smarty.cz/ASUS-SimProDock-2-4p116854",
-   "host": "smarty.cz",
-   "extra": [
-    {
-     "url": "https://dokovaci-stanice-a-replikatory-portu.heureka.cz/asus-simprodock-2-90nx0460-p00030/",
-     "host": "dokovaci-stanice-a-replikatory-portu.heureka.cz",
-     "label": "2999 Kč"
-    }
-   ],
-   "expired": true,
-   "id": 142
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "Šňůra na telefon kombinovaná s kabelem",
-   "text": "V Alze o 67 % zlevnil kabel Tactical Wire Snake USB-C , stojí 97 Kč . Je opletený, nabíjecí (60 W) i datový (480 Mb/s) a má céčkový konektor na obou stranách. Na něj se však dá našroubovat koncovka s karabinou na konci, takže kabel poslouží i jako šňůra pro nošení mobilu (příslušenství je v balení), klíčů, karet apod. Kabel tak budete mít vždy s sebou.",
-   "author": "Hlídač slev",
-   "date": "10. 11. 2026 7:45",
-   "discount": "-67 %; 97 Kč",
-   "url": "https://www.alza.cz/tactical-wire-snake-usb-c-1-2m-white-d13124862.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 96
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "Šílený kabel se svítilnou a zapalovačem",
-   "text": "ChoeTech Smart je asi nejvšestrannější kabel, který můžete koupit. Má 120 cm, podporuje 60W nabíjecí dle normy USB PD. Je opletený balistickým nylonem a nabízí koncovky USB-C, ale na jejich konci najdeme ještě další příslušenství. Na jednom je zapalovač, na druhém svítilna. Stačí kabel připojit do powerbanky nebo mobilu se zpětným nabíjením, a můžete s ním dělat zázraky. Alza jej teď zlevnila o třetinu na 179 Kč .",
-   "author": "Hlídač slev",
-   "date": "6. 11. 2026 8:45",
-   "discount": "cca -33 %; 179 Kč",
-   "url": "https://www.alza.cz/choetech-smart-pd60w-4-in-1-type-c-to-type-c-cable-d13090775.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 69
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "Super kabel k notebooku",
-   "text": "Datový kabel AlzaPower AluCure s podporou USB4 (40 Gb/s) a výkonu 240 W zlevnil o třetinu na 329 Kč . Má jen jeden metr, ale to nevadí. Primárně je určený pro připojení notebooku k dokovací stanici nebo monitoru. Jedním kabelem přenesete data, obraz, zvuk i napájení. Má pozlacené USB-C, opletení balistickým nylonem a podporuje i režim Thunderbolt 3.",
-   "author": "Hlídač slev",
-   "date": "2. 11. 2026 9:45",
-   "discount": "cca -33 %; 329 Kč",
-   "url": "https://www.alza.cz/alzapower-alucore-usb-c-to-usb-c-usb4-gen-3x2-240w-1m-cerny-d13109500.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 26
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "Powerbanka, která utáhne i notebook",
-   "text": "Anker Power Bank 25K zlevnila v Alze na historicky nejnižších 1490 Kč . Má kapacitu 25 000 mAh a čtyři výstupy včetně jednoho integrovaného kabelu. Celkový výstupní výkon je 165 W, do jednoho USB-C pošle až 100 W. Dost pro nouzové napájení notebooku.",
-   "author": "Hlídač slev",
-   "date": "30. 10. 2026 18:45",
-   "discount": "1490 Kč",
-   "url": "https://www.alza.cz/anker-power-bank-25k-165w-built-in-usb-c-and-retractable-cable-black-d12884190.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 11
+   "id": 15
   },
   {
    "source": "redakce",
@@ -723,21 +633,7 @@
     }
    ],
    "expired": false,
-   "id": 177
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Herní procesor",
-   "text": "Smarty nabízí osmijádrový Ryzen 7 5800X3D za 7971 Kč , jinde stojí minimálně 8390 Kč. Jde o obnovený prodej k 10. výročí platformy AM4. K procesoru je přibalena i chválená teplovodivá podložka Ice Pad, která nemá vyschnout, popraskat a jejíž tepelné vlastnosti se časem zlepšují. Jde o nejlepší herní procesor, který pro desky AM4 můžete koupit.",
-   "author": "Hlídač slev",
-   "date": "18. 11. 2026 10:45",
-   "discount": "7971 Kč",
-   "url": "https://www.smarty.cz/AMD-Ryzen-7-5800X3D-10th-Anniversary-Edition-4p274204",
-   "host": "smarty.cz",
-   "extra": [],
-   "expired": false,
-   "id": 170
+   "id": 164
   },
   {
    "source": "redakce",
@@ -762,21 +658,7 @@
     }
    ],
    "expired": false,
-   "id": 160
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Balík osmi PC her",
-   "text": "Humble Bundle prodává o sm akčních sci-fi pro PC jen za 22 eur (540 Kč). V balíku najdete oba díly Ghostrunneru, RoboCop: Rogue City, všechny tři remasterované střílečky Crysis, Xenonauts 2 a Marathon. Standardní cena kolekce by byla skoro desetkrát vyšší. Klíče se aktivují na Steamu.",
-   "author": "Hlídač slev",
-   "date": "15. 11. 2026 12:45",
-   "discount": "22 eur",
-   "url": "https://www.humblebundle.com/games/15th-anniversary-scifi-exposure",
-   "host": "humblebundle.com",
-   "extra": [],
-   "expired": false,
-   "id": 143
+   "id": 147
   },
   {
    "source": "redakce",
@@ -796,7 +678,7 @@
     }
    ],
    "expired": false,
-   "id": 137
+   "id": 125
   },
   {
    "source": "redakce",
@@ -816,7 +698,7 @@
     }
    ],
    "expired": false,
-   "id": 131
+   "id": 120
   },
   {
    "source": "redakce",
@@ -830,7 +712,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 114
+   "id": 104
   },
   {
    "source": "redakce",
@@ -844,7 +726,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 113
+   "id": 103
   },
   {
    "source": "redakce",
@@ -858,7 +740,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 111
+   "id": 101
   },
   {
    "source": "redakce",
@@ -872,7 +754,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 103
+   "id": 93
   },
   {
    "source": "redakce",
@@ -886,7 +768,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 63
+   "id": 58
   },
   {
    "source": "redakce",
@@ -900,7 +782,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 55
+   "id": 50
   },
   {
    "source": "redakce",
@@ -914,21 +796,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 54
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Batoh na notebook z „Dekáče“",
-   "text": "Decathlon zlevnil oblíbený turistický batoh vlastní značky Quechua Escape 500 Rolltop z tisícovky na 799 Kč . Má pěkný design, kapsu na 15\" notebooky, přes 10 dalších kapes na drobnosti a boční kapsy na lahve. Standardní objem je 23 litrů, ale díky rolovací klopě jej lze rozšířit na 27 l. S rozměry 46 × 28 × 22 cm poslouží i jako kabinové zavazadlo pod sedačku letadla. Decathlon na něj poskytuje desetiletou záruku. Dostupný je v tyrkysové a žluté barvě.",
-   "author": "Hlídač slev",
-   "date": "4. 11. 2026 12:45",
-   "discount": "799 Kč",
-   "url": "https://turisticke-batohy.heureka.cz/quechua-escape-500-rolltop-23-l-modra-zelena/",
-   "host": "turisticke-batohy.heureka.cz",
-   "extra": [],
-   "expired": false,
-   "id": 52
+   "id": 49
   },
   {
    "source": "redakce",
@@ -942,7 +810,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 32
+   "id": 28
   },
   {
    "source": "redakce",
@@ -956,7 +824,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 31
+   "id": 27
   },
   {
    "source": "redakce",
@@ -981,7 +849,7 @@
     }
    ],
    "expired": false,
-   "id": 24
+   "id": 21
   },
   {
    "source": "redakce",
@@ -995,7 +863,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 19
+   "id": 16
   },
   {
    "source": "redakce",
@@ -1009,7 +877,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 10
+   "id": 9
   },
   {
    "source": "redakce",
@@ -1044,6 +912,34 @@
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
+   "product": "Herní procesor",
+   "text": "Smarty nabízí osmijádrový Ryzen 7 5800X3D za 7971 Kč , jinde stojí minimálně 8390 Kč. Jde o obnovený prodej k 10. výročí platformy AM4. K procesoru je přibalena i chválená teplovodivá podložka Ice Pad, která nemá vyschnout, popraskat a jejíž tepelné vlastnosti se časem zlepšují. Jde o nejlepší herní procesor, který pro desky AM4 můžete koupit.",
+   "author": "Hlídač slev",
+   "date": "18. 11. 2026 10:45",
+   "discount": "7971 Kč",
+   "url": "https://www.smarty.cz/AMD-Ryzen-7-5800X3D-10th-Anniversary-Edition-4p274204",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": true,
+   "id": 157
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Balík osmi PC her",
+   "text": "Humble Bundle prodává o sm akčních sci-fi pro PC jen za 22 eur (540 Kč). V balíku najdete oba díly Ghostrunneru, RoboCop: Rogue City, všechny tři remasterované střílečky Crysis, Xenonauts 2 a Marathon. Standardní cena kolekce by byla skoro desetkrát vyšší. Klíče se aktivují na Steamu.",
+   "author": "Hlídač slev",
+   "date": "15. 11. 2026 12:45",
+   "discount": "22 eur",
+   "url": "https://www.humblebundle.com/games/15th-anniversary-scifi-exposure",
+   "host": "humblebundle.com",
+   "extra": [],
+   "expired": true,
+   "id": 130
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
    "product": "AlzaPC za dobrou cenu",
    "text": "Alza nabízí počítač AlzaPC GameBox Prime s 10% slevou za 42 990 Kč . Cena samotných komponent přitom přesahuje 50 tisíc. Uvnitř je 10jádrový procesor Intel Core Ultra 5 225F, 32 GB RAM, 1TB SSD, grafika GeForce RTX 5060 Ti (16 GB), 750W zdroj Fortron, chladič Fera 5 a v ceně je i OEM licence na Windows 11 Home.",
    "author": "Hlídač slev",
@@ -1053,49 +949,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 141
+   "id": 129
   },
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
-   "product": "Levný notebook do kanceláře",
-   "text": "V Alze koupíte Asus Vivobook 15 X1504VA za 12 990 Kč . Za původních 20 tisíc nedával smysl, teď už se o něm dá uvažovat. Má 15\" IPS displej s rozlišením 1920 × 1080 px, desetijádrový Intel Core 5 120U, 16 GB RAM a 512GB SSD. Nechybí podsvícená klávesnice s numerickým blokem, v ceně je překvapivě i Windows 11 Home. Tělo je ale pochopitelně jen plastové a displej patří k těm nejslabším, které dnes výrobci používají. Má tedy nízký jas (250 nitů) a slabé barevné podání (45% NTSC). V nenáročné kanceláři ale ostudu neudělá.",
+   "product": "Batoh na notebook z „Dekáče“",
+   "text": "Decathlon zlevnil oblíbený turistický batoh vlastní značky Quechua Escape 500 Rolltop z tisícovky na 799 Kč . Má pěkný design, kapsu na 15\" notebooky, přes 10 dalších kapes na drobnosti a boční kapsy na lahve. Standardní objem je 23 litrů, ale díky rolovací klopě jej lze rozšířit na 27 l. S rozměry 46 × 28 × 22 cm poslouží i jako kabinové zavazadlo pod sedačku letadla. Decathlon na něj poskytuje desetiletou záruku. Dostupný je v tyrkysové a žluté barvě.",
    "author": "Hlídač slev",
-   "date": "10. 11. 2026 9:45",
-   "discount": "12 990 Kč",
-   "url": "https://www.alza.cz/asus-vivobook-15-x1504va-bq5789wz-quiet-blue-bez-adapteru-d13413695.htm",
-   "host": "alza.cz",
+   "date": "4. 11. 2026 12:45",
+   "discount": "799 Kč",
+   "url": "https://turisticke-batohy.heureka.cz/quechua-escape-500-rolltop-23-l-modra-zelena/",
+   "host": "turisticke-batohy.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 98
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Nadupaný herní notebook",
-   "text": "V Alze koupíte Asus ROG Strix G16 v super výbavě za 46 990 Kč , ještě nedávno tento notebook stál o dvacet tisíc víc. Levněji nekoupíte ani žádnou alternativu s podobným výkonem. Asus má 16\" IPS displej s rozlišením 2560 × 1600 px a frekvencí 300 Hz. Uvnitř tiká 16jádrový čip AMD Ryzen 9 8940HX (Zen 4), má po ruce 16 GB RAM a 1TB SSD. Grafikou je GeForce RTX 5070 Ti. V ceně bohužel není operační systém.",
-   "author": "Hlídač slev",
-   "date": "1. 11. 2026 7:45",
-   "discount": "46 990 Kč",
-   "url": "https://www.alza.cz/asus-rog-strix-g16-g614pr-ts144-eclipse-gray-kovovy-d13551804.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 18
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Nejlepší notebook za 16 tisíc",
-   "text": "Alza prodává Asus Vivobook S14 za 15 990 Kč , stojí téměř polovinu toho co v létě. Jde o model s výbornou výbavou. Nabízí procesor Ryzen AI 330 se čtyřmi jádry Zen 5, nadstandardních 32 GB RAM, 512GB SSD a 14\" OLED displej s rozlišením 1920 × 1200 px. Nechybí ani podsvícená klávesnice, biometrický skener obličeje nebo velký touchpad. To vše v pěkném kovovém těle. V ceně není operační systém ani nabíjecí adaptér, ale za 16 tisíc teď nekoupíte lepší notebook.",
-   "author": "Hlídač slev",
-   "date": "30. 10. 2026 8:15",
-   "discount": "15 990 Kč",
-   "url": "https://www.alza.cz/asus-vivobook-s14-m3407ka-oled115z-matte-gray-bez-adapteru-d13379669.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 2
+   "id": 47
   },
   {
    "source": "redakce",
@@ -1109,7 +977,7 @@
    "host": "mysi.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 185
+   "id": 172
   },
   {
    "source": "redakce",
@@ -1123,7 +991,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 183
+   "id": 170
   },
   {
    "source": "redakce",
@@ -1143,7 +1011,7 @@
     }
    ],
    "expired": false,
-   "id": 182
+   "id": 169
   },
   {
    "source": "redakce",
@@ -1157,7 +1025,7 @@
    "host": "cerne-skrinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 169
+   "id": 156
   },
   {
    "source": "redakce",
@@ -1171,7 +1039,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 164
+   "id": 151
   },
   {
    "source": "diskuze",
@@ -1204,6 +1072,20 @@
   {
    "source": "redakce",
    "category": "Příslušenství k PC",
+   "product": "Podložka pod myš a klávesnici",
+   "text": "Podložka SteelSeries QCK XXL zlevnila o třetinu na 599 Kč . Měří 90 × 40 cm, takže se na ni vejdou myš i klávesnice. Používá kvalitní textilní povrch, obšité okraje a protiskluzovou spodní vrstvu. Design je decentní černý s bílým logem v rohu. Už se jí prodalo přes 5000 kusů a uživatelé ji hodnotí nadprůměrnou známkou 4,8/5.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 18:45",
+   "discount": "cca -33 %; 599 Kč",
+   "url": "https://www.alza.cz/steelseries-qck-xxl-d12679311.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 146
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
    "product": "Levnější předeplatné AlzaPlus+",
    "text": "Připomínáme starší článek s návodem, jak získat levnější předplatné AlzaPlus+. S touto službou máte neomezenou dopravu zboží na pobočky Alzy, do AlzaBoxů a jiných samoobslužných boxů a výdejen. Stojí 59 Kč měsíčně nebo 299 Kč ročně, ale když využijete doporučení, máte to na rok o 20 % levněji. V diskuzi pod tímto článkem najdete aktuální slevové kódy:",
    "author": "Hlídač slev",
@@ -1213,7 +1095,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 158
+   "id": 145
   },
   {
    "source": "redakce",
@@ -1227,7 +1109,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 150
+   "id": 137
   },
   {
    "source": "redakce",
@@ -1241,7 +1123,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 132
+   "id": 121
   },
   {
    "source": "redakce",
@@ -1255,7 +1137,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 129
+   "id": 118
   },
   {
    "source": "redakce",
@@ -1269,7 +1151,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 125
+   "id": 115
   },
   {
    "source": "diskuze",
@@ -1289,15 +1171,15 @@
    "source": "redakce",
    "category": "Příslušenství k PC",
    "product": "Apple Magic Keyboard s Touch ID",
-   "text": "Tera.cz nabízí klávesnici Magic Keyboard se čtečkou otisků za 1984 Kč , ostatní české obchody nejdou pod tři tisíce. Jde o stříbrnou variantu s českými popisky, ale bez numerického bloku. V současnosti je to také nejlevnější varianta, jak do stolního Macu přidat biometrické ověřování.",
+   "text": "Tera.cz nabízí klávesnici Magic Keyboard se čtečkou otisků za 1909 Kč , ostatní české obchody většinou nejdou pod tři tisíce. Jde o stříbrnou variantu s českými popisky, ale bez numerického bloku. V současnosti je to také nejlevnější varianta, jak do stolního Macu přidat biometrické ověřování.",
    "author": "Hlídač slev",
    "date": "12. 11. 2026 11:45",
-   "discount": "1984 Kč",
+   "discount": "1909 Kč",
    "url": "https://klavesnice.heureka.cz/apple-magic-keyboard-touch-id-mk293cz-a/",
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 120
+   "id": 110
   },
   {
    "source": "redakce",
@@ -1311,7 +1193,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 115
+   "id": 105
   },
   {
    "source": "redakce",
@@ -1325,7 +1207,7 @@
    "host": "klavesnice.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 99
+   "id": 89
   },
   {
    "source": "redakce",
@@ -1339,7 +1221,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 86
+   "id": 77
   },
   {
    "source": "redakce",
@@ -1353,7 +1235,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 84
+   "id": 75
   },
   {
    "source": "redakce",
@@ -1367,7 +1249,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 75
+   "id": 67
   },
   {
    "source": "redakce",
@@ -1381,7 +1263,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 61
+   "id": 56
   },
   {
    "source": "redakce",
@@ -1395,7 +1277,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 56
+   "id": 51
   },
   {
    "source": "redakce",
@@ -1409,7 +1291,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 53
+   "id": 48
   },
   {
    "source": "redakce",
@@ -1423,7 +1305,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 50
+   "id": 45
   },
   {
    "source": "redakce",
@@ -1435,20 +1317,6 @@
    "discount": "3999 Kč",
    "url": "https://pevne-disky-externi.heureka.cz/samsung-t9-portable-ssd-1tb-mu-pg1t0b-eu/",
    "host": "pevne-disky-externi.heureka.cz",
-   "extra": [],
-   "expired": false,
-   "id": 49
-  },
-  {
-   "source": "redakce",
-   "category": "Příslušenství k PC",
-   "product": "Perfektní vzduchový chladič",
-   "text": "Jeden z nejlepších vzduchových chladičů, který můžete koupit, Noctua NH-D15 SE-AM4 v Alze zlevnil na 1999 Kč . Navzdory názvu je určený pro platformy AMD AM4 i AM5. Má masivní základnu s šesti heatpipe, dva kvalitní a tiché 140mm ventilátory. Jedinou nevýhodou je, že se kvůli velikosti neinstaluje snadno, nemusí se vejít do všech skříní a jeho tradiční hnědo-béžový kožich se nemusí líbit za prosklenou bočnicí.",
-   "author": "Hlídač slev",
-   "date": "3. 11. 2026 16:45",
-   "discount": "1999 Kč",
-   "url": "https://www.alza.cz/noctua-nh-d15-se-am4-d4788211.htm",
-   "host": "alza.cz",
    "extra": [],
    "expired": false,
    "id": 44
@@ -1465,7 +1333,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 43
+   "id": 38
   },
   {
    "source": "redakce",
@@ -1490,7 +1358,7 @@
     }
    ],
    "expired": false,
-   "id": 41
+   "id": 36
   },
   {
    "source": "redakce",
@@ -1515,7 +1383,7 @@
     }
    ],
    "expired": false,
-   "id": 37
+   "id": 32
   },
   {
    "source": "redakce",
@@ -1529,7 +1397,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 34
+   "id": 29
   },
   {
    "source": "redakce",
@@ -1543,7 +1411,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 28
+   "id": 24
   },
   {
    "source": "redakce",
@@ -1563,7 +1431,7 @@
     }
    ],
    "expired": false,
-   "id": 21
+   "id": 18
   },
   {
    "source": "redakce",
@@ -1577,7 +1445,7 @@
    "host": "mysi.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 15
+   "id": 13
   },
   {
    "source": "redakce",
@@ -1597,7 +1465,7 @@
     }
    ],
    "expired": false,
-   "id": 9
+   "id": 8
   },
   {
    "source": "redakce",
@@ -1622,21 +1490,21 @@
     }
    ],
    "expired": false,
-   "id": 3
+   "id": 2
   },
   {
    "source": "redakce",
    "category": "Příslušenství k PC",
-   "product": "Podložka pod myš a klávesnici",
-   "text": "Podložka SteelSeries QCK XXL zlevnila o třetinu na 599 Kč . Měří 90 × 40 cm, takže se na ni vejdou myš i klávesnice. Používá kvalitní textilní povrch, obšité okraje a protiskluzovou spodní vrstvu. Design je decentní černý s bílým logem v rohu. Už se jí prodalo přes 5000 kusů a uživatelé ji hodnotí nadprůměrnou známkou 4,8/5.",
+   "product": "Perfektní vzduchový chladič",
+   "text": "Jeden z nejlepších vzduchových chladičů, který můžete koupit, Noctua NH-D15 SE-AM4 v Alze zlevnil na 1999 Kč . Navzdory názvu je určený pro platformy AMD AM4 i AM5. Má masivní základnu s šesti heatpipe, dva kvalitní a tiché 140mm ventilátory. Jedinou nevýhodou je, že se kvůli velikosti neinstaluje snadno, nemusí se vejít do všech skříní a jeho tradiční hnědo-béžový kožich se nemusí líbit za prosklenou bočnicí.",
    "author": "Hlídač slev",
-   "date": "16. 11. 2026 18:45",
-   "discount": "cca -33 %; 599 Kč",
-   "url": "https://www.alza.cz/steelseries-qck-xxl-d12679311.htm",
+   "date": "3. 11. 2026 16:45",
+   "discount": "1999 Kč",
+   "url": "https://www.alza.cz/noctua-nh-d15-se-am4-d4788211.htm",
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 159
+   "id": 39
   },
   {
    "source": "redakce",
@@ -1650,7 +1518,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 184
+   "id": 171
   },
   {
    "source": "redakce",
@@ -1664,7 +1532,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 179
+   "id": 166
   },
   {
    "source": "redakce",
@@ -1678,7 +1546,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 178
+   "id": 165
   },
   {
    "source": "redakce",
@@ -1692,7 +1560,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 166
+   "id": 153
   },
   {
    "source": "redakce",
@@ -1717,7 +1585,7 @@
     }
    ],
    "expired": false,
-   "id": 162
+   "id": 149
   },
   {
    "source": "redakce",
@@ -1731,7 +1599,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 156
+   "id": 143
   },
   {
    "source": "redakce",
@@ -1745,7 +1613,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 149
+   "id": 136
   },
   {
    "source": "redakce",
@@ -1759,7 +1627,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 147
+   "id": 134
   },
   {
    "source": "redakce",
@@ -1773,7 +1641,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 144
+   "id": 131
   },
   {
    "source": "redakce",
@@ -1787,7 +1655,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 140
+   "id": 128
   },
   {
    "source": "redakce",
@@ -1801,7 +1669,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 117
+   "id": 107
   },
   {
    "source": "redakce",
@@ -1815,7 +1683,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 109
+   "id": 99
   },
   {
    "source": "redakce",
@@ -1829,7 +1697,7 @@
    "host": "dafilms.cz",
    "extra": [],
    "expired": false,
-   "id": 101
+   "id": 91
   },
   {
    "source": "redakce",
@@ -1849,7 +1717,7 @@
     }
    ],
    "expired": false,
-   "id": 87
+   "id": 78
   },
   {
    "source": "redakce",
@@ -1863,7 +1731,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 70
+   "id": 62
   },
   {
    "source": "redakce",
@@ -1877,7 +1745,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 64
+   "id": 59
   },
   {
    "source": "redakce",
@@ -1891,7 +1759,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 59
+   "id": 54
   },
   {
    "source": "redakce",
@@ -1905,7 +1773,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 57
+   "id": 52
   },
   {
    "source": "redakce",
@@ -1919,7 +1787,7 @@
    "host": "datart.cz",
    "extra": [],
    "expired": false,
-   "id": 45
+   "id": 40
   },
   {
    "source": "redakce",
@@ -1933,7 +1801,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 38
+   "id": 33
   },
   {
    "source": "diskuze",
@@ -1961,7 +1829,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 29
+   "id": 25
   },
   {
    "source": "diskuze",
@@ -1989,7 +1857,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 20
+   "id": 17
   },
   {
    "source": "redakce",
@@ -2003,7 +1871,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 7
+   "id": 6
   },
   {
    "source": "redakce",
@@ -2028,7 +1896,7 @@
     }
    ],
    "expired": false,
-   "id": 5
+   "id": 4
   },
   {
    "source": "redakce",
@@ -2042,7 +1910,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 174
+   "id": 161
   },
   {
    "source": "redakce",
@@ -2056,7 +1924,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 48
+   "id": 43
   },
   {
    "source": "diskuze",
@@ -2084,7 +1952,7 @@
    "host": "sportovni-kamery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 152
+   "id": 139
   },
   {
    "source": "redakce",
@@ -2098,7 +1966,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 148
+   "id": 135
   },
   {
    "source": "redakce",
@@ -2112,7 +1980,7 @@
    "host": "autoradia.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 90
+   "id": 81
   },
   {
    "source": "redakce",
@@ -2132,7 +2000,7 @@
     }
    ],
    "expired": false,
-   "id": 82
+   "id": 74
   },
   {
    "source": "redakce",
@@ -2157,7 +2025,7 @@
     }
    ],
    "expired": false,
-   "id": 78
+   "id": 70
   },
   {
    "source": "redakce",
@@ -2171,7 +2039,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 22
+   "id": 19
   },
   {
    "source": "redakce",
@@ -2185,35 +2053,35 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 175
+   "id": 162
   },
   {
    "source": "redakce",
    "category": "Chytré hodinky a fitness",
    "product": "Garminy na běhání",
-   "text": "Loňský sporttester Garmin Forerunner 165 stojí v Decathlonu 4599 Kč , patří tak k jedněm z nejlevnějších hodinek výrobce. Má 1,2\" dotykový Amoled, ale i ovládání tlačítky. Svým zaměřením cílí hlavně na běžce, ale nabízí i další sportovní profily. Nechybí žádný podstatný senzor, hodinkami lze i platit, v běžném režimu vydrží až 11 dní. Oproti vyšším modelům chybí offline mapy, svítilna nebo některé analytické nástroje.",
+   "text": "Loňský sporttester Garmin Forerunner 165 stojí v Kupkolo 4590 Kč , patří tak k jedněm z nejlevnějších hodinek výrobce. Má 1,2\" dotykový Amoled, ale i ovládání tlačítky. Svým zaměřením cílí hlavně na běžce, ale nabízí i další sportovní profily. Nechybí žádný podstatný senzor, hodinkami lze i platit, v běžném režimu vydrží až 11 dní. Oproti vyšším modelům chybí offline mapy, svítilna nebo některé analytické nástroje.",
    "author": "Hlídač slev",
    "date": "16. 11. 2026 13:45",
-   "discount": "4599 Kč",
+   "discount": "4590 Kč",
    "url": "https://sporttestery-computery.heureka.cz/garmin-forerunner-165_2/",
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 153
+   "id": 140
   },
   {
    "source": "redakce",
    "category": "Chytré hodinky a fitness",
    "product": "Garmiňácké „Apple Watch“",
-   "text": "V Datartu a iSpace koupíte Garmin Venu X1 v zelené verzi jen za 10 990 Kč . Levněji dosud nebyly a všude jinde jsou minimálně o tisícovku dražší. Ultratenké hodinky s velkým obdélníkovým displejem obsahují svítilnu, desítky sportovních i zdravotních funkcí a na jedno nabití vydrží až týden (s always-on displejem jen 2 dny). Je to pokus Garminu vytvořit něco jako Apple Watch.",
+   "text": "V Planeu koupíte Garmin Venu X1 v zelené verzi jen za 10 989 Kč . Levněji dosud nebyly a všude jinde jsou minimálně o tisícovku dražší. Ultratenké hodinky s velkým obdélníkovým displejem obsahují svítilnu, desítky sportovních i zdravotních funkcí a na jedno nabití vydrží až týden (s always-on displejem jen 2 dny). Je to pokus Garminu vytvořit něco jako Apple Watch.",
    "author": "Hlídač slev",
    "date": "15. 11. 2026 16:45",
-   "discount": "10 990 Kč",
+   "discount": "10 989 Kč",
    "url": "https://chytre-hodinky.heureka.cz/garmin-venu-x1_2/",
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 145
+   "id": 132
   },
   {
    "source": "redakce",
@@ -2227,7 +2095,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 128
+   "id": 117
   },
   {
    "source": "redakce",
@@ -2241,7 +2109,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 126
+   "id": 116
   },
   {
    "source": "redakce",
@@ -2255,7 +2123,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 112
+   "id": 102
   },
   {
    "source": "redakce",
@@ -2269,7 +2137,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 73
+   "id": 65
   },
   {
    "source": "redakce",
@@ -2289,7 +2157,7 @@
     }
    ],
    "expired": false,
-   "id": 67
+   "id": 61
   },
   {
    "source": "redakce",
@@ -2303,7 +2171,7 @@
    "host": "kupkolo.cz",
    "extra": [],
    "expired": false,
-   "id": 51
+   "id": 46
   },
   {
    "source": "redakce",
@@ -2323,7 +2191,7 @@
     }
    ],
    "expired": false,
-   "id": 47
+   "id": 42
   },
   {
    "source": "redakce",
@@ -2337,27 +2205,27 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 46
+   "id": 41
   },
   {
    "source": "redakce",
    "category": "Chytré hodinky a fitness",
    "product": "Hodinky se svítilnou",
-   "text": "Výborné sportovní hodinky Amazfit T-Rex 3 Pro zlevnily na historické minimum. Model s 48mm pouzdrem a 1,5\" displejem stojí v T.S.Bohemii 6999 Kč , jinde je v akci za 7990 Kč. Menší 44mm varianta s 1,3\" displejem je pak plošně, například v Planeo za 6990 Kč . Safírem a jasem až 3 000 nitů. Vydrží až 25 dní (menší model 17 dní), mají všechny myslitelné senzory, offline mapy, bezkontaktní placení, a hlavně svítilnu, kterou Amazfit okopíroval od vrcholných modelů Garminu.",
+   "text": "Výborné sportovní hodinky Amazfit T-Rex 3 Pro zlevnily na historické minimum. Model s 48mm pouzdrem a 1,5\" displejem stojí v T.S.Bohemii 6999 Kč , jinde je v akci za 7990 Kč. Menší 44mm varianta s 1,3\" displejem je pak plošně, například v Planeo za 6790 Kč . Safírem a jasem až 3 000 nitů. Vydrží až 25 dní (menší model 17 dní), mají všechny myslitelné senzory, offline mapy, bezkontaktní placení, a hlavně svítilnu, kterou Amazfit okopíroval od vrcholných modelů Garminu.",
    "author": "Hlídač slev",
    "date": "3. 11. 2026 10:45",
-   "discount": "6999 Kč; 6990 Kč",
+   "discount": "6999 Kč; 6790 Kč",
    "url": "https://chytre-hodinky.heureka.cz/amazfit-t-rex-3-pro-48mm_2/",
    "host": "chytre-hodinky.heureka.cz",
    "extra": [
     {
      "url": "https://chytre-hodinky.heureka.cz/amazfit-t-rex-3-pro-44mm_3/#prehled/",
      "host": "chytre-hodinky.heureka.cz",
-     "label": "6990 Kč"
+     "label": "6790 Kč"
     }
    ],
    "expired": false,
-   "id": 40
+   "id": 35
   },
   {
    "source": "redakce",
@@ -2371,21 +2239,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 4
-  },
-  {
-   "source": "redakce",
-   "category": "Chytré hodinky a fitness",
-   "product": "Levný cyklopočítač s GPS",
-   "text": "Cyklocomputer Lezyne Super Pro prodává Kolokrám za 1290 Kč , běžně stojí o tisícovku víc. Patří k těm nejlevnějším, které umí zaznamenat jízdu pomocí družicového signálu. Podporuje GPS a Glonass, nechybí barometr, umí připojit i senzory přes ANT+ a Bluetooth. Na jedno nabití vydrží až 28 hodin. Nabízí dobře čitelný černobílý displej. Nezobrazí však mapu a neumí navigovat. Slouží jen pro zobrazení dat a záznam trasy.",
-   "author": "Hlídač slev",
-   "date": "13. 11. 2026 9:45",
-   "discount": "1290 Kč",
-   "url": "https://tachometry-na-kolo.heureka.cz/lezyne-super-pro-gps/",
-   "host": "tachometry-na-kolo.heureka.cz",
-   "extra": [],
-   "expired": true,
-   "id": 127
+   "id": 3
   },
   {
    "source": "redakce",
@@ -2399,7 +2253,7 @@
    "host": "starlink.com",
    "extra": [],
    "expired": false,
-   "id": 186
+   "id": 173
   },
   {
    "source": "redakce",
@@ -2413,7 +2267,7 @@
    "host": "vodafone.cz",
    "extra": [],
    "expired": false,
-   "id": 180
+   "id": 167
   },
   {
    "source": "redakce",
@@ -2427,7 +2281,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 167
+   "id": 154
   },
   {
    "source": "diskuze",
@@ -2461,29 +2315,15 @@
    "source": "redakce",
    "category": "Telefony a tablety",
    "product": "Test DNA",
-   "text": "Genealogická služba MyHeritage zlevnila test DNA . Momentálně stojí 19 eur (470 Kč), doprava je zdarma. K testu dostanete i 30denní zkušební verzi kompletního tarifu MyHeritage a následně 50% slevu na první rok předplatného. Jak takový test vypadá a co dělat s výsledky najdete v našem starším článku Jsem Evropan, trochu Nigerijec a Eskymák .",
+   "text": "Genealogická služba MyHeritage zlevnila test DNA . Momentálně stojí 419 Kč plus daň, doprava je zdarma. K testu dostanete i 30denní zkušební verzi kompletního tarifu MyHeritage a následně 50% slevu na první rok předplatného. Jak takový test vypadá a co dělat s výsledky najdete v našem starším článku Jsem Evropan, trochu Nigerijec a Eskymák .",
    "author": "Hlídač slev",
    "date": "12. 11. 2026 14:45",
-   "discount": "-50 %; 19 eur",
+   "discount": "-50 %; 419 Kč",
    "url": "https://www.myheritage.cz/dna",
    "host": "myheritage.cz",
    "extra": [],
    "expired": false,
-   "id": 123
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
-   "product": "Cyklotrenažér s podporou Zwiftu",
-   "text": "Decathlon zlevnil cyklistický trenažér své privátní značky Van Rysel D500 o patnáct stovek na 8499 Kč . V zimě jej doma nasadíte místo zadního kola a můžete dál jezdit. Komunikuje přes Ethernet, Bluetooth a ANT+, je kompatibilní s platformami Zwift, Rouvy a dalšími, které umí na displeji mobilu nebo tabletu vizualizovat skutečnou jízdu a reálné trasy. D500 umí simulovat sklon až 27 %. Nasadit na něj lze prakticky libovolné 26\"–29\" kolo s kazetami o 8 až 12 rychlostech.",
-   "author": "Hlídač slev",
-   "date": "12. 11. 2026 13:45",
-   "discount": "8499 Kč",
-   "url": "https://cyklotrenazery.heureka.cz/van-rysel-d500-s-zwift-cog-and-click/",
-   "host": "cyklotrenazery.heureka.cz",
-   "extra": [],
-   "expired": false,
-   "id": 122
+   "id": 113
   },
   {
    "source": "diskuze",
@@ -2511,7 +2351,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 107
+   "id": 97
   },
   {
    "source": "redakce",
@@ -2525,7 +2365,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 100
+   "id": 90
   },
   {
    "source": "redakce",
@@ -2539,7 +2379,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 39
+   "id": 34
   },
   {
    "source": "diskuze",
@@ -2559,10 +2399,10 @@
    "source": "redakce",
    "category": "Telefony a tablety",
    "product": "Nový Pixel 11 Pro poprvé v akci",
-   "text": "MP.cz prodává nejlevněji ze všech obchodů telefon Google Pixel 11 Pro (12/256 GB), stojí tam 22 990 Kč . Donedávna nešel pod 26 tisíc. Za 22 990 Kč jej prodává také Alza. K dispozici je v černé, šedé, oranžové a zelené barvě. Pixel má dost výkonu, krásný displej, skvěle fotí a má příkladnou softwarovou podporu.",
+   "text": "MP.cz prodává nejlevněji ze všech obchodů telefon Google Pixel 11 Pro (12/256 GB), stojí tam 21 589 Kč . Donedávna nešel pod 26 tisíc. Za 22 990 Kč jej prodává také Alza. K dispozici je v černé, šedé, oranžové a zelené barvě. Pixel má dost výkonu, krásný displej, skvěle fotí a má příkladnou softwarovou podporu.",
    "author": "Hlídač slev",
    "date": "31. 10. 2026 9:45",
-   "discount": "22 990 Kč",
+   "discount": "21 589 Kč; 22 990 Kč",
    "url": "https://mobilni-telefony.heureka.cz/google-pixel-11-pro-12gb-256gb-obsidian/",
    "host": "mobilni-telefony.heureka.cz",
    "extra": [
@@ -2573,7 +2413,7 @@
     }
    ],
    "expired": false,
-   "id": 14
+   "id": 12
   },
   {
    "source": "diskuze",
@@ -2601,7 +2441,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 6
+   "id": 5
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "Cyklotrenažér s podporou Zwiftu",
+   "text": "Decathlon zlevnil cyklistický trenažér své privátní značky Van Rysel D500 o patnáct stovek na 8499 Kč . V zimě jej doma nasadíte místo zadního kola a můžete dál jezdit. Komunikuje přes Ethernet, Bluetooth a ANT+, je kompatibilní s platformami Zwift, Rouvy a dalšími, které umí na displeji mobilu nebo tabletu vizualizovat skutečnou jízdu a reálné trasy. D500 umí simulovat sklon až 27 %. Nasadit na něj lze prakticky libovolné 26\"–29\" kolo s kazetami o 8 až 12 rychlostech.",
+   "author": "Hlídač slev",
+   "date": "12. 11. 2026 13:45",
+   "discount": "8499 Kč",
+   "url": "https://cyklotrenazery.heureka.cz/van-rysel-d500-s-zwift-cog-and-click/",
+   "host": "cyklotrenazery.heureka.cz",
+   "extra": [],
+   "expired": true,
+   "id": 112
   },
   {
    "source": "redakce",
@@ -2615,21 +2469,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 110
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
-   "product": "Velký tablet s LTE",
-   "text": "Na jarní cenu se vrátil tablet Blackview Mega 2 , který v Alze stojí 4489 Kč , jinde chtějí o dva tisíce navíc. Používá 12\" displej s rozlišením 2000 × 1200 px, uvnitř je základní osmijádrový čip s 12 GB RAM a 256GB úložištěm plus slotem pro microSD kartu. Potěší LTE modem, GPS a bohaté příslušenství. Tablet má dvě krycí skla na displej (jedno už je aplikované), klávesnici, myši i nabíječku. Sbírá nadšené recenze s průměrnou známkou 4,9/5.",
-   "author": "Hlídač slev",
-   "date": "6. 11. 2026 7:45",
-   "discount": "4489 Kč",
-   "url": "https://www.alza.cz/blackview-mega-2-lte-d12988389.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 68
+   "id": 100
   },
   {
    "source": "diskuze",
@@ -2657,27 +2497,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 176
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
-   "product": "Lidl s 10% slevou na všechno",
-   "text": "Lidl má dnes 10% slevu na celý nákup. Platí i na již zlevněné produkty. Takže například robotická sekačka Parkside Performance s pětiletou zárukou místo původních 16 999 Kč vyjde po aplikaci dvou slev jen na 10 799 Kč .",
-   "author": "Hlídač slev",
-   "date": "17. 11. 2026 9:45",
-   "discount": "-10 %; 10 799 Kč",
-   "url": "https://www.lidl.cz/",
-   "host": "lidl.cz",
-   "extra": [
-    {
-     "url": "https://www.lidl.cz/p/parkside-performance-roboticka-sekacka-na-travu-ppamr-1250-a1-smart-free-vcetne-akumulatoru-a-nabijeci-stanice/p100405120",
-     "host": "lidl.cz",
-     "label": "10 799 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 161
+   "id": 163
   },
   {
    "source": "redakce",
@@ -2691,7 +2511,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 157
+   "id": 144
   },
   {
    "source": "redakce",
@@ -2711,7 +2531,7 @@
     }
    ],
    "expired": false,
-   "id": 138
+   "id": 126
   },
   {
    "source": "diskuze",
@@ -2744,36 +2564,22 @@
   {
    "source": "redakce",
    "category": "Nářadí a dílna",
-   "product": "Akumulátory Parkside",
-   "text": "Lidl má dnes opět v akci akumulátory pro nářadí Parkside (Performance). Jsou kompatibilní se všemi produkty řady X 20 V Team. Nejmenší 2Ah akumulátor včetně nabíječky stojí s kupónem jen 300 Kč . Větší 4Ah stojí 500 Kč .",
+   "product": "Lidl s 10% slevou na všechno",
+   "text": "Lidl má dnes 10% slevu na celý nákup. Platí i na již zlevněné produkty. Takže například robotická sekačka Parkside Performance s pětiletou zárukou místo původních 16 999 Kč vyjde po aplikaci dvou slev jen na 10 799 Kč .",
    "author": "Hlídač slev",
-   "date": "14. 11. 2026 8:45",
-   "discount": "300 Kč; 500 Kč",
-   "url": "https://www.lidl.cz/p/parkside-akumulator-2-ah-pap-202-a1-a-nabijecka-plg-20-c1-limited-edition/p100407867",
+   "date": "17. 11. 2026 9:45",
+   "discount": "-10 %; 10 799 Kč",
+   "url": "https://www.lidl.cz/",
    "host": "lidl.cz",
    "extra": [
     {
-     "url": "https://www.lidl.cz/p/parkside-performance-smart-akumulator-4-ah-papp-204-a1/p100398333",
+     "url": "https://www.lidl.cz/p/parkside-performance-roboticka-sekacka-na-travu-ppamr-1250-a1-smart-free-vcetne-akumulatoru-a-nabijeci-stanice/p100405120",
      "host": "lidl.cz",
-     "label": "500 Kč"
+     "label": "10 799 Kč"
     }
    ],
    "expired": true,
-   "id": 136
-  },
-  {
-   "source": "redakce",
-   "category": "Nářadí a dílna",
-   "product": "Gravírovací pero Xiaomi",
-   "text": "Gravírovací nástroj S zlevnil o 15 % na 671 Kč . Má bezuhlíkový motor, otáčky 15 až 22 tisíc otáček za minutu, výdrž až 60 min a nabíjí se pomocí USB-C. V sadě je také kufřík s 16 nástavci pro gravírování, broušení, leštění a vrtání. Tohle potřebuje každý kutil.",
-   "author": "Hlídač slev",
-   "date": "5. 11. 2026 17:45",
-   "discount": "-15 %; 671 Kč",
-   "url": "https://www.alza.cz/xiaomi-mi-gravirovaci-pero-mijia-72650-1x0-8-ah-d13315239.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 66
+   "id": 148
   },
   {
    "source": "redakce",
@@ -2787,7 +2593,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 187
+   "id": 174
   },
   {
    "source": "redakce",
@@ -2807,7 +2613,7 @@
     }
    ],
    "expired": false,
-   "id": 173
+   "id": 160
   },
   {
    "source": "redakce",
@@ -2821,7 +2627,21 @@
    "host": "zubni-kartacky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 146
+   "id": 133
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
+   "product": "Sonický kartáček z Lidlu",
+   "text": "Lidl má v dlouhodobé akci sadu šesti náhradních hlavic k sonickému kartáčku své značky Cien Beauty. Zaplatíte za ně jen 100 Kč , tedy 17 Kč za jednu. Ty se hodí právě i pro ty, kteří mají Sonicare a nechtějí utrácet násobně více za originální příslušenství od Philipsu.",
+   "author": "Hlídač slev",
+   "date": "10. 11. 2026 8:45",
+   "discount": "100 Kč",
+   "url": "https://www.lidl.cz/p/cien-beauty-nahradni-hlavice-pro-zubni-kartacky-cbzks-6-a1-6-kusu/p100395500",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 87
   },
   {
    "source": "redakce",
@@ -2835,7 +2655,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 88
+   "id": 79
   },
   {
    "source": "redakce",
@@ -2849,7 +2669,7 @@
    "host": "eu.govee.com",
    "extra": [],
    "expired": false,
-   "id": 76
+   "id": 68
   },
   {
    "source": "redakce",
@@ -2869,7 +2689,7 @@
     }
    ],
    "expired": false,
-   "id": 72
+   "id": 64
   },
   {
    "source": "diskuze",
@@ -2897,27 +2717,21 @@
    "host": "roboticke-vysavace.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 30
+   "id": 26
   },
   {
    "source": "redakce",
    "category": "Domácnost a kuchyně",
    "product": "Sonický kartáček z Lidlu",
-   "text": "Lidl má pouze dnes v akci sonický zubní kartáček své značky Cien Beauty za 350 Kč , pokud si na stránce aktivujete slevový kód ve výši 250 Kč. Není nijak chytrý, má pouze tři režimy čištění, standardní intervaly 4 × 30 sekund. V ceně je však i pouzdro a tři hlavice kompatibilní s populárními Philips Sonicare. Využívají i stejné kvalitní štětiny DuPont Tynex, které jsou zaoblené a neštěpí se.\n\nV akci, a to nejen dnes, je také sada šesti náhradních hlavic . Zaplatíte za ně jen 100 Kč , tedy 17 Kč za jednu. Ty se hodí právě i pro ty, kteří mají Sonicare a nechtějí utrácet násobně více za originální příslušenství od Philipsu.",
+   "text": "Lidl má pouze dnes v akci sonický zubní kartáček své značky Cien Beauty za 350 Kč , pokud si na stránce aktivujete slevový kód ve výši 250 Kč. Není nijak chytrý, má pouze tři režimy čištění, standardní intervaly 4 × 30 sekund. V ceně je však i pouzdro a tři hlavice kompatibilní s populárními Philips Sonicare. Využívají i stejné kvalitní štětiny DuPont Tynex, které jsou zaoblené a neštěpí se.",
    "author": "Hlídač slev",
    "date": "10. 11. 2026 8:45",
-   "discount": "350 Kč; 100 Kč",
+   "discount": "350 Kč",
    "url": "https://www.lidl.cz/p/cien-beauty-aku-sonicky-zubni-kartacek-nszb-3-7-d5/p100398480",
    "host": "lidl.cz",
-   "extra": [
-    {
-     "url": "https://www.lidl.cz/p/cien-beauty-nahradni-hlavice-pro-zubni-kartacky-cbzks-6-a1-6-kusu/p100395500",
-     "host": "lidl.cz",
-     "label": "100 Kč"
-    }
-   ],
+   "extra": [],
    "expired": true,
-   "id": 97
+   "id": 88
   },
   {
    "source": "redakce",
@@ -2931,7 +2745,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 79
+   "id": 71
+  },
+  {
+   "source": "redakce",
+   "category": "Chytrá domácnost",
+   "product": "Centrum chytré domácnosti",
+   "text": "Centrální jednotka Homey Pro od společnosti Athom (dnes vlastněné LG) zlevnila v Alze na 9719 Kč . Je to univerzální krabička podporující všechny síťové technologie a protokoly používané v chytré domácnosti. Navzájem tak spojí jinak neslučitelná zařízení v dříve nekompatibilních ekosystémech. Homey a jeho operační systém jsou něco jako kutilský Home Assistant, ale jde o profesionální zařízení s plnou podporou a jednodušším rozhraním.\n\nHomey Pro nabízí Wi-Fi, Bluetooth, Zigbee, Z-Wave, Thread, Matter a funguje i jako dálkový ovladač v pásmu 433 MHz, případně také infračerveném. Má propracované možnosti automatizací, běží lokálně bez závislosti na cloudech, podporuje Google Assistant, Siri i Alexu.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 16:45",
+   "discount": "9719 Kč",
+   "url": "https://www.alza.cz/homey-pro-2026-d13275521.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 175
   },
   {
    "source": "redakce",
@@ -2951,7 +2779,7 @@
     }
    ],
    "expired": false,
-   "id": 155
+   "id": 142
   },
   {
    "source": "redakce",
@@ -2965,7 +2793,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 94
+   "id": 85
   },
   {
    "source": "diskuze",
@@ -2993,7 +2821,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 65
+   "id": 60
   },
   {
    "source": "redakce",
@@ -3007,7 +2835,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 35
+   "id": 30
   },
   {
    "source": "redakce",
@@ -3032,7 +2860,7 @@
     }
    ],
    "expired": false,
-   "id": 25
+   "id": 22
   },
   {
    "source": "redakce",
@@ -3052,7 +2880,7 @@
     }
    ],
    "expired": false,
-   "id": 13
+   "id": 11
   },
   {
    "source": "redakce",
@@ -3082,21 +2910,7 @@
     }
    ],
    "expired": false,
-   "id": 8
-  },
-  {
-   "source": "redakce",
-   "category": "Chytrá domácnost",
-   "product": "Pohybový senzor",
-   "text": "Pohybový senzor do chytré domácnosti Aqara FP300 zlevnil na historicky nejnižších 888 Kč . Sleduje pohyb v rozsahu 120° × 90°, má dosah až šest metrů a na dvě baterie CR2450 vydrží až tři roky. Pohyb nebo přítomnost osob snímá pomocí infračerveného nebo mmWave senzoru, měří také intenzitu světla, teplotu a vlhkost. Data předává přes Zigbee nebo Thread. Umí se tak připojit ke všem ekosystémům chytré domácnosti.",
-   "author": "Hlídač slev",
-   "date": "8. 11. 2026 14:45",
-   "discount": "888 Kč",
-   "url": "https://www.alza.cz/aqara-presence-multi-sensor-fp300-ps-s04d-zigbee-thread-d13154855.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 83
+   "id": 7
   },
   {
    "source": "redakce",
@@ -3110,7 +2924,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 102
+   "id": 92
   },
   {
    "source": "redakce",
@@ -3124,7 +2938,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 85
+   "id": 76
   },
   {
    "source": "redakce",
@@ -3138,7 +2952,7 @@
    "host": "action.com",
    "extra": [],
    "expired": true,
-   "id": 124
+   "id": 114
   },
   {
    "source": "redakce",
@@ -3158,7 +2972,7 @@
     }
    ],
    "expired": false,
-   "id": 181
+   "id": 168
   },
   {
    "source": "redakce",
@@ -3172,7 +2986,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 105
+   "id": 95
   },
   {
    "source": "diskuze",
@@ -3206,7 +3020,7 @@
     }
    ],
    "expired": false,
-   "id": 135
+   "id": 124
   },
   {
    "source": "redakce",
@@ -3220,7 +3034,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 108
+   "id": 98
   },
   {
    "source": "redakce",
@@ -3234,7 +3048,7 @@
    "host": "bundlehunt.com",
    "extra": [],
    "expired": false,
-   "id": 106
+   "id": 96
   },
   {
    "source": "redakce",
@@ -3248,7 +3062,7 @@
    "host": "go.getproton.me",
    "extra": [],
    "expired": false,
-   "id": 71
+   "id": 63
   },
   {
    "source": "redakce",
@@ -3273,7 +3087,7 @@
     }
    ],
    "expired": false,
-   "id": 171
+   "id": 158
   },
   {
    "source": "diskuze",
@@ -3312,7 +3126,7 @@
     }
    ],
    "expired": false,
-   "id": 154
+   "id": 141
   },
   {
    "source": "diskuze",

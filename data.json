@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T12:57:03.912Z",
- "comments": 298,
- "tips": 184,
+ "updated": "2026-11-20T13:57:09.374Z",
+ "comments": 299,
+ "tips": 185,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -3181,6 +3181,20 @@
    "extra": [],
    "expired": false,
    "id": 63
+  },
+  {
+   "source": "redakce",
+   "category": "Ostatní",
+   "product": "Roční členství AlzaPlus+ jako dárek",
+   "text": "Alza nabízí pěkné slevy na holicí strojky a hlavice značky Gillette . Pokud si navíc koupíte tyto produkty v ceně nad 999 Kč , získáte jako dárek roční členství v AlzaPlus+. To má samo o sobě hodnotu 299 Kč a zajišťuje neomezenou dopravu do boxů.",
+   "author": "Hlídač slev",
+   "date": "20. 11. 2026 14:45",
+   "discount": "999 Kč",
+   "url": "https://www.alza.cz/clenstvi-alzaplus-na-rok-zdarma-k-nakupu-produktu-gillette-a-gillette-venus-sz45605.htm#f&cud=0&pg=1&pn=2&prod=&oac=1",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 185
   },
   {
    "source": "redakce",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T16:57:25.677Z",
- "comments": 301,
- "tips": 184,
+ "updated": "2026-11-20T17:57:30.407Z",
+ "comments": 302,
+ "tips": 185,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2855,6 +2855,20 @@
    "extra": [],
    "expired": true,
    "id": 174
+  },
+  {
+   "source": "redakce",
+   "category": "Chytrá domácnost",
+   "product": "Chytrá domácnost Sonoff",
+   "text": "Sonoff nabízí na svém evropském e-shopu až 40% slevy na vybrané produkty pro chytrou domácnost. V nabídce jsou chytré zásuvky, termostatické hlavice, senzory, vypínače apod.",
+   "author": "Hlídač slev",
+   "date": "20. 11. 2026 18:45",
+   "discount": "-40 %",
+   "url": "https://sonoff.tech/en-eu/pages/black-friday-2026",
+   "host": "sonoff.tech",
+   "extra": [],
+   "expired": false,
+   "id": 185
   },
   {
    "source": "redakce",

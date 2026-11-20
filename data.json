@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T15:57:20.222Z",
- "comments": 300,
- "tips": 183,
+ "updated": "2026-11-20T16:57:25.677Z",
+ "comments": 301,
+ "tips": 184,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2093,6 +2093,20 @@
    "extra": [],
    "expired": true,
    "id": 21
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Nejlevnější cykloradar",
+   "text": "Lezyne Radar Drive Rear v Alze zlevnil na 1869 Kč , což z něj dělá nejdostupnější cykloradar na českém trhu. Funguje jako výkonná blikačka s několika režimy svícení. Radar vidí auta až na 150 metrů. Výdrž je až 20 hodin, pak se nabíjí přes USB-C. Pomocí Bluetooth nebo ANT+ se dá připojit k mobilům, hodinkám nebo cyklopočítačům. Jde o horkou novinku letošního trhu. Konkuruje zařízením od Garminu, Magene a podobně.",
+   "author": "Hlídač slev",
+   "date": "20. 11. 2026 17:45",
+   "discount": "1869 Kč",
+   "url": "https://www.alza.cz/sport/lezyne-radar-drive-rear-d13133728.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 184
   },
   {
    "source": "redakce",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T14:57:14.636Z",
- "comments": 299,
- "tips": 182,
+ "updated": "2026-11-20T15:57:20.222Z",
+ "comments": 300,
+ "tips": 183,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -604,6 +604,26 @@
    "extra": [],
    "expired": false,
    "id": 17
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "MacBook Air M5 s 15\" displejem",
+   "text": "Větší MacBook Air 15 s čipem M5, 16 GB RAM a 512GB SSD se v Alze prodává za 36 990 Kč . V Planeu je dokonce za 35 800 Kč . Jiné obchody si účtují skoro čtyřicet tisíc. U Applu stojí tato verze 44 990 Kč.",
+   "author": "Hlídač slev",
+   "date": "20. 11. 2026 16:45",
+   "discount": "36 990 Kč; 35 800 Kč",
+   "url": "https://www.alza.cz/macbook-air-15-m5-cz-2026-blankytne-modry-d13268836.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.planeo.cz/apple-macbook-air-15-m5-cz-2026-10-10c-16-512gb-starlight",
+     "host": "planeo.cz",
+     "label": "35 800 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 183
   },
   {
    "source": "redakce",

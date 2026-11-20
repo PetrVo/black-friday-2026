@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T23:56:16.258Z",
+ "updated": "2026-11-20T06:56:32.426Z",
  "comments": 291,
- "tips": 177,
+ "tips": 178,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2614,6 +2614,20 @@
    ],
    "expired": true,
    "id": 148
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
+   "product": "Židle s vyšší nosností",
+   "text": "Kancelářská židle Tigo Office ErgoFlex OC226 dnes na Smarty.cz zlevnila o třetinu na 3790 Kč . Má zpevněnou konstrukci a unese až 150 kg. Nabízí textilní povrch, krční i bederní opěrky, plně nastavitelné područky a houpací mechanismus s aretací.",
+   "author": "Hlídač slev",
+   "date": "20. 11. 2026 7:45",
+   "discount": "cca -33 %; 3790 Kč",
+   "url": "https://www.smarty.cz/TIGO-Office-ErgoFlex-OC226-kancelarska-zidle-cerna-4p283618",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": false,
+   "id": 178
   },
   {
    "source": "redakce",

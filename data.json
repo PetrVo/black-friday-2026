@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T11:56:54.282Z",
- "comments": 295,
- "tips": 183,
+ "updated": "2026-11-20T12:57:03.912Z",
+ "comments": 298,
+ "tips": 184,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -3105,6 +3105,20 @@
    "extra": [],
    "expired": false,
    "id": 2172804
+  },
+  {
+   "source": "redakce",
+   "category": "Software a předplatné",
+   "product": "Microsoft 365",
+   "text": "Spolusoft nabízí jednoleté předplatné Microsoft 365 pro jednotlivce za 1600 Kč . V ostatních českých e-shopech stojí minimálně dva tisíce. Sám Microsoft si účtuje 2699 Kč. Obsahuje kancelářský balík MS Office, 1TB OneDrive a k tomu AI Copilot s menšími limity než u bezplatné verze.",
+   "author": "Hlídač slev",
+   "date": "20. 11. 2026 13:45",
+   "discount": "1600 Kč",
+   "url": "https://kancelarske-aplikace.heureka.cz/microsoft-365-pro-jednotlivce-1-rok-elektronicka-licence-eu-qq2-00012-nova-licence/",
+   "host": "kancelarske-aplikace.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 184
   },
   {
    "source": "redakce",

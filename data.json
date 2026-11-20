@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T10:56:50.582Z",
- "comments": 294,
- "tips": 182,
+ "updated": "2026-11-20T11:56:54.282Z",
+ "comments": 295,
+ "tips": 183,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2268,6 +2268,20 @@
    "extra": [],
    "expired": false,
    "id": 3
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "GeForce Now",
+   "text": "Nvidia nabízí šestiměsíční předplatné GeForce Now Performance a Ultimate s 30% slevou za 1049 Kč, resp. 2093 Kč. V přepočtu na měsíc tak stojí 175 Kč a 349 Kč. První tarif umožní hrát až 6 hodin v kuse v rozlišení 1440p60. Druhý relaci prodlužuje až na 8 hodin a kvalitu posouvá až na 2160p360. Má i další funkce navíc.",
+   "author": "Hlídač slev",
+   "date": "20. 11. 2026 12:45",
+   "discount": "-30 %",
+   "url": "https://www.nvidia.com/cs-cz/geforce-now/",
+   "host": "nvidia.com",
+   "extra": [],
+   "expired": false,
+   "id": 183
   },
   {
    "source": "redakce",

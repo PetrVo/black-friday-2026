@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T06:56:32.426Z",
- "comments": 291,
- "tips": 178,
+ "updated": "2026-11-20T07:56:37.834Z",
+ "comments": 292,
+ "tips": 179,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -3111,6 +3111,20 @@
    "extra": [],
    "expired": false,
    "id": 63
+  },
+  {
+   "source": "redakce",
+   "category": "Ostatní",
+   "product": "Kryptopeněžky Trezor",
+   "text": "Hardwarové peněženky české značky Trezor jsou teď v e-shopu výrobce v až 40% slevách . Základní Trezor Safe 3 vyjde na 964 Kč (místo 1439 Kč), lepší Safe 5 s dotykovým displejem stojí 1952 Kč (místo 3149 Kč) a top model Safe 7 je za 4384 Kč (místo 6089 Kč). Navíc má vyšší odolnost, Bluetooth, bezdrátové nabíjení a kvantově odolné zabezpečení.",
+   "author": "Hlídač slev",
+   "date": "20. 11. 2026 8:45",
+   "discount": "-40 %",
+   "url": "https://trezor.io/cs/holiday-deals#section_hardware_wallets",
+   "host": "trezor.io",
+   "extra": [],
+   "expired": false,
+   "id": 179
   },
   {
    "source": "redakce",

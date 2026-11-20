@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T07:56:37.834Z",
- "comments": 292,
- "tips": 179,
+ "updated": "2026-11-20T08:56:41.918Z",
+ "comments": 293,
+ "tips": 180,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1505,6 +1505,20 @@
    "extra": [],
    "expired": true,
    "id": 39
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Levný soundbar",
+   "text": "Lidl prodává soundbar své privátní značky Tronic s 36% slevou za 1199 Kč . Obsahuje dvojici 30W reproduktorů, podporuje Dolby Atmos a připojuje se přes HDMI (eARC), S/PDIF, analogový jack nebo přes Bluetooth. Umí také přehrávat hudbu naservírovanou přes USB. Zvuk je podle uživatelských recenzí velmi dobrý, ale nečekejte od toho zážitek jako u sestav za násobně vyšší ceny. Oproti levné televizi ale bude hrát mnohem lépe.",
+   "author": "Hlídač slev",
+   "date": "20. 11. 2026 9:45",
+   "discount": "-36 %; 1199 Kč",
+   "url": "https://www.lidl.cz/p/tronic-soundbar-2-0-dolby-atmos/p100395303",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 180
   },
   {
    "source": "redakce",

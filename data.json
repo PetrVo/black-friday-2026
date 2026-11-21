@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T09:58:32.190Z",
+ "updated": "2026-11-21T11:00:15.065Z",
  "comments": 307,
- "tips": 187,
+ "tips": 188,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2639,6 +2639,26 @@
    "extra": [],
    "expired": false,
    "id": 2
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Aku vrtačka Parkside Performance",
+   "text": "Lidl má dnes 30% slevy na všechny vrtačky, stačí si aktivovat kupón. Aku vrtačka s příklepem vyšší řady Parkside Performance je sama o sobě zlevněná o tři stovky na 1599 Kč, s kupónem vyjde na 1119 Kč . Má výkonný bezkartáčový motor a pětiletou záruku. V ceně ale není akumulátor ani nabíječka. V nabídce Lidlu jsou však i plně vybavené modely .",
+   "author": "Hlídač slev",
+   "date": "21. 11. 2026 11:45",
+   "discount": "-30 %; 1119 Kč",
+   "url": "https://www.lidl.cz/p/parkside-performance-aku-priklepova-vrtacka-psbsap-20-li-c3-bez-akumulatoru-a-nabijecky/p100396260",
+   "host": "lidl.cz",
+   "extra": [
+    {
+     "url": "https://www.lidl.cz/q/search?q=vrta%C4%8Dka",
+     "host": "lidl.cz",
+     "label": "plně vybavené modely"
+    }
+   ],
+   "expired": false,
+   "id": 188
   },
   {
    "source": "diskuze",

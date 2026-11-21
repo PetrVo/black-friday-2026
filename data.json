@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T06:58:18.658Z",
+ "updated": "2026-11-21T08:58:26.375Z",
  "comments": 306,
- "tips": 186,
+ "tips": 187,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1558,6 +1558,26 @@
    "extra": [],
    "expired": true,
    "id": 41
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "MacFamilyTree 11",
+   "text": "Nejlepší aplikace pro tvorbu rodokmenů a bádání v historických pramenech MacFamilyTree 11 teď můžete do neděle 22. listopadu koupit s 50% slevou. Případně lze licenci získat o 65 % levněji, máte-li předchozí verzi a chcete upgradovat. Noví uživatelé tak zaplatí 999 Kč . Za polovičních 399 Kč se dá koupit i mobilní verze MobileFamilyTree 11 určená pro iPad a iPhone, která je také hodně schopná.",
+   "author": "Hlídač slev",
+   "date": "21. 11. 2026 9:45",
+   "discount": "-50 %; 999 Kč; 399 Kč",
+   "url": "https://apps.apple.com/cz/app/macfamilytree-11/id6480510488?l=cs&mt=12",
+   "host": "apps.apple.com",
+   "extra": [
+    {
+     "url": "https://apps.apple.com/cz/app/mobilefamilytree-11/id6480510866?l=cs",
+     "host": "apps.apple.com",
+     "label": "399 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 187
   },
   {
    "source": "redakce",

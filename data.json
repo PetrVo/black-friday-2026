@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T20:57:47.267Z",
+ "updated": "2026-11-21T06:58:18.658Z",
  "comments": 306,
- "tips": 185,
+ "tips": 186,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2093,6 +2093,26 @@
    "extra": [],
    "expired": true,
    "id": 21
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Garmin Fénix 8",
+   "text": "Amazon prodává hodinky Garmin Fénix 8 (47mm verzi) v suverénně nejlepší akci za 12 427 Kč . V Česku jsou ceny také dobré, na Pulsmetry tyto hodinky koupíte za 14 990 Kč . Ještě loni všude stály minimálně dvacet tisíc. Jde o nejuniverzálnější hodinky Garminu pro všechny druhy sportů a turistiky. Díky zdravotním funkcím, volání, bezkontaktnímu placení nebo integrované svítilně ale pomohou i v běžném životě.",
+   "author": "Hlídač slev",
+   "date": "21. 11. 2026 7:45",
+   "discount": "12 427 Kč; 14 990 Kč",
+   "url": "https://www.amazon.de/dp/B0DC6ZD31R?th=1&linkCode=ll2&tag=zivecz-21&linkId=01d743802fd13e47b34361e490979e1d&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [
+    {
+     "url": "https://chytre-hodinky.heureka.cz/garmin-fenix-8-amoled-47mm-sapphire-carbon-gray-titanium-black-010-02904-21/",
+     "host": "chytre-hodinky.heureka.cz",
+     "label": "14 990 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 186
   },
   {
    "source": "redakce",

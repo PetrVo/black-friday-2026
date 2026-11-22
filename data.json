@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T14:31:00.446Z",
+ "updated": "2026-11-22T15:35:33.651Z",
  "comments": 328,
- "tips": 191,
+ "tips": 192,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1604,6 +1604,31 @@
   {
    "source": "redakce",
    "category": "TV a audio",
+   "product": "Nejlepší bezdrátová sluchátka Sony",
+   "text": "Stále aktuální loňská generace legendárních sluchátek se Sony WH-1000XM6 se u různých prodejců objevila v atraktivních akcích. Původní doporučená cena byla deset tisíc. V Alze teď s kódem 2026ALZAEXTRA5 vyjdou na 8256 Kč . Smarty si účtuje 8199 Kč . Na Amazonu jsou všechny barevné verze za 8144 Kč . V recenzi od nás získala plnou známku 10/10. V Sony opět dokázali zlepšit zvuk i účinek aktivního potlačení hluku. Sluchátka mají také výbornou konstrukci, spoustu funkcí, pohodlně se nosí a vydrží až 30 hodin.",
+   "author": "Hlídač slev",
+   "date": "22. 11. 2026 15:45",
+   "discount": "8256 Kč; 8199 Kč; 8144 Kč",
+   "url": "https://www.alza.cz/sony-noise-cancelling-wh-1000xm6-cerna-d12883227.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.smarty.cz/Sony-WH-1000XM6-bezdratova-sluchatka-cerna-4p249898",
+     "host": "smarty.cz",
+     "label": "8199 Kč"
+    },
+    {
+     "url": "https://www.amazon.de/dp/B0F2TT8Q7M?tag=zivecz-21&creatorsDisableRedirect=true",
+     "host": "amazon.de",
+     "label": "8144 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 192
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
    "product": "MacFamilyTree 11",
    "text": "Nejlepší aplikace pro tvorbu rodokmenů a bádání v historických pramenech MacFamilyTree 11 teď můžete do neděle 22. listopadu koupit s 50% slevou. Případně lze licenci získat o 65 % levněji, máte-li předchozí verzi a chcete upgradovat. Noví uživatelé tak zaplatí 999 Kč . Za polovičních 399 Kč se dá koupit i mobilní verze MobileFamilyTree 11 určená pro iPad a iPhone, která je také hodně schopná.",
    "author": "Hlídač slev",
@@ -2784,7 +2809,7 @@
    "product": "Zdravotní židle",
    "text": "Český Adaptic má 10% slevu na nejvyšší model zdravotní/ergonomické židle Butterfly Noir , v černé verzi s opěrkou hlavy vyjde na 20 691 Kč . Je na ni pětiletá záruka. Výrobce láká na modulární konstrukci, u níž si můžete zvolit typ koleček, výšku pístu (podle výšky postavy) a další doplňky. Židle je plně polohovatelná, je odpružená a obsahuje další drobnosti, které snižují bolest a únavu při dlouhém sezení.",
    "author": "Hlídač slev",
-   "date": "21. 11. 2026 15:45",
+   "date": "22. 11. 2026 15:45",
    "discount": "-10 %; 20 691 Kč",
    "url": "https://kancelarska-kresla.heureka.cz/adaptic-butterfly-noir_2/",
    "host": "kancelarska-kresla.heureka.cz",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T06:18:05.605Z",
- "comments": 317,
- "tips": 187,
+ "updated": "2026-11-22T07:24:46.319Z",
+ "comments": 318,
+ "tips": 188,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -632,6 +632,20 @@
    "extra": [],
    "expired": false,
    "id": 17
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Google AI Plus a Pro",
+   "text": "Google nabízí slevu na dva nejnižší tarify AI. Akce platí pro měsíční předplatná, kde však sleva trvá jen tři měsíce, ale i roční. Roční Google AI Plus vyjde na 1120 Kč (místo 1499 Kč) a Google AI Pro na 4150 Kč (místo 5500 Kč). První obsahuje 400GB cloudové úložiště a Gemini s méně limity. Vyšší pak zpřístupňuje 5TB cloud, lepší AI modely a agentickou aplikaci Antigravity pro kódování a ovládání počítače, jako to umí i Codex nebo Claude Code.",
+   "author": "Hlídač slev",
+   "date": "22. 11. 2026 7:45",
+   "discount": "1120 Kč; 1499 Kč; 4150 Kč; 5500 Kč",
+   "url": "",
+   "host": "",
+   "extra": [],
+   "expired": false,
+   "id": 188
   },
   {
    "source": "redakce",
@@ -2106,7 +2120,7 @@
    "product": "Garmin Fénix 8",
    "text": "Amazon prodává hodinky Garmin Fénix 8 (47mm verzi) v suverénně nejlepší akci za 12 427 Kč . V Česku jsou ceny také dobré, na Pulsmetry tyto hodinky koupíte za 14 990 Kč . Ještě loni všude stály minimálně dvacet tisíc. Jde o nejuniverzálnější hodinky Garminu pro všechny druhy sportů a turistiky. Díky zdravotním funkcím, volání, bezkontaktnímu placení nebo integrované svítilně ale pomohou i v běžném životě.",
    "author": "Hlídač slev",
-   "date": "21. 11. 2026 7:45",
+   "date": "22. 11. 2026 7:45",
    "discount": "12 427 Kč; 14 990 Kč",
    "url": "https://www.amazon.de/dp/B0DC6ZD31R?th=1&linkCode=ll2&tag=zivecz-21&linkId=01d743802fd13e47b34361e490979e1d&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
    "host": "amazon.de",

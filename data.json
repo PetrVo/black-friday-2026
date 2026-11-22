@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T08:27:27.090Z",
- "comments": 321,
- "tips": 188,
+ "updated": "2026-11-22T09:28:37.323Z",
+ "comments": 323,
+ "tips": 189,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1593,7 +1593,7 @@
    "product": "MacFamilyTree 11",
    "text": "Nejlepší aplikace pro tvorbu rodokmenů a bádání v historických pramenech MacFamilyTree 11 teď můžete do neděle 22. listopadu koupit s 50% slevou. Případně lze licenci získat o 65 % levněji, máte-li předchozí verzi a chcete upgradovat. Noví uživatelé tak zaplatí 999 Kč . Za polovičních 399 Kč se dá koupit i mobilní verze MobileFamilyTree 11 určená pro iPad a iPhone, která je také hodně schopná.",
    "author": "Hlídač slev",
-   "date": "21. 11. 2026 9:45",
+   "date": "22. 11. 2026 9:45",
    "discount": "-50 %; 999 Kč; 399 Kč",
    "url": "https://apps.apple.com/cz/app/macfamilytree-11/id6480510488?l=cs&mt=12",
    "host": "apps.apple.com",
@@ -2113,6 +2113,20 @@
    "extra": [],
    "expired": true,
    "id": 21
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Nejlepší cyklopočítač Magene",
+   "text": "Magene 706 se na iThings prodává za 4390 Kč , jinde je od pěti tisíc. Jde o nejlepší cyklopočítač této čínské značky. Obsahuje funkce, za které si Garmin nechá zaplatit dvoj- až trojnásobek. Nabízí velký jemný 3,3\" displej, přesnou dvoupásmovou GPS, Wi-Fi, funkci ClimbPro, zvonek, hlasovou i vizuální navigaci. Jen mapy má Magene výrazně horší.",
+   "author": "Hlídač slev",
+   "date": "22. 11. 2026 9:45",
+   "discount": "4390 Kč",
+   "url": "https://tachometry-na-kolo.heureka.cz/magene-c706/",
+   "host": "tachometry-na-kolo.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 189
   },
   {
    "source": "redakce",

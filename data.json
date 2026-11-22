@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T00:47:18.181Z",
+ "updated": "2026-11-22T06:18:05.605Z",
  "comments": 317,
- "tips": 188,
+ "tips": 187,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -19,7 +19,7 @@
    "host": "playstation.com",
    "extra": [],
    "expired": false,
-   "id": 186
+   "id": 185
   },
   {
    "source": "redakce",
@@ -39,7 +39,7 @@
     }
    ],
    "expired": false,
-   "id": 144
+   "id": 143
   },
   {
    "source": "redakce",
@@ -95,7 +95,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 188
+   "id": 187
   },
   {
    "source": "redakce",
@@ -109,7 +109,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 149
+   "id": 148
   },
   {
    "source": "redakce",
@@ -123,7 +123,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 146
+   "id": 145
   },
   {
    "source": "redakce",
@@ -137,7 +137,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 133
+   "id": 132
   },
   {
    "source": "redakce",
@@ -151,7 +151,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 123
+   "id": 122
   },
   {
    "source": "redakce",
@@ -423,7 +423,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 153
+   "id": 152
   },
   {
    "source": "redakce",
@@ -651,7 +651,7 @@
     }
    ],
    "expired": false,
-   "id": 180
+   "id": 179
   },
   {
    "source": "redakce",
@@ -665,7 +665,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 179
+   "id": 178
   },
   {
    "source": "redakce",
@@ -695,7 +695,7 @@
     }
    ],
    "expired": false,
-   "id": 157
+   "id": 156
   },
   {
    "source": "redakce",
@@ -720,7 +720,7 @@
     }
    ],
    "expired": false,
-   "id": 142
+   "id": 141
   },
   {
    "source": "redakce",
@@ -740,7 +740,7 @@
     }
    ],
    "expired": false,
-   "id": 121
+   "id": 120
   },
   {
    "source": "redakce",
@@ -1002,7 +1002,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": true,
-   "id": 151
+   "id": 150
   },
   {
    "source": "redakce",
@@ -1016,7 +1016,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": true,
-   "id": 125
+   "id": 124
   },
   {
    "source": "redakce",
@@ -1044,7 +1044,7 @@
    "host": "mysi.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 165
+   "id": 164
   },
   {
    "source": "redakce",
@@ -1058,7 +1058,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 163
+   "id": 162
   },
   {
    "source": "redakce",
@@ -1078,7 +1078,7 @@
     }
    ],
    "expired": false,
-   "id": 162
+   "id": 161
   },
   {
    "source": "redakce",
@@ -1092,7 +1092,7 @@
    "host": "cerne-skrinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 150
+   "id": 149
   },
   {
    "source": "redakce",
@@ -1106,7 +1106,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 145
+   "id": 144
   },
   {
    "source": "diskuze",
@@ -1148,7 +1148,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 141
+   "id": 140
   },
   {
    "source": "redakce",
@@ -1162,7 +1162,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 140
+   "id": 139
   },
   {
    "source": "redakce",
@@ -1176,7 +1176,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 132
+   "id": 131
   },
   {
    "source": "redakce",
@@ -1591,7 +1591,7 @@
     }
    ],
    "expired": false,
-   "id": 184
+   "id": 183
   },
   {
    "source": "redakce",
@@ -1605,7 +1605,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 173
+   "id": 172
   },
   {
    "source": "redakce",
@@ -1619,7 +1619,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 164
+   "id": 163
   },
   {
    "source": "redakce",
@@ -1633,7 +1633,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 158
+   "id": 157
   },
   {
    "source": "redakce",
@@ -1647,7 +1647,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 147
+   "id": 146
   },
   {
    "source": "redakce",
@@ -1672,7 +1672,7 @@
     }
    ],
    "expired": false,
-   "id": 143
+   "id": 142
   },
   {
    "source": "redakce",
@@ -1686,7 +1686,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 138
+   "id": 137
   },
   {
    "source": "redakce",
@@ -1700,7 +1700,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 131
+   "id": 130
   },
   {
    "source": "redakce",
@@ -1714,7 +1714,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 129
+   "id": 128
   },
   {
    "source": "redakce",
@@ -1728,7 +1728,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 124
+   "id": 123
   },
   {
    "source": "redakce",
@@ -1955,7 +1955,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": true,
-   "id": 159
+   "id": 158
   },
   {
    "source": "redakce",
@@ -1969,7 +1969,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 126
+   "id": 125
   },
   {
    "source": "redakce",
@@ -2011,7 +2011,7 @@
    "host": "sportovni-kamery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 134
+   "id": 133
   },
   {
    "source": "redakce",
@@ -2025,7 +2025,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 129
   },
   {
    "source": "redakce",
@@ -2118,7 +2118,7 @@
     }
    ],
    "expired": false,
-   "id": 183
+   "id": 182
   },
   {
    "source": "redakce",
@@ -2132,7 +2132,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 181
+   "id": 180
   },
   {
    "source": "redakce",
@@ -2146,7 +2146,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 170
+   "id": 169
   },
   {
    "source": "redakce",
@@ -2160,7 +2160,7 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 155
+   "id": 154
   },
   {
    "source": "redakce",
@@ -2174,7 +2174,7 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 135
+   "id": 134
   },
   {
    "source": "redakce",
@@ -2188,7 +2188,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 127
+   "id": 126
   },
   {
    "source": "redakce",
@@ -2360,7 +2360,7 @@
    "host": "nvidia.com",
    "extra": [],
    "expired": false,
-   "id": 176
+   "id": 175
   },
   {
    "source": "redakce",
@@ -2374,7 +2374,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 175
+   "id": 174
   },
   {
    "source": "redakce",
@@ -2388,7 +2388,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 174
+   "id": 173
   },
   {
    "source": "redakce",
@@ -2408,7 +2408,7 @@
     }
    ],
    "expired": false,
-   "id": 169
+   "id": 168
   },
   {
    "source": "redakce",
@@ -2422,7 +2422,7 @@
    "host": "starlink.com",
    "extra": [],
    "expired": false,
-   "id": 166
+   "id": 165
   },
   {
    "source": "redakce",
@@ -2436,7 +2436,7 @@
    "host": "vodafone.cz",
    "extra": [],
    "expired": false,
-   "id": 160
+   "id": 159
   },
   {
    "source": "redakce",
@@ -2450,7 +2450,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 148
+   "id": 147
   },
   {
    "source": "diskuze",
@@ -2644,7 +2644,7 @@
     }
    ],
    "expired": false,
-   "id": 185
+   "id": 184
   },
   {
    "source": "diskuze",
@@ -2672,7 +2672,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 156
+   "id": 155
   },
   {
    "source": "redakce",
@@ -2686,7 +2686,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 139
+   "id": 138
   },
   {
    "source": "redakce",
@@ -2706,7 +2706,7 @@
     }
    ],
    "expired": false,
-   "id": 122
+   "id": 121
   },
   {
    "source": "diskuze",
@@ -2748,7 +2748,7 @@
    "host": "kancelarska-kresla.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 187
+   "id": 186
   },
   {
    "source": "redakce",
@@ -2762,7 +2762,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 167
+   "id": 166
   },
   {
    "source": "redakce",
@@ -2782,7 +2782,7 @@
     }
    ],
    "expired": false,
-   "id": 154
+   "id": 153
   },
   {
    "source": "redakce",
@@ -2796,7 +2796,7 @@
    "host": "zubni-kartacky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 128
+   "id": 127
   },
   {
    "source": "redakce",
@@ -2914,7 +2914,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": true,
-   "id": 171
+   "id": 170
   },
   {
    "source": "redakce",
@@ -2928,7 +2928,7 @@
    "host": "sonoff.tech",
    "extra": [],
    "expired": false,
-   "id": 182
+   "id": 181
   },
   {
    "source": "redakce",
@@ -2942,7 +2942,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 168
+   "id": 167
   },
   {
    "source": "redakce",
@@ -2962,7 +2962,7 @@
     }
    ],
    "expired": false,
-   "id": 137
+   "id": 136
   },
   {
    "source": "redakce",
@@ -3141,7 +3141,7 @@
     }
    ],
    "expired": false,
-   "id": 161
+   "id": 160
   },
   {
    "source": "redakce",
@@ -3170,26 +3170,6 @@
    "extra": [],
    "expired": false,
    "id": 2172804
-  },
-  {
-   "source": "redakce",
-   "category": "Software a předplatné",
-   "product": "Proton VPN a ExpressVPN",
-   "text": "V akci stále zůstává Proton VPN . Dvouletý tarif zlevnil o 75 % a stojí 60 eur (2,50 eura měsíčně) . V 50% slevě je také nejvyšší předplatné Proton Unlimited za 78 eur na rok (6,50 eura měsíčně). Ten má navíc i šifrovaný e-mail, kancelářskou aplikaci, správce hesel a 500GB cloudový disk.\n\nAlternativa ExpressVPN nabízí až 80% slevy na dvouleté předplatné. Tarif Basic s čtyřměsíčním bonusem vyjde na 84 dolarů (1850 Kč), v přepočtu tedy 66 Kč na měsíc a k tomu DPH. Připlatit se dá za extra služby jako pevnou IP adresu, správce hesel, eSIM apod. ExpressVPN má servery ve více než 100 zemí světa a no-log politiku.",
-   "author": "Hlídač slev",
-   "date": "13. 11. 2026 18:45",
-   "discount": "-50 %; -80 %; -75 %; 60 eur (2,50 eura měsíčně)",
-   "url": "https://go.getproton.me/aff_c?offer_id=25",
-   "host": "go.getproton.me",
-   "extra": [
-    {
-     "url": "https://go.expressvpn.com/c/6124823/1330033/16063",
-     "host": "go.expressvpn.com",
-     "label": "84 dolarů"
-    }
-   ],
-   "expired": false,
-   "id": 120
   },
   {
    "source": "redakce",
@@ -3245,7 +3225,7 @@
    "host": "kancelarske-aplikace.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 177
+   "id": 176
   },
   {
    "source": "redakce",
@@ -3259,7 +3239,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 178
+   "id": 177
   },
   {
    "source": "redakce",
@@ -3273,7 +3253,7 @@
    "host": "trezor.io",
    "extra": [],
    "expired": false,
-   "id": 172
+   "id": 171
   },
   {
    "source": "redakce",
@@ -3298,7 +3278,7 @@
     }
    ],
    "expired": false,
-   "id": 152
+   "id": 151
   },
   {
    "source": "diskuze",
@@ -3337,7 +3317,7 @@
     }
    ],
    "expired": false,
-   "id": 136
+   "id": 135
   },
   {
    "source": "diskuze",

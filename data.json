@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T11:30:47.052Z",
- "comments": 326,
- "tips": 190,
+ "updated": "2026-11-22T13:30:53.959Z",
+ "comments": 327,
+ "tips": 191,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -13,7 +13,7 @@
    "product": "PlayStation Plus",
    "text": "Sony nabízí až 33% slevu na roční předplatná PlayStation Plus . Nárok ale mají jen noví uživatelé nebo ti, kteří upgradují z nižších tarifů. Základní Essential, jehož součástí je online multiplayer a každý měsíc dvě či tři hry přidané do knihovny, vyjde na 1504 Kč. Extra, kde je i katalog stovek her, které lze neomezeně hrát, stojí 2460 Kč. Premium, jehož součástí je i cloudový streaming a zkušební verze her, se slevou vyjde na 2680 Kč.\n\nSony tyto akce opakuje každý rok a můžete si s tím trochu vyhrát. Stačí předplatné zaplatit a hned poté zrušit jeho obnovu. Pak počkáte rok, než předplatné skončí, a zase budete mít nárok na slevu. Sony akci nabízí do 30. listopadu, takže máte trochu manévrovacího prostoru.",
    "author": "Hlídač slev",
-   "date": "21. 11. 2026 13:45",
+   "date": "22. 11. 2026 13:45",
    "discount": "-33 %",
    "url": "https://www.playstation.com/cs-cz/ps-plus/#subscriptions",
    "host": "playstation.com",
@@ -632,6 +632,20 @@
    "extra": [],
    "expired": false,
    "id": 17
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Nejlevnější použitelný notebook",
+   "text": "Asus Vivobook 14 prodává Mall jen za 6850 Kč . Notebook má 14\" displej s rozlišením 1920 × 1200 px, šestijádrový Ryzen 5 150, 8 GB RAM, 512GB SSD, dostatek konektorů, Wi-Fi 6, podsvícenou klávesnici i čtečku otisků. Je však bez licence na Windows 11. Za tuto cenu nekoupíte lépe vybavený nový notebook. Paměť může být limitem, ale lze ji rozšířit. Linuxu však stačit bude a takový stroj může bez problémů sloužit i jako domácí server, který díky akumulátoru bude fungovat i při výpadku elektřiny.",
+   "author": "Hlídač slev",
+   "date": "22. 11. 2026 13:45",
+   "discount": "6850 Kč",
+   "url": "https://notebooky.heureka.cz/asus-vivobook-14-m1405naq-ly057/",
+   "host": "notebooky.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 191
   },
   {
    "source": "redakce",

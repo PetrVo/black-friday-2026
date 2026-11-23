@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T12:57:28.780Z",
- "comments": 357,
- "tips": 190,
+ "updated": "2026-11-23T13:57:33.837Z",
+ "comments": 358,
+ "tips": 191,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -666,6 +666,31 @@
    "extra": [],
    "expired": false,
    "id": 16
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "MacBook Neo",
+   "text": "Nejlevnější počítač ve své nabídce Apple prodává za 20 tisíc, ale některé české e-shopy jej nabízejí mnohem výhodněji. Alza znovu naskladnila žlutou variantu za 16 140 Kč . Za 16 140 Kč jej prodává také Mall. Jde o základní variantu s 8GB pamětí a 256GB SSD, která postrádá čtečku otisků. Studentům bude stačit, v nenáročné kanceláři se rovněž neztratí.\n\nMall má také nejlevněji ze všech 512GB variantu se čtečkou otisků. Žlutá verze je za 17 630 Kč . Jinde stojí minimálně 19 tisíc, Apple chce 23 tisíc.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 14:45",
+   "discount": "16 140 Kč; 17 630 Kč",
+   "url": "https://www.alza.cz/macbook-neo-13-cz-2026-citrusove-zluty-d13271294.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://notebooky.heureka.cz/apple-macbook-neo-13-2026-citrus-mhfd4cz-a_2/",
+     "host": "notebooky.heureka.cz",
+     "label": "16 140 Kč"
+    },
+    {
+     "url": "https://notebooky.heureka.cz/apple-macbook-neo-13-2026-citrus-s-touch-id-mhfe4cz-a/",
+     "host": "notebooky.heureka.cz",
+     "label": "17 630 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 191
   },
   {
    "source": "redakce",

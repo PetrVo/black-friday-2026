@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:57:59.224Z",
- "comments": 363,
+ "updated": "2026-11-23T22:58:11.679Z",
+ "comments": 365,
  "tips": 190,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
@@ -3361,6 +3361,20 @@
    "extra": [],
    "expired": true,
    "id": 161
+  },
+  {
+   "source": "diskuze",
+   "category": "Ostatní",
+   "product": "Sony Xperia 10 VIII",
+   "text": "Na amazon.de nová Sony Xperia 10 VIII o 20 % levněji, za cca 12 tis (z původních 15 tis.).",
+   "author": "KatyC",
+   "date": "23. 11. 2026 23:12",
+   "discount": "-20 %",
+   "url": "https://www.amazon.de/-/cs/dp/B0HDTKYBW2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1&currency=EUR",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 2176171
   },
   {
    "source": "redakce",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T13:57:33.837Z",
+ "updated": "2026-11-23T14:57:38.801Z",
  "comments": 358,
- "tips": 191,
+ "tips": 192,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1070,6 +1070,26 @@
    ],
    "expired": false,
    "id": 1
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Mac mini M6 o 20 % levněji",
+   "text": "Tohle je nejlepší akce dne. Jen pár měsíců starý Mac mini M6 v základní verzi s 16 GB RAM a 256GB SSD prodává Amazon za 20 795 Kč . Apple si řekne o 26 tisíc. Verze s 512GB SSD je za 26 249 Kč , Apple chce 32 tisíc. Nové Macy přinášejí vyšší výkon a lepší síťovou výbavu .",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 15:45",
+   "discount": "20 795 Kč; 26 249 Kč",
+   "url": "https://www.amazon.de/dp/B0HGGL1RJ1?tag=zivecz-21&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [
+    {
+     "url": "https://www.amazon.de/dp/B0HGGBZNTT?tag=zivecz-21&creatorsDisableRedirect=true",
+     "host": "amazon.de",
+     "label": "26 249 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 192
   },
   {
    "source": "redakce",

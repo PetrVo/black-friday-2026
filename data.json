@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T07:56:57.824Z",
+ "updated": "2026-11-23T08:57:05.600Z",
  "comments": 343,
- "tips": 186,
+ "tips": 187,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -410,6 +410,20 @@
    "extra": [],
    "expired": true,
    "id": 81
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Kvalitní mikrofon",
+   "text": "Mikrofon Fifine K688CT je na Smarty.cz v akci za 1399 Kč , běžně stojí přes dva tisíce. Je to dynamický mikrofon určený především pro nahrávání hlasu, podcasty nebo streamování. Díky kardioidní charakteristice snímá zvuk hlavně zepředu a omezuje ruchy z okolí, což se hodí zejména při používání v běžné místnosti. Připojit ho lze přes USB-C přímo k počítači, případně pomocí XLR ke zvukové kartě či mixážnímu pultu. Na těle najdete tlačítko pro ztlumení, regulaci citlivosti a výstup na sluchátka pro přímý odposlech. Součástí balení je také kovové rameno s odpruženým držákem, takže není nutné dokupovat samostatný stojan.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 9:45",
+   "discount": "1399 Kč",
+   "url": "https://www.smarty.cz/Fifine-K688CT-studiovy-mikrofon-bily-4p292448",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": false,
+   "id": 187
   },
   {
    "source": "redakce",
@@ -1548,6 +1562,26 @@
   {
    "source": "redakce",
    "category": "TV a audio",
+   "product": "MacFamilyTree 11",
+   "text": "Nejlepší aplikace pro tvorbu rodokmenů a bádání v historických pramenech MacFamilyTree 11 teď můžete do neděle 22. listopadu koupit s 50% slevou. Případně lze licenci získat o 65 % levněji, máte-li předchozí verzi a chcete upgradovat. Noví uživatelé tak zaplatí 999 Kč . Za polovičních 399 Kč se dá koupit i mobilní verze MobileFamilyTree 11 určená pro iPad a iPhone, která je také hodně schopná.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 9:45",
+   "discount": "-50 %; 999 Kč; 399 Kč",
+   "url": "https://apps.apple.com/cz/app/macfamilytree-11/id6480510488?l=cs&mt=12",
+   "host": "apps.apple.com",
+   "extra": [
+    {
+     "url": "https://apps.apple.com/cz/app/mobilefamilytree-11/id6480510866?l=cs",
+     "host": "apps.apple.com",
+     "label": "399 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 174
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
    "product": "Nejlepší bezdrátová sluchátka Sony",
    "text": "Stále aktuální loňská generace legendárních sluchátek se Sony WH-1000XM6 se u různých prodejců objevila v atraktivních akcích. Původní doporučená cena byla deset tisíc. V Alze teď s kódem 2026ALZAEXTRA5 vyjdou na 8256 Kč . Smarty si účtuje 8199 Kč . Na Amazonu jsou všechny barevné verze za 8144 Kč . V recenzi od nás získala plnou známku 10/10. V Sony opět dokázali zlepšit zvuk i účinek aktivního potlačení hluku. Sluchátka mají také výbornou konstrukci, spoustu funkcí, pohodlně se nosí a vydrží až 30 hodin.",
    "author": "Hlídač slev",
@@ -1569,26 +1603,6 @@
    ],
    "expired": false,
    "id": 183
-  },
-  {
-   "source": "redakce",
-   "category": "TV a audio",
-   "product": "MacFamilyTree 11",
-   "text": "Nejlepší aplikace pro tvorbu rodokmenů a bádání v historických pramenech MacFamilyTree 11 teď můžete do neděle 22. listopadu koupit s 50% slevou. Případně lze licenci získat o 65 % levněji, máte-li předchozí verzi a chcete upgradovat. Noví uživatelé tak zaplatí 999 Kč . Za polovičních 399 Kč se dá koupit i mobilní verze MobileFamilyTree 11 určená pro iPad a iPhone, která je také hodně schopná.",
-   "author": "Hlídač slev",
-   "date": "22. 11. 2026 9:45",
-   "discount": "-50 %; 999 Kč; 399 Kč",
-   "url": "https://apps.apple.com/cz/app/macfamilytree-11/id6480510488?l=cs&mt=12",
-   "host": "apps.apple.com",
-   "extra": [
-    {
-     "url": "https://apps.apple.com/cz/app/mobilefamilytree-11/id6480510866?l=cs",
-     "host": "apps.apple.com",
-     "label": "399 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 174
   },
   {
    "source": "redakce",
@@ -2072,6 +2086,20 @@
   {
    "source": "redakce",
    "category": "Chytré hodinky a fitness",
+   "product": "Nejlepší cyklopočítač Magene",
+   "text": "Magene 706 se na iThings prodává za 4390 Kč , jinde je od pěti tisíc. Jde o nejlepší cyklopočítač této čínské značky. Obsahuje funkce, za které si Garmin nechá zaplatit dvoj- až trojnásobek. Nabízí velký jemný 3,3\" displej, přesnou dvoupásmovou GPS, Wi-Fi, funkci ClimbPro, zvonek, hlasovou i vizuální navigaci. Jen mapy má Magene výrazně horší.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 9:45",
+   "discount": "4390 Kč",
+   "url": "https://tachometry-na-kolo.heureka.cz/magene-c706/",
+   "host": "tachometry-na-kolo.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 180
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
    "product": "Garmin Fénix 8",
    "text": "Amazon prodává hodinky Garmin Fénix 8 (47mm verzi) v suverénně nejlepší akci za 12 427 Kč . V Česku jsou ceny také dobré, na Pulsmetry tyto hodinky koupíte za 14 990 Kč . Ještě loni všude stály minimálně dvacet tisíc. Jde o nejuniverzálnější hodinky Garminu pro všechny druhy sportů a turistiky. Díky zdravotním funkcím, volání, bezkontaktnímu placení nebo integrované svítilně ale pomohou i v běžném životě.",
    "author": "Hlídač slev",
@@ -2102,20 +2130,6 @@
    "extra": [],
    "expired": false,
    "id": 2175956
-  },
-  {
-   "source": "redakce",
-   "category": "Chytré hodinky a fitness",
-   "product": "Nejlepší cyklopočítač Magene",
-   "text": "Magene 706 se na iThings prodává za 4390 Kč , jinde je od pěti tisíc. Jde o nejlepší cyklopočítač této čínské značky. Obsahuje funkce, za které si Garmin nechá zaplatit dvoj- až trojnásobek. Nabízí velký jemný 3,3\" displej, přesnou dvoupásmovou GPS, Wi-Fi, funkci ClimbPro, zvonek, hlasovou i vizuální navigaci. Jen mapy má Magene výrazně horší.",
-   "author": "Hlídač slev",
-   "date": "22. 11. 2026 9:45",
-   "discount": "4390 Kč",
-   "url": "https://tachometry-na-kolo.heureka.cz/magene-c706/",
-   "host": "tachometry-na-kolo.heureka.cz",
-   "extra": [],
-   "expired": false,
-   "id": 180
   },
   {
    "source": "redakce",

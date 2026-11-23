@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T15:57:43.176Z",
+ "updated": "2026-11-23T16:57:49.103Z",
  "comments": 361,
- "tips": 193,
+ "tips": 194,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -430,6 +430,20 @@
    "extra": [],
    "expired": true,
    "id": 81
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Nejvýkonnější nabíječka AlzaPower",
+   "text": "Alza prodává nabíječku AlzaPower Ultimate X750 o třetinu levněji za 1629 Kč . Používá technologii GaN, má displej, pět konektorů, maximální výkon 200 W a podporuje všechny klíčové rychlonabíjecí režimy. Do USB-C pošle až 100 W, do USB-A maximální 18 W. Při využití všech konektorů se výkon rozdělí na 100+65+20+7,5+7,5 W.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 17:45",
+   "discount": "1629 Kč",
+   "url": "https://www.alza.cz/alzapower-ultimate-x750-200w-cerna-d7377619.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 194
   },
   {
    "source": "redakce",

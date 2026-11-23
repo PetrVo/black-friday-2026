@@ -1,12 +1,32 @@
 {
- "updated": "2026-11-23T10:57:17.644Z",
- "comments": 351,
+ "updated": "2026-11-23T11:57:23.474Z",
+ "comments": 352,
  "tips": 189,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
  },
  "deals": [
+  {
+   "source": "redakce",
+   "category": "Herní konzole a hry",
+   "product": "Nintendo Switch Online",
+   "text": "Nintendo sice nezlevnilo předplatné Switch Online , ale k ročnímu účtu za 499 Kč (jednotlivci) nebo 875 Kč (rodiny) dá navíc tři měsíce. V e-shopu jsou pak také slevy na hry. Hezky je zobrazují například Dekudeals . Doom (2016) koupíte za 100 Kč, Leo Horizon Adventures je za 239 Kč, Hogwarts Legacy: Deluxe Edition za 175 Kč.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 12:45",
+   "discount": "499 Kč",
+   "url": "https://www.nintendo.com/en-gb/Campaigns/Nintendo-Switch-Online-12-3-Offer-2901875.html",
+   "host": "nintendo.com",
+   "extra": [
+    {
+     "url": "https://www.dekudeals.com/",
+     "host": "dekudeals.com",
+     "label": "Dekudeals"
+    }
+   ],
+   "expired": false,
+   "id": 189
+  },
   {
    "source": "redakce",
    "category": "Herní konzole a hry",
@@ -19,7 +39,7 @@
    "host": "playstation.com",
    "extra": [],
    "expired": false,
-   "id": 176
+   "id": 175
   },
   {
    "source": "redakce",
@@ -39,7 +59,7 @@
     }
    ],
    "expired": false,
-   "id": 135
+   "id": 134
   },
   {
    "source": "redakce",
@@ -95,7 +115,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 178
+   "id": 177
   },
   {
    "source": "redakce",
@@ -109,7 +129,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 137
+   "id": 136
   },
   {
    "source": "redakce",
@@ -123,7 +143,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 124
+   "id": 123
   },
   {
    "source": "redakce",
@@ -137,7 +157,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 116
+   "id": 115
   },
   {
    "source": "redakce",
@@ -381,7 +401,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 140
+   "id": 139
   },
   {
    "source": "redakce",
@@ -423,7 +443,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 187
+   "id": 186
   },
   {
    "source": "redakce",
@@ -437,7 +457,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 143
+   "id": 142
   },
   {
    "source": "redakce",
@@ -659,21 +679,7 @@
    "host": "datart.cz",
    "extra": [],
    "expired": false,
-   "id": 185
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Google AI Plus a Pro",
-   "text": "Google nabízí slevu na dva nejnižší tarify AI. Akce platí pro měsíční předplatná, kde však sleva trvá jen tři měsíce, ale i roční. Roční Google AI Plus vyjde na 1120 Kč (místo 1499 Kč) a Google AI Pro na 4150 Kč (místo 5500 Kč). První obsahuje 400GB cloudové úložiště a Gemini s méně limity. Vyšší pak zpřístupňuje 5TB cloud, lepší AI modely a agentickou aplikaci Antigravity pro kódování a ovládání počítače, jako to umí i Codex nebo Claude Code.",
-   "author": "Hlídač slev",
-   "date": "23. 11. 2026 7:45",
-   "discount": "1120 Kč; 1499 Kč; 4150 Kč; 5500 Kč",
-   "url": "",
-   "host": "",
-   "extra": [],
-   "expired": false,
-   "id": 179
+   "id": 184
   },
   {
    "source": "redakce",
@@ -687,7 +693,21 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 182
+   "id": 181
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Google AI Plus a Pro",
+   "text": "Google nabízí slevu na dva nejnižší tarify AI. Akce platí pro měsíční předplatná, kde však sleva trvá jen tři měsíce, ale i roční. Roční Google AI Plus vyjde na 1120 Kč (místo 1499 Kč) a Google AI Pro na 4150 Kč (místo 5500 Kč). První obsahuje 400GB cloudové úložiště a Gemini s méně limity. Vyšší pak zpřístupňuje 5TB cloud, lepší AI modely a agentickou aplikaci Antigravity pro kódování a ovládání počítače, jako to umí i Codex nebo Claude Code.",
+   "author": "Hlídač slev",
+   "date": "22. 11. 2026 7:45",
+   "discount": "1120 Kč; 1499 Kč; 4150 Kč; 5500 Kč",
+   "url": "",
+   "host": "",
+   "extra": [],
+   "expired": false,
+   "id": 178
   },
   {
    "source": "redakce",
@@ -707,7 +727,7 @@
     }
    ],
    "expired": false,
-   "id": 170
+   "id": 169
   },
   {
    "source": "redakce",
@@ -721,7 +741,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 169
+   "id": 168
   },
   {
    "source": "redakce",
@@ -751,7 +771,7 @@
     }
    ],
    "expired": false,
-   "id": 147
+   "id": 146
   },
   {
    "source": "redakce",
@@ -776,27 +796,7 @@
     }
    ],
    "expired": false,
-   "id": 133
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "MacBook Neo",
-   "text": "Nejlevnější počítač ve své nabídce Apple prodává za 20 tisíc, ale některé české e-shopy jej nabízejí mnohem výhodněji. Alza znovu naskladnila žlutou variantu za 16 140 Kč . Jde o základní variantu s 8GB pamětí a 256GB SSD, která postrádá čtečku otisků. Studentům bude stačit, v nenáročné kanceláři se rovněž neztratí.\n\nCZC nabízí nejlevněji ze všech 512GB variantu se čtečkou otisků. Žlutá verze je za 18 990 Kč .",
-   "author": "Hlídač slev",
-   "date": "14. 11. 2026 10:45",
-   "discount": "16 140 Kč; 18 990 Kč",
-   "url": "https://www.alza.cz/macbook-neo-13-cz-2026-citrusove-zluty-d13271294.htm",
-   "host": "alza.cz",
-   "extra": [
-    {
-     "url": "https://notebooky.heureka.cz/apple-macbook-neo-13-2026-citrus-s-touch-id-mhfe4cz-a/",
-     "host": "notebooky.heureka.cz",
-     "label": "18 990 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 114
+   "id": 132
   },
   {
    "source": "redakce",
@@ -1058,7 +1058,7 @@
    "host": "mysi.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 155
+   "id": 154
   },
   {
    "source": "redakce",
@@ -1072,7 +1072,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 153
+   "id": 152
   },
   {
    "source": "redakce",
@@ -1092,7 +1092,7 @@
     }
    ],
    "expired": false,
-   "id": 152
+   "id": 151
   },
   {
    "source": "redakce",
@@ -1106,7 +1106,7 @@
    "host": "cerne-skrinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 141
+   "id": 140
   },
   {
    "source": "redakce",
@@ -1120,7 +1120,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 136
+   "id": 135
   },
   {
    "source": "diskuze",
@@ -1162,7 +1162,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 132
+   "id": 131
   },
   {
    "source": "redakce",
@@ -1176,7 +1176,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 131
+   "id": 130
   },
   {
    "source": "redakce",
@@ -1190,7 +1190,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 123
+   "id": 122
   },
   {
    "source": "redakce",
@@ -1576,26 +1576,6 @@
   {
    "source": "redakce",
    "category": "TV a audio",
-   "product": "MacFamilyTree 11",
-   "text": "Nejlepší aplikace pro tvorbu rodokmenů a bádání v historických pramenech MacFamilyTree 11 teď můžete do neděle 22. listopadu koupit s 50% slevou. Případně lze licenci získat o 65 % levněji, máte-li předchozí verzi a chcete upgradovat. Noví uživatelé tak zaplatí 999 Kč . Za polovičních 399 Kč se dá koupit i mobilní verze MobileFamilyTree 11 určená pro iPad a iPhone, která je také hodně schopná.",
-   "author": "Hlídač slev",
-   "date": "23. 11. 2026 9:45",
-   "discount": "-50 %; 999 Kč; 399 Kč",
-   "url": "https://apps.apple.com/cz/app/macfamilytree-11/id6480510488?l=cs&mt=12",
-   "host": "apps.apple.com",
-   "extra": [
-    {
-     "url": "https://apps.apple.com/cz/app/mobilefamilytree-11/id6480510866?l=cs",
-     "host": "apps.apple.com",
-     "label": "399 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 174
-  },
-  {
-   "source": "redakce",
-   "category": "TV a audio",
    "product": "Nejlepší bezdrátová sluchátka Sony",
    "text": "Stále aktuální loňská generace legendárních sluchátek se Sony WH-1000XM6 se u různých prodejců objevila v atraktivních akcích. Původní doporučená cena byla deset tisíc. V Alze teď s kódem 2026ALZAEXTRA5 vyjdou na 8256 Kč . Smarty si účtuje 8199 Kč . Na Amazonu jsou všechny barevné verze za 8144 Kč . V recenzi od nás získala plnou známku 10/10. V Sony opět dokázali zlepšit zvuk i účinek aktivního potlačení hluku. Sluchátka mají také výbornou konstrukci, spoustu funkcí, pohodlně se nosí a vydrží až 30 hodin.",
    "author": "Hlídač slev",
@@ -1616,7 +1596,27 @@
     }
    ],
    "expired": false,
-   "id": 183
+   "id": 182
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "MacFamilyTree 11",
+   "text": "Nejlepší aplikace pro tvorbu rodokmenů a bádání v historických pramenech MacFamilyTree 11 teď můžete do neděle 22. listopadu koupit s 50% slevou. Případně lze licenci získat o 65 % levněji, máte-li předchozí verzi a chcete upgradovat. Noví uživatelé tak zaplatí 999 Kč . Za polovičních 399 Kč se dá koupit i mobilní verze MobileFamilyTree 11 určená pro iPad a iPhone, která je také hodně schopná.",
+   "author": "Hlídač slev",
+   "date": "22. 11. 2026 9:45",
+   "discount": "-50 %; 999 Kč; 399 Kč",
+   "url": "https://apps.apple.com/cz/app/macfamilytree-11/id6480510488?l=cs&mt=12",
+   "host": "apps.apple.com",
+   "extra": [
+    {
+     "url": "https://apps.apple.com/cz/app/mobilefamilytree-11/id6480510866?l=cs",
+     "host": "apps.apple.com",
+     "label": "399 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 173
   },
   {
    "source": "redakce",
@@ -1630,7 +1630,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 163
+   "id": 162
   },
   {
    "source": "redakce",
@@ -1644,7 +1644,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 154
+   "id": 153
   },
   {
    "source": "redakce",
@@ -1658,7 +1658,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 148
+   "id": 147
   },
   {
    "source": "redakce",
@@ -1672,7 +1672,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 138
+   "id": 137
   },
   {
    "source": "redakce",
@@ -1697,7 +1697,7 @@
     }
    ],
    "expired": false,
-   "id": 134
+   "id": 133
   },
   {
    "source": "redakce",
@@ -1711,7 +1711,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 129
+   "id": 128
   },
   {
    "source": "redakce",
@@ -1725,7 +1725,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 122
+   "id": 121
   },
   {
    "source": "redakce",
@@ -1739,7 +1739,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 120
+   "id": 119
   },
   {
    "source": "redakce",
@@ -1753,7 +1753,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 117
+   "id": 116
   },
   {
    "source": "redakce",
@@ -1980,7 +1980,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": true,
-   "id": 149
+   "id": 148
   },
   {
    "source": "diskuze",
@@ -2008,7 +2008,7 @@
    "host": "sportovni-kamery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 125
+   "id": 124
   },
   {
    "source": "redakce",
@@ -2022,7 +2022,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 121
+   "id": 120
   },
   {
    "source": "redakce",
@@ -2098,40 +2098,6 @@
    "id": 20
   },
   {
-   "source": "redakce",
-   "category": "Chytré hodinky a fitness",
-   "product": "Nejlepší cyklopočítač Magene",
-   "text": "Magene 706 se na iThings prodává za 4390 Kč , jinde je od pěti tisíc. Jde o nejlepší cyklopočítač této čínské značky. Obsahuje funkce, za které si Garmin nechá zaplatit dvoj- až trojnásobek. Nabízí velký jemný 3,3\" displej, přesnou dvoupásmovou GPS, Wi-Fi, funkci ClimbPro, zvonek, hlasovou i vizuální navigaci. Jen mapy má Magene výrazně horší.",
-   "author": "Hlídač slev",
-   "date": "23. 11. 2026 9:45",
-   "discount": "4390 Kč",
-   "url": "https://tachometry-na-kolo.heureka.cz/magene-c706/",
-   "host": "tachometry-na-kolo.heureka.cz",
-   "extra": [],
-   "expired": false,
-   "id": 180
-  },
-  {
-   "source": "redakce",
-   "category": "Chytré hodinky a fitness",
-   "product": "Garmin Fénix 8",
-   "text": "Amazon prodává hodinky Garmin Fénix 8 (47mm verzi) v suverénně nejlepší akci za 12 427 Kč . V Česku jsou ceny také dobré, na Pulsmetry tyto hodinky koupíte za 14 990 Kč . Ještě loni všude stály minimálně dvacet tisíc. Jde o nejuniverzálnější hodinky Garminu pro všechny druhy sportů a turistiky. Díky zdravotním funkcím, volání, bezkontaktnímu placení nebo integrované svítilně ale pomohou i v běžném životě.",
-   "author": "Hlídač slev",
-   "date": "23. 11. 2026 7:45",
-   "discount": "12 427 Kč; 14 990 Kč",
-   "url": "https://www.amazon.de/dp/B0DC6ZD31R?th=1&linkCode=ll2&tag=zivecz-21&linkId=01d743802fd13e47b34361e490979e1d&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
-   "host": "amazon.de",
-   "extra": [
-    {
-     "url": "https://chytre-hodinky.heureka.cz/garmin-fenix-8-amoled-47mm-sapphire-carbon-gray-titanium-black-010-02904-21/",
-     "host": "chytre-hodinky.heureka.cz",
-     "label": "14 990 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 173
-  },
-  {
    "source": "diskuze",
    "category": "Chytré hodinky a fitness",
    "product": "Google AI Pro a Ultra",
@@ -2148,6 +2114,40 @@
   {
    "source": "redakce",
    "category": "Chytré hodinky a fitness",
+   "product": "Nejlepší cyklopočítač Magene",
+   "text": "Magene 706 se na iThings prodává za 4390 Kč , jinde je od pěti tisíc. Jde o nejlepší cyklopočítač této čínské značky. Obsahuje funkce, za které si Garmin nechá zaplatit dvoj- až trojnásobek. Nabízí velký jemný 3,3\" displej, přesnou dvoupásmovou GPS, Wi-Fi, funkci ClimbPro, zvonek, hlasovou i vizuální navigaci. Jen mapy má Magene výrazně horší.",
+   "author": "Hlídač slev",
+   "date": "22. 11. 2026 9:45",
+   "discount": "4390 Kč",
+   "url": "https://tachometry-na-kolo.heureka.cz/magene-c706/",
+   "host": "tachometry-na-kolo.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 179
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Garmin Fénix 8",
+   "text": "Amazon prodává hodinky Garmin Fénix 8 (47mm verzi) v suverénně nejlepší akci za 12 427 Kč . V Česku jsou ceny také dobré, na Pulsmetry tyto hodinky koupíte za 14 990 Kč . Ještě loni všude stály minimálně dvacet tisíc. Jde o nejuniverzálnější hodinky Garminu pro všechny druhy sportů a turistiky. Díky zdravotním funkcím, volání, bezkontaktnímu placení nebo integrované svítilně ale pomohou i v běžném životě.",
+   "author": "Hlídač slev",
+   "date": "22. 11. 2026 7:45",
+   "discount": "12 427 Kč; 14 990 Kč",
+   "url": "https://www.amazon.de/dp/B0DC6ZD31R?th=1&linkCode=ll2&tag=zivecz-21&linkId=01d743802fd13e47b34361e490979e1d&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [
+    {
+     "url": "https://chytre-hodinky.heureka.cz/garmin-fenix-8-amoled-47mm-sapphire-carbon-gray-titanium-black-010-02904-21/",
+     "host": "chytre-hodinky.heureka.cz",
+     "label": "14 990 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 172
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
    "product": "Nejlevnější cykloradar",
    "text": "Lezyne Radar Drive Rear v Alze zlevnil na 1869 Kč , což z něj dělá nejdostupnější cykloradar na českém trhu. Funguje jako výkonná blikačka s několika režimy svícení. Radar vidí auta až na 150 metrů. Výdrž je až 20 hodin, pak se nabíjí přes USB-C. Pomocí Bluetooth nebo ANT+ se dá připojit k mobilům, hodinkám nebo cyklopočítačům. Jde o horkou novinku letošního trhu. Konkuruje zařízením od Garminu, Magene a podobně.",
    "author": "Hlídač slev",
@@ -2157,7 +2157,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 171
+   "id": 170
   },
   {
    "source": "redakce",
@@ -2171,7 +2171,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 160
+   "id": 159
   },
   {
    "source": "redakce",
@@ -2185,7 +2185,7 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 145
+   "id": 144
   },
   {
    "source": "redakce",
@@ -2199,7 +2199,7 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 126
+   "id": 125
   },
   {
    "source": "redakce",
@@ -2213,7 +2213,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 118
+   "id": 117
   },
   {
    "source": "redakce",
@@ -2360,6 +2360,20 @@
    "id": 36
   },
   {
+   "source": "diskuze",
+   "category": "Telefony a tablety",
+   "product": "Čtečka pro eObčanku a ID karty",
+   "text": "Sleva 26 % s kupónem BF26 na USB čtečku pro ID karty a eObčanku. Cena po slevě 333 Kč, platí pro obě barevné varianty (černá | bílá).",
+   "author": "Petr Silon",
+   "date": "23. 11. 2026 12:03",
+   "discount": "-26 %; 333 Kč",
+   "url": "https://www.xtel.cz/obchod/usb-ctecka-cipovych-karet-id/",
+   "host": "xtel.cz",
+   "extra": [],
+   "expired": false,
+   "id": 2176034
+  },
+  {
    "source": "redakce",
    "category": "Telefony a tablety",
    "product": "GeForce Now",
@@ -2371,7 +2385,7 @@
    "host": "nvidia.com",
    "extra": [],
    "expired": false,
-   "id": 166
+   "id": 165
   },
   {
    "source": "redakce",
@@ -2385,7 +2399,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 165
+   "id": 164
   },
   {
    "source": "redakce",
@@ -2399,7 +2413,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 164
+   "id": 163
   },
   {
    "source": "redakce",
@@ -2419,7 +2433,7 @@
     }
    ],
    "expired": false,
-   "id": 159
+   "id": 158
   },
   {
    "source": "redakce",
@@ -2433,7 +2447,7 @@
    "host": "starlink.com",
    "extra": [],
    "expired": false,
-   "id": 156
+   "id": 155
   },
   {
    "source": "redakce",
@@ -2447,7 +2461,7 @@
    "host": "vodafone.cz",
    "extra": [],
    "expired": false,
-   "id": 150
+   "id": 149
   },
   {
    "source": "redakce",
@@ -2461,7 +2475,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 139
+   "id": 138
   },
   {
    "source": "diskuze",
@@ -2643,7 +2657,7 @@
    "product": "Aku vrtačka Parkside Performance",
    "text": "Lidl má dnes 30% slevy na všechny vrtačky, stačí si aktivovat kupón. Aku vrtačka s příklepem vyšší řady Parkside Performance je sama o sobě zlevněná o tři stovky na 1599 Kč, s kupónem vyjde na 1119 Kč . Má výkonný bezkartáčový motor a pětiletou záruku. V ceně ale není akumulátor ani nabíječka. V nabídce Lidlu jsou však i plně vybavené modely .",
    "author": "Hlídač slev",
-   "date": "23. 11. 2026 11:45",
+   "date": "22. 11. 2026 11:45",
    "discount": "-30 %; 1119 Kč",
    "url": "https://www.lidl.cz/p/parkside-performance-aku-priklepova-vrtacka-psbsap-20-li-c3-bez-akumulatoru-a-nabijecky/p100396260",
    "host": "lidl.cz",
@@ -2655,7 +2669,7 @@
     }
    ],
    "expired": false,
-   "id": 175
+   "id": 174
   },
   {
    "source": "diskuze",
@@ -2683,7 +2697,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 146
+   "id": 145
   },
   {
    "source": "redakce",
@@ -2697,7 +2711,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 129
   },
   {
    "source": "redakce",
@@ -2717,7 +2731,7 @@
     }
    ],
    "expired": false,
-   "id": 115
+   "id": 114
   },
   {
    "source": "diskuze",
@@ -2765,7 +2779,7 @@
     }
    ],
    "expired": false,
-   "id": 186
+   "id": 185
   },
   {
    "source": "redakce",
@@ -2779,7 +2793,7 @@
    "host": "kancelarska-kresla.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 177
+   "id": 176
   },
   {
    "source": "redakce",
@@ -2793,7 +2807,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 157
+   "id": 156
   },
   {
    "source": "redakce",
@@ -2813,7 +2827,7 @@
     }
    ],
    "expired": false,
-   "id": 144
+   "id": 143
   },
   {
    "source": "redakce",
@@ -2827,7 +2841,7 @@
    "host": "zubni-kartacky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 119
+   "id": 118
   },
   {
    "source": "redakce",
@@ -2945,7 +2959,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": true,
-   "id": 161
+   "id": 160
   },
   {
    "source": "redakce",
@@ -2959,7 +2973,7 @@
    "host": "sonoff.tech",
    "extra": [],
    "expired": false,
-   "id": 172
+   "id": 171
   },
   {
    "source": "redakce",
@@ -2973,7 +2987,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 158
+   "id": 157
   },
   {
    "source": "redakce",
@@ -2993,7 +3007,7 @@
     }
    ],
    "expired": false,
-   "id": 128
+   "id": 127
   },
   {
    "source": "redakce",
@@ -3177,7 +3191,7 @@
     }
    ],
    "expired": false,
-   "id": 188
+   "id": 187
   },
   {
    "source": "redakce",
@@ -3191,7 +3205,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 184
+   "id": 183
   },
   {
    "source": "redakce",
@@ -3211,7 +3225,7 @@
     }
    ],
    "expired": false,
-   "id": 151
+   "id": 150
   },
   {
    "source": "diskuze",
@@ -3239,7 +3253,7 @@
    "host": "folivora.ai",
    "extra": [],
    "expired": false,
-   "id": 189
+   "id": 188
   },
   {
    "source": "redakce",
@@ -3247,7 +3261,7 @@
    "product": "Proton VPN a ExpressVPN",
    "text": "V akci stále zůstává Proton VPN . Dvouletý tarif zlevnil o 75 % a stojí 60 eur (2,50 eura měsíčně) . V 50% slevě je také nejvyšší předplatné Proton Unlimited za 78 eur na rok (6,50 eura měsíčně). Ten má navíc i šifrovaný e-mail, kancelářskou aplikaci, správce hesel a 500GB cloudový disk.\n\nAlternativa ExpressVPN nabízí až 80% slevy na dvouleté předplatné. Tarif Basic s čtyřměsíčním bonusem vyjde na 84 dolarů (1850 Kč), v přepočtu tedy 66 Kč na měsíc a k tomu DPH. Připlatit se dá za extra služby jako pevnou IP adresu, správce hesel, eSIM apod. ExpressVPN má servery ve více než 100 zemí světa a no-log politiku.",
    "author": "Hlídač slev",
-   "date": "23. 11. 2026 11:45",
+   "date": "22. 11. 2026 11:45",
    "discount": "-50 %; -80 %; -75 %; 60 eur (2,50 eura měsíčně)",
    "url": "https://go.getproton.me/aff_c?offer_id=25",
    "host": "go.getproton.me",
@@ -3259,7 +3273,7 @@
     }
    ],
    "expired": false,
-   "id": 181
+   "id": 180
   },
   {
    "source": "redakce",
@@ -3315,7 +3329,7 @@
    "host": "kancelarske-aplikace.heureka.cz",
    "extra": [],
    "expired": true,
-   "id": 167
+   "id": 166
   },
   {
    "source": "redakce",
@@ -3329,7 +3343,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 168
+   "id": 167
   },
   {
    "source": "redakce",
@@ -3343,7 +3357,7 @@
    "host": "trezor.io",
    "extra": [],
    "expired": false,
-   "id": 162
+   "id": 161
   },
   {
    "source": "redakce",
@@ -3368,7 +3382,7 @@
     }
    ],
    "expired": false,
-   "id": 142
+   "id": 141
   },
   {
    "source": "diskuze",
@@ -3407,7 +3421,7 @@
     }
    ],
    "expired": false,
-   "id": 127
+   "id": 126
   },
   {
    "source": "diskuze",

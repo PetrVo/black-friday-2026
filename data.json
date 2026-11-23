@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T03:54:21.627Z",
+ "updated": "2026-11-23T06:56:28.998Z",
  "comments": 342,
- "tips": 184,
+ "tips": 185,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -636,6 +636,34 @@
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
+   "product": "Levný notebook do kanceláře",
+   "text": "V Datartu koupíte Asus Vivobook 15 X1504MA za 12 990 Kč . Za původních 22 tisíc nedával smysl, teď už se o něm dá uvažovat. Má 15\" IPS displej s rozlišením 1920 × 1080 px, šestijádrový Intel Core 5 315, 16 GB RAM a 512GB SSD. Nechybí podsvícená klávesnice s numerickým blokem, v ceně je překvapivě i Windows 11 Home. Tělo je ale pochopitelně jen plastové a displej patří k těm nejslabším, které dnes výrobci používají. Má tedy nízký jas (250 nitů) a slabé barevné podání (45% NTSC). V nenáročné kanceláři ale ostudu neudělá.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 7:45",
+   "discount": "12 990 Kč",
+   "url": "https://www.datart.cz/notebook-asus-vivobook-15-x1504ma-bq950w-stribrny",
+   "host": "datart.cz",
+   "extra": [],
+   "expired": false,
+   "id": 185
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Google AI Plus a Pro",
+   "text": "Google nabízí slevu na dva nejnižší tarify AI. Akce platí pro měsíční předplatná, kde však sleva trvá jen tři měsíce, ale i roční. Roční Google AI Plus vyjde na 1120 Kč (místo 1499 Kč) a Google AI Pro na 4150 Kč (místo 5500 Kč). První obsahuje 400GB cloudové úložiště a Gemini s méně limity. Vyšší pak zpřístupňuje 5TB cloud, lepší AI modely a agentickou aplikaci Antigravity pro kódování a ovládání počítače, jako to umí i Codex nebo Claude Code.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 7:45",
+   "discount": "1120 Kč; 1499 Kč; 4150 Kč; 5500 Kč",
+   "url": "",
+   "host": "",
+   "extra": [],
+   "expired": false,
+   "id": 179
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
    "product": "Nejlevnější použitelný notebook",
    "text": "Asus Vivobook 14 prodává Mall jen za 6850 Kč . Notebook má 14\" displej s rozlišením 1920 × 1200 px, šestijádrový Ryzen 5 150, 8 GB RAM, 512GB SSD, dostatek konektorů, Wi-Fi 6, podsvícenou klávesnici i čtečku otisků. Je však bez licence na Windows 11. Za tuto cenu nekoupíte lépe vybavený nový notebook. Paměť může být limitem, ale lze ji rozšířit. Linuxu však stačit bude a takový stroj může bez problémů sloužit i jako domácí server, který díky akumulátoru bude fungovat i při výpadku elektřiny.",
    "author": "Hlídač slev",
@@ -646,20 +674,6 @@
    "extra": [],
    "expired": false,
    "id": 182
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Google AI Plus a Pro",
-   "text": "Google nabízí slevu na dva nejnižší tarify AI. Akce platí pro měsíční předplatná, kde však sleva trvá jen tři měsíce, ale i roční. Roční Google AI Plus vyjde na 1120 Kč (místo 1499 Kč) a Google AI Pro na 4150 Kč (místo 5500 Kč). První obsahuje 400GB cloudové úložiště a Gemini s méně limity. Vyšší pak zpřístupňuje 5TB cloud, lepší AI modely a agentickou aplikaci Antigravity pro kódování a ovládání počítače, jako to umí i Codex nebo Claude Code.",
-   "author": "Hlídač slev",
-   "date": "22. 11. 2026 7:45",
-   "discount": "1120 Kč; 1499 Kč; 4150 Kč; 5500 Kč",
-   "url": "",
-   "host": "",
-   "extra": [],
-   "expired": false,
-   "id": 179
   },
   {
    "source": "redakce",
@@ -2056,6 +2070,26 @@
    "id": 20
   },
   {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Garmin Fénix 8",
+   "text": "Amazon prodává hodinky Garmin Fénix 8 (47mm verzi) v suverénně nejlepší akci za 12 427 Kč . V Česku jsou ceny také dobré, na Pulsmetry tyto hodinky koupíte za 14 990 Kč . Ještě loni všude stály minimálně dvacet tisíc. Jde o nejuniverzálnější hodinky Garminu pro všechny druhy sportů a turistiky. Díky zdravotním funkcím, volání, bezkontaktnímu placení nebo integrované svítilně ale pomohou i v běžném životě.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 7:45",
+   "discount": "12 427 Kč; 14 990 Kč",
+   "url": "https://www.amazon.de/dp/B0DC6ZD31R?th=1&linkCode=ll2&tag=zivecz-21&linkId=01d743802fd13e47b34361e490979e1d&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [
+    {
+     "url": "https://chytre-hodinky.heureka.cz/garmin-fenix-8-amoled-47mm-sapphire-carbon-gray-titanium-black-010-02904-21/",
+     "host": "chytre-hodinky.heureka.cz",
+     "label": "14 990 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 173
+  },
+  {
    "source": "diskuze",
    "category": "Chytré hodinky a fitness",
    "product": "Google AI Pro a Ultra",
@@ -2082,26 +2116,6 @@
    "extra": [],
    "expired": false,
    "id": 180
-  },
-  {
-   "source": "redakce",
-   "category": "Chytré hodinky a fitness",
-   "product": "Garmin Fénix 8",
-   "text": "Amazon prodává hodinky Garmin Fénix 8 (47mm verzi) v suverénně nejlepší akci za 12 427 Kč . V Česku jsou ceny také dobré, na Pulsmetry tyto hodinky koupíte za 14 990 Kč . Ještě loni všude stály minimálně dvacet tisíc. Jde o nejuniverzálnější hodinky Garminu pro všechny druhy sportů a turistiky. Díky zdravotním funkcím, volání, bezkontaktnímu placení nebo integrované svítilně ale pomohou i v běžném životě.",
-   "author": "Hlídač slev",
-   "date": "22. 11. 2026 7:45",
-   "discount": "12 427 Kč; 14 990 Kč",
-   "url": "https://www.amazon.de/dp/B0DC6ZD31R?th=1&linkCode=ll2&tag=zivecz-21&linkId=01d743802fd13e47b34361e490979e1d&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
-   "host": "amazon.de",
-   "extra": [
-    {
-     "url": "https://chytre-hodinky.heureka.cz/garmin-fenix-8-amoled-47mm-sapphire-carbon-gray-titanium-black-010-02904-21/",
-     "host": "chytre-hodinky.heureka.cz",
-     "label": "14 990 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 173
   },
   {
    "source": "redakce",

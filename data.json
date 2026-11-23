@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T11:57:23.474Z",
- "comments": 352,
- "tips": 189,
+ "updated": "2026-11-23T12:57:28.780Z",
+ "comments": 357,
+ "tips": 190,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2650,6 +2650,20 @@
    "extra": [],
    "expired": false,
    "id": 2
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Aku fukar z Lidlu",
+   "text": "Lidl tento týden nabízí malý aku fukar Parkside . Je zlevněný o stovku na 500 Kč . Měl by být dostupný i v e-shopu, ale zatím není skladem. V prodeji ale také bude v kamenných obchodech. Zařízení fouká i vysává. Hodí se pro čištění počítače, dílny nebo v autě. Nabízí integrovaný akumulátor, nabíjí se přes USB-C a vydrží až 30 minut. Má tři rychlostní stupně.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 13:45",
+   "discount": "500 Kč",
+   "url": "https://www.lidl.cz/p/parkside-aku-univerzalni-maly-fukar-paukgb-a1/p100413868",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 190
   },
   {
    "source": "redakce",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T14:57:38.801Z",
- "comments": 358,
- "tips": 192,
+ "updated": "2026-11-23T15:57:43.176Z",
+ "comments": 361,
+ "tips": 193,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2403,6 +2403,20 @@
    ],
    "expired": false,
    "id": 36
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "Google AI",
+   "text": "Google až do 26. listopadu nabízí 50% slevu na roční předplatné tarifů AI Plus a AI Pro . Vyjdou tak na 750 Kč a 2750 Kč . Obsahují velké cloudové úložiště, větší objem AI funkcí a další vychytávky. Více se této akci věnujeme ve zvláštním článku.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 16:45",
+   "discount": "-50 %; 750 Kč a 2750 Kč",
+   "url": "",
+   "host": "",
+   "extra": [],
+   "expired": false,
+   "id": 193
   },
   {
    "source": "diskuze",

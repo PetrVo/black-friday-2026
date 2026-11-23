@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T08:57:05.600Z",
- "comments": 343,
- "tips": 187,
+ "updated": "2026-11-23T09:57:11.886Z",
+ "comments": 349,
+ "tips": 188,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1558,6 +1558,20 @@
    "extra": [],
    "expired": true,
    "id": 108
+  },
+  {
+   "source": "diskuze",
+   "category": "TV a audio",
+   "product": "www.av-connection.com JBL repro, Elipson repro, príjemné zľavy ak by…",
+   "text": "www.av-connection.com JBL repro, Elipson repro, príjemné zľavy ak by chcel niekto retro repráky cca 20% off.",
+   "author": "Peter Veľký (PeterAI)",
+   "date": "23. 11. 2026 10:00",
+   "discount": "-20 %",
+   "url": "https://www.av-connection.com/?CPage=BlackFriday#SECID_1",
+   "host": "av-connection.com",
+   "extra": [],
+   "expired": false,
+   "id": 2176015
   },
   {
    "source": "redakce",
@@ -3139,6 +3153,31 @@
    "extra": [],
    "expired": true,
    "id": 88
+  },
+  {
+   "source": "redakce",
+   "category": "Oblečení, sport a batohy",
+   "product": "Výkonná elektrokola",
+   "text": "Podzim je ideální období k nákupu kol nebo elektrokol obecně. Možná se na něm pár měsíců nesvezete, ale slevy opravdu stojí za to: 40 %, v zahraničí klidně více než 50 %. Model, který v sezóně stál více než sto tisíc a byl naprosto nedostupný, je najednou za šedesát a už se o něm dá uvažovat.\n\nProdejci to rádi prezentují jako Black Friday, ale ve skutečnosti jde o výprodej skladů před další sezónou. Zbývají poslední kusy a chybí velikosti, takže to bude chtít důkladnější průzkum trhu, ale dají se najít perly. Příklad? Moustache Samedi 27 WIDE 3 , nádherné elektrokolo určené do těžkého terénu za 64 990 Kč , o 41 % levněji než v létě. Extrémním případem na stejném e-shopu je městský křižník VAAST E – v sezóně stál 130 tisíc, dnes je o 65 % níž za 45 990 Kč .",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 10:45",
+   "discount": "64 990 Kč; 45 990 Kč",
+   "url": "https://www.onemove.store/cs/moustache-samedi-27-wide-3-petrol-blue/",
+   "host": "onemove.store",
+   "extra": [
+    {
+     "url": "https://www.onemove.store/cs/vaast-e-1-xt-slx-27-5-nostalgic-sea-blue-ocean-frost-m/",
+     "host": "onemove.store",
+     "label": "45 990 Kč"
+    },
+    {
+     "url": "https://1291668043.rsc.cdn77.org/getthumbnail.aspx?q=70&height=1200&width=2400&id_file=507465624",
+     "host": "1291668043.rsc.cdn77.org",
+     "label": "Moustache Samedi 27 WIDE 3 Petrol Blue"
+    }
+   ],
+   "expired": false,
+   "id": 188
   },
   {
    "source": "redakce",

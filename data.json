@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T06:56:28.998Z",
- "comments": 342,
- "tips": 185,
+ "updated": "2026-11-23T07:56:57.824Z",
+ "comments": 343,
+ "tips": 186,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2718,6 +2718,26 @@
    "extra": [],
    "expired": false,
    "id": 2174695
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
+   "product": "Robotický vysavač Dreame",
+   "text": "Amazon nabízí jeden z nejlepších robotických vysavačů/mopů Dreame X50 Ultra Complete jen za 14 170 Kč . V Česku stojí nejméně 15 tisíc základní verze a 17 tisíc pak plně vybavená Complete s veškerým příslušenstvím. X50 má vysoký sací výkon, přejede na 6cm prahy, perfektně se naviguje v domácnosti a pochopitelně má čisticí stanici, kde vysype smetí, vymění vodu a vypere mop. Amazon má v akci i další modely Dreame.",
+   "author": "Hlídač slev",
+   "date": "23. 11. 2026 8:45",
+   "discount": "14 170 Kč",
+   "url": "https://www.amazon.de/dp/B0DPB7RN2L?tag=zivecz-21&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [
+    {
+     "url": "https://www.amazon.de/stores/page/6324C48C-40A8-4863-9AB4-76067FC10887?ingress=2&lp_context_asin=B0H2FPG8NY&visitId=251c54c5-c65c-4cbf-af0e-55432a7727a7&store_ref=bl_ast_dp_brandlogo_sto&tag=zivecz-21&creatorsDisableRedirect=true",
+     "host": "amazon.de",
+     "label": "Amazon má v akci"
+    }
+   ],
+   "expired": false,
+   "id": 186
   },
   {
    "source": "redakce",

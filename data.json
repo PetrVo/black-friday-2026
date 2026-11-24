@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T15:59:27.971Z",
+ "updated": "2026-11-24T16:59:32.917Z",
  "comments": 378,
- "tips": 200,
+ "tips": 201,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2225,6 +2225,36 @@
    ],
    "expired": false,
    "id": 66
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Garmin Instinct 3",
+   "text": "Sportovní hodinky Garmin Instinct 3 (50 mm, MIP+Solar) zlevnily v T.S.Bohemii na 6990 Kč , v Alze stojí 6999 Kč , jinde jsou za původních osm tisíc. Mají odolné pouzdro, vestavěnou svítilnu, vícepásmovou GPS a úsporný transflektivní displej, díky němuž vydrží až 40 dní provozu a na slunci se navíc průběžně dobíjejí. Oproti dražším modelům Garminu ale chybí mapové podklady i dotyková obrazovka.\n\nV akci jsou ale také Garmin Instinct 3 (50 mm, Amoled) , iSpace si řekne o 6699 Kč , v Alze, Datartu a Planeu jsou za 6999 Kč. Na Amazonu zaplatíte jen 6465 Kč . Mají nižší výdrž (24 dní), ale zato jasný displej s pěknými barvami.",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 17:45",
+   "discount": "6990 Kč; 6999 Kč; 6699 Kč; 6465 Kč",
+   "url": "https://chytre-hodinky.heureka.cz/garmin-instinct-3-50mm-solar-black-charcoal-band-010-02935-00/",
+   "host": "chytre-hodinky.heureka.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/garmin-instinct-3-50mm-solar-black-charcoal-d13613588.htm",
+     "host": "alza.cz",
+     "label": "6999 Kč"
+    },
+    {
+     "url": "https://chytre-hodinky.heureka.cz/garmin-instinct-3-50mm-amoled-black-charcoal-band-010-03020-00/",
+     "host": "chytre-hodinky.heureka.cz",
+     "label": "6699 Kč"
+    },
+    {
+     "url": "https://www.amazon.de/dp/B0DSC8GLRX?tag=zivecz-21&creatorsDisableRedirect=true",
+     "host": "amazon.de",
+     "label": "6465 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 201
   },
   {
    "source": "diskuze",

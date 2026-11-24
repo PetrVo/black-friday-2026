@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T11:59:01.170Z",
+ "updated": "2026-11-24T12:59:06.914Z",
  "comments": 376,
- "tips": 196,
+ "tips": 197,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1112,6 +1112,20 @@
    "extra": [],
    "expired": true,
    "id": 176
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "4TB externí SSD za polovic",
+   "text": "Na Amazonu koupíte SanDisk Extreme Portable SSD s kapacitou 4 TB za 9924 Kč . Jde o suverénně nejlevnější takto velké externí SSD. Za tento model byste v Česku zaplatili skoro dvojnásobek a podobně stojí i konkurenční modely. Tento SanDisk slibuje odolnost proti nárazům, vodě i prachu. Je na něj pětiletá záruka a slibuje rychlost 1 GB/s při sekvenčním čtení i zápisu.",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 13:45",
+   "discount": "9924 Kč",
+   "url": "https://www.amazon.de/dp/B0C59FBGG1?tag=zivecz-21&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 197
   },
   {
    "source": "redakce",

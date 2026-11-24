@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T12:59:06.914Z",
- "comments": 376,
- "tips": 197,
+ "updated": "2026-11-24T13:59:18.903Z",
+ "comments": 377,
+ "tips": 198,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -708,6 +708,20 @@
    "extra": [],
    "expired": true,
    "id": 98
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Levná PC skříň s ARGB ventilátory",
+   "text": "Počítačová skříň Montech Air 100 ARGB zlevnila v Alze o 23 % na 1049 Kč . Jde o model formátu Mini Tower určený pro základní desky mATX a mITX. Láká na výklopnou bočnici z temperovaného skla bez vrtaných otvorů, prodyšné čelo a rovnou čtveřici předinstalovaných 120mm ARGB ventilátorů včetně řadiče podsvícení.\n\nDovnitř se vejdou grafické karty o délce až 330 mm a chladič procesoru vysoký 161 mm. Vzhledem k ceně je však nutné počítat s tenčími plechy, vylamovacími záslepkami PCIe slotů a hlučnějšími větráky. Jako základ pro levnou herní sestavu ale skříň nabízí velmi dobrý poměr ceny a výbavy.",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 14:45",
+   "discount": "1049 Kč",
+   "url": "https://www.alza.cz/montech-air-100-argb-black-d7760958.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 198
   },
   {
    "source": "redakce",

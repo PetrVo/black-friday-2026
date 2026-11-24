@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T14:59:23.559Z",
+ "updated": "2026-11-24T15:59:27.971Z",
  "comments": 378,
- "tips": 199,
+ "tips": 200,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -3282,6 +3282,20 @@
    ],
    "expired": false,
    "id": 8
+  },
+  {
+   "source": "redakce",
+   "category": "Baterie a nabíjení",
+   "product": "Nabíjecí tužkovky s USB-C",
+   "text": "Balení čtyř nabíjecích AA akumulátorů Xtar zlevnilo na Knifestocku o třetinu na 454 Kč . Jde o moderní lithiové tužkovky s napětím 1,5 V a kapacitou 3000 mAh, díky čemuž spolehlivě fungují i v zařízeních citlivých na nižší napětí klasických NiMH článků. Velkou výhodou je integrovaný port USB-C přímo na těle každé baterie, takže k jejich dobití nepotřebujete speciální nabíječku a vystačíte si s běžným kabelem. V ceně je i kabel schopný nabít všechny čtyři baterie.",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 16:45",
+   "discount": "cca -33 %; 454 Kč",
+   "url": "https://www.knifestock.cz/xtar-aa-1-5v-usb-c-lr-3000mah-4pcs-aa-1-5v-usb-c-3000mah-batteries-p226317",
+   "host": "knifestock.cz",
+   "extra": [],
+   "expired": false,
+   "id": 200
   },
   {
    "source": "redakce",

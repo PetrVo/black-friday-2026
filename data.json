@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T08:58:45.121Z",
- "comments": 369,
- "tips": 193,
+ "updated": "2026-11-24T09:58:51.225Z",
+ "comments": 373,
+ "tips": 194,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -3212,6 +3212,20 @@
    ],
    "expired": false,
    "id": 8
+  },
+  {
+   "source": "redakce",
+   "category": "Baterie a nabíjení",
+   "product": "Baterie za korunu",
+   "text": "Datart nabízí balení pěti knoflíkových baterií Tesla typu CR2025 za 5 Kč . Možná jde o chybu, protože 95% sleva by byla nevídaná, původní cena je 119 Kč. Tyto baterie se používají v některých hodinkách, kalkulačkách, váhách, dálkových ovládačích, různých senzorech a podobně.",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 10:45",
+   "discount": "-95 %; 5 Kč",
+   "url": "https://www.datart.cz/baterie-lithiova-tesla-cr2025-5-ks-1099137110",
+   "host": "datart.cz",
+   "extra": [],
+   "expired": false,
+   "id": 194
   },
   {
    "source": "diskuze",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T07:58:39.423Z",
- "comments": 367,
- "tips": 192,
+ "updated": "2026-11-24T08:58:45.121Z",
+ "comments": 369,
+ "tips": 193,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -416,6 +416,20 @@
    "extra": [],
    "expired": true,
    "id": 76
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Krimpovací kleště",
+   "text": "Lidl nabízí krimpovací kleště Parkside s 54% slevou za 230 Kč , hodit se budou všem elektrokutilům. Jde o automatické lisovací kleště určené k zakončování vodičů izolovanými dutinkami podle normy DIN 46228. Automaticky se přizpůsobují průřezu kabelu od 0,25 do 10 mm² a pomocí čtyřhranného krimpování vytvářejí pevné elektrické spoje. Součástí balení je také 1800 dutinek v osmi různých velikostech a praktický organizér.",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 9:45",
+   "discount": "-54 %; 230 Kč",
+   "url": "https://www.lidl.cz/p/parkside-krimpovaci-kleste-pcza-1801-b1/p100385875",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 193
   },
   {
    "source": "redakce",
@@ -3389,6 +3403,20 @@
    "extra": [],
    "expired": true,
    "id": 161
+  },
+  {
+   "source": "diskuze",
+   "category": "Ostatní",
+   "product": "Axagon cre smpa smart card id card pocketreader usb a",
+   "text": "Jsou i levnější bez jakékoliv slevy",
+   "author": "Antonín Novák (xtonda)",
+   "date": "24. 11. 2026 9:34",
+   "discount": "",
+   "url": "https://www.alza.cz/axagon-cre-smpa-smart-card-id-card-pocketreader-usb-a-d7935293.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 2176210
   },
   {
    "source": "diskuze",

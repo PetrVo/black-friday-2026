@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T05:58:28.757Z",
- "comments": 366,
+ "updated": "2026-11-24T06:58:34.235Z",
+ "comments": 367,
  "tips": 190,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
@@ -670,6 +670,20 @@
   {
    "source": "redakce",
    "category": "Počítače a notebooky",
+   "product": "Levný notebook do kanceláře",
+   "text": "V Datartu koupíte Asus Vivobook 15 X1504MA za 12 990 Kč . Za původních 22 tisíc nedával smysl, teď už se o něm dá uvažovat. Má 15\" IPS displej s rozlišením 1920 × 1080 px, šestijádrový Intel Core 5 315, 16 GB RAM a 512GB SSD. Nechybí podsvícená klávesnice s numerickým blokem, v ceně je překvapivě i Windows 11 Home. Tělo je ale pochopitelně jen plastové a displej patří k těm nejslabším, které dnes výrobci používají. Má tedy nízký jas (250 nitů) a slabé barevné podání (45% NTSC). V nenáročné kanceláři ale ostudu neudělá.",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 7:45",
+   "discount": "12 990 Kč",
+   "url": "https://www.datart.cz/notebook-asus-vivobook-15-x1504ma-bq950w-stribrny",
+   "host": "datart.cz",
+   "extra": [],
+   "expired": false,
+   "id": 179
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
    "product": "MacBook Neo",
    "text": "Nejlevnější počítač ve své nabídce Apple prodává za 20 tisíc, ale některé české e-shopy jej nabízejí mnohem výhodněji. Alza znovu naskladnila žlutou variantu za 16 140 Kč . Za 16 140 Kč jej prodává také Mall. Jde o základní variantu s 8GB pamětí a 256GB SSD, která postrádá čtečku otisků. Studentům bude stačit, v nenáročné kanceláři se rovněž neztratí.\n\nMall má také nejlevněji ze všech 512GB variantu se čtečkou otisků. Žlutá verze je za 17 630 Kč . Jinde stojí minimálně 19 tisíc, Apple chce 23 tisíc.",
    "author": "Hlídač slev",
@@ -691,20 +705,6 @@
    ],
    "expired": false,
    "id": 186
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Levný notebook do kanceláře",
-   "text": "V Datartu koupíte Asus Vivobook 15 X1504MA za 12 990 Kč . Za původních 22 tisíc nedával smysl, teď už se o něm dá uvažovat. Má 15\" IPS displej s rozlišením 1920 × 1080 px, šestijádrový Intel Core 5 315, 16 GB RAM a 512GB SSD. Nechybí podsvícená klávesnice s numerickým blokem, v ceně je překvapivě i Windows 11 Home. Tělo je ale pochopitelně jen plastové a displej patří k těm nejslabším, které dnes výrobci používají. Má tedy nízký jas (250 nitů) a slabé barevné podání (45% NTSC). V nenáročné kanceláři ale ostudu neudělá.",
-   "author": "Hlídač slev",
-   "date": "23. 11. 2026 7:45",
-   "discount": "12 990 Kč",
-   "url": "https://www.datart.cz/notebook-asus-vivobook-15-x1504ma-bq950w-stribrny",
-   "host": "datart.cz",
-   "extra": [],
-   "expired": false,
-   "id": 179
   },
   {
    "source": "redakce",

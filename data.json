@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T13:59:18.903Z",
- "comments": 377,
- "tips": 198,
+ "updated": "2026-11-24T14:59:23.559Z",
+ "comments": 378,
+ "tips": 199,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1673,6 +1673,20 @@
    "extra": [],
    "expired": true,
    "id": 106
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Sluchátka s obří výdrží Marshall Major V",
+   "text": "Oblíbená sluchátka Marshall Major V plošně zlevnila na 1990 Kč (z původních 2691 Kč, při uvedení stála bezmála čtyři tisíce). Tahákem páté generace je přes 100 hodin výdrže na nabití, podpora bezdrátového nabíjení a komfortní nošení. Nechybí skládací konstrukce, ovládací joystick, Bluetooth LE Audio ani možnost připojení kabelem přes 3,5mm jack. Počítejte však s tím, že sluchátka postrádají aktivní potlačení hluku (ANC).",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 15:45",
+   "discount": "1990 Kč",
+   "url": "https://sluchatka.heureka.cz/marshall-major-v/",
+   "host": "sluchatka.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 199
   },
   {
    "source": "redakce",

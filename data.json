@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T10:58:56.368Z",
- "comments": 375,
- "tips": 195,
+ "updated": "2026-11-24T11:59:01.170Z",
+ "comments": 376,
+ "tips": 196,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -1645,6 +1645,20 @@
    "extra": [],
    "expired": true,
    "id": 106
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Bezdrátová sluchátka CMF",
+   "text": "Bezdrátová sluchátka CMF Headphone Pro U nás stojí přes dva tisíce, ale na Amazonu za ně zaplatíte 1248 Kč . Mají hezký design, podporují kodeky AAC, SBC a také kvalitní LDAC. Nabízejí Bluetooth Multipoint i rychlé párování Google Fast Pair a Microsoft Swift Pair. A je možné je připojit také přes 3,5mm jack.\n\nNa jedno nabití vydrží až 50 hodin s ANC, případně dvojnásobek bez aktivního potlačení hluku. Podporují přitom rychlonabíjení přes USB-C. Zvuk je podle recenzí velmi dobrý, obzvlášť na sluchátka za zhruba tisíc korun. Nečekejte ale kvalitu jako u mnohonásobně dražších Sony, Sennheiser nebo Bose.",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 12:45",
+   "discount": "1248 Kč",
+   "url": "https://www.amazon.de/dp/B0FLKC5JN4?tag=zivecz-21&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 196
   },
   {
    "source": "redakce",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-25T01:09:34.931Z",
+ "updated": "2026-11-25T07:19:09.519Z",
  "comments": 381,
- "tips": 194,
+ "tips": 195,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -694,6 +694,20 @@
    "extra": [],
    "expired": true,
    "id": 96
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Radeon RX 9060 XT",
+   "text": "Ceny grafických karet vystřelily nesmyslně vysoko, takže i low-endový Radeon RX 9600 XT stojí běžně okolo patnácti tisíc, byť před rokem byl za polovinu. Smarty ale dnes nabízí v akci model Gigabyte Gaming OC za 10 990 Kč . To je suverénně nejnižší nabídka na českém trhu.",
+   "author": "Hlídač slev",
+   "date": "25. 11. 2026 7:45",
+   "discount": "10 990 Kč",
+   "url": "https://www.smarty.cz/GIGABYTE-AMD-Radeon-RX-9060-XT-GAMING-OC-8GB-GDDR6-4p229047",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": false,
+   "id": 195
   },
   {
    "source": "redakce",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-25T07:19:09.519Z",
+ "updated": "2026-11-25T08:19:15.297Z",
  "comments": 381,
- "tips": 195,
+ "tips": 196,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -2731,6 +2731,20 @@
    "extra": [],
    "expired": false,
    "id": 1
+  },
+  {
+   "source": "redakce",
+   "category": "Nářadí a dílna",
+   "product": "Laserový měřič Parkside",
+   "text": "Lidl má dnes akci laserový měřič vzdálenost Parkside PLEM 50 D5 za 300 Kč místo původních 450 Kč. K tomu si můžete jako kupón aktivovat dopravu zdarma. Jde o kompaktní interiérový měřák s deklarovaným rozsahem 0,05 až 50 metrů a přesností ± 1,5 mm. Kromě prostého měření délky zvládne spočítat plochu, objem i nepřímou délku přes Pythagorovu větu, nabídne průběžné měření, sčítání hodnot nebo paměť na 100 záznamů. Na těle má i vodováhy.",
+   "author": "Hlídač slev",
+   "date": "25. 11. 2026 8:45",
+   "discount": "300 Kč",
+   "url": "https://www.lidl.cz/p/parkside-laserovy-meric-vzdalenosti-plem-50-d5/p100397781",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 196
   },
   {
    "source": "redakce",

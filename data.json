@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-25T08:19:15.297Z",
+ "updated": "2026-11-25T09:19:20.252Z",
  "comments": 381,
- "tips": 196,
+ "tips": 197,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
@@ -402,6 +402,20 @@
    "extra": [],
    "expired": true,
    "id": 75
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Legendární Dremel",
+   "text": "Akumulátorová přímá bruska Dremel 8250 se na německém Amazonu (s doručením do Česka zdarma) prodává 3959 Kč , v Česku nejde pod pět tisíc. Brusku pohání bezuhlíkový motor, nabízí srovnatelnou sílu jako nejsilnější síťové modely značky. V balení jsou dva akumulátory, nabíječka a kufřík plný příslušenství pro přesné řezání, broušení, frézování i gravírování.",
+   "author": "Hlídač slev",
+   "date": "25. 11. 2026 9:45",
+   "discount": "3959 Kč",
+   "url": "https://www.amazon.de/dp/B0F1DKQ351?tag=zivecz-21&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 197
   },
   {
    "source": "redakce",

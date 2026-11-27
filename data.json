@@ -1,16 +1,30 @@
 {
- "updated": "2026-11-27T07:26:06.511Z",
+ "updated": "2026-11-27T10:46:03.642Z",
  "comments": 382,
- "tips": 214,
+ "tips": 226,
  "sources": {
   "redakce": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx",
   "diskuze": "https://www.zive.cz/clanky/black-friday-2026/sc-3-a-244154/default.aspx?showforum=1"
  },
  "fetched": {
-  "redakce": "2026-11-27T07:26:05.707Z",
+  "redakce": "2026-11-27T10:46:02.802Z",
   "diskuze": "2026-11-26T07:34:07.971Z"
  },
  "deals": [
+  {
+   "source": "redakce",
+   "category": "Herní konzole a hry",
+   "product": "Sony DualSense",
+   "text": "V Česku plošně zlevnil ovladač Sony DualSense , který se používá pro PlayStation 5, ale je možné jej využít také s počítačem nebo mobilem. Po několika vlnách zdražení aktuálně standardně stojí 1699 Kč. Ale v Alze je momentálně za 1499 Kč . Stejně stojí i jinde, avšak v Alze je k dispozici za tuto cenu 10 různých barevných variant.",
+   "author": "Hlídač slev",
+   "date": "26. 11. 2026 15:45",
+   "discount": "1499 Kč",
+   "url": "https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-d5822746.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 212
+  },
   {
    "source": "redakce",
    "category": "Herní konzole a hry",
@@ -29,7 +43,7 @@
     }
    ],
    "expired": false,
-   "id": 180
+   "id": 174
   },
   {
    "source": "redakce",
@@ -43,7 +57,7 @@
    "host": "playstation.com",
    "extra": [],
    "expired": false,
-   "id": 169
+   "id": 165
   },
   {
    "source": "redakce",
@@ -63,7 +77,7 @@
     }
    ],
    "expired": false,
-   "id": 134
+   "id": 130
   },
   {
    "source": "redakce",
@@ -77,7 +91,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 105
+   "id": 101
   },
   {
    "source": "redakce",
@@ -91,7 +105,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 84
+   "id": 82
   },
   {
    "source": "redakce",
@@ -105,7 +119,7 @@
    "host": "humblebundle.com",
    "extra": [],
    "expired": false,
-   "id": 67
+   "id": 65
   },
   {
    "source": "redakce",
@@ -119,7 +133,7 @@
    "host": "monitory.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 206
+   "id": 199
   },
   {
    "source": "redakce",
@@ -133,7 +147,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 136
+   "id": 132
   },
   {
    "source": "redakce",
@@ -147,7 +161,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 123
+   "id": 119
   },
   {
    "source": "redakce",
@@ -161,7 +175,7 @@
    "host": "planeo.cz",
    "extra": [],
    "expired": false,
-   "id": 116
+   "id": 112
   },
   {
    "source": "redakce",
@@ -175,7 +189,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 113
+   "id": 109
   },
   {
    "source": "redakce",
@@ -189,7 +203,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 103
+   "id": 99
   },
   {
    "source": "diskuze",
@@ -217,7 +231,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 85
+   "id": 83
+  },
+  {
+   "source": "redakce",
+   "category": "Monitory",
+   "product": "Rychlý QHD monitor",
+   "text": "Monitor MSI MAG 275CQDF X24 zlevnil v Alze ze čtyř tisíc na 2990 Kč , což z něj činí nejdostupnější model s úhlopříčkou 27\", rozlišením 2560 × 1440 px a frekvencí 240 Hz. Používá prohnutou obrazovku typu VA, láká na rychlou odezvu, dobré barvy a vysoký kontrast. Cílí primárně na hráče.",
+   "author": "Hlídač slev",
+   "date": "9. 11. 2026 10:45",
+   "discount": "2990 Kč",
+   "url": "https://www.alza.cz/27-msi-mag-275cqdf-x24-d13411336.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 79
   },
   {
    "source": "redakce",
@@ -231,7 +259,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 73
+   "id": 71
   },
   {
    "source": "redakce",
@@ -251,7 +279,7 @@
     }
    ],
    "expired": false,
-   "id": 59
+   "id": 57
   },
   {
    "source": "redakce",
@@ -265,7 +293,7 @@
    "host": "asome.cz",
    "extra": [],
    "expired": false,
-   "id": 57
+   "id": 55
   },
   {
    "source": "diskuze",
@@ -305,15 +333,9 @@
    "discount": "6990 Kč",
    "url": "https://monitory.heureka.cz/samsung-odyssey-oled-g5-s27fg500su/",
    "host": "monitory.heureka.cz",
-   "extra": [
-    {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=a49c42a97be032f027a2d072ccd646120c9486931e06784dce5bae43c13bcddaf530a938fb90df8affad8e10f822446b215339ce667d3ffa3e4beffcc5c74a6cf2665fbe670219cc5fb00d897d8f97c948fc6b12e8d05ff463531511e9a70214663e7366919ba92da654d51529e93ffd8320ab9c1ad12a7ac161553682c2447444d99a046042c9ee2edd66f26ee32d9c1b148a05000d6979e0bc9bdfef7971f421c07a8357fe748a0d88ac1442ba2c999991e4fc69399dc975851d0dc8109c5ab856c02ebc7c0be91e925fe35157a8d305d57cfeef3f52e6b54ccab01f1f8b92da961a2bd412785d67ee300094b1c845a7c2bd58fb217033d1d4e35acfcb5606b3e77446257f663cf5fdedfb0dc24a38d7580f98e42ac7b3742be075b655e0edff677de9fa204a3ae3cefbb6651877025c880b95f23cefef8a8650ace80ed8f5703cfccb10bc51a1cc66b03f01fbfd6a5fee1debabbd7fa1a4c3232b77665732a0a18737220e0a0530e98d03a09dcdef02dae03d28c686d1f0c408a6c4034d330831eb87afd5e7baaf463dec7cf7d16d93e176404bcad51ab99e58c6f7b7728f612d8b2937e8fbb77b8a0c6deac4c7e2ae725f369544e230430d0d7611fbb27919b7056908c84ecb4a3e057804697018a32c6489062b2eab48bb899ae3066cca6653925f77f69d03b6d7adc832c51217709d26fe675944b6efb9e78044d59c5ae288ea40d8f3f63e4316ad668c2146d5",
-     "host": "serve.affiliate.heureka.cz",
-     "label": ""
-    }
-   ],
+   "extra": [],
    "expired": false,
-   "id": 36
+   "id": 35
   },
   {
    "source": "redakce",
@@ -327,7 +349,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 28
+   "id": 27
   },
   {
    "source": "redakce",
@@ -341,13 +363,13 @@
    "host": "monitory.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=a974f159d8f151ffebaf51f11d02e7b3c1865fa4a806053ae67df693c9a0ea77dde726be7b5981b03f6dd1405d8565ecd16fa7b7c345fd5fb822e99facafddc5047b3abc5caea1350c14699b11b753d2783865b92e20b083ed34367ad46737ec99e18e9a020970f1272c0022a3ff762817aa65cd5ca0a4d733405c8ee71274d5067662761515aaa6a6333cc2530b2933d943526fc490948985f3da8db0fc2c408255c7a70b72a72e4ec54539797ea833b9e78cee2cb3997192c44334bb04ef49ffd36b3e5af2c12d573dfcad76b3973e0ba2519465fc58ba1a50e39c70ec6b3a5b5f27fd171e343c19c4027f212cb620585303d52f5cdc5af3b4af3d2493c0cdc17cef49562b4dbdd0c92c3a9f5819fbaa4a6c74e11abda23946847eb93d36344ae9a4abab1f2a4687eb11f8fc61f5daf4fc1c5668352c80ccd434f29f5870c91880828466e34c1653fa665eaaaba9962fee19fd1cb65ed233a44f900d922557abb1caaea10fcc4dcb0d5c8f081beec806e95bf3b25efd553cfe165db921822c7155930bf1ae6dd1b0a4ab1ef32d65c8cf4942bd6c124f0917f3cc1370637ff895f8cb684acffba3165a62d2850f7c6921d926792559f6edc698b3e816fc650ea7e4d5da328baa5278262bbc3c55617b277ebe815e954bc1d90e4b64b544ab0c90d228760346e1827699ac04162881c97ecb457235bee6edbefff5e316f36d73",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=c350606935a8133c1042de0ebfa12ced530ef83e12bff9ccd51f55fd270855a7a7453557a76302f7f695d21c64bd37303bf0a8a2b9fb1701b53bcbaf03f40e83651d0bf9d7649b905bbd0b722a2575904e8a63d161079e0912455a4361fe7f5aa4f8ccacec5449097bd89bc50e22e9d97bbf13f92c0e570619c72f8b91edbe894f139755f2e35a92540210ecd832085bc0c48d97137712cf978bb5ff86038c611aada0167ec52353de496871cfc3993a8c5d34aaf6a62eef7d8f8299a6efacfec254bf26cc25ffb65b2f43d1bfecf18429153d51b05258bd29e5fc342876393ed65e82919a23f975482528353c32702464f210466a528a5801c98f87b3afefb5f330732501890fa696722c4f943baaf7dfcdd984be309554baecd0f92e023b4785230646aa6d43605c9d185c2718d9215043d8f3f6313f9fb54142783d6d6f1a11c1238e0d6b8a50c95d236214bb34f769d4794c27b2b9940486bb30cbf019efcc8a60113cc8847e49bc056480d6058462062843231dcda49b122bb65e3c4142d96d706338273fc4697a977375ac3cdd3becf448a8d94f744ac3dc423357053d837fd92071cae6a522575e488728bfe196c8c5d5b6d7c172b94d79cb16f556d386fa47c809884ba317db7057ff1d5998fc87a604b2f17bda54e843d14f3724379bd266eb60c5f638793873dd26f621132e3c348b2eefcb248a15512a02be2368",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 25
+   "id": 24
   },
   {
    "source": "diskuze",
@@ -389,13 +411,13 @@
    "host": "alza.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=f2a6212f433243201cef9d4883381d9b29cd7c0e34e8c48f3882b9ab74485f67439faa08aeddb9909c6a99bbbcd191edfdbdc18567d6de275657925d8ea090ddb61b7c84b07e7bb4944f549133c6f5ea8e918064ce0f864435b1d49e24cd12a9aaf5f7cbed3a8177674eeeb369383d8832fc2bceeec7fa0ea72a44df206bccab6b4051ec54407aaa570400b6bc3f874c82da4de74809318b484bda2c35a633eddbf0f698e40a1f18b068c975999e9bb239acdbdd7ff526fda7429acbad4e04cbabe54cf494803ff7784d5fbde516fc01f1a2599e4933425c970cee02f0127b3b5f4bf4d635467a5d5162eeb059aa8e3dab4f16dfa919f327b3bf8b32288f3fe1002573f8a9f7a3ad03d2c110164f6a6d797ac6727d617fb9a029e8e13f73204482ed2d1a16e2b0244ba57e8c2f05b6939b204d44736400d34836bb1b0fb53282bbcd0eea826f39099aaf95629924d1fa894e2f01b48166f54d8929a2a8811a82d8f79b55cab32a2a760bc54f4389c1854d469635304eb5a81509ed5e60941155532e5eaa22ca5d6c1fe96d8a272a89a8a36ac8a31a8ccda9625310a37d5aca1144f13a774d7ddc6d53987f244e07b8b8933f67275f10abbbb9adc515d2d85a5fe0cab7dc50b9380c7a6207b464d7f06bf51a3da2ef20fc514c92b4ac2e65f7473eec5f1b09d6db368c6e9bc03422511763e84a16231ac00194afdb744681caab",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=e073131a590589589a102c08ad587f04c6887d4c2ce013a896b09fae86991284b302fc6bc001d27fc1eb0127c162e41303ec8f6ca9dce186a71070758e91ccb0350f0f9499fd428bd11bb3f65d8dce65f2d34ffede464ce998ba87e03e6f59d9b99be8d126cd63adc3c9497c297c02480c13723e597bf3947fd561cb3197f0b86c5a225f52d25c061517444f8513c94a51b2bb3627d63e962e11211e96ea0a503a39ac65b7ea22b0599bb91b0b3c1d0547b2ca44e07a4c5a46c1618becdd7067c7963aea093dc0fc6582a90f9138ba9bb33ed08cdd8599f0d4e0487039592b84b728bb81357ed710f9ae6f8617bc34b990baa5f4c5689a84f3df44320afd6041998be4f004de8a3d0288380e2da08a005046bac8d84d776948715ed96a9304b2dc41bdda4cca62659b4cb02f7894719fec9c3833fbf8bec63f7f1ea97c0a441a9700b32db90461e7e27cbb771d83c535ebe35ae78ec79c127edf005c410a6cde482ecace5aecbd893a56aa30150c5fc791689f57d4bae39ac19f74dcbbf2c3554126ce5c84b603c28b9a6daf7fb41f093de29c6457d48bed25381e5d2aac444e35d93ec7b49ca9e0b23db92a50538311339feb1cc0153b7d457121bba1811f37ff0841d3df7a384212bfb4ef351e7a8b6d3b094007465aefae9fb89095d407a8bc852f3dfce4d54cb8ab8464e375a6625a053e4398e14bce7379040a4cd12b88",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 20
+   "id": 19
   },
   {
    "source": "redakce",
@@ -409,21 +431,35 @@
    "host": "planeo.cz",
    "extra": [],
    "expired": false,
-   "id": 16
+   "id": 15
   },
   {
    "source": "redakce",
-   "category": "Monitory",
-   "product": "Rychlý QHD monitor",
-   "text": "Monitor MSI MAG 275CQDF X24 zlevnil v Alze ze čtyř tisíc na 2990 Kč , což z něj činí nejdostupnější model s úhlopříčkou 27\", rozlišením 2560 × 1440 px a frekvencí 240 Hz. Používá prohnutou obrazovku typu VA, láká na rychlou odezvu, dobré barvy a vysoký kontrast. Cílí primárně na hráče.",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "100W nabíječka Anker",
+   "text": "Síťový adaptér Anker s výkonem 100W zlevnil na Mobil Pohotovosti z šestnácti stovek na 989 Kč (včetně dopravy zdarma). Nabízí dvojici konektorů USB-C, jeden klasický port USB-A a celkový výkon až 100 W, takže utáhne i notebooky. Nechybí displej ukazující zatížení, v balení je také oboustranný céčkový kabel.",
    "author": "Hlídač slev",
-   "date": "9. 11. 2026 10:45",
-   "discount": "2990 Kč",
-   "url": "https://www.alza.cz/27-msi-mag-275cqdf-x24-d13411336.htm",
+   "date": "27. 11. 2026 9:45",
+   "discount": "989 Kč",
+   "url": "https://nabijecky-pro-mobilni-telefony.heureka.cz/anker-b121bgz1/",
+   "host": "nabijecky-pro-mobilni-telefony.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 222
+  },
+  {
+   "source": "redakce",
+   "category": "Nabíječky, kabely a příslušenství",
+   "product": "Malá powerbanka s displejem",
+   "text": "Powerbanka AlzaPower Vision 10000mAh ve stříbrném provedení zlevnila na Alze ze 799 na 519 Kč . V kovovém těle o hmotnosti 240 gramů ukrývá barevný displej zobrazující aktuální výkon na portech, dobu do nabití či počet cyklů, a nabízí dva 30W porty USB-C (PD 3.0) spolu s jedním 22,5W USB-A. Počítat je ale nutné s tím, že plných 30 W dodá jen při nabíjení jednoho zařízení.",
+   "author": "Hlídač slev",
+   "date": "27. 11. 2026 7:45",
+   "discount": "519 Kč",
+   "url": "https://www.alza.cz/alzapower-vision-10000mah-power-delivery-30w-stribrna-d12907572.htm",
    "host": "alza.cz",
    "extra": [],
-   "expired": true,
-   "id": 81
+   "expired": false,
+   "id": 218
   },
   {
    "source": "redakce",
@@ -431,7 +467,7 @@
    "product": "Powerbanky schopné nastartovat auto",
    "text": "S blížícími se mrazy se budou hodit startovací zdroje s powerbankou. Lidl prodává model Ultimate Speed Umap 12000 C5 za 799 Kč , pokud na stránce zakliknete slevový kód na pětistovku. Má kapacitu 6200 mAh, integrovanou svítilnu a odolnost až do −21 stupňů. Je schopný nastartovat benzínové motory do objemu 4 litrů a dieselové do 2,8 litru.\n\nNa Amazonu koupíte výkonnější Povasee A30 s 38% slevou za 1087 Kč . Nastartuje benzinová auta do objemu 10 litrů a diesely do 8 litrů.",
    "author": "Hlídač slev",
-   "date": "27. 11. 2026 7:45",
+   "date": "26. 11. 2026 7:45",
    "discount": "-38 %; 799 Kč; 1087 Kč",
    "url": "https://www.lidl.cz/p/ultimate-speed-startovaci-zdroj-s-powerbankou-umap-12000-c5/p100412796",
    "host": "lidl.cz",
@@ -443,7 +479,7 @@
     }
    ],
    "expired": false,
-   "id": 211
+   "id": 204
   },
   {
    "source": "redakce",
@@ -457,7 +493,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 201
+   "id": 194
   },
   {
    "source": "redakce",
@@ -471,7 +507,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 191
+   "id": 184
   },
   {
    "source": "redakce",
@@ -485,7 +521,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 189
+   "id": 182
   },
   {
    "source": "redakce",
@@ -499,7 +535,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 187
+   "id": 181
   },
   {
    "source": "redakce",
@@ -513,7 +549,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 185
+   "id": 179
   },
   {
    "source": "redakce",
@@ -527,7 +563,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 114
+   "id": 110
   },
   {
    "source": "redakce",
@@ -541,7 +577,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 110
+   "id": 106
   },
   {
    "source": "diskuze",
@@ -588,13 +624,13 @@
      "label": "749 Kč"
     },
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=9229d2a86d6466ad49ed9b9bade5e62102592da34db9a80263a05f8b33d786952408400c4bec55cf0a8807e2db7e3e1581245ea7a78ac443fd72f77130d451c2f32487b97e4a70e24d9537650bfdb825ab07fbac0a048c77f5872961675bcf9bd938a8c4e99f4a59f48a3c17201c378733a9dbc30504e7b2a3541f00d8da49899e75ed68f3c02a254ff957459a295eb5126eae50e324f8ad9d6e31b7143e4b23ddff83f3a4d625b5597ab0e2f4844933a02e5ddbd0db711164163eb6a9fc31c6fc411ad33043d10593c71700fb028904b4942f0115e772a8a9fd01dcf315855c2175a10100af444e3a964fa90e58a8f30f274ab42f35e5b42f84938d3c2f8d7f72076e46ce2692b572d1dfccc43ce8a2c1f0a5e87cee0f8adc8c2725dfad8cdff2ddf677ab1b273d5ffbe35dfd61e0c8f946d16e4bd9589c3b2a2e1beac23ccde24986267f0e742b8aca3c0fdefd4184574e87c211b48e0b4b3a0b2b49e9d39e57159d56b2e7e993fc8acf2fd7b0b9ef12c90c21cf74d77b7029cc88ab48e9ebebcf5a57161f2a7ae23bc0ea6c6f61735286d2613e3572c7a762cdd520d91485c46695fc90af2dc4e86daeac45c56d9161f66cf717c439ea356908c931ad634d8715da055ba0959fb45f95607a0da063cd68b369285984ba0b79743b7bfb89fac3745b17d9f3289ce26dc45c5dd680114813178c5d1f025122826d85ea441619ae60b68c70d7af8fc53a2e2af799d9b9f4200e6bfe65c26706bcc5e13775aafd109b6d817f357dcf901225cf15891664",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=a84d0a4524e5f3381dd3fcaf1a0d9f77d7f7df27e080b68d21d3f6b3dc184c4845fe1491ca08da109eda62583a09364cc7c262dc2b70857d09be1ee0ccd576f98ef804ebc2a80659fecbbd2380dd5a7c889326d53838872d963b5d16e38cd0e2f7f28d489339fe12d8fb48098f3fe3bd02df9a047c566be501f870d6470a8a245e54c22d559ee1901a98c05af4ece23b2bb812a7d9f2c0afe8766896de96e490a669398cbe71f8017d31eb13d46b0da62539e509d23eafd06a0b41db79520a798c1a1444afac8c9b2ddf4d4bfe23ad9eda1fff519f64d16118cc458c21030c7c2314710cacd7498a062d3c4986f4e441466e85f777bca138645aeb7363f73e21b2e3224d3033a964679af1b911f9242a960b9089f8bc78548af2ff525d6026c056b8b89a5a691573454e749ca0cf1d7d10b5b56bf3f8843d338f2096fd38e8f0a5adb32a902bcd48328d06129e9e933e0006efdf0a7a968cab640b87c001b0ffaf2daafe848d48b9202c755c3065aee6e30674678a6eeecd5b625305df1c6883a0274edb629709426e3c5ca3cd1bbe1d166b905f6a22f1e71f4a8beef1e480dcef242f7ca31774a12bde214e262c906305a3e01056d79042fe21aa9d28f0db9b20e40a3479ec30ee4301b598b63edfbf7efe9853870e2ac25be23e3a522f429d578bc21214c4acaa930b0cd54f2cfa80ff1c5231d76c50917d437023caad1f21b4ea04b496f07fd8fbb3a8270b851868ba8c312a6283af57bcc17bd7deae3c3d2d9ba2fcfec00f4ee9daccbc52d6d0ac",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 104
+   "id": 100
   },
   {
    "source": "diskuze",
@@ -622,7 +658,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 92
+   "id": 89
   },
   {
    "source": "redakce",
@@ -642,7 +678,7 @@
     }
    ],
    "expired": false,
-   "id": 83
+   "id": 81
   },
   {
    "source": "redakce",
@@ -656,7 +692,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 74
+   "id": 72
   },
   {
    "source": "redakce",
@@ -670,7 +706,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 70
+   "id": 68
   },
   {
    "source": "redakce",
@@ -684,13 +720,13 @@
    "host": "nabijecky-pro-mobilni-telefony.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=f76054831dd1da859eb9a798438278a5c703fe29a5e807b3fdcbc74a4dcca9d3cc526ef5453376adee8f3fe0cdcd27bfb14cf791f35733734a66eec4d48dc477290664bb48f02aad64a53ee12ddd85150dbd4a5c5cc0cc90efac8d4cf664134d11b358a56f600a92fb1e18fdcbe00fac8ca0c4d23bb7bdc0f62ce6dee83cb63ab533e3b280a8920bfb28dcb4083e8ce2a92ea01421248afdb2e2728b6357b5a41b4b89448e453286a367984d5e675ca0f7fc5d72ea73952081704dbbaaefa9ff0f9a063de07bccd3a56ff77b344e62e7d68fe4647a692b56b49799d155aae30954d9c059e5b36f24e5c92b217927c4c2efef72cf991c9cc8734631d4d1f35726ccb90956619a888a9901732f597aa976ca5c5d83ac3ca301be1c59ce8e1c3b4b80a1d4cceb38f4b7bcd1e4059b567a66f2723e66f14dd91bb33ff38d42f54bd49f6ddbb86a1d11bebbfbb546c578978627ec4c263fdbfda41fe3d232ba4e78f5a58cd04bc3109ed0c6e44f511c9f267c196dfa5479e9d8c4c1b8e4d4f9589a5253407edd4a37e849759162a85c7f78366f4d2cdaba34c5c1e8ad6ad96bc1b1e27f39e7fb459d7ec0c81fb0c1e446649e32d0eacdcc8fd161140658487b070c6d2c76c57b762e7ca1dfcb6c843498f75564a236088619c11393a9212c0b1cfa19fde76c2796ce11e9981bc1ca028460fc7adb311e81a6149e79007253a119fcbfb5f190e80a61e01d0558f5d48d30e5ae",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=f1400b1c065cebb512fb1d98da333bb8b3c5ed6b3afe68ad4c6fc52345cc775298e99892de11bd36540fa52a57d9ee7e2f0edbf5b0dc639266b9ab8db552e2a5327b079336ef73ba270f3f49a68694ee46db99bbd205e7d4999d5169b807d2dc8e7e69d666054928517fcad35ceb6522c27c61e2cd66a7d9d4fb10dfe5d3863b3c7db1b1d94ba0bbaca25121ca81c1c167cef2f3632a37db44bf3416478305b0ca75677ed06e3190aeadb73169e66af9e76f05a04ea9049c47a6c2ae7c3ecea0bb58ae657ffdad0f67eb368d9b6048bada2dd10fa76e8744ed045223c95282c59c9e047ace498f5c8cb7e423e60f37568ad89e8661c1b0f93b6fc3c4d5380aa984842185dd3582031323f5fb8777be8b5ae68f5d9be027f05087eb8b9f1702533f948ad0a0aa5abebdb39f20d778b0111cec64a982ff370407f37c422e8e7094a1285be707c17214d041589d0bef44f5e309d758d782066db5b92ce8df5b4c2ca0cc0d4f1e105a80d0f6b8e10cbdcb3e122dcaf8860eb15eeb660e5f0818c4432fabd1c4eb51797977a959ecc5296876e4e90accc47a1d42ad722817c7ae7534ede3d86d6c2e12a0f1fcbac04ab108d0a51772c9125f0ba449b688291eaedfb5ce4719546ae4297af0a774be37530b336f0d07766dba453329294255be7ea5c839de8f09a2b41eecf2979cfd499bef2d44642a78cee9100c83767f8271ebfb40e5125babba948cffdeda87e7e6af11a1",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 55
+   "id": 53
   },
   {
    "source": "redakce",
@@ -704,7 +740,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 42
+   "id": 40
   },
   {
    "source": "redakce",
@@ -718,21 +754,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 21
-  },
-  {
-   "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "Kvalitní mikrofon",
-   "text": "Mikrofon Fifine K688CT je na Smarty.cz v akci za 1399 Kč , běžně stojí přes dva tisíce. Je to dynamický mikrofon určený především pro nahrávání hlasu, podcasty nebo streamování. Díky kardioidní charakteristice snímá zvuk hlavně zepředu a omezuje ruchy z okolí, což se hodí zejména při používání v běžné místnosti. Připojit ho lze přes USB-C přímo k počítači, případně pomocí XLR ke zvukové kartě či mixážnímu pultu. Na těle najdete tlačítko pro ztlumení, regulaci citlivosti a výstup na sluchátka pro přímý odposlech. Součástí balení je také kovové rameno s odpruženým držákem, takže není nutné dokupovat samostatný stojan.",
-   "author": "Hlídač slev",
-   "date": "23. 11. 2026 9:45",
-   "discount": "1399 Kč",
-   "url": "https://www.smarty.cz/Fifine-K688CT-studiovy-mikrofon-bily-4p292448",
-   "host": "smarty.cz",
-   "extra": [],
-   "expired": true,
-   "id": 177
+   "id": 20
   },
   {
    "source": "redakce",
@@ -746,21 +768,49 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 141
+   "id": 137
   },
   {
    "source": "redakce",
-   "category": "Nabíječky, kabely a příslušenství",
-   "product": "Výkonná powerbanka",
-   "text": "Powerbanka AlzaPower Parade Gen2 zlevnila o třetinu na 979 Kč . Nabízí kapacitu 27 000 mAh a čtyři výstupní konektory, po dvou USB-C a dvou USB-A. Do jednoho céčka umí pustit plných 100 W, což je také celkový maximální výkon při zapojení všech čtyř konektorů. Nechybí ani displej. Hodnocení je nadprůměrně dobré, lidé této powerbance dávají průměrnou známku 4,6/5.",
+   "category": "Počítače a notebooky",
+   "product": "PS VR2 pro PC",
+   "text": "Planeo vyprodává oficiální adaptér Sony PS VR2 pro PC jen za 549 Kč , běžně stojí třikrát tolik. Výrobce už prakticky ztratil zájem o virtuální realitu na PlayStationu, ale pokud máte doma headset, můžete jej velmi dobře využívat i s počítačem. Jen bude třeba tohoto příslušenství.",
    "author": "Hlídač slev",
-   "date": "11. 11. 2026 16:45",
-   "discount": "cca -33 %; 979 Kč",
-   "url": "https://www.alza.cz/alzapower-parade-gen2-27000mah-power-delivery-100w-cerna-d12907549.htm",
+   "date": "26. 11. 2026 17:45",
+   "discount": "549 Kč",
+   "url": "https://www.planeo.cz/sony-vr2-pc-adapter",
+   "host": "planeo.cz",
+   "extra": [],
+   "expired": false,
+   "id": 214
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Herní předplatné pro PC",
+   "text": "Humble Bundle nabízí 25% slevu na předplatné Humble Choice. Stačí zadat kód HOLIDAY26 . Standardní roční předplatné vyjde na 135 eur, ale s tímto kódem bude za 100 eur. To činí v přepočtu 2450 Kč na rok nebo 200 Kč na měsíc. V rámci předplatného dostanete každý měsíc minimálně osm her pro PC. Z toho jedna nebo dvě budou velké AAA tituly, aktuálně jsou to The Outer Worlds 2 a Mafia: The Old Country. Hry vám zůstanou napořád. Obvykle se rozdávají formou klíčů pro Steam a jiné obchody. S předplatným navíc získáte až 20% slevu pro nákup her z katalogu.",
+   "author": "Hlídač slev",
+   "date": "26. 11. 2026 12:45",
+   "discount": "-25 %; -20 %",
+   "url": "https://www.humblebundle.com/",
+   "host": "humblebundle.com",
+   "extra": [],
+   "expired": false,
+   "id": 209
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Notebook s RTX Spark s 64 GB paměti",
+   "text": "Lenovo Yoga 9 teď v Alze díky akci na Black Friday a cashbacku můžete mít za 89 989 Kč . Jde o nejlevnější notebook s výkonným čipem Nvidia RTX Spark N1X a 64 GB sjednocené paměti, což je dobrá kombinace pro běh lokální umělé inteligence. Notebook je i v jiných ohledech velmi dobře vybaven. Nabízí krásný dotykový 16\" OLED s rozlišením 2880 x 1800 px a frekvencí 120 Hz. Má 1TB úložiště, podsvícenou klávesnici s numerickým blokem, Wi-Fi 7, Windows 11 Pro, hodně konektorů a to vše se vešlo do ani ne dvoukilového těla.",
+   "author": "Hlídač slev",
+   "date": "26. 11. 2026 11:45",
+   "discount": "89 989 Kč",
+   "url": "https://www.alza.cz/lenovo-yoga-9-2-in-1-nvidia-rtx-spark-n1x-6144jadrova-gpu-20jadrovy-cpu-64gb-unified-memory-d13573069.htm",
    "host": "alza.cz",
    "extra": [],
-   "expired": true,
-   "id": 102
+   "expired": false,
+   "id": 208
   },
   {
    "source": "redakce",
@@ -780,7 +830,7 @@
     }
    ],
    "expired": false,
-   "id": 212
+   "id": 205
   },
   {
    "source": "redakce",
@@ -800,21 +850,7 @@
     }
    ],
    "expired": false,
-   "id": 208
-  },
-  {
-   "source": "redakce",
-   "category": "Počítače a notebooky",
-   "product": "Radeon RX 9060 XT",
-   "text": "Ceny grafických karet vystřelily nesmyslně vysoko, takže i low-endový Radeon RX 9600 XT stojí běžně okolo patnácti tisíc, byť před rokem byl za polovinu. Smarty ale dnes nabízí v akci model Gigabyte Gaming OC za 10 990 Kč . To je suverénně nejnižší nabídka na českém trhu.",
-   "author": "Hlídač slev",
-   "date": "25. 11. 2026 7:45",
-   "discount": "10 990 Kč",
-   "url": "https://www.smarty.cz/GIGABYTE-AMD-Radeon-RX-9060-XT-GAMING-OC-8GB-GDDR6-4p229047",
-   "host": "smarty.cz",
-   "extra": [],
-   "expired": false,
-   "id": 199
+   "id": 201
   },
   {
    "source": "redakce",
@@ -828,7 +864,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 194
+   "id": 187
   },
   {
    "source": "redakce",
@@ -853,7 +889,7 @@
     }
    ],
    "expired": false,
-   "id": 182
+   "id": 176
   },
   {
    "source": "redakce",
@@ -867,7 +903,7 @@
    "host": "datart.cz",
    "extra": [],
    "expired": false,
-   "id": 175
+   "id": 170
   },
   {
    "source": "redakce",
@@ -881,7 +917,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 171
+   "id": 167
   },
   {
    "source": "redakce",
@@ -901,7 +937,7 @@
     }
    ],
    "expired": false,
-   "id": 165
+   "id": 161
   },
   {
    "source": "redakce",
@@ -915,7 +951,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 164
+   "id": 160
   },
   {
    "source": "redakce",
@@ -945,7 +981,7 @@
     }
    ],
    "expired": false,
-   "id": 145
+   "id": 141
   },
   {
    "source": "redakce",
@@ -970,7 +1006,7 @@
     }
    ],
    "expired": false,
-   "id": 132
+   "id": 128
   },
   {
    "source": "redakce",
@@ -984,13 +1020,13 @@
    "host": "notebooky.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=6691d4a3a0c6449e72791dd712e0fd44e71eaccbd8b5bcd982ade3330c740c358a252f6312b5c0bb027d0165a1325d092034c88b1434eed2812b72aea4def54d025d8c203bf87e203b0f0962215f1366ebc67d527147d297902cc92ca3b68f7bd8d53ee8a445bd3d4e48d467b58b6a98ad785124c216f4ea8e609899a8f18098bedbcba6fefc36e7f3daf59f33a9f548eb8eed304e82f542f162cfc586527411f0aef65fed26063e9fd6bdf9cf7c4839ee7b795e827a2dfe5bbad6a118ab645980b62c817c377036014300a1343f53daa45655f4bb9f7f19c6c287b3f23768f1fb86305092863280f7d8888a96d09cf8dd4e01af5f179e19a3634203ad40acf9610ac33badf0a2181c780d60464a07d6056be4fc72333f183296e92d2224054489110de33973d4cf87f8f58ecdb680a2a605bc45bfc0cae0f3d085ef54dd758f1f541ea27d06c4ff9a8c501bf7750c10aad8369f1c662b24fcbd77068dfd78c5222c8159bae04feee6064b0dca6859a512e96bcf6e2e8c09a7f5178797e0f2f0d41b00b2fd3f0082e6a6c8353ede3d2c2d54ac324b92b24747126fdb82d25b7c98ad4fd7dc487fe533275f605496f2e79002671ddb59bf34a4951c6636e85ee9281f569a264caf5e4e527c7e5b19f91c37f4f73f61d0cc607fe8b275bf34f1b222d950fbfa5f450d1fbe034c02883cb18a8617828928508245cfafd9a25e652ae1379f8cff35325edb809434ae05ccf4",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=f6143907be6e04879386e2368d6ff1fdcc98cc28deb429d0b959078357b79a964eb4e97aeb0c446aa8ba7788da1a9ed102f02d338b62171619454ce2721678062993899b221e21f7629428e6d21b845bee394669ba5018bc9fc1bf527b9e306ac86546308459976170127f8f9ab160e41741179a23e0e148e25a08b97e2e5008b118bda4f83947d71fd97a9903fd6007b9e10f1522610eafdc5de43d9ca98b22f3d10bba0ee671505a12e5214095ae5c8d60f474f46737d220ef96e383eec426f4d1a4294990d1818609b499a9869e92d9c78c457184e0c0b2e246c90fe1d74260f3884809eff669a2cae3fbf2f1b09bfec6b1266ba125062cf7ee8c02e4860b1748cc29c9c047b1f55d54526fac322c7dded84d95a06b31f8d5aa3793e657521e5c53749845ed6f178d4f7b4d387813814ccdf386f71a4467eb6be43fa5ada306b0908be1735ae4beb1d6ae8b6d5e7f3a957d0c616cdea1c9f35c253377e7a13dd3490e28009574c570c139fa3d1666e5946cceac51d71fdfc553c3e53a3e9bcda1030950e6f186869b9db0cb969fc0bb8a64d58124a39e727e67098cd7f17cfcf6b26a21353ebda3aa60c4c188ff4b998de5efb012ef06882a37a90bb7381e57fc7fdc3be9f30e4d0c4997eb2cd2325173c6a991e91ef752ead357bf2e0ed3ef21e96b34222867bb2973a4804aeec7bc98e6a2a78be600afd4130ca29bb9b1ed862f9b81140063c4ac9a18c4b16427",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 100
+   "id": 97
   },
   {
    "source": "redakce",
@@ -1004,7 +1040,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 99
+   "id": 96
   },
   {
    "source": "redakce",
@@ -1018,7 +1054,7 @@
    "host": "notebooky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 97
+   "id": 94
   },
   {
    "source": "redakce",
@@ -1032,7 +1068,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 91
+   "id": 88
   },
   {
    "source": "redakce",
@@ -1046,13 +1082,13 @@
    "host": "smarty.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=84dafb9e13c76a7d713ddfe450a14ec148ea8ce6d3c383735f49dcc10fca1b9aa4cf25b41e32f55e12b5b0372a5a20920c4100723ba0ff890858278b14ca2f4a488c4643c0992b35eb48b55cb457ce8e6dea8b6894f5125c99a4fa75b8bf5f9357e508c609266cb5f6f1952a1791a614ad9f41cff065da34b217b30c1c39859610e1399af0346517d268d6a1ad01ae4877a5eabe2001e3f9b6f1f97a70d80a2aa73dda2f6571bad9578e6185a34f5750258c30ed02e2c4b112be46686a40f563c64c1afbf7865f2365fbb5baf15032bba9901c259a821ae28ff7b1b1ae695152485eebeac116d750c98df006f31e1c1bd2cf72795f7fe1993b56ddc91111c008370dbe869eca61f6e385cab88ea7d0813c6d8243e0a7a997b3c9dbf90c2a56659598376d6145d8d06406d782a8a6909c11645e72fd832ade251db9bfbde5e1c473126f572bd80d28f8f10ff4e2dd625274ec91f78aa90ac5f514f137903a562e399208e7da94068ff72b5e90d7654ac12bc41034bb7d26e206d57e099bb6423b2fb3c5406cf8abecdb0797b50ef31146c6f26851f0606bb513e4b3b091c94c4c8a127807d9a99b80d669129bd6a2d9fd96a18134d94d80d8dd8fbc81ca44fefb357127cfe15c3ead3112f34f7d82130c292f762db9ebe66f058a23eb163a011f89f8f8a31f2e869501c64ca83ccaa4fe846217972a41fbec4432d1789d5f47d6df880a5b52ef813e1078e90213689935315a69ad2b1ca2991c4af115cd747252",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=996cdb56af17d60b358b0e55c490bb43521680767c17e0fec4d7b2d298e270483b3112aa55e952c7d7db41e570fc9f7bd16c7be3697415a0f848ab8e82ca0c1ab04736fa6d6adf4cf483ecd186d9d3ead77f758e825018d5dc3aeb57b13df158f1fd341be34a48df933cc76f6f51b2730ed6dfe3f03a5778ec089576197656cabef15ef88a3d59405f4933d324824f65cb039dd5a903548094c158110c2b61e609653bcf38c1360a9dce51630074741c627448e2f2c7ef45e5ef5392c12cd2cbbc0cc5e4c548c04da95cc8daefbba5596e0b6358fcdd6eec453c3ca3c1f39b2342e651f867b6209c30128fbb4685eebd018787a3dc4c5bc80072cfaa1f7af3d56e7198670dfd93cab0400f675a2af663b81fb0fcfdb5906f4815b877748ad7bf255395bdba972986d05f0c6cb04689f67d4478063ab93a19b563e14dcb95d7dee45c1d73e3eb2dd7dda5cbcd53198b462141d9b08809d7b36e10eefe88c6e2d62918a3882de94621e57368cab0594f972a7599a8764c09b35b39a58eaefd91ff3b8425d9e5b0fa6a568e241f4820b11ffc81cebc241f6e87dc56c2fd0f47726e1aea9285e75ccf25e3316b379667c633a6cbf162c8e99cfd81ff212e0510044b8bfbcf542688a1bd839d4a0409e750e0f1db67e1385cab77085a1eb0a75efa726810103fb33188bf34d4fe2e8797d264b42709afe38a43ada4a42e960a4e19242897a531270a797f822c0241fab6eb0e554df4464753d6db1046c3abd628d917",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 60
+   "id": 58
   },
   {
    "source": "redakce",
@@ -1066,13 +1102,13 @@
    "host": "sluchatka.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=e77f2cade137aa936b7b92cd805cc9b36b7aa92c57d3371e7e9d396729a35b59c0a85e1743e7b3d356a632d891deb4ac818be56a8ed39053595639c18739cb7bf5109f94952266ff95c53f18a84d345416acf2ad3b2a2bb1c014fd0dc65e889cb902af60bfa16d41034a8bfa5d59d1c2df638c889cb0f980a91e51aadf3a1c68fb5bfee4b03e0e60814de0a210aa73a4b6a2da8b6d12435fc71677a5fc2474b22029a68a257025f709d036ce3d73140aa080be201576a1f15fd6637157bb92d03932321c6210b15fa20503e7ef2b2547aa894be73f6ff2d4c78851ba1d0503fa3ad1db611f05193d43a8544a71fde4fe39e2b1ff50132ce0a4f9c9afc1ca005a643198724bbe164c458b1fb03f540ecaadae7c2e698c8751049b36dce11b957bc6e175b35114c2564a8bb2803ce6479dd158282ad1554591b35ba024989d84f89a5d7a9c00ac1f6bfe3380d98d05534e3e4134e2ac74c86f7813ab21ed3723154781b5a0b7d8311fde6a7376e4cac8f222b1f76df9880db0379cab7c82dcc76e74fd97a6ed1dcfed5f39217cfe450a75386ab685612e4cb2ec54c12fb5b8cd13310a40341101c07a3029570e23f2aba7902cf9f5d58a6c8a6d06b556b68efe0bb21c827de4c495d04b5bbe19e8ac0f94deb31153b530ed4a993b8bb50d008a0c2c251821c3116c3850eb3201b48291814358c5ab0622f5ce6d7de5e26225c757",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=fef9c78307c168b1c85731421caa167f7b77a977948e4b2e3d0adf2cda3f10b8ed31e1a5c8925094ce50b16b4a105790ba2dffc32b47046077377ba47935d36540417357c5b95db360ad8cb2d20603571eec8cfc2930838f79d415a56757720ea1eb7c3d43a6e52a8b942e379e3d81a197dbee72153dcf2ee5a09d84f5983f22a265c2a6aec1adc8f221761632ea42075ee87b9891e9144b43cc94ad4b217fa4ec89533503ed00977862dd174fd86ab078d12b7bacfe74ef4252e4801b9ca535e5f9d02c7c272ba906a562543de330af77a39de9af3e7fc7e9fd964697fbc5ce76485e5bccddadbfe478765450d4c9d7591a9093c17b42fcd65da4e573da0b8cd7f5ca621b8c71d917bdf32d9b817c7315b40a7621473715bcadab0917f0f0e96195b1b9774705dec7122028762c1704b9638c18f56649e0070d91b46a662421e9f2440ca09b43cfa367b810ef08732e6879d207bde2cde0f91bbf1b495fa267dd20f1d74c4c367b20b124f6085b4279906150b42b8d4645400b6e5441137e2f6f0993c69a73da93d414ca93ce8e31a863a91f75932facc658ba2244f95016bc1f6a7acfd71099161dd937ed5393636b258a1aa27733d6556894c01aee4c450ef993b6888dc79ce6553efb6e0502dfecc458150f45e4e9c0324eb06535df70c16058fc446aead6ec0e40c0395e1dba6f3f2674e46f1fca24208a30c2798ca0c324e3e0749a538289f4076a3880d8db0e",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 52
+   "id": 50
   },
   {
    "source": "redakce",
@@ -1086,7 +1122,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 51
+   "id": 49
   },
   {
    "source": "redakce",
@@ -1100,7 +1136,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 33
+   "id": 32
   },
   {
    "source": "redakce",
@@ -1125,7 +1161,7 @@
     }
    ],
    "expired": false,
-   "id": 26
+   "id": 25
   },
   {
    "source": "redakce",
@@ -1139,7 +1175,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 22
+   "id": 21
   },
   {
    "source": "redakce",
@@ -1153,7 +1189,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 15
+   "id": 14
   },
   {
    "source": "redakce",
@@ -1168,6 +1204,20 @@
    "extra": [],
    "expired": false,
    "id": 8
+  },
+  {
+   "source": "redakce",
+   "category": "Počítače a notebooky",
+   "product": "Radeon RX 9060 XT",
+   "text": "Ceny grafických karet vystřelily nesmyslně vysoko, takže i low-endový Radeon RX 9600 XT stojí běžně okolo patnácti tisíc, byť před rokem byl za polovinu. Smarty ale dnes nabízí v akci model Gigabyte Gaming OC za 10 990 Kč . To je suverénně nejnižší nabídka na českém trhu.",
+   "author": "Hlídač slev",
+   "date": "25. 11. 2026 7:45",
+   "discount": "10 990 Kč",
+   "url": "https://www.smarty.cz/GIGABYTE-AMD-Radeon-RX-9060-XT-GAMING-OC-8GB-GDDR6-4p229047",
+   "host": "smarty.cz",
+   "extra": [],
+   "expired": true,
+   "id": 192
   },
   {
    "source": "redakce",
@@ -1192,7 +1242,7 @@
     }
    ],
    "expired": true,
-   "id": 111
+   "id": 107
   },
   {
    "source": "redakce",
@@ -1206,7 +1256,49 @@
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 32
+   "id": 31
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Levná mechanická klávesnice",
+   "text": "Herní klávesnice Connect IT Neo Pudding zlevnila v Datartu na historicky nejnižších 399 Kč , zatímco v jiných českých e-shopech se běžně prodává od zhruba 670 Kč výše. Nabízí české rozložení, mechanické spínače s životností 50 milionů úderů, 1,5m opletený kabel a průsvitné „pudding“ klávesy zvýrazňující duhově podsvícení ve 12 režimech. Počítat je ale nutné s tím, že podsvícení je jen zónové/duhové a že spínače jsou dost hlučné.",
+   "author": "Hlídač slev",
+   "date": "27. 11. 2026 10:15",
+   "discount": "399 Kč",
+   "url": "https://www.datart.cz/klavesnice-connect-it-neo-pudding-cz-ckb-3570-cs-cerna.html",
+   "host": "datart.cz",
+   "extra": [],
+   "expired": false,
+   "id": 223
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Výkonné SSD SanDisk",
+   "text": "Amazon zlevnil Sandisk Optimus GX Pro 850X s kapacitou 1 TB a chladičem na 5823 Kč . Patří mezi nejlepší a nejkvalitnější SSD pro rozhraní PCIe 4.0. Slibuje sekvenční rychlosti 7,3/6,6 GB/s, životnost 600 TBW, má buňky typu TLC a také DRAM cache. Cena je kvůli paměťové krizi vysoká, ale v českých obchodech stejné SSD stojí od 7100 korun. Dříve se mimochodem prodávalo pod názvem WD Black SN850X.",
+   "author": "Hlídač slev",
+   "date": "27. 11. 2026 6:45",
+   "discount": "5823 Kč",
+   "url": "https://www.amazon.de/dp/B0GJDNBMLX?tag=zivecz-21&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 216
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Mac mini s 32 GB RAM",
+   "text": "Alza nabízí nejlevněji ze všech čerstvou novinku Mac mini s čipem M6, 32 GB RAM a 512GB SSD. Stojí 39 990 Kč , Apple za stejnou konfiguraci chce o čtyři tisíce víc. Mini má zanedbatelnou spotřebu, ale hodně výkonu. Může být zajímavý i pro běh lokálních AI modelů díky posílenému čipu a zvětšené paměti.",
+   "author": "Hlídač slev",
+   "date": "26. 11. 2026 13:45",
+   "discount": "39 990 Kč",
+   "url": "https://www.alza.cz/mac-mini-m6-2026-d13525510.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 210
   },
   {
    "source": "redakce",
@@ -1220,21 +1312,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 204
+   "id": 197
   },
   {
    "source": "redakce",
    "category": "Příslušenství k PC",
    "product": "Klávesnice k Macu s čtečkou otisků",
-   "text": "Bezdrátová klávesnice Apple Magic Keyboard s Touch ID a českými popisky je na Smarty v doprodeji za 1790 Kč , zatímco v ostatních e-shopech se běžně prodává od dvou a půl tisíce. Kompaktní klávesnice s hliníkovým tělem a nízkým zdvihem kláves nabízí integrovanou čtečku otisků prstů pro rychlé odemykání i potvrzování plateb a na jedno nabití vydrží přes měsíc. Je ale třeba počítat se starším nabíjecím konektorem Lightning, absencí podsvícení i numerického bloku. Existuje už i novější verze s USB-C, tak je mnohem dražší.",
+   "text": "Bezdrátová klávesnice Apple Magic Keyboard s Touch ID a českými popisky je na Smarty v doprodeji za 1690 Kč , zatímco v ostatních e-shopech se běžně prodává od dvou a půl tisíce. Kompaktní klávesnice s hliníkovým tělem a nízkým zdvihem kláves nabízí integrovanou čtečku otisků prstů pro rychlé odemykání i potvrzování plateb a na jedno nabití vydrží přes měsíc. Je ale třeba počítat se starším nabíjecím konektorem Lightning, absencí podsvícení i numerického bloku. Existuje už i novější verze s USB-C, tak je mnohem dražší.",
    "author": "Hlídač slev",
    "date": "24. 11. 2026 18:45",
-   "discount": "1790 Kč",
+   "discount": "1690 Kč",
    "url": "https://www.smarty.cz/Apple-Magic-Keyboard-s-Touch-ID-bezdratova-klavesnice-ceska-4p28018",
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 198
+   "id": 191
   },
   {
    "source": "redakce",
@@ -1254,7 +1346,7 @@
     }
    ],
    "expired": false,
-   "id": 183
+   "id": 177
   },
   {
    "source": "redakce",
@@ -1268,7 +1360,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 150
+   "id": 146
   },
   {
    "source": "redakce",
@@ -1288,7 +1380,7 @@
     }
    ],
    "expired": false,
-   "id": 149
+   "id": 145
   },
   {
    "source": "redakce",
@@ -1302,13 +1394,13 @@
    "host": "cerne-skrinky.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=a55db3476000eed74815855691520d9e54e094941b4c3d7fe8d455e8baa79f152a8ab0f3226a09a974a4458dd8860e4dcf885a453dd933d35955f6ece7d6b516dc129deac908431a1149ba7981bde9e1a5048993aaa21c61032c955af933e8d6425791307edccad140163cd36901577a4f6fb0792db2a066e4e37fedcee4d8749fae29a4b9b7d481b8c4eb6a9c8303ee8bed203c3e997850ef40bc0812b124e5f0bd2a2f78a9c8d25239b2785f47e9a4be0d099c590ee9bf9cec55aca572c96f3ce447efbd7b9e650444bae1abe5d34a6c6f25658517d36daca7ec41a6b54c0508fb4e8ee92b9583eb176d73e98efe2dc00b0d9513dd6e1b69533ef5ad3ffa2ae36be17efc7ae941b335a6cb4b71588577453fdb9abd69ad11f0faaab7e16d9657d90f6dfd4ad45a5ea6dce3ce09345ba346a3d174b253a88e6f4782f316d1416ccb5d9595d3d879b7c3042805affc54af27195257560b642a0e159c2cffaa63668ecb362a9ad5f7073d51a90c75f5ab912abde39f6f58fb9b8ee8c023e88695d13c83b56a5bbc5bea80a07eee126c2b594a8c29a1f95ede86b2f94ba0f3e9c8ce0a8b55550e256a02950925c6f2c3700b32af1f5e86a6833cd3b98a4f1ef39501ce16aaddad8af85b5540490c36b1baf063e597159b9f110da2579fed014fecfd4f9e52d7fe166df96765eda0f9c9cd99c060659ef72c8d58602d5726d3f095",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=ad9715737cf070acfbeb9af8f10f9c6921da2c21669bc075b2d5917be2a70ef3431eee2eae0a8cfbf9b5489d3cecea5e007d998c3215150eef3e487ecc58a1e4918802f62b4c3f8c8679b83ad293edaed0f3a7428c6d5670de7db1939941300632101c31dbba51273185d93d6e5365942411cd6870c92a254743031b1e0c74ec88e49147016b8f3d4ae1cb22b5b4a4cea742b607452efe05ed53371ad65fc4d293a53f3c360cfa6d2397bae59823d561c4eaeb9a6e85f1d4b28c5e207f129f6c675e412a3f3c2e1c65a3b0aaf25d59835b83a884c27b46f78f850a57623ea7236f26c882468e62a0aab9fe516beb79ab7bbd44cf7f1d09693ed92bdd797e6e0621d7413803088ebb9cb2c44b5b5cfe2028de702704583fc332f35fbc18e602cb4e55d373db43b9c3040150d0472b0c6ced27bd8cd71d9460449a5b453dd2afc62659732795d356581600ea3350e687777ade1612c983870dc9a187ed5bdd78bc7895473a5446471f12fe9c825794028a03996e5f3fa087639f96ba4a3ab7317bf6f7860a5343da92d8dc138c2654c7661aa827faaaf5fd5b6941e23db823e04ef89e644a8f0ccf5ad82cf180aa744d0d7ff00e35f85486c0052160081d5af1b3f621efd1326f24c42959524fb3a268e5a11e2396044cd332ad6e06627f669d1389e112b140d21348754836a86acd720b024c661bf01d18c49b163a37f0f4e3da",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 139
+   "id": 135
   },
   {
    "source": "redakce",
@@ -1322,7 +1414,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 135
+   "id": 131
   },
   {
    "source": "diskuze",
@@ -1355,6 +1447,20 @@
   {
    "source": "redakce",
    "category": "Příslušenství k PC",
+   "product": "Podložka pod myš a klávesnici",
+   "text": "Podložka SteelSeries QCK XXL zlevnila o třetinu na 599 Kč . Měří 90 × 40 cm, takže se na ni vejdou myš i klávesnice. Používá kvalitní textilní povrch, obšité okraje a protiskluzovou spodní vrstvu. Design je decentní černý s bílým logem v rohu. Už se jí prodalo přes 5000 kusů a uživatelé ji hodnotí nadprůměrnou známkou 4,8/5.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 18:45",
+   "discount": "cca -33 %; 599 Kč",
+   "url": "https://www.alza.cz/steelseries-qck-xxl-d12679311.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 127
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
    "product": "Levnější předeplatné AlzaPlus+",
    "text": "Připomínáme starší článek s návodem, jak získat levnější předplatné AlzaPlus+. S touto službou máte neomezenou dopravu zboží na pobočky Alzy, do AlzaBoxů a jiných samoobslužných boxů a výdejen. Stojí 59 Kč měsíčně nebo 299 Kč ročně, ale když využijete doporučení, máte to na rok o 20 % levněji. V diskuzi pod tímto článkem najdete aktuální slevové kódy:",
    "author": "Hlídač slev",
@@ -1364,7 +1470,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 130
+   "id": 126
   },
   {
    "source": "redakce",
@@ -1378,7 +1484,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 122
+   "id": 118
   },
   {
    "source": "redakce",
@@ -1392,7 +1498,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 112
+   "id": 108
   },
   {
    "source": "redakce",
@@ -1406,7 +1512,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 107
+   "id": 103
   },
   {
    "source": "diskuze",
@@ -1434,7 +1540,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 101
+   "id": 98
   },
   {
    "source": "redakce",
@@ -1448,13 +1554,13 @@
    "host": "klavesnice.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=b4969bb02fe6e6c1215c172fa828e2d74ca7a3444d72f15479b48c1a799591b58e639c0bcefc449a4537dde9083cf05af32440d96ac88bf4aa88be8479ddfba281c593858fb794d3d4d11523a933d68f75d3f31af72844d94506c1f4c5a643b6814f6c32f6b8486859f71a0a48836f49bd5f7a9f69ef9629a2639455cf251cf7e8eb3c7c8a087c50b107d8194726672910ed207947970c7332f8222ac3c0152a2dad264560f680875b599c75a4e4aec670a6c1a369a8a877ee273096b84d979bde1be347876814246199728cd02d09ed1b42745b58eead0ef41a86d8a7aef4c842726a419746d5c101cbeeee5b10b6d5b67811722c9703abecb7779111d39b4b68561bf1df5ab4e53d9b4b26a47ed4bcbc8cda20e619ded3a36cf503df147871d452c71c8aff31441da28342a3366e6f21a0b8196b49921bf4b19725cad6f51f4b11a4518f4ee3c7545eb24e999780a2b4347d2d9bafd10da638ed74e77a5f7ea77b1acaa047a3d110af94faacffaf82e1c72dce800b80df92fa5429400f886cef704b9dcaec5300af264cddc491e8dcdfc14485f1a9f5ad1757ac7ff57ecc45a4fe5d708f3734d5c526237c4590bc31a529cb227e2d4db7ae0f1bf9f93ce01ec555c331d3bb675175a9578c911e2df7841d9e6b1c505b730c488055a8bd93eb6e5c272f7fbaea6813026daab67378d1688564effc774e4706172db7140880fb3135d04bd6546f6087faecd8c20fc271115a69b52aa5f977b2e0b84c2ab49ffc297ee8e9d8e9cf4d1f20fe2b9dab7315",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=f3fa85683e7d5650a3ed1eea725d54c250e199d41f165ae634333b8e8fc858212d11aaadb12efa57d73855123936b6d4ccfee346b270f95307cd5c0d677eacd15f65cf8ca91a7b9c03b7e39bcaa567b3e0a680783cdafe239acf89d5f0daa6828ebe09b40967b6d5c964aec2a3ed6673629b85812075bb918c0290c35c4149d9b7ea33570fe2a076d2d668ef7f56aaad53c54885af5b75bbcece09893211ab23f247c923b2cf33ebcc7af36334da69796c521986ddb60a1d7df3fad869858c726abb4b5af5b0e75756e5ee4a6ead550202ee2482e5052d6624151be26f229464bf25a6d281ae2a0d3fefcb8227f8617fcef2616ef01531031522aa372dd3ca83b542cae24a18198a51d8a35f3d3163f62adeb1fcabd300be99e4c9fe522fca42ae8f270634266b6fa13de5aeb5437d40a07df88eac0f97bc6353d32482dcefb8877a16d312bcfd4028c27fb44c00430efc179b42579762cb3d7c6aa886089894fdb16c0ac374d9598296fbc2557f65c7e5e6af45f15f8ba668996c2b5080701e45ee9fba3d3f410c99251f9c8356dbe855cad75665dd054272c9b78f254c4f1349943eefc72ba9db11b30772e031c076cdeb6786d85ec19231fb770ae5d1ed48f4ffe5d5be64e9b7e0a7d4f3c945222202cd65b0503a783c4256a8a1b9e4f689c496d0cc532f318f9a8a804b5c7bbf4e4cf7abdfa2d2ca9709ac9dd138bf4405cf0ebbef3ab591e18683885aeeaf7c21c2a525b2bd050aa933d72eda6417ad1a9440117337acfcc3bb73c554ca38336c138f138117328bf30b4d1472be97f31d",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 88
+   "id": 86
   },
   {
    "source": "redakce",
@@ -1468,7 +1574,7 @@
    "host": "access-pointy.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 78
+   "id": 76
   },
   {
    "source": "redakce",
@@ -1482,7 +1588,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 76
+   "id": 74
   },
   {
    "source": "redakce",
@@ -1496,7 +1602,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 68
+   "id": 66
   },
   {
    "source": "redakce",
@@ -1510,7 +1616,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 58
+   "id": 56
   },
   {
    "source": "redakce",
@@ -1524,7 +1630,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 53
+   "id": 51
   },
   {
    "source": "redakce",
@@ -1538,7 +1644,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 50
+   "id": 48
   },
   {
    "source": "redakce",
@@ -1552,7 +1658,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 48
+   "id": 46
   },
   {
    "source": "redakce",
@@ -1564,15 +1670,23 @@
    "discount": "3999 Kč",
    "url": "https://pevne-disky-externi.heureka.cz/samsung-t9-portable-ssd-1tb-mu-pg1t0b-eu/",
    "host": "pevne-disky-externi.heureka.cz",
-   "extra": [
-    {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=558fbd44ae6147f613660f4b2ba448254c164f9806746b169a8aca783a7b83dd498fba94071f2ff3a6554c5f1a42129f5c6dd8255772482f14397c0e35494d069bf82421d96fc3e009469b972441b00b72f07141a500597ab649f3f02eede0a135c79dd8cb04ac4757b8250d9554ef2edc4e4a0e2818a000b31a20422c5cd4da18c44c41bc1c0639b06586025bf053ddd63de074a486d43aa7acf551280b2b9a9dd6c8a3a0120d0d4f0af6e9c9c00be1c17ff736449d0a03a9ef1de96002462d22ec71f5928acb728259b7124ae66a7269ae94163a629df00bed6d3a18db35dc40b288b5edcd9dedf1d3423a3f4feb9c1280c530e26f5bc08f9ad21a61c996ecd776aed513ad763965ad4d8a691e34f1f1747a7d5b27dc88804ab60f4886cee04e822e5a66740a72097e9df1993cd25fa159ac104df7ba484f0c94a43cb162d520f365ba80a4c3d48a9db0a97efabab139397eb0855b88064d921c73398ed5a4921b3df44f8747b5d7e08527fab4c457c9093db58e1e10fb4ace751082b7a94e03dc29e3a34ff0399a56a7d8a796a2c71ec7787a3960a095d4fe503c406295bb9f30a523a24e091399626c7515d0bf3edf9a7aefc7e85e8db0793d9f381ebc67db25547106f4d747e7ea38ef19f7776d52c532eb90fbe2e40a29b0fd5fa1248ee2fcf58106a1035a442a43d23aacb1285fcd30f03ddb363155060a0f3cbb92a29a9b3889db89db9791e71b8d91284ab199210d4e0a94f4cdfc75531b0668b54c",
-     "host": "serve.affiliate.heureka.cz",
-     "label": ""
-    }
-   ],
+   "extra": [],
    "expired": false,
-   "id": 47
+   "id": 45
+  },
+  {
+   "source": "redakce",
+   "category": "Příslušenství k PC",
+   "product": "Levná a lehká myš pro hráče",
+   "text": "Asus TUF Gaming M3 Gen II zlevnila v Alze z pěti stovek na 299 Kč . Jde o povedenou levnou myš pro hráče. Je lehká (59 g), používá odpojitelný kabel, má pět tlačítek, klikatelné kolečko a RGB podsvícení. Optický senzor je dostatečně přesný (8000 dpi, 200 ips, 30G), frekvence 1000 Hz je také adekvátní. Uživatelé si ji chválí, už se jí prodalo přes 5000 kusů a v recenzích má průměrnou známku 4,6/5.",
+   "author": "Hlídač slev",
+   "date": "3. 11. 2026 15:45",
+   "discount": "299 Kč",
+   "url": "https://www.alza.cz/asus-tuf-gaming-m3-gen-ii-d7996497.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 41
   },
   {
    "source": "redakce",
@@ -1597,7 +1711,7 @@
     }
    ],
    "expired": false,
-   "id": 41
+   "id": 39
   },
   {
    "source": "redakce",
@@ -1622,7 +1736,7 @@
     }
    ],
    "expired": false,
-   "id": 37
+   "id": 36
   },
   {
    "source": "redakce",
@@ -1636,7 +1750,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 34
+   "id": 33
   },
   {
    "source": "redakce",
@@ -1650,7 +1764,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 29
+   "id": 28
   },
   {
    "source": "redakce",
@@ -1670,7 +1784,7 @@
     }
    ],
    "expired": false,
-   "id": 24
+   "id": 23
   },
   {
    "source": "redakce",
@@ -1684,7 +1798,7 @@
    "host": "mysi.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 19
+   "id": 18
   },
   {
    "source": "redakce",
@@ -1703,13 +1817,13 @@
      "label": "2999 Kč"
     },
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=8d5571075e19347a9a2b9243fc9b1ad230e9d199437f9813dfbc858a1d9dcd65c54a87b0932d5fa2212a464b49f59e765dab7877312ff76692e17f9d289eaed054ed2b7f2cc1c3ec36ff420c13ac212680457e02b6279ebdeee5d5added0d5bf205edb451ac49b8068c3338b033184ca78f6c6c6583c8a204aa2e6d92fbea13771517fe9cae7f7bc7f5b09315bcd07c26fe65d4236d981c48180764043d5da78ba279d977458db76ee380dc74b959549b117d506da396edd3c63f6228d4f25703cfbe461294fde5487231b797b5988f422d629af973e50f5acd5698516e8bf11020ba0faaca93d52b49cc21d147ba3af7dc59e5166dff25f8d65268c3bb446222d0cb724602cd56e02ec0a7e43cd943deec6f4bd138488e409e658bf4d41468ef6e79c39b7bf2d9de5b866a1b4bbcc21256a680cd5f928d2e69939315fbe5eeabbc91d877beabe47bfb64554d9f5fe6da7da14ddd08ec0779064465eff14ea56d1c88c19aec4c6e8c8d9cffc067eec5c4fadaf21dd20fb9e2c0baae4264b9ae8e984f578ffe86b135e9794a79554e3a2cf81777b738114534bb9e3ed2e84cc4fb2eb94a4145af2ebadf6f0ce3194e37b571d8c4319068287970a6bb61cf560173f06818f120203c2796cb41427dadbda9a20d168e375bbd50b0ed54cbbf30b61c4ea9fe91bb6956601d33ed04dbe61a012e878c41fd77e357856d7dbd3c7d40fc0c438188f20ba65795ef4eb490541d6a436e022c15cf048f09b50a095244373",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=fca3702a0ba1c3cc2365441a37dfc792b23cc85470382a804e53be091d5ad648eebf9597a3f5c3c5007c41572def5bd4bd0c8d8b483f8260e792aaa3a98266d3daecaf9d83bbdcbb88084d86363c3e5315ed3778e9fa9c7bd96a85194a51f921e25547fcad7acf8436e76415a139c291855c4209bdf60ed75e6167cc24476a3fcb4ac5192edc6e6dc95c58555a950f9d2a196c1963d70c6ee8cd4f3137e2f0772107462faf5bbaed66f23a06bdf871671a822a15f1c1c0f58b8e928fe583d9a5f65571cc41553437c95642884481e9cea0b50979a0f92b31fc0e33c6a1f8c47e89ff53ba2e86d7f9dc8dd779a26901127e42095be95590feac8e74ea5a396cd28ab424a4fdd2348f3500f9a99aa078063d2ccefbf63c516832ed23a0d98d415cba39b8b30271013b0d7d6b3c8a30971b1dabacee6268e965b2fe3fe9e790796fa13c0e014bdc4d5977e3985025608011ab0c165915fe83c71c46aa265900ce53f26ceb9c119ad76def094c36ce167cd630d3d1d87d06d7bd54c5d6ade76fec49dd3b3de92dab5b56802a8c6d50fad457d33f35d11b7f42099b2dd6c652643e3d644e60936f24827be999ad6ede2f4858064469c59b79db509205bfed6b2d92bc084cbd7e85d5f80319d176e019b339fee899ee520971216c031ead14da6a50099fdc2bcfd064f75e492314d6f97461e4734bb0a771d8c2af551d9ac6d97278be3c4223f51fd3db2cd64bc827a37c9ad399bdba91a6f221bcffbb8f6d7c9fa475",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 14
+   "id": 13
   },
   {
    "source": "redakce",
@@ -1753,20 +1867,6 @@
   {
    "source": "redakce",
    "category": "Příslušenství k PC",
-   "product": "Perfektní vzduchový chladič",
-   "text": "Jeden z nejlepších vzduchových chladičů, který můžete koupit, Noctua NH-D15 SE-AM4 v Alze zlevnil na 1999 Kč . Navzdory názvu je určený pro platformy AMD AM4 i AM5. Má masivní základnu s šesti heatpipe, dva kvalitní a tiché 140mm ventilátory. Jedinou nevýhodou je, že se kvůli velikosti neinstaluje snadno, nemusí se vejít do všech skříní a jeho tradiční hnědo-béžový kožich se nemusí líbit za prosklenou bočnicí.",
-   "author": "Hlídač slev",
-   "date": "30. 10. 2026",
-   "discount": "1999 Kč",
-   "url": "https://www.alza.cz/noctua-nh-d15-se-am4-d4788211.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 2
-  },
-  {
-   "source": "redakce",
-   "category": "Příslušenství k PC",
    "product": "4TB externí SSD za polovic",
    "text": "Na Amazonu koupíte SanDisk Extreme Portable SSD s kapacitou 4 TB za 9924 Kč . Jde o suverénně nejlevnější takto velké externí SSD. Za tento model byste v Česku zaplatili skoro dvojnásobek a podobně stojí i konkurenční modely. Tento SanDisk slibuje odolnost proti nárazům, vodě i prachu. Je na něj pětiletá záruka a slibuje rychlost 1 GB/s při sekvenčním čtení i zápisu.",
    "author": "Hlídač slev",
@@ -1776,35 +1876,91 @@
    "host": "amazon.de",
    "extra": [],
    "expired": true,
-   "id": 193
+   "id": 186
   },
   {
    "source": "redakce",
    "category": "Příslušenství k PC",
-   "product": "Podložka pod myš a klávesnici",
-   "text": "Podložka SteelSeries QCK XXL zlevnila o třetinu na 599 Kč . Měří 90 × 40 cm, takže se na ni vejdou myš i klávesnice. Používá kvalitní textilní povrch, obšité okraje a protiskluzovou spodní vrstvu. Design je decentní černý s bílým logem v rohu. Už se jí prodalo přes 5000 kusů a uživatelé ji hodnotí nadprůměrnou známkou 4,8/5.",
+   "product": "Perfektní vzduchový chladič",
+   "text": "Jeden z nejlepších vzduchových chladičů, který můžete koupit, Noctua NH-D15 SE-AM4 v Alze zlevnil na 1999 Kč . Navzdory názvu je určený pro platformy AMD AM4 i AM5. Má masivní základnu s šesti heatpipe, dva kvalitní a tiché 140mm ventilátory. Jedinou nevýhodou je, že se kvůli velikosti neinstaluje snadno, nemusí se vejít do všech skříní a jeho tradiční hnědo-béžový kožich se nemusí líbit za prosklenou bočnicí.",
    "author": "Hlídač slev",
-   "date": "16. 11. 2026 18:45",
-   "discount": "cca -33 %; 599 Kč",
-   "url": "https://www.alza.cz/steelseries-qck-xxl-d12679311.htm",
+   "date": "30. 10. 2026",
+   "discount": "1999 Kč",
+   "url": "https://www.alza.cz/noctua-nh-d15-se-am4-d4788211.htm",
    "host": "alza.cz",
    "extra": [],
    "expired": true,
-   "id": 131
+   "id": 2
   },
   {
    "source": "redakce",
-   "category": "Příslušenství k PC",
-   "product": "Levná a lehká myš pro hráče",
-   "text": "Asus TUF Gaming M3 Gen II zlevnila v Alze z pěti stovek na 299 Kč . Jde o povedenou levnou myš pro hráče. Je lehká (59 g), používá odpojitelný kabel, má pět tlačítek, klikatelné kolečko a RGB podsvícení. Optický senzor je dostatečně přesný (8000 dpi, 200 ips, 30G), frekvence 1000 Hz je také adekvátní. Uživatelé si ji chválí, už se jí prodalo přes 5000 kusů a v recenzích má průměrnou známku 4,6/5.",
+   "category": "TV a audio",
+   "product": "Špičkový herní headset s nekonečnou výdrží",
+   "text": "Bezdrátová sluchátka SteelSeries Arctis Nova Pro Omni zlevnila na Alze na 7499 Kč , zatímco v jiných českých e-shopech se běžně prodávají okolo desíti tisíc. Za tuto cenu jsou bílé, modré i černé verzi. Hlavním lákadlem je základna GameHub s OLED displejem pro snadné míchání zvuku z více zdrojů (3× USB-C + Bluetooth) a dvojice baterií vyměnitelných za chodu s celkovou výdrží až 60 hodin. Sluchátka mají 40mm měniče a aktivní potlačení hluku. Počítat je ale nutné s tím, že samotné ANC patří spíše k průměru a plné možnosti ladění zvuku vyžadují instalaci doprovodného softwaru Sonar.",
    "author": "Hlídač slev",
-   "date": "3. 11. 2026 15:45",
-   "discount": "299 Kč",
-   "url": "https://www.alza.cz/asus-tuf-gaming-m3-gen-ii-d7996497.htm",
+   "date": "27. 11. 2026 11:15",
+   "discount": "7499 Kč",
+   "url": "https://www.alza.cz/steelseries-arctis-nova-pro-omni-black-d13297812.htm",
    "host": "alza.cz",
    "extra": [],
-   "expired": true,
-   "id": 43
+   "expired": false,
+   "id": 225
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "SledováníTV se slevou, i jako dárek",
+   "text": "Internetovou televizi SledováníTV lze získat o 25 % levněji , roční předplatné všech tarifů teď stojí jako 9 měsíců, nikoliv 12. Balíček M se 130+ kanály stojí 2331 Kč, nejvyšší XL se 180+ kanály pak 5931 Kč. Balíčky je možné darovat ostatním.",
+   "author": "Hlídač slev",
+   "date": "27. 11. 2026 10:45",
+   "discount": "-25 %; 2331 Kč; 5931 Kč",
+   "url": "https://daruj.sledovanitv.cz/",
+   "host": "daruj.sledovanitv.cz",
+   "extra": [],
+   "expired": false,
+   "id": 224
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Nejlevnější 65\" OLED",
+   "text": "OLED televize Samsung QE65S83H s úhlopříčkou 65\" zlevnila na Planeu o 20 % na 19 490 Kč . Jde o nejlevnější takto velký OLED. Tento modelový ročník 2026 nabízí 4K rozlišení, 120Hz obnovovací frekvenci, procesor NQ4 AI Gen2, herní funkce VRR (FreeSync Premium Pro i G-Sync) a systém Tizen. Počítat je ale nutné s tím, že jako základní řada OLED od Samsungu má skromnější 20W stereo reproduktory a stejně jako ostatní modely této značky nepodporuje formát Dolby Vision.",
+   "author": "Hlídač slev",
+   "date": "27. 11. 2026 9:15",
+   "discount": "19 490 Kč",
+   "url": "https://televize.heureka.cz/samsung-qe65s83h_2/",
+   "host": "televize.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 221
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Kompaktní reproduktor od značky Nothing",
+   "text": "Bezdrátový reproduktor CMF Speaker S zlevnil na Amazonu na 1220 Kč , u nás stojí o 500 Kč víc. V kompaktním těle s krytím IP68 a výdrží až 18 hodin skrývá 45mm měnič o výkonu 10 W, otočné ovládací kolečko i moderní konektivitu včetně Bluetooth 6.0, NFC párování, Auracastu a přehrávání přes USB-C. Kvůli malým rozměrům se hodí spíše na ozvučení menších prostor a z kodeků podporuje jen základní SBC a AAC. Specialitou je, že vypadá jako krabice od smetany.",
+   "author": "Hlídač slev",
+   "date": "27. 11. 2026 7:15",
+   "discount": "1220 Kč",
+   "url": "https://www.amazon.de/dp/B0HDYPVHWR?tag=zivecz-21&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 217
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Špuntová sluchátka s ANC za šest stovek",
+   "text": "Bezdrátová špuntová sluchátka AlzaPower Boost Pro ANC zlevnila na Alze z běžných 999 Kč na 599 Kč . Nabízejí hybridní aktivní potlačení okolního hluku (ANC), transparentní režim, Bluetooth 5.3, herní režim s nízkou latencí i základní odolnost proti potu a dešti (IPX5). Na jedno nabití vydrží až 7,5 hodiny a s dobíjecím pouzdrem celkem 30 hodin. Počítejte ale jen se základním účinkem ANC, horším otevíráním krabičky a průměrnými mikrofony. I tak mají dobrou průměrnou známku 4,6/5.",
+   "author": "Hlídač slev",
+   "date": "26. 11. 2026 14:45",
+   "discount": "599 Kč",
+   "url": "https://www.alza.cz/apw-boost-pro-anc-cerna-d12654089.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 211
   },
   {
    "source": "redakce",
@@ -1824,7 +1980,7 @@
     }
    ],
    "expired": false,
-   "id": 210
+   "id": 203
   },
   {
    "source": "redakce",
@@ -1838,7 +1994,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 209
+   "id": 202
   },
   {
    "source": "redakce",
@@ -1852,7 +2008,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 203
+   "id": 196
   },
   {
    "source": "redakce",
@@ -1866,7 +2022,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 195
+   "id": 188
   },
   {
    "source": "redakce",
@@ -1880,21 +2036,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 192
-  },
-  {
-   "source": "redakce",
-   "category": "TV a audio",
-   "product": "AirPods Pro 3",
-   "text": "Nejlepší špuntová sluchátka od Applu, AirPods Pro 3 , jsou teď na Amazonu k dostání jen za 4460 Kč . Jinde jsou minimálně o tři stovky dražší a sám výrobce si účtuje 6490 Kč. Tyto AirPody mají velmi dobrý a čistý zvuk, velmi účinné ANC a oproti předchůdcům umí měřit tep. Kvůli snímači se ale upravil design a sluchátka jsou méně pohodlná. V recenzi u nás získala známku 8/10.",
-   "author": "Hlídač slev",
-   "date": "24. 11. 2026 8:45",
-   "discount": "4460 Kč",
-   "url": "https://www.amazon.de/dp/B0FQF32239?tag=zivecz-21&creatorsDisableRedirect=true",
-   "host": "amazon.de",
-   "extra": [],
-   "expired": false,
-   "id": 188
+   "id": 185
   },
   {
    "source": "diskuze",
@@ -1933,7 +2075,7 @@
     }
    ],
    "expired": false,
-   "id": 174
+   "id": 169
   },
   {
    "source": "redakce",
@@ -1947,7 +2089,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 158
+   "id": 154
   },
   {
    "source": "redakce",
@@ -1961,7 +2103,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 151
+   "id": 147
   },
   {
    "source": "redakce",
@@ -1975,7 +2117,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 146
+   "id": 142
   },
   {
    "source": "redakce",
@@ -1989,13 +2131,13 @@
    "host": "sluchatka.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=40baf14561f77e8a89914a40676f1c8431625445677ccb62da362835ebb68fb04c33256d62f7608e3b2cc14564a6738f656ac476d67d8a7efa91517138ef59f03776b807a34dd779a374e0140395ae29d83bb531f8a8e238c1e9426e6d343a6629495236083a2e9a80c8b03a60c01db1f655575987f7218369e1b30d04e3f6b5fc0b2b8505f30df43b1a09f1d69b6f18219db1ea6b7d7b6d6e96258dd4721dbb69db6e592ec05ac4b5c23d537a60a7637c95633a809889a53dbd148cecef7fe21ef7b35cc67d1a6ea6dceb3efd50a3d4a5660a8ee4ba736aa886792f9b8ca025ef269f1ac649565f380ec3605edff94bb184a460a27e0d9d3619cf84f219c7a86ab343860351787a31dc608ea864801b4edca4a29e3d66c7bd8dd44da678d76d7fac02d8f795240d430c25828d9dbec37931c56413aa6ab04ca32dfae2fd9ae6b0e29b73ada4f8aab0a2eb3fc20119cb5b3d858e3c45e2bbcaa4095867d86efb536edb9de28e2aca1277c41f015140cc12fb22e4aadd8c1411e2f5a710db28d453aaac42e2acc523a9267b7321af857259619c572d64f61a02be72f6cd7383b7aea9430cb2777b545799d82f40b2e2902ea588947258eb521b65b535dc75c7d5335dacd53adb04ed26fd6655cbeed468bcc0c1821ef0b6be7ec6888aa6d1341ae03a29a372b82c8729602e3a257fd49944b121a5130c6725f0afa27d036511b5b0b08a03810ee5a5480ae27db2602775",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=c274cdeedb61628c8c4f79633e1acfcdc2fa0309166bfcf2ab62e13f058cf620ad02820adc94fd907631a2f42b98ac5f9b777902d788468f5a14d73f61957171a14d108a3ac37e3cf2dc0da82334bb41c17393ae51b32da79301b50832255c4e42fc2ae4e6d713a02a07c5d3aa6652b1c64eca4f98c6ac12233e760a5d32b827013cffbfa18a4f2fd5b37e2777a80aada9d62311bed3b92270f07f81b2822d9dd338e1478fa95b8372f62552b3444a2b846b7e7d4f907c818642ef5c8f2a22ce6dce07165a3fe54e7c7306632befbec6db423cb6b78285519a47bf1d60ebac5178f42ecebf1e43f391b7067997dbe913e8fc08eecc8b94d750c817e8e6532f205a7a176ca3156ba58185fcf49b66b0fd7283ac1ecd913eba1139331d77c16fbb609408f774a34124f5fd10c97b758ab07f52e759dad8ae14198d12ac9ecda3baff84c2b74fb6f32ab553f82051c53e2031896cdcf034fc99ccb2a069e3997029bbc6893c9db7193157af068f412c311af99f0b643abea3381865e82c784db6aa9648aa103c8d07e89ffb04fe30d471a0e270821a7acc8a08ba43ba633428896a63b1a9bce7e2a16fb34236e4cfc2abbd234dfbdeae6bb6f3f4c09ba068026df45886372d4b81d0893ac72d77a6a4508c6bf35b609b66bc7f2ba4af9f2fd3439bdee7a2c1ef7bfe5c4b4e61b5115ba89ebcdfbce3d13c14d5a611058a3f0bd7815510b955cab8be4f303d6aebaf12e303",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 137
+   "id": 133
   },
   {
    "source": "redakce",
@@ -2020,7 +2162,21 @@
     }
    ],
    "expired": false,
-   "id": 133
+   "id": 129
+  },
+  {
+   "source": "redakce",
+   "category": "TV a audio",
+   "product": "Herní headset Razer",
+   "text": "Na Amazonu koupíte bezdrátová sluchátka s mikrofonem Razer BlackShark V3 X Hyperspeed jen za 1634 Kč . V Česku stojí minimálně 2400 Kč, ale typická cena je přes tři tisíce. Používají 50mm měniče, odnímatelný mikrofon a připojují se přes USB, Bluetooth i bezdrátový dongle. Na jedno nabití vydrží až 70 hodin, přitom váží jen 270 gramů. Na hudbu nemá Razer moc dobrý zvuk, ale ve hrách bude dostatečný.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 16:45",
+   "discount": "1634 Kč",
+   "url": "https://www.amazon.de/-/en/Razer-RZ04-05420100-R3M1-black/dp/B0F93SY4BH?th=1&linkCode=ll2&tag=zivecz-21&linkId=b7f87fbf26c743738a18cd2126e9b357&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
+   "host": "amazon.de",
+   "extra": [],
+   "expired": false,
+   "id": 124
   },
   {
    "source": "redakce",
@@ -2034,7 +2190,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 121
+   "id": 117
   },
   {
    "source": "redakce",
@@ -2048,21 +2204,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 96
-  },
-  {
-   "source": "redakce",
-   "category": "TV a audio",
-   "product": "Streaming Dafilms",
-   "text": "Streamovací služba Dafilms specializující se na dokumenty a nezávislou filmovou tvorbu nabízí roční předplatné za 599 Kč místo 1450 Kč. V katalogu je přes 3000 filmů.",
-   "author": "Hlídač slev",
-   "date": "10. 11. 2026 12:45",
-   "discount": "599 Kč",
-   "url": "https://dafilms.cz/subscription",
-   "host": "dafilms.cz",
-   "extra": [],
-   "expired": false,
-   "id": 90
+   "id": 93
   },
   {
    "source": "redakce",
@@ -2081,13 +2223,13 @@
      "label": "17 990 Kč"
     },
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=038d1b999d68f2122323be436ea45cd134d91763e72629ac23ab32ece000ba137cb229259c8663b0c725c9de804357eb5479993485b5b788b9e197726f9618d16f78047b0c496417b1f385b81c931635bc5eeb35e66555c3ccf8c7f696daac4da7ac9d4ac95aed2d5c7945fb9dd8ef58e6f397cd759d0e34172d88b4c7ce912bc25b34ea14f85dbb8d6ff59f76252f01e24ed9bc8515aae38ce7bc750fa13ffb372a91e4bbfe80f1fb770ead11782ea1d8053e83bef405de7b22d9d5cadbb4e55fcc0680f0a12aad6a037c2a933b85317d04713d9120360ce5f949f0730869bb12895b2a72a2e2034544d3f9fa125754d3eb97a257d48267ab0eef27dda5daf0efe0dd086f92b02d6f2a77bf59e7a33f99e627753068f1f4bfd846e8b4055e834fff2cf3801caf8028713f67a96aaa3696e809cd0746727f162512629358485cff00798ae22798c4b83205993bd481a7f1be3b27fdef7b38aaf729c8dd35f6a9b976725b0a41c332c6e8ad060d18b87437d635a074b15c854ab7550716587e04a92e4ae0a855a34815be1afd2c331d590cfea04e861ea48ef0500a9a830eb3b19ec1cf89c2163a3d6cc51d2c96f2156f0a4e041a3da53e9c578d4443325669a647411d100c55da16fc00f58249d54d84530d85dd0415bf5cdc9d6d6cc7da622bdb58604b9335258a25c222435ad486e8bbdebdfafb82588b3e699b347df95d76",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=9b309025d0079134dade0e3ea438047697a44445d176ea9ee15eb7d7a5aff41bf79751cc235ba2cd268ab4fd32f93a71ac3c02a7050474382b5c0a1035f17ba8f5868b9532e20db2f79db476b672861351d8d1b01b1973d8963da3c5a970d86e89733d44a0710eca48c616e907165df4b470c47afd5945cd5e644cce89fe2cf67a2e5cebcb9d33dca8ef3c6b9a4db332beaebd85700ba2e497535b6bb3f68e7e436efa84e292bc56ef995a3a02d58b20a6cc0ace0ac8b09892b29fe0b3015df2195162ecc87c741f3ce80b301e6e54619cb86f951b548e845ac82e8e94027a0e9713ae5690bc900217c946225e204076a9f8003820c4752d1eaae8035d37aa41007e35c33249a7e47f6c1e51592205e7e8500154af1406746d392a44793c5e27a759d753bcaae5bcbd2a401b8249db124fd8c3b85e1db73d9e1d8129f667cae0386b241274e76ba5b177d2ba9756b660334ac748e8fbdeebbd7833bbc336a98256f073edbc9cd74fab5dce1247297ab87a19ea49351e4fe1103cac11b23d51c3df483944ad46df1ed4e16218511a69a43a7729e241411c28e312b62cb78864bf2a625e81f2254e9a3b27942342f1f8c3a0f81183d52dd1baa6baaf433e2240bed07248690bc068773d20492439233f9a0eb6d4b5e2af52c34872d1322f050cc4c228e3422ba9e6859133da21c8c3b19943b1c0d055b0150a2e34b59e1332703e",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 79
+   "id": 77
   },
   {
    "source": "redakce",
@@ -2101,7 +2243,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 61
+   "id": 59
   },
   {
    "source": "redakce",
@@ -2115,13 +2257,13 @@
    "host": "sluchatka.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=685bfd27c81045461414545d86860b17fd34846a2b20aee71ab22345d5d7c8061227f4431bb6eba3a3505cd151cc5a0ce9752396d9a3439fc76451a67f1d25d904d8ac88b659767d21053fa60cc37f12f32e5d7f5ff5147268d0048aeb588fc78a0ca228e15274fb6dbbfb0e602a44c5104615d8a1a71f4bd1397cefc2f01561e9e8aaeb61eeeaa45c71b49161c85292d8261ce90748a5f8174d7e691d1a00f572b0c4f9c1eb84b3b08461661473638a5049566dfbcea8211ff2268d9cd387497c8931bd3ea2f5d9450726254b7114222eb6853ce9a6639b00a27765f15b0d496c8144548543ebf5e7bece7a6afe22eacd464f86054e13e8f7db6f1947d648dd6faabb5dbff0694650e89a3bf11c0d981e737ddc6ea560a34da7433e937147f6531f85802a8b2da5b1be0ccd9f5ed6210a1ee6f734bf8ed117357a260e972333b84c502dbfef49c240444e0c318bc4931fd3f96b4a6a433a835f407a952cdff880058af74b13b1c1f2bb0e0f4d59f28071f43e137b2b04fc5af9c22a8a1234d088431e2ea8877437295b0432a66931f078ddd55da594b14eed4101bb2ab222d997a0af1e729077def96e36f9f00e69f452e0397bed03166d2478b0ee6c385818f3ce66e8901967b0dc1eb2ada8704f550325800bd056807b1dc2b2699f9224c683737d4577b32980e26fb30e36f43a8679abb6173dea66f6a953b9e40326aadada58c812ddd9d6eced8b21ce32e4d49a",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=8c6039211abd69e662d19b4887457c5f760078d72c4a70fee6c2f96efa438d6b77f6fdd26a504f69aef2655541ccef2ef7392e79b3374330644cbc49dc7e12039d63f223d5dd6b57a21c5853d66e3ad44e37c5bb1e7653c262be9549a90900e494b52d43b7ba15706ad6e8e9af5da3c361a808d606948c859e6705782bbf4a8f6367bc2ca05945af21e77917c70e7833f39f0cbe27a090557f327ff48a6b0db880c798e0b747dcc52eb6b6f23327b4689b6bd22668c1317f0731220aa1edcca036dfaeb3f3a6678621c15bb0206d7ba9f1278973ae5f2a517ff744cf503a699cd9eca021ae07dd646482165e27f8e4643f7b2b6c71a69402e72008ec52025b7902bd86816f4e8b70936300062183572f06b5de92936db5f5da3390c437c600c6f8ab7439b89d05ede4427fc1933c1887961d97ec15a2e7aa92a6681f954f6aea1eb2e34d2a52ee96d29ea77ec054357456f8fdffdd421f0ecf81ff2c66d59374795eb7a085a97959570b03fbcf850a01620b5c29d7479df31410fbdb817715777b870d00b341dbbfeab060260ef0ad3b6474b29558f274e3502e393573c273b2923d4af8225ddd15c74d184f6d6e3df70a7286e11c3288701a5ea1528eacb0d872e34902602b137e7736fce9132663e149d159ace78d64690c6c53dd0069fb8e7f3f0998d04e2ed109c41474bed3b1be0d3e5b8d8d73ae8d04e47469263f43d13b60dbb47bfb5e9a08574d64b5586e98",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 56
+   "id": 54
   },
   {
    "source": "redakce",
@@ -2135,7 +2277,7 @@
    "host": "soundbary.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 54
+   "id": 52
   },
   {
    "source": "redakce",
@@ -2149,7 +2291,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 38
+   "id": 37
   },
   {
    "source": "diskuze",
@@ -2177,7 +2319,7 @@
    "host": "sluchatka.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 30
+   "id": 29
   },
   {
    "source": "diskuze",
@@ -2205,13 +2347,13 @@
    "host": "sluchatka.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=348f8d311a22c2ad3df4e29b53eeeb20efba92d22d61ea706a0817dcfc95513171bef597ed0e352db161733ae921ef877e6c0630929269754c3cfc6a2f99239d27d4aa44d62cb566b2a28c809b5250e61871831b5349ab1aa0c0d8bcad586ec00b06d60626b6c61761c84e0eeb56a36c37c2c12ce85898b5e4e0881c0f784e4129cade7ffdfb0591dabb86c131ca139b9a5191b758b739555d04024c581af8fc830c2d1b6235d5a2c07572a5dc6235a687eb3312646ccc8fd9ffcc86065e9222ea4f26960c33eda6299f8d66ad686d4d7b5f40c3db3ea914eb7f63ff5611a94e15649b30ddfc89cfd0ef568923f4f3fe876b17472db9698712e3061b8e77c1b3f2d93da2dee710937201417fb1270e337c80bf498b77593319298af11a8b5c154632f061743167aece442491ab32ab53804fcb0fbcc92cbfb3562575a962d29fac67d6fb751067739e13b5de6a156598cb08dbc38291b1e30e5da744786e3893a5081f8c4e1ea1ccd5a25b3527c268eb78810f3fa7dc599ddaf6b2f2e9254e0fd57e474b5115bc80fafb1a11ba7be8ce3f793241ffbe09eec1a77e02d520f9808ecc39ec7ff98991010472d467eb23dec32d0745014c0163ae505c74169632aa5c308039f017e3580972832a1788bc1eb5692ce027504a951ae44cd21d299b189f23f6e47ff82455f4dfd5b9a949c91e",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=183acee7ea64f6688d656dab74dc762b5ac08d0234501f40d42e0ee3e04d7eb496c90cecb788f2a1c1c0b1470014e37283b00c2c265f226d7cb08f1f77fc9c372e1253a2f5613b09458697836cd40143ec2a1aaba310ef93c9def14d40b8f0299377b16323576bd2c7d1b81925bdd4b7f0cefa0366f44ce45b3d72708fd588c56cdcb23cb5d046fa3e1daf56e3c15d7a7023d249623465db7a34fd3376667fe46370d8077523dc4691dec6badcc5110517d9852bde8d1714770e38425c4d5c2d25d18780e8840914f456c95606c910b2b05e7efdda665dbda02969bba19d99d4999168295b5832a99c24e0bf3133d17863451306e129846b0816e0ae0c831de3acf0c3009d2be02f11eed000a8b5d55f9d236f38e1985654726ccdc7c86c39a1819b31eb676f0d218c53e953a1888ea5f23dfb4674f7f849759c7a270585f010d2cf8e7f2bc45d6ea2ac3e29831934fddd599717effcacb0d8197f8135b0f2ebf0d540fa6dff990a62fc936bcab3c1f670414093fe2a5e0fc5be518e51051c371dc6d567bc870142d518f24155394bf78e87504b8a03034c73b0c7d096beb5913b37a186aeb7a41650d96633e354029f21a00047eceeeb5a8c7874f3e8d4e4b9e0bc1c356acf01c2766a1b4d4ea354b7c2fd196261e42cef472377ca21ad6abb859b3f28c9735846a8f4eac6a0cc0358b1a8cfa8f566883d1762cd20873cda08",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 23
+   "id": 22
   },
   {
    "source": "redakce",
@@ -2255,20 +2397,6 @@
   {
    "source": "redakce",
    "category": "TV a audio",
-   "product": "Herní headset Razer",
-   "text": "Na Amazonu koupíte bezdrátová sluchátka s mikrofonem Razer BlackShark V3 X Hyperspeed jen za 1639 Kč . V Česku stojí minimálně 2400 Kč, ale typická cena je přes tři tisíce. Používají 50mm měniče, odnímatelný mikrofon a připojují se přes USB, Bluetooth i bezdrátový dongle. Na jedno nabití vydrží až 70 hodin, přitom váží jen 270 gramů. Na hudbu nemá Razer moc dobrý zvuk, ale ve hrách bude dostatečný.",
-   "author": "Hlídač slev",
-   "date": "16. 11. 2026 16:45",
-   "discount": "1639 Kč",
-   "url": "https://www.amazon.de/-/en/Razer-RZ04-05420100-R3M1-black/dp/B0F93SY4BH?th=1&linkCode=ll2&tag=zivecz-21&linkId=b7f87fbf26c743738a18cd2126e9b357&gaOptInStatus=true&ref_=as_li_ss_tl&creatorsDisableRedirect=true",
-   "host": "amazon.de",
-   "extra": [],
-   "expired": true,
-   "id": 128
-  },
-  {
-   "source": "redakce",
-   "category": "TV a audio",
    "product": "Ještě levnější Sonos Ace",
    "text": "Sluchátka Sonos Ace znovu zlevnila na historické minimum. Na začátku Black Friday cena spadla plošně 5690 Kč, teď už jsou skoro všude za 4990 Kč . Dříve se prodávala i za dvojnásobek. Mají dobrý zvuk, účinné ANC, prémiové provedení a hromadu užitečných funkcí. Pro sledování filmů jde o jedny z nejlepších sluchátek vůbec, podporují i Dolby Atmos. Ace skvěle spolupracují se soundbary od Sonosu. Více se o nich dozvíte v naší recenzi .",
    "author": "Hlídač slev",
@@ -2278,13 +2406,13 @@
    "host": "alza.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=7aeeb6fd3c2d79e4f9568777528bb713a991722a4c9110fee676f5335819ce3209857fa8231df212342f93a1dd338a93b3033877c94c8db48c683ba8b5414b7d56545385f0174a2171d0f867bf5e4a22445e9896eb2180a70ec08f01d34355ecd746237fed9afa861732a50ccb0480d090f6277097c551ae1d77fb00e4526f99404c3bed02a978614cf5854dcda429573a709a743cca9904893fef734d7130e95abba84d07cc4bd4df8eaaa01232f837e8be0baf96466602558696a933332b833eb1279ea4e448b43e2f7c1d261b6f252b08b211a921d6e8ee784fb5e34040ee66a7ddc3b4f3f96751438b4c08de629fa7077e7cf6e227213bb8c8b7075e20e34046b6a22d8b47df48e3ae633633dc2ebee08a8ad643b3d77705cea3b779193b5f2e185cdbbb4ae472b29d58509f6cff80801a3027a0d37c6c31dadf331fddd0df63d8b6ecb1ad7021d38c2e2ce57917325633fc0fe47d87d9aa6506288b03b1fe409da89e0b47b085b86066e99d2f1448ddca5a94ef9721c64bc20714c33af2f345bff4282798c17632f6b806563bdec6b4c0e26645126a36bf21447dfa966002380151058f82cbae09d90c9ac8bcc2fe0477fdf7a84591e991a0fcb65952acddeba7d14776a6505a70a31780ccf18313bb0543218a8d9adc3b53052c8ff43c06420f296bdac2fea3f1cd8edebc1ccb",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=bce8df6711923a5cd15c8002d1c86b88517041906dc83b18f0141ae09bb6452e3c240fd891b6885952b1f8ea3ce681e0ad4678c263548d10ffc3e6a1667f93db7942d951e65bd85efa006e66f58f05dc73a71c20ff042d3a883af398fedb76402812cbb89a64147675f3dc716b3deac2185c685a07fc88c43857403d4da679759d3918ec57bd8d02721b50c696fcf61a735116992d6d6e46f06af55e04639d9c9542b0a09122cc8cb1087d8980d0e061566460f1ad1a1165192409668ef69baf2dd36f274e33e8b2efae73f79e3dbe3e613fd0b746eec057e73a5ee4424c882423793a905862e05c86532f5ca26542d94832044c7de25248e7aad9946a2ee9093b0598821e7e60737521b10dca478f2e616496d18c06a4715166887ae96f0b822f92a1f2c4e17bf505b15ee5700107d727df049d2d15a45521ef4b21d9499ff9d89e619122454b14f62997a4c9724b42bc15b914d68a8e47d859dffd91fa44b531bf426a964410a45b32c4d12afd3c93f74b323b6f582dacf8e4d2ad9b7b7fb617023b977227bf9f9078663c939ea2e59c10f7acfe59084e41b05ecb6b48c6df37a823a8a3614cf81bf4b0b600631870e435fde49d991ca72264fb763a60010fcf0be95f08614cfd385f52a442d44ea021600c3e7ee187a0f53ac42c3a232d0dcb9b023716762b67dec90c1346b6b4d232ba07d70868f667fb5fe9efc932dfa2",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": true,
-   "id": 117
+   "id": 113
   },
   {
    "source": "redakce",
@@ -2298,27 +2426,7 @@
    "host": "datart.cz",
    "extra": [],
    "expired": true,
-   "id": 44
-  },
-  {
-   "source": "redakce",
-   "category": "TV a audio",
-   "product": "Apple AirPods 4",
-   "text": "T.S. Bohemia nejlevněji z českých obchodů vyprodává sluchátka Apple AirPods 4 , stojí 2590 Kč . Jde o základní verzi bez ANC a pouzdra s bezdrátovým nabíjením. Obecně patří mezi ty lépe hrající pecky, pohodlně se nosí a perfektně se spárují s ostatními produkty od Applu. Na trhu už je od letošního podzimu vylepšená pátá generace, ale ta je o devět stovek dražší.",
-   "author": "Hlídač slev",
-   "date": "30. 10. 2026 14:45",
-   "discount": "2590 Kč",
-   "url": "https://sluchatka.heureka.cz/apple-airpods-4-2024/",
-   "host": "sluchatka.heureka.cz",
-   "extra": [
-    {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=5c6e0373b3ca7b9e95abc1d4a245d82def24ad665bd7be10459a61fbb0ca2d9243ce1aee3507a5a5b7e3583af3004e3ccc03bcb99201770df74956e6182baaa607abe5a9b646d05fd9fa90009f3df7cdcb3260525e9049bc2b8fab48fbfc38caa64c51e87f652a058bb7a243bd017bfd754b2ed47618c366fe046fe86d381d9cb9a4d8693a8684962be16177c4cfa6c7c97e4fdc9ab6419cbc71a32f73fd72b0f3ee993b01ea1c96ff776d21c4af81af98ce4a1146b305dc5a4397e9f6467b444cd17c58385bab9fd437c4ab6f677f2692eb7265615abf249121291c26f5a2ccf0c3c8a3cbe010c73c14665c352fdb8c5f27f8bf4dad043716b3b3760f21227610508eed80b2d3081bbb2aa441f04aaad9d9b5eb5b9da8af2ec9563d84d9c2f7ea23b8263f524067d0a42eb4bb3ac2f634bc2f3061221167a89ed98a0d6ca8283ec5db5e805322f42a62ecaa2a4d796ae44cfc6457cdb7f2f3707c7ee1586b021a6bce25339830596027dbfbf18cbe442ac2f1686efd701b4e31c7364acbedce9414668860aa82117e18457fa5f5f2fe8e9f1c55e52cb79766f6c0cd80d515ee53c69669c0249e3a7ca4161bf87753d50f10e0da312491d52e8eaacd359413e62801d5065cc2d0399bf6bd009ec515963c292c03b4b10f96dbb87f9352f438279faa86cc387374e724d0cbc3000fc55d8f4a00aef5425fb1be6a8daf7dc0ec9c",
-     "host": "serve.affiliate.heureka.cz",
-     "label": ""
-    }
-   ],
-   "expired": true,
-   "id": 12
+   "id": 42
   },
   {
    "source": "diskuze",
@@ -2346,7 +2454,7 @@
    "host": "sportovni-kamery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 124
+   "id": 120
   },
   {
    "source": "redakce",
@@ -2360,7 +2468,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 120
+   "id": 116
   },
   {
    "source": "redakce",
@@ -2374,13 +2482,13 @@
    "host": "autoradia.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=df737a96e89d8bfeae94be682280ebe3b951f2a8125d0425a2225402785c26fbebb72f95df9436f0841ff0b8ac90209d24e7ff698b15333c6c04b26f681ea5f78366250c3a6ef67a66fc90ce978767d728a9fef24dafb422d2e354a79fb6f9d7f575c0539d639d34dad3263d89a025111b7d7fbccfe75aaf9d87d1361ee8a8276734afb684ead3a152a71fd3a311d08e0e7fc383bea8ea54e990223eca0ca035ea4e2d15e0b4673cc2019760630c66e8ca6a3ef3be71cbeed3688229eb9c3709cd1b0c22cd3907bbd19ac9bde184467959381a34c3b19195c2329020b17dbc9ecb771c1973f92792a5fb962ec47f2316b281720e648fc5d513e791c2e82261b08b8a4bc12c34bbed0819be131f9d5b5a91bf8f1f96b4e333555dc133c9f5f81672280cf425df666aefe79c97e83ca5a181c027473013bb0e429ab157cc49a5a0f66d7247ba2b834f248ae263014f72e1f601ed05a6027861c39a2b9e500c72e49c55a6c31134a60813ebb4f14f942812b69fb8a429aee24f317dbf0789655b5b85d16ce3f0281d97580e5250be51ac5430b21f0275463c8eb659a9530a9caf943c3a11de878dfc8b44aff6d8dad1432e4dd3917ec475b03b3bc738f3cd81d7c7644c8d3d756d848d33841e4fb094b61fe631c9523a0b397f2dc149ecb5584dcd2e852ac9346239dfd1d77d9dfadf08e41d135fbb115ebae2ff9887f854911a3a",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=415e1912b9f5cdc0187f175ea3a9b7cd4344c095e212568c93bf96a12fd995644f4ef725210eac4940948dad197ac3011ef66e8e5b0555ff3f024c9c8c0457906aedb3e9e91fd19e8fae898226e8867dea1bfc0a60a11af967e62b0c0abe8c32a1f6bfd9876f71ce2998f64453a238c12b3c2a92419c3acb99614bc5bcde68bd6f595e2bbd28afdde70c486acad28df824cebea43850ddf84230838930fbfdf71f1cbb49c4fdb1c28b1f83327aff2a62e0d27361075ed85e2752bec6885c64892b0768a1c60461338f78926df68bffe39384c78502090da2b1d41da78fb64e0d27e4c40fa9f242d948679dadb3a8f9d8b753126561beacbe99996145c84ee62f6f3efbc587fced2230965ce50194f3bfebf101e679b5309d54870b5ccfa1ce94c468c4ab84d05d4ab574da9c848210fb585d59ccfaec42058b03c2d9c3e699b190da27a927733655062cc61e2d6d1025c18913a21f90cdc333f3eb58aeac741425ba09c14fd758250f9882a8e0b922e9116aaa22189c4ea50697b0d85059a41536274cc158f9109b7429ff3f3f9c3ae8ce2d62a208f0d6cdb067b9fbcfeab063ae55fcad1da910d21517cf9dca2b6a332c7608b278584588c2bc60d1eba64314e84815a411f50c4efad6cad7bf58f56b9a6ddca00d3dcafc08b7b4787e4ff07b1c67ee9c265621967b45258a2b41f7ae0e421c5b490e17875cc2912faa9e2e97",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 82
+   "id": 80
   },
   {
    "source": "redakce",
@@ -2400,7 +2508,7 @@
     }
    ],
    "expired": false,
-   "id": 75
+   "id": 73
   },
   {
    "source": "redakce",
@@ -2425,7 +2533,21 @@
     }
    ],
    "expired": false,
-   "id": 71
+   "id": 69
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Hodinky se svítilnou",
+   "text": "Menší 44mm varianta hodinek Amazfit T-Rex 3 Pro s 1,3\" displejem plošně zlevnila v Datartu na historicky nejnižších 4990 Kč , jinde stojí minimálně sedm tisíc. Jde však o méně obvyklou šedo-zlatou variantu. Mají displej s jasem až 3000 nitů krytý safírovým sklem. Vydrží až 25 dní (menší model 17 dní), mají všechny myslitelné senzory, offline mapy, bezkontaktní placení, a hlavně svítilnu, kterou Amazfit okopíroval od vrcholných modelů Garminu.",
+   "author": "Hlídač slev",
+   "date": "26. 11. 2026 18:45",
+   "discount": "4990 Kč",
+   "url": "https://chytre-hodinky.heureka.cz/amazfit-t-rex-3-pro-44mm_3/",
+   "host": "chytre-hodinky.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 215
   },
   {
    "source": "redakce",
@@ -2445,7 +2567,7 @@
     }
    ],
    "expired": false,
-   "id": 205
+   "id": 198
   },
   {
    "source": "redakce",
@@ -2475,7 +2597,7 @@
     }
    ],
    "expired": false,
-   "id": 197
+   "id": 190
   },
   {
    "source": "diskuze",
@@ -2503,7 +2625,7 @@
    "host": "tachometry-na-kolo.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 172
+   "id": 168
   },
   {
    "source": "redakce",
@@ -2523,7 +2645,7 @@
     }
    ],
    "expired": false,
-   "id": 168
+   "id": 164
   },
   {
    "source": "redakce",
@@ -2537,7 +2659,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 166
+   "id": 162
   },
   {
    "source": "redakce",
@@ -2551,7 +2673,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 156
+   "id": 152
   },
   {
    "source": "redakce",
@@ -2565,7 +2687,21 @@
    "host": "sporttestery-computery.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 143
+   "id": 139
+  },
+  {
+   "source": "redakce",
+   "category": "Chytré hodinky a fitness",
+   "product": "Garminy na běhání",
+   "text": "Loňský sporttester Garmin Forerunner 165 stojí v Kupkolo 4590 Kč , patří tak k jedněm z nejlevnějších hodinek výrobce. Má 1,2\" dotykový Amoled, ale i ovládání tlačítky. Svým zaměřením cílí hlavně na běžce, ale nabízí i další sportovní profily. Nechybí žádný podstatný senzor, hodinkami lze i platit, v běžném režimu vydrží až 11 dní. Oproti vyšším modelům chybí offline mapy, svítilna nebo některé analytické nástroje.",
+   "author": "Hlídač slev",
+   "date": "16. 11. 2026 13:45",
+   "discount": "4590 Kč",
+   "url": "https://sporttestery-computery.heureka.cz/garmin-forerunner-165_2/",
+   "host": "sporttestery-computery.heureka.cz",
+   "extra": [],
+   "expired": false,
+   "id": 121
   },
   {
    "source": "redakce",
@@ -2579,7 +2715,7 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 118
+   "id": 114
   },
   {
    "source": "redakce",
@@ -2593,7 +2729,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 109
+   "id": 105
   },
   {
    "source": "redakce",
@@ -2607,7 +2743,7 @@
    "host": "eshop.o2.cz",
    "extra": [],
    "expired": false,
-   "id": 108
+   "id": 104
   },
   {
    "source": "redakce",
@@ -2621,13 +2757,13 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=d3d9623b6b6ac4bb940e1e2536203005514e8922796fc7b05c4d32e7f87d7e56092c85f9f505cb0bf54680775f42909c8de8239f8c31c88ce1afb51b170e48871ec709f307077977f89295c7de88fbf68352ba9d6cb9d1d9c6e3befcf7b41fae34f154299e7031b4d35c35c44a44cd096de454892c701c39e47fb5fbbbb601089bc65090757591cb9483e6808f6279e41fa4657a83d9ee4457ff00300c806c554de738d3da23e8ddd49160096cad648d3874b1194969ee2ee187e926bf0511b4a8e1ec63a1f6d448aac68299dc42b86b03ee89f073a6793f06960812e90baf28492f0a7b7d1330ac93dcb8128434978ce4364f84309f7b52833696bf8af1ac670d399665ae08614af834894878f8f240eac19c5d952358f8e09108320209726149d130647d34c381a8c44bc45567ae7e3639eab8e6c7bf1ec44f68df34c79a8ae3b43bcbd2d15d8c218de1e87f7f23133d6408a997e950992880fe6fffb25152bdca75c12b0fbd5b56cbfe5fd1362b722871ca4912ba9f252492658fbd4c9144a81b6cead54211b451589fedddd10cf243a9c6765ac28c0c76add37d099c1cfa1f084fb1b967735515c17d775eef0078a22f1de9dc36e57764d571ca2bae0db4dffa174469ad24c1d2ebaf6cc2560ed39e29c27a04cd29e7b25dad6ac0da8f5f2714c7f1fd24bb70ed6f6b8cde01ad67663ee73fff2144c234275709fbc71aea9864c570215a10bf3ffa0b051a4ae5fd",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=564dc0805fb5a72760f1f39ebbfd792ca8dfe7fc5ce9e97a8a7ce1da322e03b7e54001d1ee2f15e2a93b59e4f09502e3b0544547ad5a4fad688001a7a8d843fd058876a7ce016b88e83b91b4a3dd242d24926466cd4868439ccdb43ae2e73ac441def75dd4b73daf6e656e049a4f3a95d12c1b9e9a4d259532b07cab3564b1f61b1812ba59816dcaa07feb2294741ec625d1de417bd0a49a36b73140cdf71693d45569136ad9f93f0b5b00b7ece91bfd845a209dc05dd0c9e8caadaac3564eb1fe6f5fd9aeb1e5dcbccdbc41810b3f17be902b559aba024307a068a929a4bb872733fc0424c672ab25719b59a327b560fb73ddfc2678d60df1728f27b6e46ce73b9911ac8f4f434d8fe2231ae9b815f175432ab85c7e5fcdcd54af8cbc736f4a020414ec6cd41407db822be5f331b2349d63e351363d04b9356caffa6e88f8d28b51b6aab7ae2ddba21628bf281f6c337ad39971e36517dd8c5fbd69f396d16070c1c58232e4d043eb26c92a9c9c377d68742cc8a36dd8e5aba077274d4a894fe827eee4291905bb57f039ccfc9ad13c12ae1fe804a2f3e16c32b650ab0e3010065dddcc2b82e876b884f5b38cfe142e13e15b9e6a21ccdef8418e3f470b1a0eabef38b0605818f5be0f78956421ba291291ebf59e5289c771605b44343d3367656f9db8aa4987487c0fea38b76dcba8a967a7341c8e10644ee23e8a6a78af00f8d84cd93ec7ba7cf3ebca0ad909cb05",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 98
+   "id": 95
   },
   {
    "source": "redakce",
@@ -2641,7 +2777,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 66
+   "id": 64
   },
   {
    "source": "redakce",
@@ -2660,13 +2796,13 @@
      "label": "8790 Kč"
     },
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=a0bdf17222dfa3fa65fadc84f3f47a3933474f7ee56510f501a4543408296034ddd6cd3171d95f1068d01f3deede42f8304ffb2bf9b591f6a1800ae978cca173dd6a6dd1a6271f04c9abe41cac2ded8975ab2ab60ee89b87729714d78b4e272aa1b965e245d5f81c3e6bad8f8f0bfab86bc26aac8bdf1cd70e629831e02f247d958b7fab9dbf852c0976fddb0d7fb58f20dc13af6c975d893cb08a5b759c96b28a4b4f9b88f6b11b4e5b5c0e336afeff57c9c9921fdac6b33168ed4ec5795947dd34f9f44e5b974b5bd12bd822fc929511bfee808295d57d3eb62fb98952d6e231f74019fdb34f7d9018ab045f128385b88cba03aec7df6e464ae5b35fe5d3dee2c4082a90dd1c48751090a5915836224191a9ba53290bc22eddf877a1495bddecb4827625ce45ee7e1df4f7dec59633b052c066560a0231426f359e82adc87e00afda803e1cdc9432a9098437645d179ec655a4aa40ed340707d75931fa751d51a90cba059164f2c73c1a5f10f1a5c174fbe4885f816786370796d561267d1344c9c274ec7416b9c38b73077d7e6a618c41788bd74bcc44d44e53c7ef2d03563030c70752a094cf89686e41435f41e61bb8f767969eb7465b954bae8723203ef9c34f5e14b147f45d9185a9096788b2535efe2c7ce1b3b9fa4f2cb3263f0ac1b5e9f8ae44282ef2716e218697776db2cc3e9e8223c417772cc1536cdb599b0b8ebbba3564bbc85e4ecee148a7a49e9a376498633457b5003d5bd4de2475a40148a34d720aa26de414d646f10dd1c86391093233d40614e52658aee22013aa0c5fd8c281cd094e17b99d4a22e23fc2f4",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=d62da3bb9b13e0e978800f2da14ea90e93546b2e137b98fb8ba2afd972a80ba901df612c717ed8c62e1080e8e6e7c009d810a8f62a7a90976220579a97d16b7362c526d2272797a4e20e1177a8c4182024ccad7d720721a3965a86a100b982bba4fe7494fc72b1e8604cf5a29999141c0a8c44a58604f2a3c6e1e535e8ad2dd453b820a97c08be34260298cd7b0d55370559b4ac347156afbb6ec7984486d8976b160a9ec517a449dc14e3ce55a3b30b3de425cf224ba66cf777897f194258c2036ec44d9c02952db497dc35ebbc432a8e9073a75427060d7cc7903416070e0e0df4abdd58b32097b4b238562d7f022fce9067cc07c4d1613cd570683919992c935c0afa2158dd52d6be2a6d0ce8a62de97926ee727fb2af890b4fa3935623ef9dfe60a62bf2bc2bc1f4a66fd09ce144918c1dd31be067bf1b8a98b193914214b11f54bbf4f853960171aed29c2aa4fc91cfb7a4874a108ff0584a8f3c3470d3da3f50f2bb7aeafd5c74e8c2b8e855e8ed4966239447c45459614d73635413a35036735baf8cd0a1c8674d23495e65e77320edfa7998fee64abd2a5a8dbb274608934ce6fc48e37dbb6ca80c7f0f05a53130ffb79c968c83e53f2b2cebf8f29f7a271947c6241abb6d825d73160fbbb365ab8423626c00a82acc67b6e9f1d6bd1f7f0bbf93adc30c319608a7064ad1649a8db43f79cb90944a6e6865d5c0306f45e8298a9c0cd8471830e033ffffd2ea47b678674c7be9ea20b68c993fa14b0c806423e402c2c39c8e8d72601111ee8ea1542cf8499b83dfc427f2908960050a21056b67a38d1116ba97a9d9434613f0",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 63
+   "id": 61
   },
   {
    "source": "redakce",
@@ -2680,7 +2816,7 @@
    "host": "kupkolo.cz",
    "extra": [],
    "expired": false,
-   "id": 49
+   "id": 47
   },
   {
    "source": "redakce",
@@ -2700,7 +2836,7 @@
     }
    ],
    "expired": false,
-   "id": 46
+   "id": 44
   },
   {
    "source": "redakce",
@@ -2714,41 +2850,35 @@
    "host": "chytre-hodinky.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 45
+   "id": 43
   },
   {
    "source": "redakce",
-   "category": "Chytré hodinky a fitness",
-   "product": "Hodinky se svítilnou",
-   "text": "Výborné sportovní hodinky Amazfit T-Rex 3 Pro zlevnily na historické minimum. Model s 48mm pouzdrem a 1,5\" displejem stojí v T.S.Bohemii 6999 Kč , jinde je v akci za 7990 Kč. Menší 44mm varianta s 1,3\" displejem je pak plošně, například v Planeo za 6790 Kč . Safírem a jasem až 3 000 nitů. Vydrží až 25 dní (menší model 17 dní), mají všechny myslitelné senzory, offline mapy, bezkontaktní placení, a hlavně svítilnu, kterou Amazfit okopíroval od vrcholných modelů Garminu.",
+   "category": "Telefony a tablety",
+   "product": "Bezdrátová autodiagnostika do mobilu",
+   "text": "Diagnostický skener OBDeleven 3 zlevnil v Mironetu na 1 876 Kč , jinde je klidně o tisícovku dražší. Bluetooth adaptér do slotu OBD2 umožňuje přes mobilní aplikaci číst i mazat chybové kódy a sledovat živá data u vozů značek Audi, Škoda, Seat, Mini, Rolls-Royce, Lexus, Ford atd. V základním bezplatném tarifu zvládne běžnou diagnostiku, pro pokročilé kódování nebo aktivaci funkcí na jedno kliknutí je však nutné přikoupit kredity či roční předplatné.",
    "author": "Hlídač slev",
-   "date": "3. 11. 2026 10:45",
-   "discount": "6999 Kč; 6790 Kč",
-   "url": "https://chytre-hodinky.heureka.cz/amazfit-t-rex-3-pro-48mm_2/",
-   "host": "chytre-hodinky.heureka.cz",
-   "extra": [
-    {
-     "url": "https://chytre-hodinky.heureka.cz/amazfit-t-rex-3-pro-44mm_3/#prehled/",
-     "host": "chytre-hodinky.heureka.cz",
-     "label": "6790 Kč"
-    }
-   ],
-   "expired": false,
-   "id": 40
-  },
-  {
-   "source": "redakce",
-   "category": "Chytré hodinky a fitness",
-   "product": "Garminy na běhání",
-   "text": "Loňský sporttester Garmin Forerunner 165 stojí v Kupkolo 4590 Kč , patří tak k jedněm z nejlevnějších hodinek výrobce. Má 1,2\" dotykový Amoled, ale i ovládání tlačítky. Svým zaměřením cílí hlavně na běžce, ale nabízí i další sportovní profily. Nechybí žádný podstatný senzor, hodinkami lze i platit, v běžném režimu vydrží až 11 dní. Oproti vyšším modelům chybí offline mapy, svítilna nebo některé analytické nástroje.",
-   "author": "Hlídač slev",
-   "date": "16. 11. 2026 13:45",
-   "discount": "4590 Kč",
-   "url": "https://sporttestery-computery.heureka.cz/garmin-forerunner-165_2/",
-   "host": "sporttestery-computery.heureka.cz",
+   "date": "27. 11. 2026 11:45",
+   "discount": "1 876 Kč",
+   "url": "https://autoskla.heureka.cz/bezdratovy-diagnosticky-adapter-obd-ii-obdeleven-3-s-bluetooth/",
+   "host": "autoskla.heureka.cz",
    "extra": [],
-   "expired": true,
-   "id": 125
+   "expired": false,
+   "id": 226
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "Slevové kupóny v Lidlu",
+   "text": "Lidl má dnes plošnou slevu na celý nákup v e-shopu při využití kupónů , které si musíte aktivovat na webu nebo v mobilní aplikaci. Nákup nad 1400 Kč zlevní o 150 Kč, nad 2000 Kč zlevní o 300 Kč a objednávky nad 3000 Kč pokryje sleva 500 Kč. Kromě toho při utracení alespoň 3000 Kč získáte kupón na 200 Kč do kamenné prodejny.",
+   "author": "Hlídač slev",
+   "date": "27. 11. 2026 8:45",
+   "discount": "1400 Kč; 150 Kč; 2000 Kč; 300 Kč",
+   "url": "https://www.lidl.cz/c/black-week/s10080642",
+   "host": "lidl.cz",
+   "extra": [],
+   "expired": false,
+   "id": 220
   },
   {
    "source": "redakce",
@@ -2762,7 +2892,7 @@
    "host": "xtel.cz",
    "extra": [],
    "expired": false,
-   "id": 186
+   "id": 180
   },
   {
    "source": "redakce",
@@ -2776,7 +2906,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 184
+   "id": 178
   },
   {
    "source": "redakce",
@@ -2790,7 +2920,7 @@
    "host": "nvidia.com",
    "extra": [],
    "expired": false,
-   "id": 161
+   "id": 157
   },
   {
    "source": "redakce",
@@ -2804,7 +2934,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 160
+   "id": 156
   },
   {
    "source": "redakce",
@@ -2818,16 +2948,16 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 159
+   "id": 155
   },
   {
    "source": "redakce",
    "category": "Telefony a tablety",
    "product": "iPad Pro",
-   "text": "Allegro prodává nejlevněji ze všech obchodů iPad Pro 11 s čipem M5. Verze s 256 GB úložištěm a Wi-Fi stojí 29 990 Kč korun. Varianta s dvakrát větším úložištěm je za 34 990 Kč . Jinde jsou o několik tisíc dražší.\n\nPro má jemný a jasný OLED displej, ohromný výkon díky čipu M5 a 12 GB RAM. Nabízí výborné reproduktory, Face ID, Lidar. Díky pokrokům v iPadOS už navíc velmi často dokáže plně nahradit počítač a dospělý desktopový operační systém.",
+   "text": "Allegro prodává nejlevněji ze všech obchodů iPad Pro 11 s čipem M5. Verze s 256 GB úložištěm a Wi-Fi stojí 29 891 Kč korun. Varianta s dvakrát větším úložištěm je za 34 990 Kč . Jinde jsou o několik tisíc dražší.\n\nPro má jemný a jasný OLED displej, ohromný výkon díky čipu M5 a 12 GB RAM. Nabízí výborné reproduktory, Face ID, Lidar. Díky pokrokům v iPadOS už navíc velmi často dokáže plně nahradit počítač a dospělý desktopový operační systém.",
    "author": "Hlídač slev",
    "date": "19. 11. 2026 17:45",
-   "discount": "29 990 Kč; 34 990 Kč",
+   "discount": "29 891 Kč; 34 990 Kč",
    "url": "https://tablety.heureka.cz/apple-ipad-pro-11-m5-2025-256gb-wi-fi-silver-mdwl4hc-a/",
    "host": "tablety.heureka.cz",
    "extra": [
@@ -2838,7 +2968,7 @@
     }
    ],
    "expired": false,
-   "id": 155
+   "id": 151
   },
   {
    "source": "redakce",
@@ -2852,7 +2982,7 @@
    "host": "starlink.com",
    "extra": [],
    "expired": false,
-   "id": 152
+   "id": 148
   },
   {
    "source": "redakce",
@@ -2866,7 +2996,7 @@
    "host": "vodafone.cz",
    "extra": [],
    "expired": false,
-   "id": 147
+   "id": 143
   },
   {
    "source": "redakce",
@@ -2880,7 +3010,7 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 138
+   "id": 134
   },
   {
    "source": "diskuze",
@@ -2922,7 +3052,7 @@
    "host": "myheritage.cz",
    "extra": [],
    "expired": false,
-   "id": 106
+   "id": 102
   },
   {
    "source": "diskuze",
@@ -2950,7 +3080,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 94
+   "id": 91
   },
   {
    "source": "redakce",
@@ -2964,27 +3094,13 @@
    "host": "mobilni-telefony.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=b6982b377750ec81991230b3e0157c13f6ffc551a16f3c870bb3df9608761e22eedfd36362c0d5f38d62eaac9857e54bcce76f21209f281d51d53aa9992339d7ad8608e8cb855fe11641bbc882e08e84e63ec1b07e0b0997e27a170a1a0a445372cdcc08127ffabe450d989d1c843eeededc52a35dcaae25466f2836322fb960d15aeb2477db5bd714fbc8dee92c2e78365a7dba20f4102eb9742ed3cdc7bb8b1e09a6046477b13c82f6973174c40ef7a2872964f69a4cf855be61dd7a190aece0d4d5a8a04247448331fc62cb2f236f9f7d3e9e7c3ba887cf8972c28fcef83392d068e30d883bfce858a331620b2cab41440bc9c7fc924bd20b9009d103343548307ac11dfc19825a802cfa4a1c6f5c1618f311742630fd620f6f780e01bf8969f148bd24ab0b2f9385c258ebbc48710542101379271055ea89a7702193ef6816d41b4dda2ab2eb4a53a15fbc077b8488e074c99dfdda0890c749f22bf0d913956114c33b6430f68dc3bad667366e9b40502b94f2cac4421523b166eef46c6ab4ba9f4319392e64fc1c48d3d7ca899313ae5afb084cd66835222af90b9f41c1a9544f9782e51c7c8cb1ac3902df898c2b431d1c63e748f2317a0adbf6411a8c7849a85fec80d9fab9b4a1a4cd100e593d8f9333e38d6d9ae8970117146a9f1404b8f7f71016f5efe3f1e5a734509fb1ec2b724f24f1c6b8039e19a0284ed6cc920f9fe5cd6e68b640dc07f75fc60124",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=04bf05fba5fd91f8111a6ddb7c8dbb75cd44648fc7a36ea7483129e1f375326ddb08812b1ef84a0c524db1ad0d54e77f242a1cae40e1b75502758e7bee254a245a1ba7d4bd3d738cd83aeef42f66d42af24cf96c745d13f3bae497d7cbc3408c1c84fddbb7e369fd843b5441efb6a2bdbcc8880af415c7ac2b3560edb6421ff7076f5b0537e3096aa457bcde5767a300863e477b2977861f48cb92372621770e41cc5979f68784aca50dd80a111c4627a8b5ea3e5b51738dfca0c05678d3b9f77b5720a89e6631044de7c6d8d03737edb1cb2a4e68036571beb45dec0948872c8c542d4c89472804fa61d984d99f746f29b8427733057fb7710224d87a3d8da4249ab342a778bc097cc15cfc2a1d459d73f8a0cf9f07d428f6a1985d32f206143c1aafd8b146942fff8da5a4c66c838310eed29f375286e359779087ea6ef2c72f1cdcb034a7a72967d958aa507f1bd4c7917359a50591f81fd4952a82060f60788a51e029555b7b2992e545166c8b92c069cd790569c7f990b6ba668bb3af15d08aa7472111adfbb32e762e22b30ddbe6b00c02e7336630ef3b5ba48a1eff42c9db973ddf957ea98d523cee29009e06aadf12819be181bfbce0e2e26028172efa35ba54d3144aa25319c0eeb8a494cd89b7d319ee078e09f25a979b1c3332ba6481bfbe01a32cb84dacaf2624adfb2532659bf9cd9572ef3f442a894d13d19a49e78bc384e5b8bf14332767ccaf9fa6",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 89
-  },
-  {
-   "source": "redakce",
-   "category": "Telefony a tablety",
-   "product": "Nothing Phone (3)",
-   "text": "Alza výrazně zlevnila smartphone Nothing Phone (3) . Verze s kapacitou 12/256 GB stojí 12 499 Kč , loni stál přes dvacet tisíc. Nothing láká na výborný displej, dobrý výkon a tři slušné foťáky. Je voděodolný, má bezdrátové nabíjení i rychlé kabelové, pyšní se také dobrou softwarovou podporou. Tahákem Nothingu byl ale vždy netradiční design s průhledným tělem. Zde je nově doplněný o speciální displej na zádech, který může informovat o notifikacích apod.",
-   "author": "Hlídač slev",
-   "date": "3. 11. 2026 9:45",
-   "discount": "12 499 Kč",
-   "url": "https://www.alza.cz/nothing-phone3-12gb-256gb-black-d12988515.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": false,
-   "id": 39
+   "id": 87
   },
   {
    "source": "diskuze",
@@ -3017,13 +3133,13 @@
      "label": "22 990 Kč"
     },
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=684d9f0f2b9b289849891759828aebca2e9f8ade9af80cd0fb3494e93b00ea128e6a140819128f77e61d2410f8588b668e1f84c5cd9601ecb9c062f5d9cd1621f587c9f5bec3dc055a51597fb07a7f83d8dd818cac82c00f46a10331c608ab9666115d1081d863d0d1b098eb3b4c5590f24c11ff5273c9e5a99935e1eacd3f242d40ecead5f6386a694061e66e5c1681b92e345809934a86566b7f9bf18542e2250dfb409ca22ae1816f087e68d42f56d8bc568c9f46b9858c4562059b8b005f6349a28aba5c12e10d8f825689553d1f7fbadcae4575a2d2c06836eaf6d875406335aec40f36943111ad10e3bd8bf33e0d02dfbf842d0fcad28fa7b3924fdb4961761afe6028d128e60f78aa071eb9dad38bcd8bacdfbad5006a46dfb61786135b91027784b33807db05cdfa28a2c4ccbaa79111c64cf911f9969b7ef326bfd53c86a16a5e1a4fb39584e7f4e3d564023ba5f373ac3ae4a2b4dca061ad90c9bb7c3b5e8aa81f6c8dd22155c9a0a8c00553ed72547f5eb138cd4603f20c1618beb1fa6d5d4a7c904fdef90c5acdedf05d5010ac537fa6c202d39ab7fefa8a638e5380f4c7141e30123e890a6c11ff4d71feee20b4cb0abdd083dc4b12cbb84186e6e0df58cddd224c780f0bca3107e8af44be4735dc8b23b1e8b451d07732a801e75831229204b2b38c06034f394c977f6e1f19a457a57e1b371486987130d8aac2ccd684598543a03c05bab3791b0d353899a00a45ba737caf4e8906d8da99ce",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=b2e30efe2882a3be869d79516feb4c43e8fc38e5b688de213ad26afef25e7da622dabfefbe18b434269eaad79f66b7fdf0eaabbd4b7ea0265fcd3c42be0294f89288047d54515a6ffbb326219d82db7a8154b0a32e31930ea3fc143c9b6a11c8061d867318da8fae8b29c202bd600d9e9862ed99d5a9b7ea0ec8cb3a417dc1105308a942aa65db609d0efa36108196282fa8f0ffa7c989dfb90bb3a248420c217b19c2b38f6f8ed1a2dfdf15f3f6f4fc7fea527143a4da3ed25e26e23a233f68715df0399fa10f50edbedddf026124509ff68096e4dbb8e5fe54b884b0b664e655972434fd1e55c7635fd51eb1ae68b0b8bdc8444acd4287cb25673180e3b9df24d879ea37e881276e5548791cbebe3ab0a195dcacd4a036e5f28e43c07aa4ac1b9a6b00a9439be693ca8b3121b944419fb70c86d3bf9afbe1d061bf41c133d026c4b9a21e63d747f64f3f5e5551215c598fcdc167e97ca464ca159debef886081d88733877715465b59c58b72073dbd49b690962eb54a70c986ee5bd8df4e5b78b0f90e590aff2b61ea43fc9e18df5c111de28c986ac9e82f77b313b4825d754a7493e40d11c9c98a23506efe42a63125ab8c319963d81709819d5bb274729a12a2ed70da6a40a2e3d28da1a532a1750a5db3aa6068f5199fbb53a1433b101787e7b666c30792d5fbe1fee93502a3ad71501bfa300e0ecbe1cc0ca6aae377f42e96e342c01e8eb0d001355dccc47513bad1ad43b23d0a75380cf8fdebde3c68",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 18
+   "id": 17
   },
   {
    "source": "diskuze",
@@ -3079,13 +3195,27 @@
    "host": "tablety.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=01b80e7acba11575f3b4cb6d7e2c80b446dc683e8b41e7df2a084a0bd1f4c1111467fe4645657298cd18ff4178b4990e71bbd6e90157c7ecfc7154d8df60345236561b86827eab73129d531bb0a5d5b497ad3c646f02931a9d8e1be8c47140ddebb400156ddc0ca58e88976968c07554d895d478b5b0c8ebd680422987633c6d4068520827381882006bf564abcda0309423ea15c5a2a87aa524dd365f6b50c94dce2e647524d34b02426bb2e1dfb0c421a757a98280c5de41fc67096d5de704145f016113636e8e08d074709a806b2f518a9061651b45ac7952cf75a858e6e8cf1e11a9e1c424037f206aff3e4101b2df6fe311a647a96259c28eaed484f90126e2f3eb058ccdfd756aedd03641bb9a01df2d77cd3d2512ae1c4600339a0262d9f2929b2ae681ba188ff2629d4db473297c9b289b994978609c2cbf33a708040d86a9d3d5c491033ab111b337112f0c1444f585d5c0db158045795042199550c7699aa41597884e07111efa841b756e2920b39044dfa5a663d29b49ba17721d602c7e7d32e814d899ae543d323385356297cc2573c7ed5cb41e694b234f9a622f1e0e6199ffe3c06d800231b2c423b20bc2f1acb223092199676c89ff9fc79593f4200676e9a2959cf30d6d93ab20b17ef3d8c55aec1d1fc07024d3f6f5f674b44f6bf5b1c68ebc39ca28afabc2618c6615114416e223bc25ec75c5b368c45631e291ac4a080aa9ebf1b8453fea5673f501a41c7930ce62ff274b88b18789df",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=60885fe611d18b533f8fff1749ebf32e3848666f88fe645b0da34b7f86896c3879d236a1ef2e176c6e28e71d0e73a09094fb8a6b6c475c7b0924662c20e0a918b9726b54c10a5bd79b0529cc9cc3b8acb09a284f24b2758800253f491fdaa0b465e61f0064af446d57bfdb384e6435b3ccfbdba8b240d4a6a85180b5669cea5db9cb01e2d32291b95bb0ad8b0c3fb90c9d7547f30da4d9a0a1c3a943850d1fbfd4b04556a4323a17c4404a4a4666248216fb6ffdc068f6201942e127f71e271b5628f04ee8bdbbc7a3adbf920119250a245d6589593b5ed93a88161511173a94ce6fce9a8617d47aba515ad2d48536f0e02d1ce576763b28175e77a0149a0126b45db55c2193d9702668fcaac71d187a890374ac07f5ad4c14078e9356496ae4bcb1c277278a9b9c0158fd4237360b54b7bcb03d4398db2aedfa74760847f33c4d0333f59716adb56e329ec9157630fc85da932578ffe5f98b725a8ce045e357a1e9fa0bec58f18c1785f4a9c54118bd63e7c70c90a550af5ae05cfc156e39c96aa001f3d9c4e070001bbaee9235d68adbcffec2a219ee0b9876fa01834b6ded43d88eecbd4d41d8c0901d4e1d2df24f4c9938823d402091737ffc4aca7782f3c6fa14cc7dd926752cdf887d6d6cde901dd678e6ec2b8610d0dad7b63dd174d9c569ff10f36e4904d6f4c65803ebcffab5efdb096dcef6b10f1d3bef75de5c0009a148d4e8749d268194b37b8b479578a6ebe3564c08395ee059ef33af8485d4",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
    "id": 1
+  },
+  {
+   "source": "redakce",
+   "category": "Telefony a tablety",
+   "product": "Nothing Phone (3)",
+   "text": "Alza výrazně zlevnila smartphone Nothing Phone (3) . Verze s kapacitou 12/256 GB stojí 12 499 Kč , loni stál přes dvacet tisíc. Nothing láká na výborný displej, dobrý výkon a tři slušné foťáky. Je voděodolný, má bezdrátové nabíjení i rychlé kabelové, pyšní se také dobrou softwarovou podporou. Tahákem Nothingu byl ale vždy netradiční design s průhledným tělem. Zde je nově doplněný o speciální displej na zádech, který může informovat o notifikacích apod.",
+   "author": "Hlídač slev",
+   "date": "3. 11. 2026 9:45",
+   "discount": "12 499 Kč",
+   "url": "https://www.alza.cz/nothing-phone3-12gb-256gb-black-d12988515.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": true,
+   "id": 38
   },
   {
    "source": "redakce",
@@ -3105,7 +3235,7 @@
     }
    ],
    "expired": false,
-   "id": 207
+   "id": 200
   },
   {
    "source": "redakce",
@@ -3119,7 +3249,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 200
+   "id": 193
   },
   {
    "source": "redakce",
@@ -3133,7 +3263,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 181
+   "id": 175
   },
   {
    "source": "diskuze",
@@ -3161,7 +3291,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 144
+   "id": 140
   },
   {
    "source": "redakce",
@@ -3175,7 +3305,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 129
+   "id": 125
   },
   {
    "source": "redakce",
@@ -3195,7 +3325,7 @@
     }
    ],
    "expired": false,
-   "id": 115
+   "id": 111
   },
   {
    "source": "diskuze",
@@ -3228,6 +3358,26 @@
   {
    "source": "redakce",
    "category": "Domácnost a kuchyně",
+   "product": "Výkonný robotický vysavač",
+   "text": "Vlajkový vysavač Roborock Saros 20 zlevnil na Alze na 20 399 Kč , běžně stojí 37 tisíc. Za tuto částku nabídne sací výkon 36 000 Pa, perfektní navigaci, dělený kartáč proti namotávání vlasů a podvozek zdolávající prahy do 8,8 cm, přičemž díky výšce pod 8 cm zajede i pod nízký nábytek. Automatická dokovací stanice mopy vypere ve 100°C vodě a vysuší horkým vzduchem.\n\nV akci za 27 399 Kč je také verze Saros 20 Sonic Complete , která navíc obsahuje vibrující mop na odolné zaschlé skvrny.",
+   "author": "Hlídač slev",
+   "date": "26. 11. 2026 16:45",
+   "discount": "20 399 Kč; 27 399 Kč",
+   "url": "https://www.alza.cz/roborock-saros-20-cerny-d13289820.htm",
+   "host": "alza.cz",
+   "extra": [
+    {
+     "url": "https://www.alza.cz/roborock-saros-20-sonic-complete-cerny-d13289818.htm?o=3",
+     "host": "alza.cz",
+     "label": "27 399 Kč"
+    }
+   ],
+   "expired": false,
+   "id": 213
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
    "product": "Robotický vysavač Dreame",
    "text": "Amazon nabízí jeden z nejlepších robotických vysavačů/mopů Dreame X50 Ultra Complete jen za 14 170 Kč . V Česku stojí nejméně 15 tisíc základní verze a 17 tisíc pak plně vybavená Complete s veškerým příslušenstvím. X50 má vysoký sací výkon, přejede na 6cm prahy, perfektně se naviguje v domácnosti a pochopitelně má čisticí stanici, kde vysype smetí, vymění vodu a vypere mop. Amazon má v akci i další modely Dreame.",
    "author": "Hlídač slev",
@@ -3243,7 +3393,7 @@
     }
    ],
    "expired": false,
-   "id": 176
+   "id": 171
   },
   {
    "source": "redakce",
@@ -3257,7 +3407,21 @@
    "host": "kancelarska-kresla.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 170
+   "id": 166
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
+   "product": "Lampička na čtení",
+   "text": "Lampička AlzaPower LRC10 je v Alze k dostání za historicky nejnižších 179 Kč . Je to malé světlo na čtení, obsahuje pět diod a klip, díky kterému se připne na knihu, časopis nebo jiný dokument. Má nastavitelný jas i teplotu a integrovanou baterii. Podle intenzity zvládne svítit 8 až 80 hodin.",
+   "author": "Hlídač slev",
+   "date": "19. 11. 2026 15:45",
+   "discount": "179 Kč",
+   "url": "https://www.alza.cz/alzapower-lrc10-led-reading-lamp-bila-d12783948.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 149
   },
   {
    "source": "redakce",
@@ -3277,7 +3441,7 @@
     }
    ],
    "expired": false,
-   "id": 142
+   "id": 138
   },
   {
    "source": "redakce",
@@ -3291,13 +3455,13 @@
    "host": "zubni-kartacky.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=7401e010a8d056e80f39fcd664fcfdeef7a5f3e5d3143a6ccb3f888fc05c0e72f773ab73fdc49772a1afdd0adf0017fce10715c01e61b32a64460492ee75a0cc4ce612ba942308512afb77fbfad349821210d59bc5c5e81a8c8a402d4670481a518d2e4ab83d2cd4f9e9b3462bdba325289d547b230a3dc2b98dec5b37d98475f0f92bfc9cf9edfd5a63d1ca2be921327b2c68dce3eee2eca114234ef0b8b88f0c984c375df9b58e2e3d583969f2e8fe5b9e1e085aa72a725f3c73577687fe2dd37d2852db2ffaf4f7f7677209b70744bbc8344816c183a2b12286bf13d27b929861be48182e6f874a15e0754c75396c59ab219e9ce0167d9768d4fe9dbec9a94ccdb9050b23ef0ce59bec6b5fe1895dad12e32652ddc9c539fbd1b465e8ae0ddbc9701f2ae29cdf84440fb8f14bc3a4bf89b60182a5766172819d5a57e9805ffbf938052db04a4c9d917e419f6e6e475b816c147ad0235b90d29caa374914b01bd7edcc0a3a85ea235e4effc00782859c844865dde513bb36d5559a363be002029aa749ee38e8284e78c0dad978df871bdd4c70c0f62057074a0bf852abece325a44487a264ad90b8c20bb30c0017382c2f25b3bf72d404ce8c06980e84d24eb82d187a2d4c78fd83add50fd6b9c1c3aaff0e93f152f6ef3ca0bc07eaa6fa0e3ae8599e4a67ab27f02bbda8fb0726db024f69108426fcbfda7821735b8253de65af4e1d9bdae3debc0c4bd3a374d86f",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=fb4f520dd047150643f4df85aa47c8c5ddc8280678e50d7860443d3affda4235029b58f92398fbd9d373e3f6563a7846ba0ad0a61573dc9e6b3f19c80f8767f59e4649ccc936ae7b1d292cb629606962e23dfca5f9d3f3b5ba5fe6dbcce73da033a064f38b5ffa505fc7e43f6447291e212e1a57518e3c9d3270f8181998e503ba92378f1fb63b20c6a1615afbe81691edad6b6796b3f33ad1a419678383f06858746efd27236d0f489eafb6aff0e93ee1223e14ab442b7d65bb06a416f6696aefc1e1bcdd445c17426111e0e01db35a26f7a383f18ca18e86b8a02853695a6d8b5d9cee973dd1db560a94f45d5d40ea3813d7396f7b2146c3842881136ef5b639ae144aefed7a68970698c59645bfd6b60fbd08ba9d9c60a2c1d52cd15630fdffdfd9eaaa0e448e521ba2660a01759bf4e4e9f34063274a9feaaacd813ced55f20bfbcf40d45db15bd3ce565967bd70f60eb70490167d0cd7e3018664e040fe90cfc203ff6bf9214f71b6a38f3d6e3c567a957ca5fbae935329d32fa16cc44cfc12bccd0323bb7c4ecb38d0bfa3371ab053345fe1a5e14fafb9ae03349bbf4e2c9a8756c33676c91993bd91098428a4934d7d3148df988eb8aef7e648881b66f97798fc9f938033212a1e824e63345f5ef1ea2ae4f9806373dd305031b7455783f118675266c0cb08d3a11a09a1cadaa29673acd6736448cdcc025066cb1aec2c02dd72a6f6bd252e397a5740f02776",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 119
+   "id": 115
   },
   {
    "source": "redakce",
@@ -3311,7 +3475,21 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 80
+   "id": 78
+  },
+  {
+   "source": "redakce",
+   "category": "Domácnost a kuchyně",
+   "product": "Herní židle Rapture",
+   "text": "Herní židle alzácké značky Rapture Galley zlevnila o polovinu na 4495 Kč . Je určená pro postavy o výšce 160–190 cm a hmotnosti do 120 kg. Nabízí textilní povrch, krční i bederní opěrky, plně nastavitelné područky a houpací mechanismus s aretací. Lidé ji dost chválí (průměrná známka 4,5/5), ale někteří si stěžují na vrzání.",
+   "author": "Hlídač slev",
+   "date": "7. 11. 2026 10:45",
+   "discount": "cca -50 %; 4495 Kč",
+   "url": "https://www.alza.cz/rapture-galley-cerna-d7507005.htm",
+   "host": "alza.cz",
+   "extra": [],
+   "expired": false,
+   "id": 70
   },
   {
    "source": "redakce",
@@ -3325,7 +3503,7 @@
    "host": "eu.govee.com",
    "extra": [],
    "expired": false,
-   "id": 69
+   "id": 67
   },
   {
    "source": "redakce",
@@ -3344,13 +3522,13 @@
      "label": "2500 Kč"
     },
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=71605a50bb827a6726c5f988e61810b18d50b32fa4eac37048ab56c6bae8d6187e3c0905982fa7eea910f522eff811cdea391e41d1a8b86318c67b36926f9a1f8fb6bef22f422a66b28a69b037e449d6097dbe57d0b833758ecc5f4294806c42d0c209415979dfa048c7b8f4975b04306615b3e83033870a0a717d3b7c837c52ffed20be42f6098a0e4798c4c26cee0f313e359f3153af5fe635a262f2d48407884ca756f01f7e361df526f1fd19cb20fb984ff1464564e2f3e6959a5043f6db9daf0691740af553ecba5010e0e70d2c53a0991bea23105f01462c0aef37eb3794da7ced79cdd5848c4995e2d476db7c6c0c58b7609eaca69c586df078f1ff833e0b20d0a67f7202f2f7e1e7c72def8fee6fdcbb18a40888bdf706c1a6b97515e44ae6660d8ce794937b682fbb3398d554a3db75695788943461317c9b710c0783a7692acb287efce2b05c36f23486b0b3abd83478c81b07e08813cf73116f44f4c40fb7c05d3f620df3069e01e49380596a48b6328c23b899e76563cd96277d76028c09e0c1076832a82ba50f3e75070eaf59ecad5d51917cb90adbee02b9bd756737d272b9905000d9ee5564bd2861d926416910b6d023637ce371852bcc6e6922175d607c5d0ca6b9ade749d55a2f895ea8aac5e374dc6110905cc09b7c8774689f1d1fb76e8f5857c607397decfb125bdaacb7e990db01e8e621c61fc0c0a3068e21b36efaa7c1761157bb70654e",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=a01446bf26284f3fd441e859bc887842a6a8a1bf9eb4648e015c0e3b18d8ae9b06381409c782775be48b548d6e324943ab56ede7ee2014af09f59dfdd4d865381eae5f0528c55ce71d240792e5699ca5117b756ae60a8bc64130f6bfd951f304025740d26d0e4561c385041bf589f30949862884aa4770795223df8984169029d5d4338f915e56ec2f45a73592f88930981d99e3e7731efa088d3c8cf5ac4f4b622eee5146dcee45055a64a8702a6a71e65077f68699e0adfb6f63408169c422375775121462942932bf0fe1641f606c82243b1882ded286a3fb7c414f33a103573d7bbd8dc090acf5f9cbb109206190e6b1de3fafb8d4f4537712831f598a269e0db09ba4167eca14644ec9109aa2fac45ce4035fee74932057ad197c941b1351556e4433cabac7553e6f9c70462f9ca7d466de3af39538ad9b009aa04083bcb6a99677f8bb1f2b43c4bce117e0541d36c825913e9aa31be0faf472e864d33255cc7607d487dad501df5ff58ca7bfd3011447b2e63b8d7fdf0389aba0f00d6db42f2f62005b26ed3fadb21de45947211024d2a3eb2e51a1d6d55bb292962abd2dd9790a821439afd0d0c1293ce02d6cd59b49857d326f0e31f9eb4b1712b22959b121f3cf8447d239bff92ab470f8f944877658e65909409a6219935e86c87817673c89e6253f69f344d95523d07f89002366425e176a8a75c7ee91dae93b0ffb98c35d9c85b1880cd1beb6338ed8af",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 65
+   "id": 63
   },
   {
    "source": "diskuze",
@@ -3378,13 +3556,13 @@
    "host": "roboticke-vysavace.heureka.cz",
    "extra": [
     {
-     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=d9de65b81d865332621a87ebcdfd84f99502b3e53fd4705f9d805cae890f69b6d05c5b987ab2c3de927d83dcc70a9ca1793159999d4d7f984614fdb5427d24ce4726a885ab519770d088557f0417a6f61ec6cf100d28a1204105e55b1557651ca3e6f7146ef9e432e6c99d6db67f6d36c0124ddb807605704fceade11b1e5476174c185fa5bdb4be8b77fb7a5fa8e1473b07b8ca04060e0f96f5fc636438cb818b9214073366e50cba4e2f9f239040afeca7a955b36a0824d73d4d9e03412d4febc5bf5fa1b46ac3ef7fb85fd1b8d1efb9cc596ab1d459c3669a8970a8b537e8e5006e8d0ff4cb3b647aace99d33ae8eccfee1f1da4ea3fb691b71f81dd9cabab76c9a0476ac21a249cf2b1ca1c365ea2f1310b13d62e648bc956c9f50c7858b5ea057273a2303ab1b7aa95f874daf9a193d282cd720e7a25410b5990c7239550c178ff71140dc954b9095bb92f59c3053ba2c38a56828f717ec4b3fe6887334458894d177dc8b7ebb76f292fcfa95188630cd4422d7953faf00b7a49fd6fffa85c5c0c601f4ad56ceb8b6b322ede872cf16241b14aa8d76cb5beb180858aa5ce6c19c8348580f75ce14f72e2b7f7c61e5d7ed701431b67d1cbc7392fe5becd749d40c66bd7cf0b5982b1ccd3a6f28f82c4dfbc6e5eb2889c17cc871a0ddce2bcd15bc9d89554edc02389d608d1e555bc7d11396ce773ba539b4af7a4539ecbb1c343f348506eea287f71c492c98bd0d",
+     "url": "https://serve.affiliate.heureka.cz/278660/7.click?tt=19d8af765a8f2c6c94a0d49979487bfdc562ebaaed2255d11db47ae58bf75e8dc10fb214024e9c4fbe7b99920d1ff1bfd03e679c6ec0f467695bd7ac1c6846fe6f47cdfd159f7637059bd32202f74f89019007a46fd5959a6e379d53f2b66f898dae70388e543d8299f90c0a9a61752d796d835f23c0078627475b1ff7526042abe24a0e7c934d3bf4e56a1c9ff38849ef194f8e10c6f7f85de102a8e42a36fa572c45edf9166f5c5886825b347e498270970fe9a9be9a517c9f4b0cbe0ade214b68aa771746d1f5809538fcb35e57713a5afcfa3011d07f4bde9428a5049cba543b4f98acc41761f926d195fa4a7f1c07c216eb58fb30a158636ad7cf663d7b85f88a26581d583dc174d28bd0b1d20322e3a51f305ffc5dec38860d9b1815a6ff053fb1c6f815784cea655a272bc2942f966ede46a554fda146398b76d4929786ecb2f7f5e0af97580d310b108d29a35dab0246286b74ad914ed9bf765a3a650e85b08d66c258041d554b095d22dafd0b43652199f412bc680f1cac335739fb777925003de5ef386ad2e5737d1aa218cae4e5cf2b52e494e933a6c0ed64a50a9f582cf13756616e99d8ee761793d48c5249a1d019e5b6da15d7e7fecfd176b425823e7c8d3e95ac5989c4c0906716657d3075b782ba84b38dd6cd56de9fc13ba38207542d1a57af3c85a4f10bb34c941e9282e79dc1e516cb73a3ed430658deda738c81f2c72a1712268f33381efa8d",
      "host": "serve.affiliate.heureka.cz",
      "label": ""
     }
    ],
    "expired": false,
-   "id": 31
+   "id": 30
   },
   {
    "source": "redakce",
@@ -3403,20 +3581,6 @@
   {
    "source": "redakce",
    "category": "Domácnost a kuchyně",
-   "product": "Lampička na čtení",
-   "text": "Lampička AlzaPower LRC10 je v Alze k dostání za historicky nejnižších 189 Kč . Je to malé světlo na čtení, obsahuje pět diod a klip, díky kterému se připne na knihu, časopis nebo jiný dokument. Má nastavitelný jas i teplotu a integrovanou baterii. Podle intenzity zvládne svítit 8 až 80 hodin.",
-   "author": "Hlídač slev",
-   "date": "19. 11. 2026 15:45",
-   "discount": "189 Kč",
-   "url": "https://www.alza.cz/alzapower-lrc10-led-reading-lamp-bila-d12783948.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 153
-  },
-  {
-   "source": "redakce",
-   "category": "Domácnost a kuchyně",
    "product": "Sonický kartáček z Lidlu",
    "text": "Lidl má v dlouhodobé akci sadu šesti náhradních hlavic k sonickému kartáčku své značky Cien Beauty. Zaplatíte za ně jen 100 Kč , tedy 17 Kč za jednu. Ty se hodí právě i pro ty, kteří mají Sonicare a nechtějí utrácet násobně více za originální příslušenství od Philipsu.",
    "author": "Hlídač slev",
@@ -3426,21 +3590,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": true,
-   "id": 87
-  },
-  {
-   "source": "redakce",
-   "category": "Domácnost a kuchyně",
-   "product": "Herní židle Rapture",
-   "text": "Herní židle alzácké značky Rapture Galley zlevnila o polovinu na 4499 Kč . Je určená pro postavy o výšce 160–190 cm a hmotnosti do 120 kg. Nabízí textilní povrch, krční i bederní opěrky, plně nastavitelné područky a houpací mechanismus s aretací. Lidé ji dost chválí (průměrná známka 4,5/5), ale někteří si stěžují na vrzání.",
-   "author": "Hlídač slev",
-   "date": "7. 11. 2026 10:45",
-   "discount": "cca -50 %; 4499 Kč",
-   "url": "https://www.alza.cz/rapture-galley-cerna-d7507005.htm",
-   "host": "alza.cz",
-   "extra": [],
-   "expired": true,
-   "id": 72
+   "id": 85
   },
   {
    "source": "redakce",
@@ -3454,7 +3604,7 @@
    "host": "sonoff.tech",
    "extra": [],
    "expired": false,
-   "id": 167
+   "id": 163
   },
   {
    "source": "redakce",
@@ -3468,7 +3618,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 154
+   "id": 150
   },
   {
    "source": "redakce",
@@ -3488,7 +3638,7 @@
     }
    ],
    "expired": false,
-   "id": 127
+   "id": 123
   },
   {
    "source": "redakce",
@@ -3502,7 +3652,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 86
+   "id": 84
   },
   {
    "source": "diskuze",
@@ -3530,7 +3680,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 62
+   "id": 60
   },
   {
    "source": "redakce",
@@ -3544,7 +3694,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 35
+   "id": 34
   },
   {
    "source": "redakce",
@@ -3569,7 +3719,7 @@
     }
    ],
    "expired": false,
-   "id": 27
+   "id": 26
   },
   {
    "source": "redakce",
@@ -3589,7 +3739,7 @@
     }
    ],
    "expired": false,
-   "id": 17
+   "id": 16
   },
   {
    "source": "redakce",
@@ -3619,7 +3769,7 @@
     }
    ],
    "expired": false,
-   "id": 13
+   "id": 12
   },
   {
    "source": "redakce",
@@ -3647,7 +3797,7 @@
    "host": "amazon.de",
    "extra": [],
    "expired": false,
-   "id": 213
+   "id": 206
   },
   {
    "source": "redakce",
@@ -3661,21 +3811,7 @@
    "host": "knifestock.cz",
    "extra": [],
    "expired": false,
-   "id": 196
-  },
-  {
-   "source": "redakce",
-   "category": "Baterie a nabíjení",
-   "product": "Baterie za korunu",
-   "text": "Datart nabízí balení pěti knoflíkových baterií Tesla typu CR2025 za 5 Kč . Je to nevídaná 95% sleva, původní cena je 119 Kč. Tyto baterie se používají v některých hodinkách, kalkulačkách, váhách, dálkových ovládačích, různých senzorech a podobně.",
-   "author": "Hlídač slev",
-   "date": "24. 11. 2026 10:45",
-   "discount": "-95 %; 5 Kč",
-   "url": "https://www.datart.cz/baterie-lithiova-tesla-cr2025-5-ks-1099137110",
-   "host": "datart.cz",
-   "extra": [],
-   "expired": false,
-   "id": 190
+   "id": 189
   },
   {
    "source": "diskuze",
@@ -3694,6 +3830,20 @@
   {
    "source": "redakce",
    "category": "Baterie a nabíjení",
+   "product": "Baterie za korunu",
+   "text": "Datart nabízí balení pěti knoflíkových baterií Tesla typu CR2025 za 5 Kč . Je to nevídaná 95% sleva, původní cena je 119 Kč. Tyto baterie se používají v některých hodinkách, kalkulačkách, váhách, dálkových ovládačích, různých senzorech a podobně.",
+   "author": "Hlídač slev",
+   "date": "24. 11. 2026 10:45",
+   "discount": "-95 %; 5 Kč",
+   "url": "https://www.datart.cz/baterie-lithiova-tesla-cr2025-5-ks-1099137110",
+   "host": "datart.cz",
+   "extra": [],
+   "expired": true,
+   "id": 183
+  },
+  {
+   "source": "redakce",
+   "category": "Baterie a nabíjení",
    "product": "Baterie do čidel a ovladačů",
    "text": "Nikdy doma není dost knoflíkových baterií typu CR2032 . Používají se na základních deskách v PC, senzorech pro chytrou domácnost, sportovních zařízeních apod. Alza nyní zlevnila na 219 Kč sadu 20 kusů značky GP, jedna baterie tak vyjde na 11 Kč. Značkové baterie přitom obvykle vycházejí klidně na 20+ Kč za kus.",
    "author": "Hlídač slev",
@@ -3702,8 +3852,8 @@
    "url": "https://www.alza.cz/gp-lithiova-knoflikova-baterie-extra-cr2032-20-ks-d13308663.htm?o=1",
    "host": "alza.cz",
    "extra": [],
-   "expired": false,
-   "id": 77
+   "expired": true,
+   "id": 75
   },
   {
    "source": "redakce",
@@ -3717,7 +3867,7 @@
    "host": "",
    "extra": [],
    "expired": false,
-   "id": 214
+   "id": 207
   },
   {
    "source": "redakce",
@@ -3742,7 +3892,7 @@
     }
    ],
    "expired": false,
-   "id": 178
+   "id": 172
   },
   {
    "source": "redakce",
@@ -3762,7 +3912,7 @@
     }
    ],
    "expired": false,
-   "id": 148
+   "id": 144
   },
   {
    "source": "diskuze",
@@ -3781,6 +3931,26 @@
   {
    "source": "redakce",
    "category": "Software a předplatné",
+   "product": "Proton VPN a ExpressVPN",
+   "text": "V akci stále zůstává Proton VPN . Dvouletý tarif zlevnil o 75 % a stojí 60 eur (2,50 eura měsíčně) . V 50% slevě je také nejvyšší předplatné Proton Unlimited za 78 eur na rok (6,50 eura měsíčně). Ten má navíc i šifrovaný e-mail, kancelářskou aplikaci, správce hesel a 500GB cloudový disk.\n\nAlternativa ExpressVPN nabízí až 80% slevy na dvouleté předplatné. Tarif Basic s čtyřměsíčním bonusem vyjde na 78 dolarů (1750 Kč), v přepočtu tedy 63 Kč na měsíc a k tomu DPH. Připlatit se dá za extra služby jako pevnou IP adresu, správce hesel, eSIM apod. ExpressVPN má servery ve více než 100 zemí světa a no-log politiku.",
+   "author": "Hlídač slev",
+   "date": "27. 11. 2026 8:15",
+   "discount": "-50 %; -80 %; -75 %; 60 eur (2,50 eura měsíčně)",
+   "url": "https://go.getproton.me/aff_c?offer_id=25",
+   "host": "go.getproton.me",
+   "extra": [
+    {
+     "url": "https://go.expressvpn.com/c/6124823/1330033/16063",
+     "host": "go.expressvpn.com",
+     "label": "78 dolarů"
+    }
+   ],
+   "expired": false,
+   "id": 219
+  },
+  {
+   "source": "redakce",
+   "category": "Software a předplatné",
    "product": "BetterTouchTool pro macOS",
    "text": "BetterTouchTool je skvělý program macOS pro nastavení klávesových zkratek a gest na trackpadu či myši. Umí také automatizovat prakticky cokoliv. V Black Friday je jeho doživotní licence o 40 % levnější a vyjde na 378 Kč . Na Macu tohle určitě chcete, jen o tom ještě nevíte.",
    "author": "Hlídač slev",
@@ -3789,26 +3959,6 @@
    "url": "https://folivora.ai/buy/",
    "host": "folivora.ai",
    "extra": [],
-   "expired": false,
-   "id": 179
-  },
-  {
-   "source": "redakce",
-   "category": "Software a předplatné",
-   "product": "Proton VPN a ExpressVPN",
-   "text": "V akci stále zůstává Proton VPN . Dvouletý tarif zlevnil o 75 % a stojí 60 eur (2,50 eura měsíčně) . V 50% slevě je také nejvyšší předplatné Proton Unlimited za 78 eur na rok (6,50 eura měsíčně). Ten má navíc i šifrovaný e-mail, kancelářskou aplikaci, správce hesel a 500GB cloudový disk.\n\nAlternativa ExpressVPN nabízí až 80% slevy na dvouleté předplatné. Tarif Basic s čtyřměsíčním bonusem vyjde na 84 dolarů (1850 Kč), v přepočtu tedy 66 Kč na měsíc a k tomu DPH. Připlatit se dá za extra služby jako pevnou IP adresu, správce hesel, eSIM apod. ExpressVPN má servery ve více než 100 zemí světa a no-log politiku.",
-   "author": "Hlídač slev",
-   "date": "22. 11. 2026 11:45",
-   "discount": "-50 %; -80 %; -75 %; 60 eur (2,50 eura měsíčně)",
-   "url": "https://go.getproton.me/aff_c?offer_id=25",
-   "host": "go.getproton.me",
-   "extra": [
-    {
-     "url": "https://go.expressvpn.com/c/6124823/1330033/16063",
-     "host": "go.expressvpn.com",
-     "label": "84 dolarů"
-    }
-   ],
    "expired": false,
    "id": 173
   },
@@ -3824,7 +3974,7 @@
    "host": "kancelarske-aplikace.heureka.cz",
    "extra": [],
    "expired": false,
-   "id": 162
+   "id": 158
   },
   {
    "source": "redakce",
@@ -3838,7 +3988,7 @@
    "host": "lidl.cz",
    "extra": [],
    "expired": false,
-   "id": 95
+   "id": 92
   },
   {
    "source": "redakce",
@@ -3852,7 +4002,7 @@
    "host": "bundlehunt.com",
    "extra": [],
    "expired": false,
-   "id": 93
+   "id": 90
   },
   {
    "source": "redakce",
@@ -3866,7 +4016,7 @@
    "host": "go.getproton.me",
    "extra": [],
    "expired": false,
-   "id": 64
+   "id": 62
   },
   {
    "source": "redakce",
@@ -3880,7 +4030,7 @@
    "host": "smarty.cz",
    "extra": [],
    "expired": false,
-   "id": 202
+   "id": 195
   },
   {
    "source": "diskuze",
@@ -3922,7 +4072,7 @@
    "host": "alza.cz",
    "extra": [],
    "expired": false,
-   "id": 163
+   "id": 159
   },
   {
    "source": "redakce",
@@ -3936,7 +4086,7 @@
    "host": "trezor.io",
    "extra": [],
    "expired": false,
-   "id": 157
+   "id": 153
   },
   {
    "source": "redakce",
@@ -3961,7 +4111,7 @@
     }
    ],
    "expired": false,
-   "id": 140
+   "id": 136
   },
   {
    "source": "diskuze",
@@ -4000,7 +4150,7 @@
     }
    ],
    "expired": false,
-   "id": 126
+   "id": 122
   },
   {
    "source": "diskuze",
